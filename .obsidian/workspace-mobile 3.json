@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "7f9d6e373dd33582",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8a61041b3f1c306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a5b64b16413409d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-07-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2b4b02968a6cfae",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "584a56c41460a391",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1d5f97e2bda13485",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "74409499c5839639",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b4996c9a1e615ce1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ce0b4b49a4d714f5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f28aa7e8775f33ab",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "daily/2023-07-27.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d30ab218acdda61a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "daily/2023-07-27.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4711ba24b137ad2c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "daily/2023-07-27.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "8a5b64b16413409d",
+  "lastOpenFiles": [
+    "daily/2023-07-27.md"
+  ]
+}

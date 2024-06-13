@@ -1,0 +1,18 @@
+{
+  "queries": [
+    {
+      "id": "query:0677086b-4f20-4290-bba9-5f23eda312ce",
+      "name": "test",
+      "query": "",
+      "type": "Default",
+      "createCommand": false,
+      "useDisabledFolders": true,
+      "openType": "Default"
+    }
+  ],
+  "disabledFolders": "meta/\narchive/\nwork/",
+  "debug": false,
+  "openType": "Active Leaf",
+  "setActive": true,
+  "openInNewLeaf": true
+}

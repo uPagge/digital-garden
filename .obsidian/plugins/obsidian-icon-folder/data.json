@@ -1,0 +1,62 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiWebcam",
+      "RiSlideshowLine",
+      "LiHome",
+      "FarNoteSticky",
+      "RiCheckDoubleLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "icon": "FarNoteSticky",
+        "rule": "notes\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "debugMode": false,
+    "iconInTitlePosition": "above"
+  },
+  "diary": "SiLivejournal",
+  "wiki": "SiWikipedia",
+  "meta": "SiMeta",
+  "archive": "LiArchive",
+  "knowledge": "TiBrain",
+  "source": "TiBrandOpenSource",
+  "source/книги": "LiBook",
+  "source/статьи": "RiArticleLine",
+  "source/доклады": "TiSchool",
+  "source/цитаты": "LiQuote",
+  "archive/Квартира": "LiHome",
+  "archive/Мобилизация": "LiRocket",
+  "projects": "SiTorproject",
+  "checklists": "RiCheckDoubleLine",
+  "_inbox": "LiInbox",
+  "notes": "FarNoteSticky",
+  "home": "LiHome",
+  "source/конференции": "RiSlideshowLine",
+  "source/курсы": "LiWebcam"
+}

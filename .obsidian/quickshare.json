@@ -1,0 +1,49 @@
+{
+  "ChatGPT.md": {
+    "shared_datetime": "2023-05-28T08:24:56.316Z",
+    "updated_datetime": null,
+    "expire_datetime": "2023-06-27T08:24:56.327Z",
+    "view_url": "https://noteshare.space/note/cli75nq4o3572201pj7369pbyp#p1AZMNccjwqiNLCOgy5Iy0DPYNZUWXo0tYc3Nqw6ltQ",
+    "secret_token": "q4uXh/cVaK4BuGB8nZvaKv7hpbVtGUQYh06tyFCh9Lk=",
+    "note_id": "cli75nq4o3572201pj7369pbyp",
+    "basename": "ChatGPT",
+    "deleted_from_vault": true,
+    "deleted_from_server": true
+  },
+  "3. source/доклады/EWMA балансировка.md": {
+    "shared_datetime": "2023-05-29T18:46:10.245Z",
+    "updated_datetime": null,
+    "expire_datetime": "2023-06-28T18:45:51.132Z",
+    "view_url": "http://localhost:5000/note/cli97a2t2000001dfencjdl0b#JS6A7B1vMMJqbuQtscriQ5EDDsRRJhtznjtd9GjM7vQ",
+    "secret_token": "YfohBER9F+Cd1itq0fAYmlSRj9Gvg8PPFnv8PhOn1rA=",
+    "note_id": "cli97a2t2000001dfencjdl0b",
+    "basename": "EWMA балансировка"
+  },
+  "3. source/доклады/Масштабирование приложений.md": {
+    "shared_datetime": "2023-05-29T19:41:16.793Z",
+    "updated_datetime": null,
+    "expire_datetime": "2023-06-28T19:40:57.427Z",
+    "view_url": "https://notes.struchkov.dev/note/cli998xxw000901dfp4y5cntf#B1SXnFiFygLEGdFpGdtsgOO5NkAjiZ1pvvJgqT4SaQ0",
+    "secret_token": "Og2vbkRIgIvjfH/HriTQUUrqONlBE7Qn+Umw9ZHe254=",
+    "note_id": "cli998xxw000901dfp4y5cntf",
+    "basename": "Масштабирование приложений"
+  },
+  "3. source/доклады/Микросервисная архитектура.md": {
+    "shared_datetime": "2023-05-29T19:12:38.292Z",
+    "updated_datetime": null,
+    "expire_datetime": "2023-06-28T19:12:19.050Z",
+    "view_url": "https://notes.struchkov.dev/note/cli988419002701df23hdea0g#JLwjuqp3o6IfxXvXEY0zz0gPanifG3jPQmPUnadCjdE",
+    "secret_token": "bpZgnceTb/IknyFFCjeiiLt4rmUjXGWgImXiQ5IOgaQ=",
+    "note_id": "cli988419002701df23hdea0g",
+    "basename": "Микросервисная архитектура"
+  },
+  "3. source/доклады/Монолитная архитектура.md": {
+    "shared_datetime": "2023-05-29T19:00:20.177Z",
+    "updated_datetime": null,
+    "expire_datetime": "2023-06-28T19:00:01.008Z",
+    "view_url": "https://notes.struchkov.dev/note/cli97sak1000601dfrtybd9zz#xokVl76zXnHoidZ75mwsPLd8HLjVi/PpCitG1c2YhsM",
+    "secret_token": "LhG6Tuc038Op0r08ZasQ3y3hbfl9Vz1e59z6cTJJkO8=",
+    "note_id": "cli97sak1000601dfrtybd9zz",
+    "basename": "Монолитная архитектура"
+  }
+}

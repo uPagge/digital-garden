@@ -1,0 +1,1 @@
+<% `[[${tp.file.cursor(0)}|${tp.file.selection()}]]` %>

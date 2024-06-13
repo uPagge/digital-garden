@@ -1,0 +1,53 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Struchkov Notes",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 25,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Home.md",
+      "timestamp": 1718301567850
+    },
+    {
+      "filepath": "knowledge/dev/Git.md",
+      "timestamp": 1718300752762
+    },
+    {
+      "filepath": "knowledge/dev/Скрипты для Git.md",
+      "timestamp": 1718300748508
+    },
+    {
+      "filepath": "wiki/people/Алекс Корб.md",
+      "timestamp": 1718300621374
+    },
+    {
+      "filepath": "wiki/Полис ОМС.md",
+      "timestamp": 1718300607145
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": false,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": true,
+  "omnisearch": true
+}

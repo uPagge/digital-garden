@@ -1,0 +1,15 @@
+{
+  "accentColor": "#e1860e",
+  "translucency": false,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "dashboard-ReadLineLength",
+    "naked-embeds",
+    "head-custom",
+    "custom"
+  ],
+  "showViewHeader": false,
+  "baseFontSize": 20,
+  "cssTheme": "AnuPpuccin"
+}

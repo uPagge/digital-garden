@@ -1,0 +1,44 @@
+/* Изменение цвета жирного тега в темной теме */
+/*body.theme-dark {
+  --bold-color: orange !important;
+}*/
+
+body {
+ --link-external-decoration: none; 
+/* --file-line-width: 1000px !important;*/
+} 
+
+/* Изменение отступов для h2 тега */
+/*.mod-cm6 .cm-editor .HyperMD-header-2 {
+	padding-top: 70px;
+	padding-bottom: 10px;
+}*/
+
+/* Изменение отступов для h3 тега */
+/*.mod-cm6 .cm-editor .HyperMD-header-3 {
+	padding-top: 35px;
+	padding-bottom: 5px;
+}*/
+
+/* Изменение отступов для h4 тега */
+/*.mod-cm6 .cm-editor .HyperMD-header-4 {
+	padding-top: 25px;
+	padding-bottom: 5px;
+}
+*/
+/* Отступы для mark тега */
+.markdown-preview-view mark, .cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    margin: -2px -4px -5px;
+	padding: 2px 4px 5px;
+}
+
+/* Цвет mark темы для темной темы*/
+/*body.theme-dark .markdown-preview-view mark, .cm-s-obsidian span.cm-formatting-highlight, body.theme-dark .cm-s-obsidian span.cm-highlight {
+    background-color: #8b651d;
+    color: #fff;
+}
+*/
+/*.markdown-preview-view blockquote {
+	color: #999;
+	border-color: #999;
+}*/

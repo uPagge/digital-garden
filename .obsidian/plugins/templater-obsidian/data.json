@@ -1,0 +1,48 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "meta/templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "source/книги/книготека",
+      "template": "meta/templates/Книга.md"
+    },
+    {
+      "folder": "projects",
+      "template": "meta/templates/Проект.md"
+    },
+    {
+      "folder": "diary/mounthly",
+      "template": "meta/templates/Eжемесячная.md"
+    },
+    {
+      "folder": "diary/weekly",
+      "template": "meta/templates/Еженедельная.md"
+    },
+    {
+      "folder": "source/доклады",
+      "template": "meta/templates/Доклад.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "meta/templates/alt md link.md",
+    "meta/templates/md link.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

@@ -1,0 +1,177 @@
+version: '3.8'
+services:
+
+  nginx:
+    image: hub.docker.struchkov.dev/nginx:latest
+    container_name: nginx
+    hostname: nginx
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    networks:
+      nginx:
+    depends_on:
+      - torrent
+      - dashboard
+      - bitwarden
+      - monitoring
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/sites:/etc/nginx/conf.d
+      - ./nginx/ssl:/etc/nginx/ssl
+
+  dashboard:
+    image: hub.docker.struchkov.dev/b4bz/homer:latest
+    restart: always
+    container_name: dashboard
+    hostname: dashboard
+    networks:
+      nginx:
+    volumes:
+      - ./dashboard:/www/assets
+  
+  monitoring:
+    image: hub.docker.struchkov.dev/nicolargo/glances:latest
+    restart: always
+    pid: host
+    container_name: monitoring
+    hostname: monitoring
+    networks:
+      nginx:
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - "GLANCES_OPT=-w"
+
+  bitwarden:
+    image: hub.docker.struchkov.dev/vaultwarden/server:latest
+    restart: always
+    container_name: bitwarden
+    hostname: bitwarden
+    networks:
+      nginx:
+    volumes:
+      - ./bitwarden:/data/
+    environment:
+      DOMAIN: http://pass.home.local
+    # ports:
+    #   - 9001:80
+
+  samba:
+    image: docker.struchkov.dev/samba:latest
+    restart: always
+    container_name: samba
+    hostname: samba
+    networks:
+      samba:
+    ports:
+      - 139:139
+      - 445:445
+      - 137:137/udp
+      - 138:138/udp
+    volumes:
+      - ./samba/:/cloud:z
+    command: '-r -n -p -u "upagge;${SMB_UPAGGE}" -u "hmnitessa;${SMB_HMNITESSA}" -s "public;/cloud/share;yes;no;yes;upagge,hmnitessa,music" -s "upagge;/cloud/upagge;yes;no;no;upagge" -s "hmnitessa;/cloud/hmnitessa;yes;no;no;upagge,hmnitessa"'
+
+  # gitea:
+  #   image: gitea/gitea:1.18
+  #   restart: always
+  #   container_name: gitea
+  #   hostname: gitea
+  #   networks:
+  #     # traefik:
+  #     gitea:
+  #   ports:
+  #     - "9000:3000"
+  #     - "222:22"
+  #   volumes:
+  #     - ./gitea/data:/data
+  #     - /etc/timezone:/etc/timezone:ro
+  #     - /etc/localtime:/etc/localtime:ro
+  #   depends_on:
+  #     - gitea-database
+  #   labels:
+  #     - "traefik.enable=false"
+  #     - "traefik.http.routers.gitea.rule=Host(`git.home.local`)"
+  #     - "traefik.http.services.gitea.loadBalancer.server.port=3000"
+  #     - "traefik.docker.network=traefik"
+  #   environment:
+  #     - USER_UID=1000
+  #     - USER_GID=1000
+  #     - GITEA__database__DB_TYPE=postgres
+  #     - GITEA__database__HOST=gitea-database:5432
+  #     - GITEA__database__NAME=gitea
+  #     - GITEA__database__USER=gitea
+  #     - GITEA__database__PASSWD=bmXBrex8eMwg9v6FufPV
+  
+  # gitea-database:
+  #   image: postgres:15.1-alpine
+  #   restart: always
+  #   container_name: gitea-database
+  #   hostname: gitea-database
+  #   networks:
+  #     gitea:
+  #     # traefik:
+  #   environment:
+  #     POSTGRES_DB: "gitea"
+  #     POSTGRES_USER: "gitea"
+  #     POSTGRES_PASSWORD: bmXBrex8eMwg9v6FufPV
+  #   volumes:
+  #     - ./gitea/database:/var/lib/postgresql/data/
+  #   labels:
+  #     - "traefik.enable=false"
+
+  torrent:
+    image: lscr.io/linuxserver/transmission:latest
+    restart: always
+    container_name: torrent
+    hostname: torrent
+    networks:
+      torrent:
+      nginx:
+    ports:
+      # - "9002:9091"
+      - "51413:51413"
+      - "51413:51413/udp"
+    volumes:
+      - ./samba/share/torrent/config:/config
+      - ./samba/share/torrent/downloads:/downloads
+      - ./samba/share/torrent/watch:/watch
+    environment:
+      - PUID=100
+      - PGID=65534
+      - TZ=Europe/Moscow
+
+  torrent-bot:
+    image: docker.struchkov.dev/transmission-telegram:latest
+    container_name: torrent-bot
+    restart: on-failure
+    networks:
+      torrent:
+    depends_on:
+      - torrent
+    command: '-token=${TELEGRAM_TRANSMISSION_BOT} -master=${TELEGRAM_USERNAME} -url=http://torrent:9091/transmission/rpc/'
+
+  # adguardhome:
+  #   image: adguard/adguardhome:latest
+  #   container_name: adguardhome
+  #   restart: unless-stopped
+  #   container_name: adguardhome
+  #   hostname: adguardhome
+  #   networks:
+  #     nginx:
+  #   volumes:
+  #     - ./adguard/data:/opt/adguardhome/work
+  #     - ./adguard/config:/opt/adguardhome/conf
+  #   ports:
+  #       - '53:53/tcp'
+  #       - '53:53/udp'
+        # - '443:443/tcp'
+        # - '443:443/udp'
+        
+networks:
+  nginx:
+  gitea:
+  torrent:
+  samba:

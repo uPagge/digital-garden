@@ -1,0 +1,4 @@
+---
+tags:
+  - type/zero-link
+---

@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1705235188357,
+      "path": "diary/mounthly",
+      "title": "Ежемесячные заметки"
+    },
+    {
+      "type": "group",
+      "ctime": 1695648198669,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1695648205653,
+          "path": "work/ТСК/CRM/Созвоны"
+        },
+        {
+          "type": "folder",
+          "ctime": 1699434872172,
+          "path": "work/ТСК/Собеседования"
+        },
+        {
+          "type": "folder",
+          "ctime": 1695736831474,
+          "path": "work/ТСК/CRM/Планирование"
+        },
+        {
+          "type": "folder",
+          "ctime": 1705047385543,
+          "path": "work/ТСК/CRM/Проекты",
+          "title": "Проекты"
+        }
+      ],
+      "title": "Работа"
+    }
+  ]
+}

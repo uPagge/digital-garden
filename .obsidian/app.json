@@ -1,0 +1,49 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "meta/files",
+  "userIgnoreFilters": [
+    "meta/",
+    "diary/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "livePreview": true,
+  "useMarkdownLinks": true,
+  "showFrontmatter": false,
+  "focusNewTab": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": true,
+  "showInlineTitle": true,
+  "propertiesInDocument": "visible",
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:set-heading",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-checklist-status",
+    "editor:toggle-keyboard"
+  ],
+  "readableLineLength": true,
+  "defaultViewMode": "source",
+  "promptDelete": false
+}
