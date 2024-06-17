@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Принцип локальности.md",
-      "timestamp": 1718639370931
+      "filepath": "_inbox/2024-06-17 1718639812.md",
+      "timestamp": 1718639813049
     },
     {
       "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718639363870
+      "timestamp": 1718639716918
     },
     {
-      "filepath": "_inbox/Redis.md",
-      "timestamp": 1718639336820
+      "filepath": "_inbox/Принцип локальности.md",
+      "timestamp": 1718639715482
     },
     {
-      "filepath": "wiki/zero/00 HighLoad.md",
-      "timestamp": 1718638801082
+      "filepath": "_inbox/Least Recently Used.md",
+      "timestamp": 1718639706047
     },
     {
-      "filepath": "knowledge/human/Стресс.md",
-      "timestamp": 1718638580710
+      "filepath": "_inbox/Memcached.md",
+      "timestamp": 1718639697873
     }
   ],
   "starredFileStore": [],

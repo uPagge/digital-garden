@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Принцип локальности",
-      "path": "_inbox/Принцип локальности.md"
+      "basename": "Most Recently Used",
+      "path": "_inbox/Most Recently Used.md"
     },
     {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Принцип локальности",
+      "path": "_inbox/Принцип локальности.md"
+    },
+    {
+      "basename": "Least Recently Used",
+      "path": "_inbox/Least Recently Used.md"
+    },
+    {
+      "basename": "Memcached",
+      "path": "_inbox/Memcached.md"
+    },
+    {
+      "basename": "Generational Collection",
+      "path": "knowledge/dev/java/gc/Generational Collection.md"
     },
     {
       "basename": "Redis",
@@ -137,10 +153,6 @@
       "path": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md"
     },
     {
-      "basename": "Memcached",
-      "path": "_inbox/Memcached.md"
-    },
-    {
       "basename": "00 Nginx",
       "path": "wiki/zero/00 Nginx.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Без названия",
       "path": "Без названия.md"
-    },
-    {
-      "basename": "00 MySQL",
-      "path": "wiki/zero/00 MySQL.md"
-    },
-    {
-      "basename": "00 Linux",
-      "path": "wiki/zero/00 Linux.md"
-    },
-    {
-      "basename": "Ударение",
-      "path": "_inbox/Ударение.md"
     }
   ],
   "omittedPaths": [],
