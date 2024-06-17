@@ -1,8 +1,196 @@
 {
   "recentFiles": [
     {
+      "basename": "Кэширование",
+      "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "00 HighLoad",
+      "path": "wiki/zero/00 HighLoad.md"
+    },
+    {
+      "basename": "Стресс",
+      "path": "knowledge/human/Стресс.md"
+    },
+    {
+      "basename": "Репликация в MySQL",
+      "path": "_inbox/Репликация в MySQL.md"
+    },
+    {
+      "basename": "Репликация master-master",
+      "path": "_inbox/Репликация master-master.md"
+    },
+    {
+      "basename": "CAP теорема",
+      "path": "_inbox/CAP теорема.md"
+    },
+    {
+      "basename": "Репликация master-slave",
+      "path": "_inbox/Репликация master-slave.md"
+    },
+    {
+      "basename": "Олег Чирухин",
+      "path": "wiki/people/Олег Чирухин.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Disaster recovery",
+      "path": "_inbox/Disaster recovery.md"
+    },
+    {
+      "basename": "Репликация БД",
+      "path": "_inbox/Репликация БД.md"
+    },
+    {
+      "basename": "Журнал БД",
+      "path": "_inbox/Журнал БД.md"
+    },
+    {
+      "basename": "Reliability",
+      "path": "_inbox/Reliability.md"
+    },
+    {
+      "basename": "High Availability",
+      "path": "_inbox/High Availability.md"
+    },
+    {
+      "basename": "Репликация",
+      "path": "_inbox/Репликация.md"
+    },
+    {
+      "basename": "Шардирование",
+      "path": "_inbox/Шардирование.md"
+    },
+    {
+      "basename": "Настройка репликации в PostgreSQL",
+      "path": "_inbox/Настройка репликации в PostgreSQL.md"
+    },
+    {
+      "basename": "Репликация в PostgreSQL",
+      "path": "_inbox/Репликация в PostgreSQL.md"
+    },
+    {
+      "basename": "Оптимизация SQL запросов",
+      "path": "_inbox/Оптимизация SQL запросов.md"
+    },
+    {
+      "basename": "JOIN SQL",
+      "path": "_inbox/JOIN SQL.md"
+    },
+    {
+      "basename": "Индекс в PostgreSQL",
+      "path": "_inbox/Индекс в PostgreSQL.md"
+    },
+    {
+      "basename": "Составные индексы в PostgreSQL",
+      "path": "_inbox/Составные индексы в PostgreSQL.md"
+    },
+    {
+      "basename": "00 PostgreSQL",
+      "path": "wiki/zero/00 PostgreSQL.md"
+    },
+    {
+      "basename": "PgBouncer",
+      "path": "_inbox/PgBouncer.md"
+    },
+    {
+      "basename": "IN SQL",
+      "path": "_inbox/IN SQL.md"
+    },
+    {
+      "basename": "00 SQL",
+      "path": "wiki/zero/00 SQL.md"
+    },
+    {
+      "basename": "Explain в PostgreSQL",
+      "path": "_inbox/Explain в PostgreSQL.md"
+    },
+    {
+      "basename": "Индексы в MySQL",
+      "path": "_inbox/Индексы в MySQL.md"
+    },
+    {
+      "basename": "Профилирование запросов в PostgreSQL",
+      "path": "knowledge/dev/database/Профилирование запросов в PostgreSQL.md"
+    },
+    {
+      "basename": "pg_stat_statements",
+      "path": "pg_stat_statements.md"
+    },
+    {
+      "basename": "Доклад. Индексы в PostgreSQL. Как понять, что создавать",
+      "path": "source/доклады/Доклад. Индексы в PostgreSQL. Как понять, что создавать.md"
+    },
+    {
+      "basename": "Обучающий курс от HighLoad конференции 2024",
+      "path": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md"
+    },
+    {
+      "basename": "Memcached",
+      "path": "_inbox/Memcached.md"
+    },
+    {
+      "basename": "00 Nginx",
+      "path": "wiki/zero/00 Nginx.md"
+    },
+    {
+      "basename": "Explain в MySQL",
+      "path": "_inbox/Explain в MySQL.md"
+    },
+    {
+      "basename": "Extended keys MySQL",
+      "path": "_inbox/Extended keys MySQL.md"
+    },
+    {
+      "basename": "ORDER BY",
+      "path": "knowledge/dev/database/ORDER BY.md"
+    },
+    {
+      "basename": "Архитектура MySQL",
+      "path": "Архитектура MySQL.md"
+    },
+    {
+      "basename": "Идеи для ремонта",
+      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
+    },
+    {
+      "basename": "Предлоги в Английском",
+      "path": "knowledge/english/Предлоги в Английском.md"
+    },
+    {
+      "basename": "Index condition pushdown",
+      "path": "_inbox/Index condition pushdown.md"
+    },
+    {
+      "basename": "Покрывающий индекс",
+      "path": "_inbox/Покрывающий индекс.md"
+    },
+    {
+      "basename": "Составные индексы в MySQL",
+      "path": "_inbox/Составные индексы в MySQL.md"
+    },
+    {
+      "basename": "Составные индексы в БД",
+      "path": "Составные индексы в БД.md"
+    },
+    {
+      "basename": "Без названия",
+      "path": "Без названия.md"
+    },
+    {
+      "basename": "00 MySQL",
+      "path": "wiki/zero/00 MySQL.md"
+    },
+    {
+      "basename": "00 Linux",
+      "path": "wiki/zero/00 Linux.md"
+    },
+    {
+      "basename": "Ударение",
+      "path": "_inbox/Ударение.md"
     },
     {
       "basename": "Git",
@@ -11,194 +199,6 @@
     {
       "basename": "Скрипты для Git",
       "path": "knowledge/dev/Скрипты для Git.md"
-    },
-    {
-      "basename": "Алекс Корб",
-      "path": "wiki/people/Алекс Корб.md"
-    },
-    {
-      "basename": "Полис ОМС",
-      "path": "wiki/Полис ОМС.md"
-    },
-    {
-      "basename": "Не переработано",
-      "path": "source/Не переработано.md"
-    },
-    {
-      "basename": "Книга",
-      "path": "meta/templates/Книга.md"
-    },
-    {
-      "basename": "Личная продуктивность 1",
-      "path": "knowledge/productivity/Личная продуктивность 1.md"
-    },
-    {
-      "basename": "Ежегодная проверка здоровья",
-      "path": "checklists/Ежегодная проверка здоровья.md"
-    },
-    {
-      "basename": "Киники",
-      "path": "_inbox/Киники.md"
-    },
-    {
-      "basename": "Заявление на АГС",
-      "path": "archive/Мобилизация/Заявление на АГС.md"
-    },
-    {
-      "basename": "Изучаю gRPC",
-      "path": "source/доклады/Изучаю gRPC.md"
-    },
-    {
-      "basename": "Про поветски",
-      "path": "archive/Мобилизация/Про поветски.md"
-    },
-    {
-      "basename": "containerd.io",
-      "path": "_inbox/containerd.io.md"
-    },
-    {
-      "basename": "Simple",
-      "path": "knowledge/english/Simple.md"
-    },
-    {
-      "basename": "Разработка",
-      "path": "knowledge/dev/Разработка.md"
-    },
-    {
-      "basename": "Дополнительные материалы по Java",
-      "path": "source/доклады/Дополнительные материалы по Java.md"
-    },
-    {
-      "basename": "JOIN",
-      "path": "knowledge/dev/database/JOIN.md"
-    },
-    {
-      "basename": "Docker compose для запуска socks5",
-      "path": "knowledge/dev/Docker compose для запуска socks5.md"
-    },
-    {
-      "basename": "Полезное про собеседования",
-      "path": "notes/Полезное про собеседования.md"
-    },
-    {
-      "basename": "Сезонные фрукты и овощи",
-      "path": "wiki/Сезонные фрукты и овощи.md"
-    },
-    {
-      "basename": "Заметки по ТЗ 4",
-      "path": "archive/Я.Практикум/Полезное/Заметки по ТЗ 4.md"
-    },
-    {
-      "basename": "ConcurrentModificationException",
-      "path": "archive/Я.Практикум/Полезное/ConcurrentModificationException.md"
-    },
-    {
-      "basename": "Ежедневный чеклист",
-      "path": "checklists/Ежедневный чеклист.md"
-    },
-    {
-      "basename": "Использование нескольких репозиториев в проекте",
-      "path": "archive/Я.Практикум/Полезное/Использование нескольких репозиториев в проекте.md"
-    },
-    {
-      "basename": "Тимлид",
-      "path": "_inbox/Тимлид.md"
-    },
-    {
-      "basename": "Работа с архитектурой информационных систем в нашем изменчивом мире",
-      "path": "source/доклады/Работа с архитектурой информационных систем в нашем изменчивом мире.md"
-    },
-    {
-      "basename": "Looking Glass",
-      "path": "knowledge/dev/network/Looking Glass.md"
-    },
-    {
-      "basename": "Open System Interconnection Reference Model",
-      "path": "knowledge/dev/network/Open System Interconnection Reference Model.md"
-    },
-    {
-      "basename": "Нелинейная зависимость длительности от сложности задачи",
-      "path": "source/цитаты/Нелинейная зависимость длительности от сложности задачи.md"
-    },
-    {
-      "basename": "Mock конфигурация для Oauth2 SpringBoot",
-      "path": "knowledge/dev/java/frameworks/spring/Mock конфигурация для Oauth2 SpringBoot.md"
-    },
-    {
-      "basename": "Second Brain",
-      "path": "knowledge/education/Second Brain.md"
-    },
-    {
-      "basename": "Рекомендации к ТЗ 6",
-      "path": "archive/Я.Практикум/Полезное/Рекомендации к ТЗ 6.md"
-    },
-    {
-      "basename": "Ешки",
-      "path": "knowledge/health/питание/Ешки.md"
-    },
-    {
-      "basename": "At или in?",
-      "path": "knowledge/english/At или in?.md"
-    },
-    {
-      "basename": "Создание linux сервиса для приложения Spring Boot",
-      "path": "knowledge/dev/java/snippets/Создание linux сервиса для приложения Spring Boot.md"
-    },
-    {
-      "basename": "SponsorBlock",
-      "path": "_inbox/SponsorBlock.md"
-    },
-    {
-      "basename": "Мультимодульные проекты c Jandex",
-      "path": "knowledge/dev/Мультимодульные проекты c Jandex.md"
-    },
-    {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
-    },
-    {
-      "basename": "image (2)",
-      "path": "meta/files/image (2).png"
-    },
-    {
-      "basename": "2024-03-10 1710054825",
-      "path": "_inbox/2024-03-10 1710054825.md"
-    },
-    {
-      "basename": "Майнд-мэп",
-      "path": "knowledge/productivity/Майнд-мэп.md"
-    },
-    {
-      "basename": "Как оценить уровень финансовой свободы?",
-      "path": "knowledge/economy/Как оценить уровень финансовой свободы?.md"
-    },
-    {
-      "basename": "Сериализация и Десериализация даты в Jackson",
-      "path": "knowledge/dev/java/snippets/Сериализация и Десериализация даты в Jackson.md"
-    },
-    {
-      "basename": "Задача 24",
-      "path": "notes/Собеседования/Задачи/Задача 24.md"
-    },
-    {
-      "basename": "Семейная ипотека 6%",
-      "path": "archive/Квартира/Семейная ипотека 6%.md"
-    },
-    {
-      "basename": "Проект",
-      "path": "knowledge/productivity/Проект.md"
-    },
-    {
-      "basename": "Циклические зависимости сервисов",
-      "path": "knowledge/dev/java/other/Циклические зависимости сервисов.md"
-    },
-    {
-      "basename": "Приветственное сообщение",
-      "path": "archive/Я.Практикум/Сообщения/Приветственное сообщение.md"
-    },
-    {
-      "basename": "Настройки noteshare для Obsidian",
-      "path": "notes/Настройки noteshare для Obsidian.md"
     }
   ],
   "omittedPaths": [],

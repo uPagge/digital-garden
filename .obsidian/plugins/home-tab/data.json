@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Home.md",
-      "timestamp": 1718301876022
+      "filepath": "_inbox/Кэширование.md",
+      "timestamp": 1718638803720
     },
     {
-      "filepath": "knowledge/dev/Git.md",
-      "timestamp": 1718300752762
+      "filepath": "wiki/zero/00 HighLoad.md",
+      "timestamp": 1718638801082
     },
     {
-      "filepath": "knowledge/dev/Скрипты для Git.md",
-      "timestamp": 1718300748508
+      "filepath": "knowledge/human/Стресс.md",
+      "timestamp": 1718638580710
     },
     {
-      "filepath": "wiki/people/Алекс Корб.md",
-      "timestamp": 1718300621374
+      "filepath": "_inbox/Репликация в MySQL.md",
+      "timestamp": 1718638377453
     },
     {
-      "filepath": "wiki/Полис ОМС.md",
-      "timestamp": 1718300607145
+      "filepath": "_inbox/Репликация master-master.md",
+      "timestamp": 1718638184942
     }
   ],
   "starredFileStore": [],

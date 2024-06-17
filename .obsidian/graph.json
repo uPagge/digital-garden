@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:wiki/zero  ",
+      "color": {
+        "a": 1,
+        "rgb": 13730816
+      }
+    },
+    {
+      "query": "path:knowledge/dev  ",
+      "color": {
+        "a": 1,
+        "rgb": 9582847
+      }
+    },
+    {
+      "query": "path:knowledge/health  ",
+      "color": {
+        "a": 1,
+        "rgb": 8767232
+      }
+    },
+    {
+      "query": "path:",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2539867059356025,
+  "scale": 0.26588896145134355,
   "close": false
 }

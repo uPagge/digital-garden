@@ -47,6 +47,7 @@ Sync/Semi-symc:
 - Нужно идентифицировать запись для update/delete (по первичному ключу/по уникальному ненуллабельному индексу/по всем столбцам).
 - В случае возникновения конфликта требуется вручную исправить данные.
 ## Дополнительные материалы
+- [Настройка репликации в PostgreSQL](Настройка%20репликации%20в%20PostgreSQL.md)
 - [BDR User Guide - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Logical_Log_Streaming_Replication)
 - [Site Unreachable](http://www.postgresql.org/docs/9.4/static/logicaldecoding.html) Аналог [libslave](libslave.md) в MySQL
 - [Отладка и устранение проблем в PostgreSQL Streaming Replication / Хабр](https://m.habr.com/ru/company/oleg-bunin/blog/414111/)

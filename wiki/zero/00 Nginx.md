@@ -32,3 +32,6 @@ ps aux | grep nginx
 - [Кэширование на стороне клиента Nginx](Кэширование%20на%20стороне%20клиента%20Nginx.md)
 - [Балансировка запросов на Nginx](Балансировка%20запросов%20на%20Nginx.md)
 - [GZIP сжатие в Nginx](GZIP%20сжатие%20в%20Nginx.md)
+
+## Дополнительные материалы
+- [Масштабируемая конфигурация nginx](https://highload.guide/blog/scalable-configuration-nginx.html)

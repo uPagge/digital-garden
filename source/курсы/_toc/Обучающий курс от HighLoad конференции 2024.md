@@ -33,3 +33,6 @@ zero-link:
 - [Кэширование данных в web приложениях. Использование memcached](https://highload.guide/blog/caching-data-in-web-applications.html)
 - [Использование memcached и Redis в высоконагруженных проектах](https://highload.guide/blog/using-memcached-and-redis.html)
 - [Как мы сделали ровную балансировку нагрузки на фронтенд-кластере](https://highload.guide/blog/load-balancing-frontend-cluster.html)
+- [NoSQL – коротко о главном](https://highload.guide/blog/NoSQL-quick-facts.html)
+- [Как выбрать In-memory NoSQL базу данных с умом. Тестируем производительность](https://highload.guide/blog/how-to-choose-In-memory-NoSQL-database.html)
+- [За счет чего Tarantool такой оптимальный](https://highload.guide/blog/optimal-tarantool.html)

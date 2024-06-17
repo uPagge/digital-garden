@@ -14,6 +14,9 @@ parents:
 - [Репликация в PostgreSQL](Репликация%20в%20PostgreSQL.md)
 - [Бэкап в PostgreSQL](Бэкап%20в%20PostgreSQL.md)
 - [Профилирование запросов в PostgreSQL](Профилирование%20запросов%20в%20PostgreSQL.md)
-	- [Explain](Explain.md)
+	- [Explain в PostgreSQL](Explain%20в%20PostgreSQL.md)
 
 - PostgreSQL пишет на диск в два места – в хранилище данных и в журнал.
+
+## Дополнительные материалы
+- [GitHub - Полезные утилиты для тюнинга PostgreSQL](https://github.com/dataegret/pg-utils)

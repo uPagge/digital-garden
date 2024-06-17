@@ -17,3 +17,4 @@ JOIN comments ON posts. id = comments.post_id
 ```
 
 Индекс по `posts.id` бесполезен. Индекс по `comments.post_id` обязателен.
+

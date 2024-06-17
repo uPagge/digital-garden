@@ -19,3 +19,8 @@ linked:
 - Этот способ никогда не даст 99,9999 [High Availability](High%20Availability.md).
 
 ![](Pasted%20image%2020240206194227.png)
+
+Управление master-slave:
+- MHA (MySQL Master HA)
+- MySQL Failover (Oracle)
+- Orchestrator
