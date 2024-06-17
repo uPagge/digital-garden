@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-06-17 1718639812.md",
-      "timestamp": 1718639813049
+      "filepath": "_inbox/Most Recently Used.md",
+      "timestamp": 1718640093895
+    },
+    {
+      "filepath": "_inbox/Least Recently Used.md",
+      "timestamp": 1718640025969
     },
     {
       "filepath": "_inbox/Кэширование.md",
@@ -34,10 +38,6 @@
     {
       "filepath": "_inbox/Принцип локальности.md",
       "timestamp": 1718639715482
-    },
-    {
-      "filepath": "_inbox/Least Recently Used.md",
-      "timestamp": 1718639706047
     },
     {
       "filepath": "_inbox/Memcached.md",

@@ -5,16 +5,16 @@
       "path": "_inbox/Most Recently Used.md"
     },
     {
+      "basename": "Least Recently Used",
+      "path": "_inbox/Least Recently Used.md"
+    },
+    {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
     },
     {
       "basename": "Принцип локальности",
       "path": "_inbox/Принцип локальности.md"
-    },
-    {
-      "basename": "Least Recently Used",
-      "path": "_inbox/Least Recently Used.md"
     },
     {
       "basename": "Memcached",
