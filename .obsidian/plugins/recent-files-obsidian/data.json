@@ -5,6 +5,22 @@
       "path": "_inbox/Кэширование.md"
     },
     {
+      "basename": "Улучшение производительности отдельного сервиса",
+      "path": "_inbox/Улучшение производительности отдельного сервиса.md"
+    },
+    {
+      "basename": "Блокирующие вызовы",
+      "path": "knowledge/dev/Блокирующие вызовы.md"
+    },
+    {
+      "basename": "Утилизация железа",
+      "path": "_inbox/Утилизация железа.md"
+    },
+    {
+      "basename": "Блокировки",
+      "path": "_inbox/Блокировки.md"
+    },
+    {
       "basename": "Content Delivery Network",
       "path": "knowledge/dev/network/Content Delivery Network.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Доклад. Индексы в PostgreSQL. Как понять, что создавать",
       "path": "source/доклады/Доклад. Индексы в PostgreSQL. Как понять, что создавать.md"
-    },
-    {
-      "basename": "Обучающий курс от HighLoad конференции 2024",
-      "path": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md"
-    },
-    {
-      "basename": "00 Nginx",
-      "path": "wiki/zero/00 Nginx.md"
-    },
-    {
-      "basename": "Explain в MySQL",
-      "path": "_inbox/Explain в MySQL.md"
-    },
-    {
-      "basename": "Extended keys MySQL",
-      "path": "_inbox/Extended keys MySQL.md"
     }
   ],
   "omittedPaths": [],

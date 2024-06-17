@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718643180626
+      "timestamp": 1718645275397
     },
     {
-      "filepath": "knowledge/dev/network/Content Delivery Network.md",
-      "timestamp": 1718643172733
+      "filepath": "_inbox/Улучшение производительности отдельного сервиса.md",
+      "timestamp": 1718645251948
     },
     {
-      "filepath": "meta/files/Pasted image 20240617194938.png",
-      "timestamp": 1718642995449
+      "filepath": "knowledge/dev/Блокирующие вызовы.md",
+      "timestamp": 1718645244353
     },
     {
-      "filepath": "_inbox/Memcached.md",
-      "timestamp": 1718642691133
+      "filepath": "_inbox/Утилизация железа.md",
+      "timestamp": 1718645237257
     },
     {
-      "filepath": "_inbox/Redis.md",
-      "timestamp": 1718642620465
+      "filepath": "_inbox/Блокировки.md",
+      "timestamp": 1718645201034
     }
   ],
   "starredFileStore": [],
