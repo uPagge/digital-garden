@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Кэширование в браузере.md",
+      "timestamp": 1718641894715
+    },
+    {
       "filepath": "_inbox/Кэширование на стороне клиента Nginx.md",
-      "timestamp": 1718640796674
+      "timestamp": 1718641886813
     },
     {
       "filepath": "_inbox/Кэширование.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Adaptive Replacement Cache.md",
       "timestamp": 1718640420822
-    },
-    {
-      "filepath": "_inbox/Last Frequently Used.md",
-      "timestamp": 1718640305440
     }
   ],
   "starredFileStore": [],
