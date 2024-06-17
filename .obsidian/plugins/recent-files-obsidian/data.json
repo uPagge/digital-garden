@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Принцип локальности",
+      "path": "_inbox/Принцип локальности.md"
+    },
+    {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ударение",
       "path": "_inbox/Ударение.md"
-    },
-    {
-      "basename": "Git",
-      "path": "knowledge/dev/Git.md"
     }
   ],
   "omittedPaths": [],

@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Принцип локальности.md",
+      "timestamp": 1718639370931
+    },
+    {
       "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718639203388
+      "timestamp": 1718639363870
     },
     {
       "filepath": "_inbox/Redis.md",
-      "timestamp": 1718639199908
+      "timestamp": 1718639336820
     },
     {
       "filepath": "wiki/zero/00 HighLoad.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "knowledge/human/Стресс.md",
       "timestamp": 1718638580710
-    },
-    {
-      "filepath": "_inbox/Репликация в MySQL.md",
-      "timestamp": 1718638377453
     }
   ],
   "starredFileStore": [],
