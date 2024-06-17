@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Кэширование на стороне клиента Nginx.md",
+      "timestamp": 1718640796674
+    },
+    {
       "filepath": "_inbox/Кэширование.md",
       "timestamp": 1718640603882
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Last Frequently Used.md",
       "timestamp": 1718640305440
-    },
-    {
-      "filepath": "_inbox/Most Recently Used.md",
-      "timestamp": 1718640093895
     }
   ],
   "starredFileStore": [],

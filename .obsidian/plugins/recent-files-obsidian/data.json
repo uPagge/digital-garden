@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Кэширование на стороне клиента Nginx",
+      "path": "_inbox/Кэширование на стороне клиента Nginx.md"
+    },
+    {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Покрывающий индекс",
       "path": "_inbox/Покрывающий индекс.md"
-    },
-    {
-      "basename": "Составные индексы в MySQL",
-      "path": "_inbox/Составные индексы в MySQL.md"
     }
   ],
   "omittedPaths": [],
