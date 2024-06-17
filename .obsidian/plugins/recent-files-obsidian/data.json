@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Кэширование",
+      "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Redis",
+      "path": "_inbox/Redis.md"
+    },
+    {
+      "basename": "Кэширование на сервере",
+      "path": "_inbox/Кэширование на сервере.md"
+    },
+    {
+      "basename": "Кэширование на стороне Nginx",
+      "path": "_inbox/Кэширование на стороне Nginx.md"
+    },
+    {
       "basename": "Кэширование на стороне клиента Nginx",
       "path": "_inbox/Кэширование на стороне клиента Nginx.md"
     },
     {
       "basename": "Fingerprint файлов",
       "path": "_inbox/Fingerprint файлов.md"
-    },
-    {
-      "basename": "Кэширование",
-      "path": "_inbox/Кэширование.md"
     },
     {
       "basename": "Кэширование в браузере",
@@ -43,10 +55,6 @@
     {
       "basename": "Generational Collection",
       "path": "knowledge/dev/java/gc/Generational Collection.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "_inbox/Redis.md"
     },
     {
       "basename": "00 HighLoad",
@@ -191,14 +199,6 @@
     {
       "basename": "Архитектура MySQL",
       "path": "Архитектура MySQL.md"
-    },
-    {
-      "basename": "Идеи для ремонта",
-      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
-    },
-    {
-      "basename": "Предлоги в Английском",
-      "path": "knowledge/english/Предлоги в Английском.md"
     }
   ],
   "omittedPaths": [],
