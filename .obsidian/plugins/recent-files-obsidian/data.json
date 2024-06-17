@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Content Delivery Network",
+      "path": "knowledge/dev/network/Content Delivery Network.md"
+    },
+    {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Pasted image 20240617194938",
+      "path": "meta/files/Pasted image 20240617194938.png"
     },
     {
       "basename": "Memcached",
@@ -191,14 +199,6 @@
     {
       "basename": "Extended keys MySQL",
       "path": "_inbox/Extended keys MySQL.md"
-    },
-    {
-      "basename": "ORDER BY",
-      "path": "knowledge/dev/database/ORDER BY.md"
-    },
-    {
-      "basename": "Архитектура MySQL",
-      "path": "Архитектура MySQL.md"
     }
   ],
   "omittedPaths": [],

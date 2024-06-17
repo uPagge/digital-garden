@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/dev/network/Content Delivery Network.md",
+      "timestamp": 1718643117897
+    },
+    {
       "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718642818036
+      "timestamp": 1718642997715
+    },
+    {
+      "filepath": "meta/files/Pasted image 20240617194938.png",
+      "timestamp": 1718642995449
     },
     {
       "filepath": "_inbox/Memcached.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Redis.md",
       "timestamp": 1718642620465
-    },
-    {
-      "filepath": "_inbox/Кэширование на сервере.md",
-      "timestamp": 1718642541228
-    },
-    {
-      "filepath": "_inbox/Кэширование на стороне Nginx.md",
-      "timestamp": 1718642237759
     }
   ],
   "starredFileStore": [],
