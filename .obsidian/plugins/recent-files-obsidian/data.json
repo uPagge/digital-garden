@@ -5,6 +5,10 @@
       "path": "_inbox/Кэширование.md"
     },
     {
+      "basename": "Redis",
+      "path": "_inbox/Redis.md"
+    },
+    {
       "basename": "00 HighLoad",
       "path": "wiki/zero/00 HighLoad.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Git",
       "path": "knowledge/dev/Git.md"
-    },
-    {
-      "basename": "Скрипты для Git",
-      "path": "knowledge/dev/Скрипты для Git.md"
     }
   ],
   "omittedPaths": [],

@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718638803720
+      "timestamp": 1718639203388
+    },
+    {
+      "filepath": "_inbox/Redis.md",
+      "timestamp": 1718639199908
     },
     {
       "filepath": "wiki/zero/00 HighLoad.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Репликация в MySQL.md",
       "timestamp": 1718638377453
-    },
-    {
-      "filepath": "_inbox/Репликация master-master.md",
-      "timestamp": 1718638184942
     }
   ],
   "starredFileStore": [],
