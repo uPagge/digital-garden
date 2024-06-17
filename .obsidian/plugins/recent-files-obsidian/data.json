@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Adaptive Replacement Cache",
+      "path": "_inbox/Adaptive Replacement Cache.md"
+    },
+    {
+      "basename": "Кэширование",
+      "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Last Frequently Used",
+      "path": "_inbox/Last Frequently Used.md"
+    },
+    {
       "basename": "Most Recently Used",
       "path": "_inbox/Most Recently Used.md"
     },
     {
       "basename": "Least Recently Used",
       "path": "_inbox/Least Recently Used.md"
-    },
-    {
-      "basename": "Кэширование",
-      "path": "_inbox/Кэширование.md"
     },
     {
       "basename": "Принцип локальности",
@@ -191,14 +199,6 @@
     {
       "basename": "Составные индексы в MySQL",
       "path": "_inbox/Составные индексы в MySQL.md"
-    },
-    {
-      "basename": "Составные индексы в БД",
-      "path": "Составные индексы в БД.md"
-    },
-    {
-      "basename": "Без названия",
-      "path": "Без названия.md"
     }
   ],
   "omittedPaths": [],
