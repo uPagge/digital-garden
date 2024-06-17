@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Кэширование в браузере.md",
-      "timestamp": 1718641894715
+      "filepath": "_inbox/Кэширование на стороне клиента Nginx.md",
+      "timestamp": 1718642233979
     },
     {
-      "filepath": "_inbox/Кэширование на стороне клиента Nginx.md",
-      "timestamp": 1718641886813
+      "filepath": "_inbox/Fingerprint файлов.md",
+      "timestamp": 1718642220426
     },
     {
       "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718640603882
+      "timestamp": 1718642214569
+    },
+    {
+      "filepath": "_inbox/Кэширование в браузере.md",
+      "timestamp": 1718642208967
     },
     {
       "filepath": "_inbox/Принцип локальности.md",
       "timestamp": 1718640602879
-    },
-    {
-      "filepath": "_inbox/Adaptive Replacement Cache.md",
-      "timestamp": 1718640420822
     }
   ],
   "starredFileStore": [],

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Кэширование в браузере",
-      "path": "_inbox/Кэширование в браузере.md"
-    },
-    {
       "basename": "Кэширование на стороне клиента Nginx",
       "path": "_inbox/Кэширование на стороне клиента Nginx.md"
     },
     {
+      "basename": "Fingerprint файлов",
+      "path": "_inbox/Fingerprint файлов.md"
+    },
+    {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Кэширование в браузере",
+      "path": "_inbox/Кэширование в браузере.md"
     },
     {
       "basename": "Принцип локальности",
@@ -195,10 +199,6 @@
     {
       "basename": "Предлоги в Английском",
       "path": "knowledge/english/Предлоги в Английском.md"
-    },
-    {
-      "basename": "Index condition pushdown",
-      "path": "_inbox/Index condition pushdown.md"
     }
   ],
   "omittedPaths": [],
