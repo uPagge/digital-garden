@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-06-17 1718640420.md",
-      "timestamp": 1718640420822
+      "filepath": "_inbox/Кэширование.md",
+      "timestamp": 1718640603882
     },
     {
-      "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718640386321
+      "filepath": "_inbox/Принцип локальности.md",
+      "timestamp": 1718640602879
+    },
+    {
+      "filepath": "_inbox/Adaptive Replacement Cache.md",
+      "timestamp": 1718640420822
     },
     {
       "filepath": "_inbox/Last Frequently Used.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Most Recently Used.md",
       "timestamp": 1718640093895
-    },
-    {
-      "filepath": "_inbox/Least Recently Used.md",
-      "timestamp": 1718640025969
     }
   ],
   "starredFileStore": [],

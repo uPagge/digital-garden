@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Adaptive Replacement Cache",
-      "path": "_inbox/Adaptive Replacement Cache.md"
-    },
-    {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Принцип локальности",
+      "path": "_inbox/Принцип локальности.md"
+    },
+    {
+      "basename": "Adaptive Replacement Cache",
+      "path": "_inbox/Adaptive Replacement Cache.md"
     },
     {
       "basename": "Last Frequently Used",
@@ -19,10 +23,6 @@
     {
       "basename": "Least Recently Used",
       "path": "_inbox/Least Recently Used.md"
-    },
-    {
-      "basename": "Принцип локальности",
-      "path": "_inbox/Принцип локальности.md"
     },
     {
       "basename": "Memcached",
