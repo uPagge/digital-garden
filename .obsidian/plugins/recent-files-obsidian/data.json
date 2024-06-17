@@ -5,6 +5,10 @@
       "path": "_inbox/Кэширование.md"
     },
     {
+      "basename": "Memcached",
+      "path": "_inbox/Memcached.md"
+    },
+    {
       "basename": "Redis",
       "path": "_inbox/Redis.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Least Recently Used",
       "path": "_inbox/Least Recently Used.md"
-    },
-    {
-      "basename": "Memcached",
-      "path": "_inbox/Memcached.md"
     },
     {
       "basename": "Generational Collection",

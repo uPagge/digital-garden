@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718642518949
+      "timestamp": 1718642818036
+    },
+    {
+      "filepath": "_inbox/Memcached.md",
+      "timestamp": 1718642691133
     },
     {
       "filepath": "_inbox/Redis.md",
-      "timestamp": 1718642511151
+      "timestamp": 1718642620465
     },
     {
       "filepath": "_inbox/Кэширование на сервере.md",
-      "timestamp": 1718642458498
+      "timestamp": 1718642541228
     },
     {
       "filepath": "_inbox/Кэширование на стороне Nginx.md",
       "timestamp": 1718642237759
-    },
-    {
-      "filepath": "_inbox/Кэширование на стороне клиента Nginx.md",
-      "timestamp": 1718642233979
     }
   ],
   "starredFileStore": [],
