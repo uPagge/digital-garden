@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-06-18 1718684677.md",
+      "filepath": "notes/Полезное про собеседования.md",
+      "timestamp": 1718685041035
+    },
+    {
+      "filepath": "_inbox/Ответ HR.md",
       "timestamp": 1718684677281
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Кэширование.md",
       "timestamp": 1718645275397
-    },
-    {
-      "filepath": "_inbox/Улучшение производительности отдельного сервиса.md",
-      "timestamp": 1718645251948
     }
   ],
   "starredFileStore": [],

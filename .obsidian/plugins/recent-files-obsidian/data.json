@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Полезное про собеседования",
+      "path": "notes/Полезное про собеседования.md"
+    },
+    {
       "basename": "Ответ HR",
       "path": "_inbox/Ответ HR.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Индексы в MySQL",
       "path": "_inbox/Индексы в MySQL.md"
-    },
-    {
-      "basename": "Профилирование запросов в PostgreSQL",
-      "path": "knowledge/dev/database/Профилирование запросов в PostgreSQL.md"
     }
   ],
   "omittedPaths": [],
