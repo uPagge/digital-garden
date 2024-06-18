@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "notes/Собеседования/Вопросы работодателю.md",
+      "timestamp": 1718683345953
+    },
+    {
+      "filepath": "Home.md",
+      "timestamp": 1718683338408
+    },
+    {
       "filepath": "_inbox/Кэширование.md",
       "timestamp": 1718645275397
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "knowledge/dev/Блокирующие вызовы.md",
       "timestamp": 1718645244353
-    },
-    {
-      "filepath": "_inbox/Утилизация железа.md",
-      "timestamp": 1718645237257
-    },
-    {
-      "filepath": "_inbox/Блокировки.md",
-      "timestamp": 1718645201034
     }
   ],
   "starredFileStore": [],
