@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Псевдо-LRU",
+      "path": "_inbox/Псевдо-LRU.md"
+    },
+    {
       "basename": "Least Recently Used",
       "path": "_inbox/Least Recently Used.md"
     },
     {
-      "basename": "Most Recently Used",
-      "path": "_inbox/Most Recently Used.md"
-    },
-    {
       "basename": "Инвалидация кэша",
       "path": "Инвалидация кэша.md"
+    },
+    {
+      "basename": "Most Recently Used",
+      "path": "_inbox/Most Recently Used.md"
     },
     {
       "basename": "Кэширование",
@@ -195,10 +199,6 @@
     {
       "basename": "Оптимизация SQL запросов",
       "path": "_inbox/Оптимизация SQL запросов.md"
-    },
-    {
-      "basename": "JOIN SQL",
-      "path": "_inbox/JOIN SQL.md"
     }
   ],
   "omittedPaths": [],
