@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ответ HR",
+      "path": "_inbox/Ответ HR.md"
+    },
+    {
       "basename": "Вопросы работодателю",
       "path": "notes/Собеседования/Вопросы работодателю.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Профилирование запросов в PostgreSQL",
       "path": "knowledge/dev/database/Профилирование запросов в PostgreSQL.md"
-    },
-    {
-      "basename": "pg_stat_statements",
-      "path": "pg_stat_statements.md"
     }
   ],
   "omittedPaths": [],

@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/2024-06-18 1718684677.md",
+      "timestamp": 1718684677281
+    },
+    {
       "filepath": "notes/Собеседования/Вопросы работодателю.md",
       "timestamp": 1718683345953
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Улучшение производительности отдельного сервиса.md",
       "timestamp": 1718645251948
-    },
-    {
-      "filepath": "knowledge/dev/Блокирующие вызовы.md",
-      "timestamp": 1718645244353
     }
   ],
   "starredFileStore": [],
