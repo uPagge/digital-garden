@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "LSM дерево",
+      "path": "_inbox/LSM дерево.md"
+    },
+    {
+      "basename": "B-tree",
+      "path": "_inbox/B-tree.md"
+    },
+    {
+      "basename": "Принцип локальности",
+      "path": "_inbox/Принцип локальности.md"
+    },
+    {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
     },
@@ -97,10 +109,6 @@
       "path": "_inbox/Fingerprint файлов.md"
     },
     {
-      "basename": "Принцип локальности",
-      "path": "_inbox/Принцип локальности.md"
-    },
-    {
       "basename": "Adaptive Replacement Cache",
       "path": "_inbox/Adaptive Replacement Cache.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "JOIN SQL",
       "path": "_inbox/JOIN SQL.md"
-    },
-    {
-      "basename": "Индекс в PostgreSQL",
-      "path": "_inbox/Индекс в PostgreSQL.md"
-    },
-    {
-      "basename": "Составные индексы в PostgreSQL",
-      "path": "_inbox/Составные индексы в PostgreSQL.md"
     }
   ],
   "omittedPaths": [],
