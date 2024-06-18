@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718689434123
+      "timestamp": 1718689745911
+    },
+    {
+      "filepath": "_inbox/Кэширование на стороне браузера.md",
+      "timestamp": 1718689727983
+    },
+    {
+      "filepath": "_inbox/Кэширование на стороне клиента Nginx.md",
+      "timestamp": 1718689726002
     },
     {
       "filepath": "Инвалидация кэша.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "Cache miss.md",
       "timestamp": 1718688870602
-    },
-    {
-      "filepath": "_inbox/Старт с холодным кэшом.md",
-      "timestamp": 1718688297229
-    },
-    {
-      "filepath": "home/Вычеты/Вычет 2024.md",
-      "timestamp": 1718688293724
     }
   ],
   "bookmarkedFileStore": [],
