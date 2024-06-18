@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Псевдо-LRU.md",
-      "timestamp": 1718690722608
-    },
-    {
-      "filepath": "_inbox/Least Recently Used.md",
-      "timestamp": 1718690720074
+      "filepath": "_inbox/Кэширование.md",
+      "timestamp": 1718691251198
     },
     {
       "filepath": "Инвалидация кэша.md",
-      "timestamp": 1718690431618
+      "timestamp": 1718691155762
     },
     {
-      "filepath": "_inbox/Most Recently Used.md",
-      "timestamp": 1718690370847
+      "filepath": "_inbox/Adaptive Replacement Cache.md",
+      "timestamp": 1718691147633
     },
     {
-      "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718690151207
+      "filepath": "_inbox/Last Frequently Used.md",
+      "timestamp": 1718691063063
+    },
+    {
+      "filepath": "_inbox/Псевдо-LRU.md",
+      "timestamp": 1718691050268
     }
   ],
   "bookmarkedFileStore": [],

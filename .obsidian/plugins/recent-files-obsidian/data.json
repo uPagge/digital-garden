@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Кэширование",
+      "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Инвалидация кэша",
+      "path": "Инвалидация кэша.md"
+    },
+    {
+      "basename": "Adaptive Replacement Cache",
+      "path": "_inbox/Adaptive Replacement Cache.md"
+    },
+    {
+      "basename": "Last Frequently Used",
+      "path": "_inbox/Last Frequently Used.md"
+    },
+    {
       "basename": "Псевдо-LRU",
       "path": "_inbox/Псевдо-LRU.md"
     },
@@ -9,16 +25,8 @@
       "path": "_inbox/Least Recently Used.md"
     },
     {
-      "basename": "Инвалидация кэша",
-      "path": "Инвалидация кэша.md"
-    },
-    {
       "basename": "Most Recently Used",
       "path": "_inbox/Most Recently Used.md"
-    },
-    {
-      "basename": "Кэширование",
-      "path": "_inbox/Кэширование.md"
     },
     {
       "basename": "LSM дерево",
@@ -119,14 +127,6 @@
     {
       "basename": "Fingerprint файлов",
       "path": "_inbox/Fingerprint файлов.md"
-    },
-    {
-      "basename": "Adaptive Replacement Cache",
-      "path": "_inbox/Adaptive Replacement Cache.md"
-    },
-    {
-      "basename": "Last Frequently Used",
-      "path": "_inbox/Last Frequently Used.md"
     },
     {
       "basename": "Generational Collection",
