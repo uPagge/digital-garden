@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "High Availability",
+      "path": "_inbox/High Availability.md"
+    },
+    {
+      "basename": "00 Разработка",
+      "path": "wiki/zero/00 Разработка.md"
+    },
+    {
+      "basename": "Java Разработка",
+      "path": "knowledge/dev/java/Java Разработка.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -177,10 +189,6 @@
       "path": "_inbox/Reliability.md"
     },
     {
-      "basename": "High Availability",
-      "path": "_inbox/High Availability.md"
-    },
-    {
       "basename": "Репликация",
       "path": "_inbox/Репликация.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Настройка репликации в PostgreSQL",
       "path": "_inbox/Настройка репликации в PostgreSQL.md"
-    },
-    {
-      "basename": "Репликация в PostgreSQL",
-      "path": "_inbox/Репликация в PostgreSQL.md"
-    },
-    {
-      "basename": "Оптимизация SQL запросов",
-      "path": "_inbox/Оптимизация SQL запросов.md"
     }
   ],
   "omittedPaths": [],
