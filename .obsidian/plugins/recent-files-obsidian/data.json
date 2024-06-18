@@ -5,6 +5,10 @@
       "path": "_inbox/High Availability.md"
     },
     {
+      "basename": "2024-06-18 1718710626",
+      "path": "_inbox/2024-06-18 1718710626.md"
+    },
+    {
       "basename": "00 Разработка",
       "path": "wiki/zero/00 Разработка.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Шардирование",
       "path": "_inbox/Шардирование.md"
-    },
-    {
-      "basename": "Настройка репликации в PostgreSQL",
-      "path": "_inbox/Настройка репликации в PostgreSQL.md"
     }
   ],
   "omittedPaths": [],
