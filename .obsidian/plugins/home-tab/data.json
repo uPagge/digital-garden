@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/english/Предлоги в Английском.md",
+      "timestamp": 1718685462718
+    },
+    {
       "filepath": "notes/Полезное про собеседования.md",
       "timestamp": 1718685041035
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Home.md",
       "timestamp": 1718683338408
-    },
-    {
-      "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718645275397
     }
   ],
   "starredFileStore": [],
