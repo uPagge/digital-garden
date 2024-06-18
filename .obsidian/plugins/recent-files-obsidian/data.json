@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Кэширование",
+      "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Инвалидация кэша",
+      "path": "Инвалидация кэша.md"
+    },
+    {
       "basename": "Старт с холодным кэшом",
       "path": "_inbox/Старт с холодным кэшом.md"
     },
     {
       "basename": "Вычет 2024",
       "path": "home/Вычеты/Вычет 2024.md"
-    },
-    {
-      "basename": "Кэширование",
-      "path": "_inbox/Кэширование.md"
     },
     {
       "basename": "Перестройка кэша",
@@ -195,10 +199,6 @@
     {
       "basename": "00 PostgreSQL",
       "path": "wiki/zero/00 PostgreSQL.md"
-    },
-    {
-      "basename": "PgBouncer",
-      "path": "_inbox/PgBouncer.md"
     }
   ],
   "omittedPaths": [],

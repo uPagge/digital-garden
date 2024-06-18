@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Кэширование.md",
+      "timestamp": 1718688838197
+    },
+    {
+      "filepath": "Инвалидация кэша.md",
+      "timestamp": 1718688811143
+    },
+    {
       "filepath": "_inbox/Старт с холодным кэшом.md",
       "timestamp": 1718688297229
     },
@@ -32,16 +40,8 @@
       "timestamp": 1718688293724
     },
     {
-      "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718688217945
-    },
-    {
       "filepath": "_inbox/Перестройка кэша.md",
       "timestamp": 1718688112432
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1718688013137
     }
   ],
   "bookmarkedFileStore": [],
