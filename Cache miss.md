@@ -1,7 +1,20 @@
-## Cache miss
+---
+aliases: 
+tags:
+  - зрелость/🌱
+date:
+  - - 2024-06-18
+zero-link:
+  - "[[00 HighLoad]]"
+parents:
+  - "[[Кэширование]]"
+linked:
+---
 По формуле можно расчитать как часто мы будем промахиваться мимо кэша
 
-AverageTime = CacheAccessTime + DbAccessTime \* CacheMissRate
+```
+AverageTime = CacheAccessTime + DbAccessTime * CacheMissRate
+```
 - AverageTime - среднее время жизни кэша
 - CacheAccessTime - время доступа к кэшу
 - DbAccessTime - время доступа к БД
