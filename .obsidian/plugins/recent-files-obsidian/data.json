@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Least Recently Used",
+      "path": "_inbox/Least Recently Used.md"
+    },
+    {
+      "basename": "Most Recently Used",
+      "path": "_inbox/Most Recently Used.md"
+    },
+    {
+      "basename": "Инвалидация кэша",
+      "path": "Инвалидация кэша.md"
+    },
+    {
+      "basename": "Кэширование",
+      "path": "_inbox/Кэширование.md"
+    },
+    {
       "basename": "LSM дерево",
       "path": "_inbox/LSM дерево.md"
     },
@@ -13,20 +29,12 @@
       "path": "_inbox/Принцип локальности.md"
     },
     {
-      "basename": "Кэширование",
-      "path": "_inbox/Кэширование.md"
-    },
-    {
       "basename": "Кэширование на стороне браузера",
       "path": "_inbox/Кэширование на стороне браузера.md"
     },
     {
       "basename": "Кэширование на стороне клиента Nginx",
       "path": "_inbox/Кэширование на стороне клиента Nginx.md"
-    },
-    {
-      "basename": "Инвалидация кэша",
-      "path": "Инвалидация кэша.md"
     },
     {
       "basename": "Cache miss",
@@ -115,14 +123,6 @@
     {
       "basename": "Last Frequently Used",
       "path": "_inbox/Last Frequently Used.md"
-    },
-    {
-      "basename": "Most Recently Used",
-      "path": "_inbox/Most Recently Used.md"
-    },
-    {
-      "basename": "Least Recently Used",
-      "path": "_inbox/Least Recently Used.md"
     },
     {
       "basename": "Generational Collection",
