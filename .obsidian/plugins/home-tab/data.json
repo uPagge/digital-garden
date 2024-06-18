@@ -13,7 +13,7 @@
   "fontColorType": "default",
   "fontWeight": 600,
   "maxResults": 25,
-  "showStarredFiles": false,
+  "showbookmarkedFiles": true,
   "showRecentFiles": true,
   "maxRecentFiles": 5,
   "storeRecentFile": true,
@@ -24,14 +24,29 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Кэширование.md",
+      "timestamp": 1718688217945
+    },
+    {
+      "filepath": "_inbox/Старт с холодным кэшом.md",
+      "timestamp": 1718688179345
+    },
+    {
+      "filepath": "_inbox/Перестройка кэша.md",
+      "timestamp": 1718688112432
+    },
+    {
       "filepath": "Home.md",
-      "timestamp": 1718687964332
+      "timestamp": 1718688013137
     }
   ],
-  "starredFileStore": [],
+  "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": false,
   "newTabOnStart": false,
   "closePreviousSessionTabs": true,
-  "omnisearch": true
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true,
+  "showStarredFiles": false,
+  "starredFileStore": []
 }

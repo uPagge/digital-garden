@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Кэширование",
+      "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Старт с холодным кэшом",
+      "path": "_inbox/Старт с холодным кэшом.md"
+    },
+    {
+      "basename": "Перестройка кэша",
+      "path": "_inbox/Перестройка кэша.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "Вопросы работодателю",
       "path": "notes/Собеседования/Вопросы работодателю.md"
-    },
-    {
-      "basename": "Кэширование",
-      "path": "_inbox/Кэширование.md"
     },
     {
       "basename": "Улучшение производительности отдельного сервиса",
@@ -191,14 +199,6 @@
     {
       "basename": "IN SQL",
       "path": "_inbox/IN SQL.md"
-    },
-    {
-      "basename": "00 SQL",
-      "path": "wiki/zero/00 SQL.md"
-    },
-    {
-      "basename": "Explain в PostgreSQL",
-      "path": "_inbox/Explain в PostgreSQL.md"
     }
   ],
   "omittedPaths": [],
