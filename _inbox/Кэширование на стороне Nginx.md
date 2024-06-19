@@ -56,3 +56,6 @@ sudo umount /var/nginx/cache
 ```txt
 tmpfs /var/nginx/cache tmpfs defaults,size=256M 0 0
 ```
+
+## Дополнительные материалы
+- [Nginx cache: всё новое — хорошо забытое старое / Хабр](https://habr.com/ru/post/428127/)
