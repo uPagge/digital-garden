@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Кэширование на стороне Nginx",
+      "path": "_inbox/Кэширование на стороне Nginx.md"
+    },
+    {
       "basename": "Настройка клиентского кэширования в Nginx",
       "path": "_inbox/Настройка клиентского кэширования в Nginx.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
-    },
-    {
-      "basename": "Кэширование на стороне Nginx",
-      "path": "_inbox/Кэширование на стороне Nginx.md"
     },
     {
       "basename": "Home",
