@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "notes/Микросервисы. Паттерны разработки и рефакторинга.md",
+      "timestamp": 1718814522089
+    },
+    {
+      "filepath": "knowledge/dev/database/Свойства транзакции БД (ACID).md",
+      "timestamp": 1718814517520
+    },
+    {
       "filepath": "_inbox/Транзакция БД.md",
       "timestamp": 1718814212448
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Race condition.md",
       "timestamp": 1718814109154
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1718813916206
-    },
-    {
-      "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718813915973
     }
   ],
   "bookmarkedFileStore": [],

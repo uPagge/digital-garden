@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Микросервисы. Паттерны разработки и рефакторинга",
+      "path": "notes/Микросервисы. Паттерны разработки и рефакторинга.md"
+    },
+    {
+      "basename": "Свойства транзакции БД (ACID)",
+      "path": "knowledge/dev/database/Свойства транзакции БД (ACID).md"
+    },
+    {
       "basename": "Транзакция БД",
       "path": "_inbox/Транзакция БД.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Репликация master-slave",
       "path": "_inbox/Репликация master-slave.md"
-    },
-    {
-      "basename": "Олег Чирухин",
-      "path": "wiki/people/Олег Чирухин.md"
-    },
-    {
-      "basename": "Disaster recovery",
-      "path": "_inbox/Disaster recovery.md"
     }
   ],
   "omittedPaths": [],
