@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Грязное чтение",
+      "path": "_inbox/Грязное чтение.md"
+    },
+    {
       "basename": "Транзакция БД",
       "path": "_inbox/Транзакция БД.md"
+    },
+    {
+      "basename": "Проблемы при параллельном выполнении нескольких транзакций",
+      "path": "knowledge/dev/database/Проблемы при параллельном выполнении нескольких транзакций.md"
     },
     {
       "basename": "Repeatable read",
@@ -37,10 +45,6 @@
       "path": "_inbox/Serializable.md"
     },
     {
-      "basename": "Проблемы при параллельном выполнении нескольких транзакций",
-      "path": "knowledge/dev/database/Проблемы при параллельном выполнении нескольких транзакций.md"
-    },
-    {
       "basename": "Race condition",
       "path": "_inbox/Race condition.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Полу-синхронная репликация",
       "path": "_inbox/Полу-синхронная репликация.md"
-    },
-    {
-      "basename": "Грязное чтение",
-      "path": "_inbox/Грязное чтение.md"
     },
     {
       "basename": "Memcached",
