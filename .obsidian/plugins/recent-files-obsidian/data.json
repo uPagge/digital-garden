@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Грязное чтение",
-      "path": "_inbox/Грязное чтение.md"
-    },
-    {
-      "basename": "Read uncommitted",
-      "path": "_inbox/Read uncommitted.md"
+      "basename": "Проблемы при параллельном выполнении нескольких транзакций",
+      "path": "knowledge/dev/database/Проблемы при параллельном выполнении нескольких транзакций.md"
     },
     {
       "basename": "Уровни изоляций транзакций БД",
       "path": "knowledge/dev/database/Уровни изоляций транзакций БД.md"
     },
     {
-      "basename": "Проблемы при параллельном выполнении нескольких транзакций",
-      "path": "knowledge/dev/database/Проблемы при параллельном выполнении нескольких транзакций.md"
+      "basename": "Грязное чтение",
+      "path": "_inbox/Грязное чтение.md"
+    },
+    {
+      "basename": "Read committed",
+      "path": "_inbox/Read committed.md"
+    },
+    {
+      "basename": "Read uncommitted",
+      "path": "_inbox/Read uncommitted.md"
     },
     {
       "basename": "Транзакция БД",
@@ -195,10 +199,6 @@
     {
       "basename": "Redis",
       "path": "_inbox/Redis.md"
-    },
-    {
-      "basename": "Fingerprint файлов",
-      "path": "_inbox/Fingerprint файлов.md"
     }
   ],
   "omittedPaths": [],
