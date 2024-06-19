@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Кэширование",
+      "path": "_inbox/Кэширование.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Инвалидация кэша",
       "path": "Инвалидация кэша.md"
-    },
-    {
-      "basename": "Кэширование",
-      "path": "_inbox/Кэширование.md"
     },
     {
       "basename": "Adaptive Replacement Cache",
