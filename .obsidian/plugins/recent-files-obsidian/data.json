@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Инвалидация кэша",
+      "path": "Инвалидация кэша.md"
+    },
+    {
+      "basename": "Кэширование",
+      "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Старт с холодным кэшом",
+      "path": "_inbox/Старт с холодным кэшом.md"
+    },
+    {
       "basename": "Перестройка кэша",
       "path": "_inbox/Перестройка кэша.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "00 HighLoad",
       "path": "wiki/zero/00 HighLoad.md"
-    },
-    {
-      "basename": "Кэширование",
-      "path": "_inbox/Кэширование.md"
     },
     {
       "basename": "Кэширование на сервере",
@@ -61,10 +69,6 @@
       "path": "knowledge/dev/java/Java Разработка.md"
     },
     {
-      "basename": "Инвалидация кэша",
-      "path": "Инвалидация кэша.md"
-    },
-    {
       "basename": "Adaptive Replacement Cache",
       "path": "_inbox/Adaptive Replacement Cache.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "Cache miss",
       "path": "Cache miss.md"
-    },
-    {
-      "basename": "Старт с холодным кэшом",
-      "path": "_inbox/Старт с холодным кэшом.md"
     },
     {
       "basename": "Вычет 2024",

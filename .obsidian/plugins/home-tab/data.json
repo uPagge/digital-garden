@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Инвалидация кэша.md",
+      "timestamp": 1718812854433
+    },
+    {
+      "filepath": "_inbox/Кэширование.md",
+      "timestamp": 1718812849429
+    },
+    {
+      "filepath": "_inbox/Старт с холодным кэшом.md",
+      "timestamp": 1718812811785
+    },
+    {
       "filepath": "_inbox/Перестройка кэша.md",
       "timestamp": 1718812602973
     },
     {
       "filepath": "_inbox/Tarantool.md",
       "timestamp": 1718812444060
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1718811439417
-    },
-    {
-      "filepath": "wiki/zero/00 HighLoad.md",
-      "timestamp": 1718811429061
-    },
-    {
-      "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718811423857
     }
   ],
   "bookmarkedFileStore": [],
