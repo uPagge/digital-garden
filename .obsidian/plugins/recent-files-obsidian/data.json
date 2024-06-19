@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Инвалидация кэша",
-      "path": "Инвалидация кэша.md"
+      "basename": "Транзакция БД",
+      "path": "_inbox/Транзакция БД.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Инвалидация кэша",
+      "path": "Инвалидация кэша.md"
+    },
+    {
+      "basename": "00 HighLoad",
+      "path": "wiki/zero/00 HighLoad.md"
     },
     {
       "basename": "Старт с холодным кэшом",
@@ -19,14 +31,6 @@
     {
       "basename": "Tarantool",
       "path": "_inbox/Tarantool.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "00 HighLoad",
-      "path": "wiki/zero/00 HighLoad.md"
     },
     {
       "basename": "Кэширование на сервере",
@@ -195,10 +199,6 @@
     {
       "basename": "Журнал БД",
       "path": "_inbox/Журнал БД.md"
-    },
-    {
-      "basename": "Reliability",
-      "path": "_inbox/Reliability.md"
     }
   ],
   "omittedPaths": [],
