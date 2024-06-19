@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Микросервисы. Паттерны разработки и рефакторинга",
-      "path": "notes/Микросервисы. Паттерны разработки и рефакторинга.md"
+      "basename": "Вопросы для собеседование Java",
+      "path": "notes/Собеседования/Вопросы для собеседование Java.md"
     },
     {
       "basename": "Свойства транзакции БД (ACID)",
       "path": "knowledge/dev/database/Свойства транзакции БД (ACID).md"
     },
     {
+      "basename": "Проблемы при параллельном выполнении нескольких транзакций",
+      "path": "knowledge/dev/database/Проблемы при параллельном выполнении нескольких транзакций.md"
+    },
+    {
       "basename": "Транзакция БД",
       "path": "_inbox/Транзакция БД.md"
+    },
+    {
+      "basename": "Микросервисы. Паттерны разработки и рефакторинга",
+      "path": "notes/Микросервисы. Паттерны разработки и рефакторинга.md"
     },
     {
       "basename": "Reliability",
@@ -191,14 +199,6 @@
     {
       "basename": "Репликация master-master",
       "path": "_inbox/Репликация master-master.md"
-    },
-    {
-      "basename": "CAP теорема",
-      "path": "_inbox/CAP теорема.md"
-    },
-    {
-      "basename": "Репликация master-slave",
-      "path": "_inbox/Репликация master-slave.md"
     }
   ],
   "omittedPaths": [],
