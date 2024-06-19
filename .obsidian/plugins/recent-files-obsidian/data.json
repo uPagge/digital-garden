@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Read committed",
-      "path": "_inbox/Read committed.md"
+      "basename": "Repeatable read",
+      "path": "_inbox/Repeatable read.md"
     },
     {
       "basename": "Уровни изоляций транзакций БД",
       "path": "knowledge/dev/database/Уровни изоляций транзакций БД.md"
+    },
+    {
+      "basename": "Read committed",
+      "path": "_inbox/Read committed.md"
     },
     {
       "basename": "Транзакция БД",
@@ -23,10 +27,6 @@
     {
       "basename": "Потерянное обновление",
       "path": "_inbox/Потерянное обновление.md"
-    },
-    {
-      "basename": "Repeatable read",
-      "path": "_inbox/Repeatable read.md"
     },
     {
       "basename": "Неповторяющееся чтение",

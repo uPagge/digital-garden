@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Read committed.md",
-      "timestamp": 1718817519939
+      "filepath": "_inbox/Repeatable read.md",
+      "timestamp": 1718817548205
     },
     {
       "filepath": "knowledge/dev/database/Уровни изоляций транзакций БД.md",
-      "timestamp": 1718817518532
+      "timestamp": 1718817545204
+    },
+    {
+      "filepath": "_inbox/Read committed.md",
+      "timestamp": 1718817519939
     },
     {
       "filepath": "_inbox/Транзакция БД.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Фантомное чтение.md",
       "timestamp": 1718817514775
-    },
-    {
-      "filepath": "_inbox/Read uncommitted.md",
-      "timestamp": 1718817512090
     }
   ],
   "bookmarkedFileStore": [],
