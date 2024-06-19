@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Безмастерная репликация",
+      "path": "_inbox/Безмастерная репликация.md"
+    },
+    {
       "basename": "Проблемы при параллельном выполнении нескольких транзакций",
       "path": "knowledge/dev/database/Проблемы при параллельном выполнении нескольких транзакций.md"
+    },
+    {
+      "basename": "Потерянное обновление",
+      "path": "_inbox/Потерянное обновление.md"
+    },
+    {
+      "basename": "Неповторяющееся чтение",
+      "path": "_inbox/Неповторяющееся чтение.md"
+    },
+    {
+      "basename": "Фантомное чтение",
+      "path": "_inbox/Фантомное чтение.md"
+    },
+    {
+      "basename": "Полу-синхронная репликация",
+      "path": "_inbox/Полу-синхронная репликация.md"
     },
     {
       "basename": "Уровни изоляций транзакций БД",
@@ -179,26 +199,6 @@
     {
       "basename": "Блокирующие вызовы",
       "path": "knowledge/dev/Блокирующие вызовы.md"
-    },
-    {
-      "basename": "Утилизация железа",
-      "path": "_inbox/Утилизация железа.md"
-    },
-    {
-      "basename": "Блокировки",
-      "path": "_inbox/Блокировки.md"
-    },
-    {
-      "basename": "Content Delivery Network",
-      "path": "knowledge/dev/network/Content Delivery Network.md"
-    },
-    {
-      "basename": "Pasted image 20240617194938",
-      "path": "meta/files/Pasted image 20240617194938.png"
-    },
-    {
-      "basename": "Redis",
-      "path": "_inbox/Redis.md"
     }
   ],
   "omittedPaths": [],
