@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Неповторяющееся чтение",
+      "path": "_inbox/Неповторяющееся чтение.md"
+    },
+    {
       "basename": "Уровни изоляций транзакций БД",
       "path": "knowledge/dev/database/Уровни изоляций транзакций БД.md"
+    },
+    {
+      "basename": "Потерянное обновление",
+      "path": "_inbox/Потерянное обновление.md"
+    },
+    {
+      "basename": "Repeatable read",
+      "path": "_inbox/Repeatable read.md"
+    },
+    {
+      "basename": "Serializable",
+      "path": "_inbox/Serializable.md"
     },
     {
       "basename": "Транзакция БД",
@@ -13,20 +29,12 @@
       "path": "knowledge/dev/database/Проблемы при параллельном выполнении нескольких транзакций.md"
     },
     {
-      "basename": "Потерянное обновление",
-      "path": "_inbox/Потерянное обновление.md"
-    },
-    {
       "basename": "Race condition",
       "path": "_inbox/Race condition.md"
     },
     {
       "basename": "Безмастерная репликация",
       "path": "_inbox/Безмастерная репликация.md"
-    },
-    {
-      "basename": "Неповторяющееся чтение",
-      "path": "_inbox/Неповторяющееся чтение.md"
     },
     {
       "basename": "Фантомное чтение",
@@ -191,14 +199,6 @@
     {
       "basename": "Вопросы работодателю",
       "path": "notes/Собеседования/Вопросы работодателю.md"
-    },
-    {
-      "basename": "Улучшение производительности отдельного сервиса",
-      "path": "_inbox/Улучшение производительности отдельного сервиса.md"
-    },
-    {
-      "basename": "Блокирующие вызовы",
-      "path": "knowledge/dev/Блокирующие вызовы.md"
     }
   ],
   "omittedPaths": [],
