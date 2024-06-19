@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Предлоги в Английском",
+      "path": "knowledge/english/Предлоги в Английском.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "High Availability",
       "path": "_inbox/High Availability.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Java Разработка",
       "path": "knowledge/dev/java/Java Разработка.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Инвалидация кэша",
@@ -83,10 +87,6 @@
     {
       "basename": "Перестройка кэша",
       "path": "_inbox/Перестройка кэша.md"
-    },
-    {
-      "basename": "Предлоги в Английском",
-      "path": "knowledge/english/Предлоги в Английском.md"
     },
     {
       "basename": "Полезное про собеседования",
