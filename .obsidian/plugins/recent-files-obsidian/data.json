@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Модальные глаголы",
+      "path": "knowledge/english/Модальные глаголы.md"
+    },
+    {
       "basename": "Предлоги в Английском",
       "path": "knowledge/english/Предлоги в Английском.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Репликация",
       "path": "_inbox/Репликация.md"
-    },
-    {
-      "basename": "Шардирование",
-      "path": "_inbox/Шардирование.md"
     }
   ],
   "omittedPaths": [],
