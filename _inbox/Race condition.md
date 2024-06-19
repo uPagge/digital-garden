@@ -10,3 +10,4 @@ zero-link:
 parents: 
 linked:
 ---
+Пример race condition в БД: ![](Pasted%20image%2020240619200549.png)

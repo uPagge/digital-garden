@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Безмастерная репликация",
-      "path": "_inbox/Безмастерная репликация.md"
+      "basename": "Уровни изоляций транзакций БД",
+      "path": "knowledge/dev/database/Уровни изоляций транзакций БД.md"
+    },
+    {
+      "basename": "Транзакция БД",
+      "path": "_inbox/Транзакция БД.md"
     },
     {
       "basename": "Проблемы при параллельном выполнении нескольких транзакций",
@@ -11,6 +15,14 @@
     {
       "basename": "Потерянное обновление",
       "path": "_inbox/Потерянное обновление.md"
+    },
+    {
+      "basename": "Race condition",
+      "path": "_inbox/Race condition.md"
+    },
+    {
+      "basename": "Безмастерная репликация",
+      "path": "_inbox/Безмастерная репликация.md"
     },
     {
       "basename": "Неповторяющееся чтение",
@@ -25,10 +37,6 @@
       "path": "_inbox/Полу-синхронная репликация.md"
     },
     {
-      "basename": "Уровни изоляций транзакций БД",
-      "path": "knowledge/dev/database/Уровни изоляций транзакций БД.md"
-    },
-    {
       "basename": "Грязное чтение",
       "path": "_inbox/Грязное чтение.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Read uncommitted",
       "path": "_inbox/Read uncommitted.md"
-    },
-    {
-      "basename": "Транзакция БД",
-      "path": "_inbox/Транзакция БД.md"
     },
     {
       "basename": "Memcached",
@@ -67,10 +71,6 @@
     {
       "basename": "Reliability",
       "path": "_inbox/Reliability.md"
-    },
-    {
-      "basename": "Race condition",
-      "path": "_inbox/Race condition.md"
     },
     {
       "basename": "Home",
