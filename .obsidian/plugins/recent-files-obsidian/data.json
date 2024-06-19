@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Перестройка кэша",
+      "path": "_inbox/Перестройка кэша.md"
+    },
+    {
+      "basename": "Tarantool",
+      "path": "_inbox/Tarantool.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -101,10 +109,6 @@
       "path": "home/Вычеты/Вычет 2024.md"
     },
     {
-      "basename": "Перестройка кэша",
-      "path": "_inbox/Перестройка кэша.md"
-    },
-    {
       "basename": "Полезное про собеседования",
       "path": "notes/Полезное про собеседования.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Reliability",
       "path": "_inbox/Reliability.md"
-    },
-    {
-      "basename": "Репликация",
-      "path": "_inbox/Репликация.md"
     }
   ],
   "omittedPaths": [],

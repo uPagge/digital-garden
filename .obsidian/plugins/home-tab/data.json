@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Перестройка кэша.md",
+      "timestamp": 1718812602973
+    },
+    {
+      "filepath": "_inbox/Tarantool.md",
+      "timestamp": 1718812444060
+    },
+    {
       "filepath": "Home.md",
       "timestamp": 1718811439417
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Кэширование.md",
       "timestamp": 1718811423857
-    },
-    {
-      "filepath": "_inbox/Кэширование на сервере.md",
-      "timestamp": 1718810973281
-    },
-    {
-      "filepath": "_inbox/Кэширование на стороне браузера.md",
-      "timestamp": 1718810959208
     }
   ],
   "bookmarkedFileStore": [],
