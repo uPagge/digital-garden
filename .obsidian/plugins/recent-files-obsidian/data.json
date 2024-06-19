@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Кэширование на стороне браузера",
+      "path": "_inbox/Кэширование на стороне браузера.md"
+    },
+    {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Кэширование на стороне Nginx",
+      "path": "_inbox/Кэширование на стороне Nginx.md"
+    },
+    {
+      "basename": "Настройка клиентского кэширования в Nginx",
+      "path": "_inbox/Настройка клиентского кэширования в Nginx.md"
     },
     {
       "basename": "Home",
@@ -69,14 +81,6 @@
       "path": "_inbox/Принцип локальности.md"
     },
     {
-      "basename": "Кэширование на стороне браузера",
-      "path": "_inbox/Кэширование на стороне браузера.md"
-    },
-    {
-      "basename": "Кэширование на стороне клиента Nginx",
-      "path": "_inbox/Кэширование на стороне клиента Nginx.md"
-    },
-    {
       "basename": "Cache miss",
       "path": "Cache miss.md"
     },
@@ -139,10 +143,6 @@
     {
       "basename": "Кэширование на сервере",
       "path": "_inbox/Кэширование на сервере.md"
-    },
-    {
-      "basename": "Кэширование на стороне Nginx",
-      "path": "_inbox/Кэширование на стороне Nginx.md"
     },
     {
       "basename": "Fingerprint файлов",

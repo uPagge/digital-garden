@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Кэширование на стороне браузера.md",
+      "timestamp": 1718775062346
+    },
+    {
       "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1718774625969
+      "timestamp": 1718775058065
+    },
+    {
+      "filepath": "_inbox/Кэширование на стороне Nginx.md",
+      "timestamp": 1718775046876
+    },
+    {
+      "filepath": "_inbox/Настройка клиентского кэширования в Nginx.md",
+      "timestamp": 1718774904835
     },
     {
       "filepath": "Home.md",
       "timestamp": 1718774432915
-    },
-    {
-      "filepath": "knowledge/english/Предлоги в Английском.md",
-      "timestamp": 1718770693593
-    },
-    {
-      "filepath": "knowledge/english/Модальные глаголы.md",
-      "timestamp": 1718769983862
-    },
-    {
-      "filepath": "_inbox/High Availability.md",
-      "timestamp": 1718769357164
     }
   ],
   "bookmarkedFileStore": [],
