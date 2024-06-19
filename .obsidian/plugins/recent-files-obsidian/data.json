@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Кэширование на сервере",
-      "path": "_inbox/Кэширование на сервере.md"
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "00 HighLoad",
+      "path": "wiki/zero/00 HighLoad.md"
     },
     {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Кэширование на сервере",
+      "path": "_inbox/Кэширование на сервере.md"
     },
     {
       "basename": "Кэширование на стороне браузера",
@@ -19,10 +27,6 @@
     {
       "basename": "Настройка клиентского кэширования в Nginx",
       "path": "_inbox/Настройка клиентского кэширования в Nginx.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Предлоги в Английском",
@@ -151,10 +155,6 @@
     {
       "basename": "Generational Collection",
       "path": "knowledge/dev/java/gc/Generational Collection.md"
-    },
-    {
-      "basename": "00 HighLoad",
-      "path": "wiki/zero/00 HighLoad.md"
     },
     {
       "basename": "Стресс",
