@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Транзакция БД.md",
+      "timestamp": 1718818220537
+    },
+    {
       "filepath": "_inbox/Repeatable read.md",
       "timestamp": 1718817548205
     },
@@ -34,10 +38,6 @@
     {
       "filepath": "_inbox/Read committed.md",
       "timestamp": 1718817519939
-    },
-    {
-      "filepath": "_inbox/Транзакция БД.md",
-      "timestamp": 1718817515846
     },
     {
       "filepath": "_inbox/Фантомное чтение.md",
