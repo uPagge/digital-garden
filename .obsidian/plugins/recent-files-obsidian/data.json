@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 NoSQL",
+      "path": "wiki/zero/00 NoSQL.md"
+    },
+    {
       "basename": "Свойства транзакции БД (ACID)",
       "path": "knowledge/dev/database/Свойства транзакции БД (ACID).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Репликация в MySQL",
       "path": "_inbox/Репликация в MySQL.md"
-    },
-    {
-      "basename": "Репликация master-master",
-      "path": "_inbox/Репликация master-master.md"
     }
   ],
   "omittedPaths": [],
