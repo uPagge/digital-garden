@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Неповторяющееся чтение",
-      "path": "_inbox/Неповторяющееся чтение.md"
+      "basename": "Read committed",
+      "path": "_inbox/Read committed.md"
     },
     {
       "basename": "Уровни изоляций транзакций БД",
       "path": "knowledge/dev/database/Уровни изоляций транзакций БД.md"
+    },
+    {
+      "basename": "Транзакция БД",
+      "path": "_inbox/Транзакция БД.md"
+    },
+    {
+      "basename": "Фантомное чтение",
+      "path": "_inbox/Фантомное чтение.md"
+    },
+    {
+      "basename": "Read uncommitted",
+      "path": "_inbox/Read uncommitted.md"
     },
     {
       "basename": "Потерянное обновление",
@@ -17,12 +29,12 @@
       "path": "_inbox/Repeatable read.md"
     },
     {
-      "basename": "Serializable",
-      "path": "_inbox/Serializable.md"
+      "basename": "Неповторяющееся чтение",
+      "path": "_inbox/Неповторяющееся чтение.md"
     },
     {
-      "basename": "Транзакция БД",
-      "path": "_inbox/Транзакция БД.md"
+      "basename": "Serializable",
+      "path": "_inbox/Serializable.md"
     },
     {
       "basename": "Проблемы при параллельном выполнении нескольких транзакций",
@@ -37,24 +49,12 @@
       "path": "_inbox/Безмастерная репликация.md"
     },
     {
-      "basename": "Фантомное чтение",
-      "path": "_inbox/Фантомное чтение.md"
-    },
-    {
       "basename": "Полу-синхронная репликация",
       "path": "_inbox/Полу-синхронная репликация.md"
     },
     {
       "basename": "Грязное чтение",
       "path": "_inbox/Грязное чтение.md"
-    },
-    {
-      "basename": "Read committed",
-      "path": "_inbox/Read committed.md"
-    },
-    {
-      "basename": "Read uncommitted",
-      "path": "_inbox/Read uncommitted.md"
     },
     {
       "basename": "Memcached",
