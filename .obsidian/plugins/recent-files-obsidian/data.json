@@ -5,6 +5,14 @@
       "path": "_inbox/Транзакция БД.md"
     },
     {
+      "basename": "Reliability",
+      "path": "_inbox/Reliability.md"
+    },
+    {
+      "basename": "Race condition",
+      "path": "_inbox/Race condition.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Disaster recovery",
       "path": "_inbox/Disaster recovery.md"
-    },
-    {
-      "basename": "Репликация БД",
-      "path": "_inbox/Репликация БД.md"
-    },
-    {
-      "basename": "Журнал БД",
-      "path": "_inbox/Журнал БД.md"
     }
   ],
   "omittedPaths": [],

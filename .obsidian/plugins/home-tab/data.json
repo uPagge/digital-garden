@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Транзакция БД.md",
-      "timestamp": 1718813920653
+      "timestamp": 1718814212448
+    },
+    {
+      "filepath": "_inbox/Reliability.md",
+      "timestamp": 1718814211042
+    },
+    {
+      "filepath": "_inbox/Race condition.md",
+      "timestamp": 1718814109154
     },
     {
       "filepath": "Home.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Кэширование.md",
       "timestamp": 1718813915973
-    },
-    {
-      "filepath": "Инвалидация кэша.md",
-      "timestamp": 1718813915239
-    },
-    {
-      "filepath": "wiki/zero/00 HighLoad.md",
-      "timestamp": 1718813912951
     }
   ],
   "bookmarkedFileStore": [],
