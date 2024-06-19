@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Грязное чтение",
+      "path": "_inbox/Грязное чтение.md"
+    },
+    {
+      "basename": "Read uncommitted",
+      "path": "_inbox/Read uncommitted.md"
+    },
+    {
+      "basename": "Уровни изоляций транзакций БД",
+      "path": "knowledge/dev/database/Уровни изоляций транзакций БД.md"
+    },
+    {
+      "basename": "Проблемы при параллельном выполнении нескольких транзакций",
+      "path": "knowledge/dev/database/Проблемы при параллельном выполнении нескольких транзакций.md"
+    },
+    {
+      "basename": "Транзакция БД",
+      "path": "_inbox/Транзакция БД.md"
+    },
+    {
+      "basename": "Memcached",
+      "path": "_inbox/Memcached.md"
+    },
+    {
       "basename": "00 NoSQL",
       "path": "wiki/zero/00 NoSQL.md"
     },
@@ -11,14 +35,6 @@
     {
       "basename": "Вопросы для собеседование Java",
       "path": "notes/Собеседования/Вопросы для собеседование Java.md"
-    },
-    {
-      "basename": "Проблемы при параллельном выполнении нескольких транзакций",
-      "path": "knowledge/dev/database/Проблемы при параллельном выполнении нескольких транзакций.md"
-    },
-    {
-      "basename": "Транзакция БД",
-      "path": "_inbox/Транзакция БД.md"
     },
     {
       "basename": "Микросервисы. Паттерны разработки и рефакторинга",
@@ -177,28 +193,12 @@
       "path": "meta/files/Pasted image 20240617194938.png"
     },
     {
-      "basename": "Memcached",
-      "path": "_inbox/Memcached.md"
-    },
-    {
       "basename": "Redis",
       "path": "_inbox/Redis.md"
     },
     {
       "basename": "Fingerprint файлов",
       "path": "_inbox/Fingerprint файлов.md"
-    },
-    {
-      "basename": "Generational Collection",
-      "path": "knowledge/dev/java/gc/Generational Collection.md"
-    },
-    {
-      "basename": "Стресс",
-      "path": "knowledge/human/Стресс.md"
-    },
-    {
-      "basename": "Репликация в MySQL",
-      "path": "_inbox/Репликация в MySQL.md"
     }
   ],
   "omittedPaths": [],
