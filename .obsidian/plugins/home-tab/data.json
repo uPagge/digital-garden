@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Согласованное префиксное чтение.md",
+      "timestamp": 1718908758111
+    },
+    {
+      "filepath": "_inbox/Шардирование.md",
+      "timestamp": 1718908718701
+    },
+    {
+      "filepath": "Home.md",
+      "timestamp": 1718908716086
+    },
+    {
       "filepath": "_inbox/Потерянное обновление.md",
       "timestamp": 1718907466550
     },
     {
       "filepath": "_inbox/MVCC.md",
       "timestamp": 1718902462965
-    },
-    {
-      "filepath": "_inbox/Repeatable read.md",
-      "timestamp": 1718902423445
-    },
-    {
-      "filepath": "_inbox/Read committed.md",
-      "timestamp": 1718902353249
-    },
-    {
-      "filepath": "_inbox/Блокировки.md",
-      "timestamp": 1718901922212
     }
   ],
   "bookmarkedFileStore": [],

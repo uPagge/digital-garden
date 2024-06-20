@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Согласованное префиксное чтение",
+      "path": "_inbox/Согласованное префиксное чтение.md"
+    },
+    {
+      "basename": "Шардирование",
+      "path": "_inbox/Шардирование.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Потерянное обновление",
       "path": "_inbox/Потерянное обновление.md"
     },
@@ -29,10 +41,6 @@
       "path": "_inbox/Two Phase Lock.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "Транзакция БД",
       "path": "_inbox/Транзакция БД.md"
     },
@@ -55,14 +63,6 @@
     {
       "basename": "Pasted image 20240620094127",
       "path": "meta/files/Pasted image 20240620094127.png"
-    },
-    {
-      "basename": "Шардирование",
-      "path": "_inbox/Шардирование.md"
-    },
-    {
-      "basename": "Согласованное префиксное чтение",
-      "path": "_inbox/Согласованное префиксное чтение.md"
     },
     {
       "basename": "Неповторяющееся чтение",
