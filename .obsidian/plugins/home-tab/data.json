@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Блокировки.md",
+      "timestamp": 1718901746928
+    },
+    {
+      "filepath": "_inbox/Deadlock.md",
+      "timestamp": 1718901738130
+    },
+    {
       "filepath": "_inbox/Two Phase Lock.md",
       "timestamp": 1718901445162
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Транзакция БД.md",
       "timestamp": 1718901431282
-    },
-    {
-      "filepath": "knowledge/dev/database/Свойства транзакции БД (ACID).md",
-      "timestamp": 1718901429992
-    },
-    {
-      "filepath": "_inbox/Basically Available Soft state Eventual consistency.md",
-      "timestamp": 1718901056216
     }
   ],
   "bookmarkedFileStore": [],
