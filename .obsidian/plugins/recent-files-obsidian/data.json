@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Two Phase Lock",
-      "path": "_inbox/Two Phase Lock.md"
+      "basename": "Свойства транзакции БД (ACID)",
+      "path": "knowledge/dev/database/Свойства транзакции БД (ACID).md"
+    },
+    {
+      "basename": "Транзакция БД",
+      "path": "_inbox/Транзакция БД.md"
     },
     {
       "basename": "Блокировки",
       "path": "_inbox/Блокировки.md"
+    },
+    {
+      "basename": "Журналы в MySQL",
+      "path": "_inbox/Журналы в MySQL.md"
+    },
+    {
+      "basename": "Two Phase Lock",
+      "path": "_inbox/Two Phase Lock.md"
     },
     {
       "basename": "Home",
@@ -35,10 +47,6 @@
     {
       "basename": "MVCC",
       "path": "_inbox/MVCC.md"
-    },
-    {
-      "basename": "Транзакция БД",
-      "path": "_inbox/Транзакция БД.md"
     },
     {
       "basename": "Repeatable read",
@@ -91,10 +99,6 @@
     {
       "basename": "00 NoSQL",
       "path": "wiki/zero/00 NoSQL.md"
-    },
-    {
-      "basename": "Свойства транзакции БД (ACID)",
-      "path": "knowledge/dev/database/Свойства транзакции БД (ACID).md"
     },
     {
       "basename": "Вопросы для собеседование Java",
@@ -195,10 +199,6 @@
     {
       "basename": "LSM дерево",
       "path": "_inbox/LSM дерево.md"
-    },
-    {
-      "basename": "B-tree",
-      "path": "_inbox/B-tree.md"
     }
   ],
   "omittedPaths": [],

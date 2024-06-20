@@ -19,7 +19,7 @@ linked:
 
 Примерно в это же время MySQL подарили новый Storage Engine, который называется InnoDB. Это широко используемая штука, и в InnoDB свой журнал. Получилось два журнала – InnoDB и Binary Log. Этот момент стал точкой невозврата, после чего появились проблемы, которые решить очень тяжело.
 
-Binary Log не используется для [Point In Time Recovery](Point%20In%20Time%20Recovery%20(PITR).md), а InnoDB Undo/Redo Log не используется в репликации. Получилось, что у PostgreSQL журнал один, а у MySQL их, как бы, два.
+Binary Log не используется для [Point In Time Recovery](Point%20In%20Time%20Recovery%20(PITR).md), а InnoDB  Undo/Redo Log не используется в репликации. Получилось, что у PostgreSQL журнал один, а у MySQL их, как бы, два.
 ## InnoDB Undo/Redo Log
 ## Binary Log
 У Binary Log, который нужен для репликации, есть два или три формата (типа).
