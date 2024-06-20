@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Потерянное обновление.md",
+      "timestamp": 1718907466550
+    },
+    {
       "filepath": "_inbox/MVCC.md",
       "timestamp": 1718902462965
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Блокировки.md",
       "timestamp": 1718901922212
-    },
-    {
-      "filepath": "_inbox/Deadlock.md",
-      "timestamp": 1718901920086
     }
   ],
   "bookmarkedFileStore": [],
