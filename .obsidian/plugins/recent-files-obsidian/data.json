@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Basically Available Soft state Eventual consistency",
+      "path": "_inbox/Basically Available Soft state Eventual consistency.md"
+    },
+    {
       "basename": "Свойства транзакции БД (ACID)",
       "path": "knowledge/dev/database/Свойства транзакции БД (ACID).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Most Recently Used",
       "path": "_inbox/Most Recently Used.md"
-    },
-    {
-      "basename": "LSM дерево",
-      "path": "_inbox/LSM дерево.md"
     }
   ],
   "omittedPaths": [],

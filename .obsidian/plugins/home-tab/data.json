@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/2024-06-20 1718901056.md",
+      "timestamp": 1718901056216
+    },
+    {
       "filepath": "knowledge/dev/database/Свойства транзакции БД (ACID).md",
       "timestamp": 1718900804605
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Журналы в MySQL.md",
       "timestamp": 1718900595131
-    },
-    {
-      "filepath": "_inbox/Two Phase Lock.md",
-      "timestamp": 1718899990393
     }
   ],
   "bookmarkedFileStore": [],
