@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-06-20 1718908901.md",
+      "filepath": "Партиционирование.md",
+      "timestamp": 1718909133656
+    },
+    {
+      "filepath": "_inbox/Шардирование - OTUS.md",
       "timestamp": 1718908901467
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Согласованное префиксное чтение.md",
       "timestamp": 1718908758111
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1718908716086
     }
   ],
   "bookmarkedFileStore": [],

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Партиционирование в БД",
+      "path": "Партиционирование в БД.md"
+    },
+    {
       "basename": "Шардирование - OTUS",
       "path": "_inbox/Шардирование - OTUS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Adaptive Replacement Cache",
       "path": "_inbox/Adaptive Replacement Cache.md"
-    },
-    {
-      "basename": "Last Frequently Used",
-      "path": "_inbox/Last Frequently Used.md"
     }
   ],
   "omittedPaths": [],
