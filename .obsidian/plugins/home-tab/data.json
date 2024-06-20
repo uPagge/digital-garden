@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Партиционирование.md",
-      "timestamp": 1718909133656
+      "filepath": "_inbox/Шардирование в БД.md",
+      "timestamp": 1718909535878
+    },
+    {
+      "filepath": "_inbox/Горизонтальное масштабирование.md",
+      "timestamp": 1718909530869
+    },
+    {
+      "filepath": "_inbox/Вертикальное масштабирование.md",
+      "timestamp": 1718909525308
+    },
+    {
+      "filepath": "Партиционирование в БД.md",
+      "timestamp": 1718909422727
     },
     {
       "filepath": "_inbox/Шардирование - OTUS.md",
       "timestamp": 1718908901467
-    },
-    {
-      "filepath": "_inbox/Шардирование.md",
-      "timestamp": 1718908873063
-    },
-    {
-      "filepath": "_inbox/Вертикальное масштабирование.md",
-      "timestamp": 1718908853473
-    },
-    {
-      "filepath": "_inbox/Согласованное префиксное чтение.md",
-      "timestamp": 1718908758111
     }
   ],
   "bookmarkedFileStore": [],

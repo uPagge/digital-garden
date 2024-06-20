@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Шардирование в БД",
+      "path": "_inbox/Шардирование в БД.md"
+    },
+    {
+      "basename": "Горизонтальное масштабирование",
+      "path": "_inbox/Горизонтальное масштабирование.md"
+    },
+    {
+      "basename": "Вертикальное масштабирование",
+      "path": "_inbox/Вертикальное масштабирование.md"
+    },
+    {
       "basename": "Партиционирование в БД",
       "path": "Партиционирование в БД.md"
     },
     {
       "basename": "Шардирование - OTUS",
       "path": "_inbox/Шардирование - OTUS.md"
-    },
-    {
-      "basename": "Шардирование",
-      "path": "_inbox/Шардирование.md"
-    },
-    {
-      "basename": "Вертикальное масштабирование",
-      "path": "_inbox/Вертикальное масштабирование.md"
     },
     {
       "basename": "Согласованное префиксное чтение",
@@ -195,10 +199,6 @@
     {
       "basename": "Java Разработка",
       "path": "knowledge/dev/java/Java Разработка.md"
-    },
-    {
-      "basename": "Adaptive Replacement Cache",
-      "path": "_inbox/Adaptive Replacement Cache.md"
     }
   ],
   "omittedPaths": [],
