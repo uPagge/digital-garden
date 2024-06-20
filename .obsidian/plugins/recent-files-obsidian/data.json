@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Read committed",
+      "path": "_inbox/Read committed.md"
+    },
+    {
+      "basename": "MVCC",
+      "path": "_inbox/MVCC.md"
+    },
+    {
       "basename": "Блокировки",
       "path": "_inbox/Блокировки.md"
     },
@@ -53,20 +61,12 @@
       "path": "_inbox/Согласованное префиксное чтение.md"
     },
     {
-      "basename": "MVCC",
-      "path": "_inbox/MVCC.md"
-    },
-    {
       "basename": "Repeatable read",
       "path": "_inbox/Repeatable read.md"
     },
     {
       "basename": "Неповторяющееся чтение",
       "path": "_inbox/Неповторяющееся чтение.md"
-    },
-    {
-      "basename": "Read committed",
-      "path": "_inbox/Read committed.md"
     },
     {
       "basename": "Уровни изоляций транзакций БД",
