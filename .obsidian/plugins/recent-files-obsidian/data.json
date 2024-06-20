@@ -195,10 +195,6 @@
     {
       "basename": "Псевдо-LRU",
       "path": "_inbox/Псевдо-LRU.md"
-    },
-    {
-      "basename": "Least Recently Used",
-      "path": "_inbox/Least Recently Used.md"
     }
   ],
   "omittedPaths": [],

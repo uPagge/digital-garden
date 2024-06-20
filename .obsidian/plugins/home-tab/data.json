@@ -25,11 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Блокировки.md",
-      "timestamp": 1718901746928
+      "timestamp": 1718901922212
     },
     {
       "filepath": "_inbox/Deadlock.md",
-      "timestamp": 1718901738130
+      "timestamp": 1718901920086
     },
     {
       "filepath": "_inbox/Two Phase Lock.md",
@@ -38,10 +38,6 @@
     {
       "filepath": "Home.md",
       "timestamp": 1718901433660
-    },
-    {
-      "filepath": "_inbox/Транзакция БД.md",
-      "timestamp": 1718901431282
     }
   ],
   "bookmarkedFileStore": [],
