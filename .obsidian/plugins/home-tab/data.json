@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Партиционирование в БД.md",
+      "timestamp": 1718909771420
+    },
+    {
       "filepath": "_inbox/Шардирование в БД.md",
       "timestamp": 1718909535878
     },
@@ -34,10 +38,6 @@
     {
       "filepath": "_inbox/Вертикальное масштабирование.md",
       "timestamp": 1718909525308
-    },
-    {
-      "filepath": "Партиционирование в БД.md",
-      "timestamp": 1718909422727
     },
     {
       "filepath": "_inbox/Шардирование - OTUS.md",
