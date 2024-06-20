@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/2024-06-20 1718908901.md",
+      "timestamp": 1718908901467
+    },
+    {
+      "filepath": "_inbox/Шардирование.md",
+      "timestamp": 1718908873063
+    },
+    {
+      "filepath": "_inbox/Вертикальное масштабирование.md",
+      "timestamp": 1718908853473
+    },
+    {
       "filepath": "_inbox/Согласованное префиксное чтение.md",
       "timestamp": 1718908758111
     },
     {
-      "filepath": "_inbox/Шардирование.md",
-      "timestamp": 1718908718701
-    },
-    {
       "filepath": "Home.md",
       "timestamp": 1718908716086
-    },
-    {
-      "filepath": "_inbox/Потерянное обновление.md",
-      "timestamp": 1718907466550
-    },
-    {
-      "filepath": "_inbox/MVCC.md",
-      "timestamp": 1718902462965
     }
   ],
   "bookmarkedFileStore": [],

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Согласованное префиксное чтение",
-      "path": "_inbox/Согласованное префиксное чтение.md"
+      "basename": "Шардирование - OTUS",
+      "path": "_inbox/Шардирование - OTUS.md"
     },
     {
       "basename": "Шардирование",
       "path": "_inbox/Шардирование.md"
+    },
+    {
+      "basename": "Вертикальное масштабирование",
+      "path": "_inbox/Вертикальное масштабирование.md"
+    },
+    {
+      "basename": "Согласованное префиксное чтение",
+      "path": "_inbox/Согласованное префиксное чтение.md"
     },
     {
       "basename": "Home",
@@ -191,10 +199,6 @@
     {
       "basename": "Last Frequently Used",
       "path": "_inbox/Last Frequently Used.md"
-    },
-    {
-      "basename": "Псевдо-LRU",
-      "path": "_inbox/Псевдо-LRU.md"
     }
   ],
   "omittedPaths": [],
