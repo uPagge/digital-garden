@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Партиционирование в БД.md",
-      "timestamp": 1718909771420
+      "filepath": "_inbox/Key Based Sharding.md",
+      "timestamp": 1718910242721
     },
     {
       "filepath": "_inbox/Шардирование в БД.md",
-      "timestamp": 1718909535878
+      "timestamp": 1718910222388
+    },
+    {
+      "filepath": "Партиционирование в БД.md",
+      "timestamp": 1718909771420
     },
     {
       "filepath": "_inbox/Горизонтальное масштабирование.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Вертикальное масштабирование.md",
       "timestamp": 1718909525308
-    },
-    {
-      "filepath": "_inbox/Шардирование - OTUS.md",
-      "timestamp": 1718908901467
     }
   ],
   "bookmarkedFileStore": [],

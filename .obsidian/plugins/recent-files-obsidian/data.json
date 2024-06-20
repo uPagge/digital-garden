@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Партиционирование в БД",
-      "path": "Партиционирование в БД.md"
+      "basename": "Key Based Sharding",
+      "path": "_inbox/Key Based Sharding.md"
     },
     {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
+    },
+    {
+      "basename": "Партиционирование в БД",
+      "path": "Партиционирование в БД.md"
     },
     {
       "basename": "Горизонтальное масштабирование",
@@ -195,10 +199,6 @@
     {
       "basename": "00 Разработка",
       "path": "wiki/zero/00 Разработка.md"
-    },
-    {
-      "basename": "Java Разработка",
-      "path": "knowledge/dev/java/Java Разработка.md"
     }
   ],
   "omittedPaths": [],
