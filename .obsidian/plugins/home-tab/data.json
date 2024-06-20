@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/MVCC.md",
+      "timestamp": 1718865171538
+    },
+    {
+      "filepath": "Home.md",
+      "timestamp": 1718864880410
+    },
+    {
       "filepath": "_inbox/Транзакция БД.md",
       "timestamp": 1718864879701
     }
