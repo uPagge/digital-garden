@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Basically Available Soft state Eventual consistency",
-      "path": "_inbox/Basically Available Soft state Eventual consistency.md"
+      "basename": "Two Phase Lock",
+      "path": "_inbox/Two Phase Lock.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Транзакция БД",
+      "path": "_inbox/Транзакция БД.md"
     },
     {
       "basename": "Свойства транзакции БД (ACID)",
       "path": "knowledge/dev/database/Свойства транзакции БД (ACID).md"
     },
     {
-      "basename": "Транзакция БД",
-      "path": "_inbox/Транзакция БД.md"
+      "basename": "Basically Available Soft state Eventual consistency",
+      "path": "_inbox/Basically Available Soft state Eventual consistency.md"
     },
     {
       "basename": "Блокировки",
@@ -19,14 +27,6 @@
     {
       "basename": "Журналы в MySQL",
       "path": "_inbox/Журналы в MySQL.md"
-    },
-    {
-      "basename": "Two Phase Lock",
-      "path": "_inbox/Two Phase Lock.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Фантомное чтение",

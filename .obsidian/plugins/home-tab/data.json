@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-06-20 1718901056.md",
-      "timestamp": 1718901056216
+      "filepath": "_inbox/Two Phase Lock.md",
+      "timestamp": 1718901445162
     },
     {
-      "filepath": "knowledge/dev/database/Свойства транзакции БД (ACID).md",
-      "timestamp": 1718900804605
+      "filepath": "Home.md",
+      "timestamp": 1718901433660
     },
     {
       "filepath": "_inbox/Транзакция БД.md",
-      "timestamp": 1718900696331
+      "timestamp": 1718901431282
     },
     {
-      "filepath": "_inbox/Блокировки.md",
-      "timestamp": 1718900690887
+      "filepath": "knowledge/dev/database/Свойства транзакции БД (ACID).md",
+      "timestamp": 1718901429992
     },
     {
-      "filepath": "_inbox/Журналы в MySQL.md",
-      "timestamp": 1718900595131
+      "filepath": "_inbox/Basically Available Soft state Eventual consistency.md",
+      "timestamp": 1718901056216
     }
   ],
   "bookmarkedFileStore": [],
