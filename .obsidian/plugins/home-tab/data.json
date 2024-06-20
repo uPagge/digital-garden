@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Two Phase Lock.md",
+      "timestamp": 1718899990393
+    },
+    {
+      "filepath": "_inbox/Блокировки.md",
+      "timestamp": 1718899989152
+    },
+    {
+      "filepath": "Home.md",
+      "timestamp": 1718899956245
+    },
+    {
       "filepath": "_inbox/Фантомное чтение.md",
       "timestamp": 1718865945013
     },
     {
       "filepath": "_inbox/Потерянное обновление.md",
       "timestamp": 1718865699169
-    },
-    {
-      "filepath": "meta/files/Pasted image 20240620094127.png",
-      "timestamp": 1718865695484
-    },
-    {
-      "filepath": "_inbox/Шардирование.md",
-      "timestamp": 1718865622571
-    },
-    {
-      "filepath": "_inbox/Согласованное префиксное чтение.md",
-      "timestamp": 1718865614222
     }
   ],
   "bookmarkedFileStore": [],

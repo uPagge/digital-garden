@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Two Phase Lock",
+      "path": "_inbox/Two Phase Lock.md"
+    },
+    {
+      "basename": "Блокировки",
+      "path": "_inbox/Блокировки.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Фантомное чтение",
       "path": "_inbox/Фантомное чтение.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "MVCC",
       "path": "_inbox/MVCC.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Транзакция БД",
@@ -191,14 +199,6 @@
     {
       "basename": "B-tree",
       "path": "_inbox/B-tree.md"
-    },
-    {
-      "basename": "Принцип локальности",
-      "path": "_inbox/Принцип локальности.md"
-    },
-    {
-      "basename": "Cache miss",
-      "path": "Cache miss.md"
     }
   ],
   "omittedPaths": [],
