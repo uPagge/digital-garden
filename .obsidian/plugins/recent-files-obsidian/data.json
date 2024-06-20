@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Потерянное обновление",
+      "path": "_inbox/Потерянное обновление.md"
+    },
+    {
+      "basename": "Pasted image 20240620094127",
+      "path": "meta/files/Pasted image 20240620094127.png"
+    },
+    {
+      "basename": "Шардирование",
+      "path": "_inbox/Шардирование.md"
+    },
+    {
+      "basename": "Согласованное префиксное чтение",
+      "path": "_inbox/Согласованное префиксное чтение.md"
+    },
+    {
       "basename": "MVCC",
       "path": "_inbox/MVCC.md"
     },
@@ -43,10 +59,6 @@
     {
       "basename": "Read uncommitted",
       "path": "_inbox/Read uncommitted.md"
-    },
-    {
-      "basename": "Потерянное обновление",
-      "path": "_inbox/Потерянное обновление.md"
     },
     {
       "basename": "Serializable",
@@ -187,18 +199,6 @@
     {
       "basename": "Cache miss",
       "path": "Cache miss.md"
-    },
-    {
-      "basename": "Вычет 2024",
-      "path": "home/Вычеты/Вычет 2024.md"
-    },
-    {
-      "basename": "Полезное про собеседования",
-      "path": "notes/Полезное про собеседования.md"
-    },
-    {
-      "basename": "Ответ HR",
-      "path": "_inbox/Ответ HR.md"
     }
   ],
   "omittedPaths": [],
