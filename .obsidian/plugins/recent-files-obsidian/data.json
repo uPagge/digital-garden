@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Журнал БД",
-      "path": "_inbox/Журнал БД.md"
-    },
-    {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
+    },
+    {
+      "basename": "Point In Time Recovery (PITR)",
+      "path": "_inbox/Point In Time Recovery (PITR).md"
+    },
+    {
+      "basename": "Журнал БД",
+      "path": "_inbox/Журнал БД.md"
     },
     {
       "basename": "High Availability",
@@ -195,10 +199,6 @@
     {
       "basename": "Reliability",
       "path": "_inbox/Reliability.md"
-    },
-    {
-      "basename": "Кэширование",
-      "path": "_inbox/Кэширование.md"
     }
   ],
   "omittedPaths": [],
