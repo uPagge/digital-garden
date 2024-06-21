@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Журнал БД.md",
+      "timestamp": 1718965646002
+    },
+    {
       "filepath": "_inbox/Репликация БД.md",
       "timestamp": 1718965189626
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Групповая репликация.md",
       "timestamp": 1718953208697
-    },
-    {
-      "filepath": "_inbox/Безмастерная репликация.md",
-      "timestamp": 1718953183477
     }
   ],
   "bookmarkedFileStore": [],
