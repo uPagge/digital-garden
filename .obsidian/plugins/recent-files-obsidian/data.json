@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Key Based Sharding",
-      "path": "_inbox/Key Based Sharding.md"
+      "basename": "2024-06-20 1718910779",
+      "path": "_inbox/2024-06-20 1718910779.md"
+    },
+    {
+      "basename": "Range Base Sharding",
+      "path": "_inbox/Range Base Sharding.md"
     },
     {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
+    },
+    {
+      "basename": "Key Based Sharding",
+      "path": "_inbox/Key Based Sharding.md"
     },
     {
       "basename": "Партиционирование в БД",
@@ -191,14 +199,6 @@
     {
       "basename": "High Availability",
       "path": "_inbox/High Availability.md"
-    },
-    {
-      "basename": "2024-06-18 1718710626",
-      "path": "_inbox/2024-06-18 1718710626.md"
-    },
-    {
-      "basename": "00 Разработка",
-      "path": "wiki/zero/00 Разработка.md"
     }
   ],
   "omittedPaths": [],
