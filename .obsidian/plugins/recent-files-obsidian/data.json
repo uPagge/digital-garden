@@ -5,6 +5,10 @@
       "path": "_inbox/Репликация БД.md"
     },
     {
+      "basename": "High Availability",
+      "path": "_inbox/High Availability.md"
+    },
+    {
       "basename": "Репликация в MySQL",
       "path": "_inbox/Репликация в MySQL.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
-    },
-    {
-      "basename": "Инвалидация кэша",
-      "path": "Инвалидация кэша.md"
     }
   ],
   "omittedPaths": [],
