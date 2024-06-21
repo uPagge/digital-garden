@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Репликация master-slave.md",
+      "timestamp": 1718966996464
+    },
+    {
       "filepath": "_inbox/Репликация БД.md",
-      "timestamp": 1718966036055
+      "timestamp": 1718966995450
+    },
+    {
+      "filepath": "meta/files/Pasted image 20240531083508.png",
+      "timestamp": 1718966806063
     },
     {
       "filepath": "_inbox/Point In Time Recovery (PITR).md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Журнал БД.md",
       "timestamp": 1718965646002
-    },
-    {
-      "filepath": "_inbox/High Availability.md",
-      "timestamp": 1718965086377
-    },
-    {
-      "filepath": "_inbox/Репликация в MySQL.md",
-      "timestamp": 1718953220035
     }
   ],
   "bookmarkedFileStore": [],

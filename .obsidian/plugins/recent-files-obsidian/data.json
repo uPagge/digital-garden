@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Репликация master-slave",
+      "path": "_inbox/Репликация master-slave.md"
+    },
+    {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
+    },
+    {
+      "basename": "Pasted image 20240531083508",
+      "path": "meta/files/Pasted image 20240531083508.png"
     },
     {
       "basename": "Point In Time Recovery (PITR)",
@@ -191,14 +199,6 @@
     {
       "basename": "Вопросы для собеседование Java",
       "path": "notes/Собеседования/Вопросы для собеседование Java.md"
-    },
-    {
-      "basename": "Микросервисы. Паттерны разработки и рефакторинга",
-      "path": "notes/Микросервисы. Паттерны разработки и рефакторинга.md"
-    },
-    {
-      "basename": "Reliability",
-      "path": "_inbox/Reliability.md"
     }
   ],
   "omittedPaths": [],
