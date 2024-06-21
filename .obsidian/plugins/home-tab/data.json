@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Репликация master-slave.md",
-      "timestamp": 1718966996464
+      "filepath": "_inbox/Безмастерная репликация.md",
+      "timestamp": 1718967276611
     },
     {
       "filepath": "_inbox/Репликация БД.md",
-      "timestamp": 1718966995450
+      "timestamp": 1718967275704
+    },
+    {
+      "filepath": "_inbox/Репликация master-slave.md",
+      "timestamp": 1718966996464
     },
     {
       "filepath": "meta/files/Pasted image 20240531083508.png",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Point In Time Recovery (PITR).md",
       "timestamp": 1718965893661
-    },
-    {
-      "filepath": "_inbox/Журнал БД.md",
-      "timestamp": 1718965646002
     }
   ],
   "bookmarkedFileStore": [],

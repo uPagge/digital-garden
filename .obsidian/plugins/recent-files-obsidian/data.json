@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Репликация master-slave",
-      "path": "_inbox/Репликация master-slave.md"
+      "basename": "Безмастерная репликация",
+      "path": "_inbox/Безмастерная репликация.md"
     },
     {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
+    },
+    {
+      "basename": "Репликация master-slave",
+      "path": "_inbox/Репликация master-slave.md"
     },
     {
       "basename": "Pasted image 20240531083508",
@@ -31,10 +35,6 @@
     {
       "basename": "Групповая репликация",
       "path": "_inbox/Групповая репликация.md"
-    },
-    {
-      "basename": "Безмастерная репликация",
-      "path": "_inbox/Безмастерная репликация.md"
     },
     {
       "basename": "Монотонное чтение",
