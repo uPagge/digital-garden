@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Безмастерная репликация.md",
-      "timestamp": 1718967276611
+      "timestamp": 1718967957730
+    },
+    {
+      "filepath": "_inbox/Tombstone.md",
+      "timestamp": 1718967953625
     },
     {
       "filepath": "_inbox/Репликация БД.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "meta/files/Pasted image 20240531083508.png",
       "timestamp": 1718966806063
-    },
-    {
-      "filepath": "_inbox/Point In Time Recovery (PITR).md",
-      "timestamp": 1718965893661
     }
   ],
   "bookmarkedFileStore": [],

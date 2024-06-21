@@ -5,6 +5,10 @@
       "path": "_inbox/Безмастерная репликация.md"
     },
     {
+      "basename": "Tombstone",
+      "path": "_inbox/Tombstone.md"
+    },
+    {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "00 NoSQL",
       "path": "wiki/zero/00 NoSQL.md"
-    },
-    {
-      "basename": "Вопросы для собеседование Java",
-      "path": "notes/Собеседования/Вопросы для собеседование Java.md"
     }
   ],
   "omittedPaths": [],
