@@ -5,6 +5,30 @@
       "path": "_inbox/Репликация БД.md"
     },
     {
+      "basename": "Репликация в MySQL",
+      "path": "_inbox/Репликация в MySQL.md"
+    },
+    {
+      "basename": "Групповая репликация",
+      "path": "_inbox/Групповая репликация.md"
+    },
+    {
+      "basename": "Безмастерная репликация",
+      "path": "_inbox/Безмастерная репликация.md"
+    },
+    {
+      "basename": "Монотонное чтение",
+      "path": "_inbox/Монотонное чтение.md"
+    },
+    {
+      "basename": "Журнал БД",
+      "path": "_inbox/Журнал БД.md"
+    },
+    {
+      "basename": "Отставание реплики в БД",
+      "path": "_inbox/Отставание реплики в БД.md"
+    },
+    {
       "basename": "Полу-синхронная репликация",
       "path": "_inbox/Полу-синхронная репликация.md"
     },
@@ -149,10 +173,6 @@
       "path": "_inbox/Race condition.md"
     },
     {
-      "basename": "Безмастерная репликация",
-      "path": "_inbox/Безмастерная репликация.md"
-    },
-    {
       "basename": "Memcached",
       "path": "_inbox/Memcached.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Инвалидация кэша",
       "path": "Инвалидация кэша.md"
-    },
-    {
-      "basename": "00 HighLoad",
-      "path": "wiki/zero/00 HighLoad.md"
-    },
-    {
-      "basename": "Старт с холодным кэшом",
-      "path": "_inbox/Старт с холодным кэшом.md"
-    },
-    {
-      "basename": "Перестройка кэша",
-      "path": "_inbox/Перестройка кэша.md"
-    },
-    {
-      "basename": "Tarantool",
-      "path": "_inbox/Tarantool.md"
-    },
-    {
-      "basename": "Кэширование на сервере",
-      "path": "_inbox/Кэширование на сервере.md"
     }
   ],
   "omittedPaths": [],

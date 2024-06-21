@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Репликация БД.md",
-      "timestamp": 1718952868729
+      "timestamp": 1718953227864
     },
     {
-      "filepath": "_inbox/Полу-синхронная репликация.md",
-      "timestamp": 1718952831932
+      "filepath": "_inbox/Репликация в MySQL.md",
+      "timestamp": 1718953220035
     },
     {
-      "filepath": "_inbox/Асинхронная репликация.md",
-      "timestamp": 1718952831794
+      "filepath": "_inbox/Групповая репликация.md",
+      "timestamp": 1718953208697
     },
     {
-      "filepath": "_inbox/Синхронная репликация.md",
-      "timestamp": 1718952829820
+      "filepath": "_inbox/Безмастерная репликация.md",
+      "timestamp": 1718953183477
     },
     {
-      "filepath": "_inbox/Репликация в PostgreSQL.md",
-      "timestamp": 1718952813648
+      "filepath": "_inbox/Монотонное чтение.md",
+      "timestamp": 1718953163054
     }
   ],
   "bookmarkedFileStore": [],
