@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-06-20 1718910779.md",
-      "timestamp": 1718952713730
+      "filepath": "_inbox/Репликация БД.md",
+      "timestamp": 1718952868729
+    },
+    {
+      "filepath": "_inbox/Полу-синхронная репликация.md",
+      "timestamp": 1718952831932
+    },
+    {
+      "filepath": "_inbox/Асинхронная репликация.md",
+      "timestamp": 1718952831794
+    },
+    {
+      "filepath": "_inbox/Синхронная репликация.md",
+      "timestamp": 1718952829820
+    },
+    {
+      "filepath": "_inbox/Репликация в PostgreSQL.md",
+      "timestamp": 1718952813648
     }
   ],
   "bookmarkedFileStore": [],

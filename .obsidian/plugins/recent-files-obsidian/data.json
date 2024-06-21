@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Репликация БД",
+      "path": "_inbox/Репликация БД.md"
+    },
+    {
+      "basename": "Полу-синхронная репликация",
+      "path": "_inbox/Полу-синхронная репликация.md"
+    },
+    {
+      "basename": "Асинхронная репликация",
+      "path": "_inbox/Асинхронная репликация.md"
+    },
+    {
+      "basename": "Синхронная репликация",
+      "path": "_inbox/Синхронная репликация.md"
+    },
+    {
+      "basename": "Репликация в PostgreSQL",
+      "path": "_inbox/Репликация в PostgreSQL.md"
+    },
+    {
+      "basename": "Настройка репликации в PostgreSQL",
+      "path": "_inbox/Настройка репликации в PostgreSQL.md"
+    },
+    {
+      "basename": "Write-Ahead Log",
+      "path": "_inbox/Write-Ahead Log.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "2024-06-20 1718910779",
       "path": "_inbox/2024-06-20 1718910779.md"
     },
@@ -35,10 +67,6 @@
     {
       "basename": "Согласованное префиксное чтение",
       "path": "_inbox/Согласованное префиксное чтение.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Потерянное обновление",
@@ -125,10 +153,6 @@
       "path": "_inbox/Безмастерная репликация.md"
     },
     {
-      "basename": "Полу-синхронная репликация",
-      "path": "_inbox/Полу-синхронная репликация.md"
-    },
-    {
       "basename": "Memcached",
       "path": "_inbox/Memcached.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Кэширование на сервере",
       "path": "_inbox/Кэширование на сервере.md"
-    },
-    {
-      "basename": "Кэширование на стороне браузера",
-      "path": "_inbox/Кэширование на стороне браузера.md"
-    },
-    {
-      "basename": "Кэширование на стороне Nginx",
-      "path": "_inbox/Кэширование на стороне Nginx.md"
-    },
-    {
-      "basename": "Настройка клиентского кэширования в Nginx",
-      "path": "_inbox/Настройка клиентского кэширования в Nginx.md"
-    },
-    {
-      "basename": "Предлоги в Английском",
-      "path": "knowledge/english/Предлоги в Английском.md"
-    },
-    {
-      "basename": "Модальные глаголы",
-      "path": "knowledge/english/Модальные глаголы.md"
-    },
-    {
-      "basename": "High Availability",
-      "path": "_inbox/High Availability.md"
     }
   ],
   "omittedPaths": [],
