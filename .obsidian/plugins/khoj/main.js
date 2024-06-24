@@ -1559,12 +1559,12 @@ var KhojChatView = class extends KhojPaneView {
     let { contentEl } = this;
     contentEl.addClass("khoj-chat");
     super.onOpen();
-    let defaultDomains = `'self' ${this.setting.khojUrl} https://app.khoj.dev https://assets.khoj.dev`;
+    let defaultDomains = `'self' ${this.setting.khojUrl} https://*.obsidian.md https://app.khoj.dev https://assets.khoj.dev`;
     const defaultSrc = `default-src ${defaultDomains};`;
     const scriptSrc = `script-src ${defaultDomains} 'unsafe-inline';`;
-    const connectSrc = `connect-src ${this.setting.khojUrl} https://ipapi.co/json;`;
+    const connectSrc = `connect-src ${this.setting.khojUrl} wss://*.obsidian.md/ https://ipapi.co/json;`;
     const styleSrc = `style-src ${defaultDomains} 'unsafe-inline';`;
-    const imgSrc = `img-src ${defaultDomains} data: https://*.khoj.dev https://*.googleusercontent.com;`;
+    const imgSrc = `img-src * app: data:;`;
     const childSrc = `child-src 'none';`;
     const objectSrc = `object-src 'none';`;
     const csp = `${defaultSrc} ${scriptSrc} ${connectSrc} ${styleSrc} ${imgSrc} ${childSrc} ${objectSrc}`;
@@ -1746,19 +1746,21 @@ var KhojChatView = class extends KhojPaneView {
     return referenceButton;
   }
   formatHTMLMessage(message, raw = false, willReplace = true) {
-    let rendered_msg = message;
-    rendered_msg = rendered_msg.replace(/\\\(/g, "LEFTPAREN").replace(/\\\)/g, "RIGHTPAREN").replace(/\\\[/g, "LEFTBRACKET").replace(/\\\]/g, "RIGHTBRACKET");
-    rendered_msg = rendered_msg.replace(/<s>\[INST\].+(<\/s>)?/g, "");
+    message = message.replace(/<s>\[INST\].+(<\/s>)?/g, "");
     message = DOMPurify.sanitize(message);
     let chat_message_body_text_el = this.contentEl.createDiv();
     chat_message_body_text_el.className = "chat-message-text-response";
-    import_obsidian5.MarkdownRenderer.renderMarkdown(message, chat_message_body_text_el, "", null);
-    rendered_msg = chat_message_body_text_el.innerHTML;
-    chat_message_body_text_el.innerHTML = rendered_msg.replace(/LEFTPAREN/g, "\\(").replace(/RIGHTPAREN/g, "\\)").replace(/LEFTBRACKET/g, "\\[").replace(/RIGHTBRACKET/g, "\\]");
+    chat_message_body_text_el.innerHTML = this.markdownTextToSanitizedHtml(message);
     if (willReplace === true) {
       this.renderActionButtons(message, chat_message_body_text_el);
     }
     return chat_message_body_text_el;
+  }
+  markdownTextToSanitizedHtml(markdownText) {
+    let virtualChatMessageBodyTextEl = document.createElement("div");
+    import_obsidian5.MarkdownRenderer.renderMarkdown(markdownText, virtualChatMessageBodyTextEl, "", null);
+    virtualChatMessageBodyTextEl.innerHTML = virtualChatMessageBodyTextEl.innerHTML.replace(/<img(?:(?!src=["'](app:|data:|https:\/\/generated\.khoj\.dev)).)*?>/gis, "");
+    return DOMPurify.sanitize(virtualChatMessageBodyTextEl.innerHTML);
   }
   renderMessageWithReferences(chatEl, message, sender, context, onlineContext, dt, intentType, inferredQueries) {
     if (!message)
@@ -1816,7 +1818,7 @@ ${inferredQuery}`;
     if (raw) {
       chat_message_body_text_el.innerHTML = message;
     } else {
-      import_obsidian5.MarkdownRenderer.renderMarkdown(message, chat_message_body_text_el, "", null);
+      chat_message_body_text_el.innerHTML = this.markdownTextToSanitizedHtml(message);
     }
     if (willReplace === true) {
       this.renderActionButtons(message, chat_message_body_text_el);
@@ -1845,7 +1847,7 @@ ${inferredQuery}`;
     this.result += additionalMessage;
     htmlElement.innerHTML = "";
     this.result = DOMPurify.sanitize(this.result);
-    await import_obsidian5.MarkdownRenderer.renderMarkdown(this.result, htmlElement, "", null);
+    htmlElement.innerHTML = this.markdownTextToSanitizedHtml(this.result);
     this.renderActionButtons(this.result, htmlElement);
     this.scrollChatToBottom();
   }

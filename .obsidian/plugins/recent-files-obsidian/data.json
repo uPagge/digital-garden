@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Репликация master-master",
       "path": "_inbox/Репликация master-master.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Write-Ahead Log",
       "path": "_inbox/Write-Ahead Log.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "2024-06-20 1718910779",

@@ -244,7 +244,6 @@
     "zero-link": {}
   },
   "navigationHistory": [
-    "meta/files/3-mojno-vse-screen6.noginr..webp",
     "meta/files/Архитектура. Виджет на сайте.excalidraw.md",
     "meta/files/telegram-cloud-photo-size-2-5296555301971021735-y.jpg",
     "meta/files/screen 975.png",
@@ -293,7 +292,8 @@
     "knowledge/productivity/Майнд-мэп.md",
     "_inbox/2024-03-10 1710054825.md",
     "meta/files/image (2).png",
-    "orphaned files output.md"
+    "orphaned files output.md",
+    "Home.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
