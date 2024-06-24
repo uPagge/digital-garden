@@ -5,6 +5,10 @@
       "path": "Home.md"
     },
     {
+      "basename": "Идеи для ремонта",
+      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
+    },
+    {
       "basename": "Репликация master-master",
       "path": "_inbox/Репликация master-master.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Race condition",
       "path": "_inbox/Race condition.md"
-    },
-    {
-      "basename": "Memcached",
-      "path": "_inbox/Memcached.md"
     }
   ],
   "omittedPaths": [],
