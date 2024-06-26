@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-06-26 1719388540",
+      "path": "_inbox/2024-06-26 1719388540.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Read uncommitted",
       "path": "_inbox/Read uncommitted.md"
-    },
-    {
-      "basename": "Serializable",
-      "path": "_inbox/Serializable.md"
     }
   ],
   "omittedPaths": [],
