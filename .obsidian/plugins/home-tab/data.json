@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/2024-06-26 1719388540.md",
-      "timestamp": 1719388540728
+      "timestamp": 1719405879230
+    },
+    {
+      "filepath": "_inbox/OLAP.md",
+      "timestamp": 1719405872450
     },
     {
       "filepath": "Home.md",
-      "timestamp": 1719383351204
+      "timestamp": 1719405864552
+    },
+    {
+      "filepath": "_inbox/OLTP.md",
+      "timestamp": 1719405860627
     },
     {
       "filepath": "_inbox/2024-06-24 1719217152.md",
       "timestamp": 1719217152093
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
-      "timestamp": 1719214907979
-    },
-    {
-      "filepath": "_inbox/Репликация master-master.md",
-      "timestamp": 1719212005240
     }
   ],
   "bookmarkedFileStore": [],

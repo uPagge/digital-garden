@@ -5,8 +5,16 @@
       "path": "_inbox/2024-06-26 1719388540.md"
     },
     {
+      "basename": "OLAP",
+      "path": "_inbox/OLAP.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "OLTP",
+      "path": "_inbox/OLTP.md"
     },
     {
       "basename": "2024-06-24 1719217152",
@@ -191,14 +199,6 @@
     {
       "basename": "Грязное чтение",
       "path": "_inbox/Грязное чтение.md"
-    },
-    {
-      "basename": "Проблемы при параллельном выполнении нескольких транзакций",
-      "path": "knowledge/dev/database/Проблемы при параллельном выполнении нескольких транзакций.md"
-    },
-    {
-      "basename": "Read uncommitted",
-      "path": "_inbox/Read uncommitted.md"
     }
   ],
   "omittedPaths": [],
