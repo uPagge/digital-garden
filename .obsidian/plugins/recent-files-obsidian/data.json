@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Репликация master-master",
+      "path": "_inbox/Репликация master-master.md"
+    },
+    {
+      "basename": "Репликация master-slave",
+      "path": "_inbox/Репликация master-slave.md"
+    },
+    {
+      "basename": "High Availability",
+      "path": "_inbox/High Availability.md"
+    },
+    {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
+    },
+    {
+      "basename": "Асинхронная репликация",
+      "path": "_inbox/Асинхронная репликация.md"
     },
     {
       "basename": "Home",
@@ -29,14 +45,6 @@
       "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
     },
     {
-      "basename": "Репликация master-master",
-      "path": "_inbox/Репликация master-master.md"
-    },
-    {
-      "basename": "Репликация master-slave",
-      "path": "_inbox/Репликация master-slave.md"
-    },
-    {
       "basename": "Безмастерная репликация",
       "path": "_inbox/Безмастерная репликация.md"
     },
@@ -57,10 +65,6 @@
       "path": "_inbox/Журнал БД.md"
     },
     {
-      "basename": "High Availability",
-      "path": "_inbox/High Availability.md"
-    },
-    {
       "basename": "Репликация в MySQL",
       "path": "_inbox/Репликация в MySQL.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Полу-синхронная репликация",
       "path": "_inbox/Полу-синхронная репликация.md"
-    },
-    {
-      "basename": "Асинхронная репликация",
-      "path": "_inbox/Асинхронная репликация.md"
     },
     {
       "basename": "Синхронная репликация",
