@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Синхронная репликация",
+      "path": "_inbox/Синхронная репликация.md"
+    },
+    {
+      "basename": "Репликация БД",
+      "path": "_inbox/Репликация БД.md"
+    },
+    {
       "basename": "Репликация master-master",
       "path": "_inbox/Репликация master-master.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "High Availability",
       "path": "_inbox/High Availability.md"
-    },
-    {
-      "basename": "Репликация БД",
-      "path": "_inbox/Репликация БД.md"
     },
     {
       "basename": "Асинхронная репликация",
@@ -83,10 +87,6 @@
     {
       "basename": "Полу-синхронная репликация",
       "path": "_inbox/Полу-синхронная репликация.md"
-    },
-    {
-      "basename": "Синхронная репликация",
-      "path": "_inbox/Синхронная репликация.md"
     },
     {
       "basename": "Репликация в PostgreSQL",
