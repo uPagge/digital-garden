@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1719491113792
+    },
+    {
       "filepath": "_inbox/2024-06-26 1719388540.md",
       "timestamp": 1719405879230
     },
     {
       "filepath": "_inbox/OLAP.md",
       "timestamp": 1719405872450
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1719405864552
     },
     {
       "filepath": "_inbox/OLTP.md",
