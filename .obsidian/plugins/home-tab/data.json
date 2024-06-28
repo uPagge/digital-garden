@@ -25,23 +25,7 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Синхронная репликация.md",
-      "timestamp": 1719516864227
-    },
-    {
-      "filepath": "_inbox/Репликация БД.md",
-      "timestamp": 1719516862555
-    },
-    {
-      "filepath": "_inbox/Репликация master-master.md",
-      "timestamp": 1719515781112
-    },
-    {
-      "filepath": "_inbox/Репликация master-slave.md",
-      "timestamp": 1719515775341
-    },
-    {
-      "filepath": "_inbox/High Availability.md",
-      "timestamp": 1719515765395
+      "timestamp": 1719578159833
     }
   ],
   "bookmarkedFileStore": [],
