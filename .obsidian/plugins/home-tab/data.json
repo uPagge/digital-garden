@@ -24,6 +24,22 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Directory Based Sharding.md",
+      "timestamp": 1719735082289
+    },
+    {
+      "filepath": "_inbox/Key Based Sharding.md",
+      "timestamp": 1719735075684
+    },
+    {
+      "filepath": "_inbox/Шардирование в БД.md",
+      "timestamp": 1719734946647
+    },
+    {
+      "filepath": "_inbox/Range Base Sharding.md",
+      "timestamp": 1719734895980
+    },
+    {
       "filepath": "Home.md",
       "timestamp": 1719734815792
     }

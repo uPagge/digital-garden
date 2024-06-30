@@ -10,6 +10,7 @@ zero-link:
 parents:
   - "[[Шардирование в БД]]"
 linked:
+  - "[[Directory Based Sharding]]"
 ---
 ![](Pasted%20image%2020240620220323.png)
 
