@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Шардирование в БД",
+      "path": "_inbox/Шардирование в БД.md"
+    },
+    {
       "basename": "Consistent hashing",
       "path": "_inbox/Consistent hashing.md"
     },
     {
-      "basename": "Шардирование в БД",
-      "path": "_inbox/Шардирование в БД.md"
+      "basename": "Безмастерная репликация",
+      "path": "_inbox/Безмастерная репликация.md"
+    },
+    {
+      "basename": "Cassandra",
+      "path": "Cassandra.md"
     },
     {
       "basename": "Key Based Sharding",
@@ -67,10 +75,6 @@
     {
       "basename": "Идеи для ремонта",
       "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
-    },
-    {
-      "basename": "Безмастерная репликация",
-      "path": "_inbox/Безмастерная репликация.md"
     },
     {
       "basename": "Tombstone",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240620094127",
       "path": "meta/files/Pasted image 20240620094127.png"
-    },
-    {
-      "basename": "Неповторяющееся чтение",
-      "path": "_inbox/Неповторяющееся чтение.md"
     }
   ],
   "omittedPaths": [],

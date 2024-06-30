@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Consistent hashing.md",
-      "timestamp": 1719736218261
+      "filepath": "_inbox/Шардирование в БД.md",
+      "timestamp": 1719770942993
     },
     {
-      "filepath": "_inbox/Шардирование в БД.md",
-      "timestamp": 1719735198518
+      "filepath": "_inbox/Consistent hashing.md",
+      "timestamp": 1719770692870
+    },
+    {
+      "filepath": "_inbox/Безмастерная репликация.md",
+      "timestamp": 1719770691302
+    },
+    {
+      "filepath": "Cassandra.md",
+      "timestamp": 1719770689366
     },
     {
       "filepath": "_inbox/Key Based Sharding.md",
       "timestamp": 1719735197385
-    },
-    {
-      "filepath": "_inbox/Directory Based Sharding.md",
-      "timestamp": 1719735082289
-    },
-    {
-      "filepath": "_inbox/Range Base Sharding.md",
-      "timestamp": 1719734895980
     }
   ],
   "bookmarkedFileStore": [],
