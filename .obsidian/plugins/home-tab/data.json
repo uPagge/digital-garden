@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-06-30 1719771906.md",
-      "timestamp": 1719771906338
+      "filepath": "_inbox/Кэширование.md",
+      "timestamp": 1719773482789
+    },
+    {
+      "filepath": "Home.md",
+      "timestamp": 1719773476286
+    },
+    {
+      "filepath": "_inbox/Vitess.md",
+      "timestamp": 1719773475773
     },
     {
       "filepath": "_inbox/Шардирование в БД.md",
-      "timestamp": 1719770942993
+      "timestamp": 1719773474871
     },
     {
       "filepath": "_inbox/Consistent hashing.md",
-      "timestamp": 1719770692870
-    },
-    {
-      "filepath": "_inbox/Безмастерная репликация.md",
-      "timestamp": 1719770691302
-    },
-    {
-      "filepath": "Cassandra.md",
-      "timestamp": 1719770689366
+      "timestamp": 1719773474208
     }
   ],
   "bookmarkedFileStore": [],

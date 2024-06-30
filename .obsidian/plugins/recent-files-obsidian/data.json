@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Кэширование",
+      "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Vitess",
       "path": "_inbox/Vitess.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Range Base Sharding",
       "path": "_inbox/Range Base Sharding.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Синхронная репликация",
@@ -195,10 +199,6 @@
     {
       "basename": "Журналы в MySQL",
       "path": "_inbox/Журналы в MySQL.md"
-    },
-    {
-      "basename": "Фантомное чтение",
-      "path": "_inbox/Фантомное чтение.md"
     }
   ],
   "omittedPaths": [],
