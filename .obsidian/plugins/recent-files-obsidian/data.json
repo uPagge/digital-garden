@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitess",
+      "path": "_inbox/Vitess.md"
+    },
+    {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Фантомное чтение",
       "path": "_inbox/Фантомное чтение.md"
-    },
-    {
-      "basename": "Pasted image 20240620094127",
-      "path": "meta/files/Pasted image 20240620094127.png"
     }
   ],
   "omittedPaths": [],
