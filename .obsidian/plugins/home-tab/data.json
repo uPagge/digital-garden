@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/2024-06-30 1719736218.md",
+      "timestamp": 1719736218261
+    },
+    {
       "filepath": "_inbox/Шардирование в БД.md",
       "timestamp": 1719735198518
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Range Base Sharding.md",
       "timestamp": 1719734895980
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1719734815792
     }
   ],
   "bookmarkedFileStore": [],

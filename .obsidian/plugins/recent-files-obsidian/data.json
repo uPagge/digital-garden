@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Consistent hashing",
+      "path": "_inbox/Consistent hashing.md"
+    },
+    {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Неповторяющееся чтение",
       "path": "_inbox/Неповторяющееся чтение.md"
-    },
-    {
-      "basename": "Уровни изоляций транзакций БД",
-      "path": "knowledge/dev/database/Уровни изоляций транзакций БД.md"
     }
   ],
   "omittedPaths": [],
