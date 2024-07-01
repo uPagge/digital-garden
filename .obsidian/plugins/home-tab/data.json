@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Блокировки.md",
+      "timestamp": 1719851750513
+    },
+    {
+      "filepath": "wiki/zero/00 PostgreSQL.md",
+      "timestamp": 1719851678858
+    },
+    {
       "filepath": "_inbox/Транзакция БД.md",
-      "timestamp": 1719851338260
+      "timestamp": 1719851570469
+    },
+    {
+      "filepath": "_inbox/Deadlock.md",
+      "timestamp": 1719851480848
     },
     {
       "filepath": "notes/Собеседования/Вопросы для собеседование Java.md",
       "timestamp": 1719826611865
-    },
-    {
-      "filepath": "_inbox/Кэширование статики в Nginx.md",
-      "timestamp": 1719826234779
-    },
-    {
-      "filepath": "_inbox/Кэширование на стороне Nginx.md",
-      "timestamp": 1719826222287
-    },
-    {
-      "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1719826042357
     }
   ],
   "bookmarkedFileStore": [],

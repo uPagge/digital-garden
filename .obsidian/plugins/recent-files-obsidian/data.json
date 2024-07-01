@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Блокировки",
+      "path": "_inbox/Блокировки.md"
+    },
+    {
+      "basename": "00 PostgreSQL",
+      "path": "wiki/zero/00 PostgreSQL.md"
+    },
+    {
       "basename": "Транзакция БД",
       "path": "_inbox/Транзакция БД.md"
+    },
+    {
+      "basename": "Deadlock",
+      "path": "_inbox/Deadlock.md"
     },
     {
       "basename": "Вопросы для собеседование Java",
@@ -187,18 +199,6 @@
     {
       "basename": "Согласованное префиксное чтение",
       "path": "_inbox/Согласованное префиксное чтение.md"
-    },
-    {
-      "basename": "Потерянное обновление",
-      "path": "_inbox/Потерянное обновление.md"
-    },
-    {
-      "basename": "MVCC",
-      "path": "_inbox/MVCC.md"
-    },
-    {
-      "basename": "Repeatable read",
-      "path": "_inbox/Repeatable read.md"
     }
   ],
   "omittedPaths": [],
