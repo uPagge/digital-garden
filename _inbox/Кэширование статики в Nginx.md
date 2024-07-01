@@ -13,7 +13,6 @@ linked:
   - "[[Кэширование на стороне браузера]]"
 link: https://struchkov.dev/blog/ru/nginx-optimization/#%D0%BA%D1%8D%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%B5-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0
 ---
-## Кэширование статики
 В главный конфигурационный файл Nginx можно добавить следующие директивы, чтобы указать серверу кэшировать статические файлы веб-страницы для более быстрого доступа к ним.
 
 ```nginx
@@ -21,12 +20,13 @@ server {
   ...
 
     # Media
-    location ~* \.(?:jpg|jpeg|gif|png|ico|cur|gz|svg|mp4|ogg|ogv|webm|htc)$ {
-        expires 30d;
+    location ~* \.(?:jpg|jpeg|gif|png|ico|cur|gz|svg|mp4|ogg|ogv|webm|htc|)$ {
+        expires 365d;
+        access log off;
     }
 
     # CSS and Js
-    location ~* \.(css|js|woff2)$ {
+    location ~* \.()$ {
         expires 365d;
     }
 

@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Настройка клиентского кэширования в Nginx.md",
+      "timestamp": 1719826052271
+    },
+    {
+      "filepath": "_inbox/Кэширование на стороне Nginx.md",
+      "timestamp": 1719826046767
+    },
+    {
+      "filepath": "_inbox/Кэширование.md",
+      "timestamp": 1719826042357
+    },
+    {
       "filepath": "_inbox/Старт с холодным кэшом.md",
       "timestamp": 1719825821750
     },
     {
-      "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1719825815060
-    },
-    {
       "filepath": "_inbox/Кэширование в приложении.md",
       "timestamp": 1719825701105
-    },
-    {
-      "filepath": "knowledge/dev/network/Content Delivery Network.md",
-      "timestamp": 1719825036418
-    },
-    {
-      "filepath": "_inbox/Кэширование на стороне браузера.md",
-      "timestamp": 1719824627612
     }
   ],
   "bookmarkedFileStore": [],

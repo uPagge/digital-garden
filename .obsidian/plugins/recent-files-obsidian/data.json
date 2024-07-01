@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Старт с холодным кэшом",
-      "path": "_inbox/Старт с холодным кэшом.md"
+      "basename": "Кэширование статики в Nginx",
+      "path": "_inbox/Кэширование статики в Nginx.md"
+    },
+    {
+      "basename": "Кэширование на стороне Nginx",
+      "path": "_inbox/Кэширование на стороне Nginx.md"
     },
     {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Старт с холодным кэшом",
+      "path": "_inbox/Старт с холодным кэшом.md"
     },
     {
       "basename": "Кэширование в приложении",
@@ -191,14 +199,6 @@
     {
       "basename": "Блокировки",
       "path": "_inbox/Блокировки.md"
-    },
-    {
-      "basename": "Deadlock",
-      "path": "_inbox/Deadlock.md"
-    },
-    {
-      "basename": "Two Phase Lock",
-      "path": "_inbox/Two Phase Lock.md"
     }
   ],
   "omittedPaths": [],
