@@ -5,6 +5,10 @@
       "path": "_inbox/Транзакция БД.md"
     },
     {
+      "basename": "CQRS",
+      "path": "knowledge/dev/архитектура/паттерн/CQRS.md"
+    },
+    {
       "basename": "Блокировки",
       "path": "_inbox/Блокировки.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Шардирование - OTUS",
       "path": "_inbox/Шардирование - OTUS.md"
-    },
-    {
-      "basename": "Согласованное префиксное чтение",
-      "path": "_inbox/Согласованное префиксное чтение.md"
     }
   ],
   "omittedPaths": [],

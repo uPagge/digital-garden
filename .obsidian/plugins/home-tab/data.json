@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Транзакция БД.md",
-      "timestamp": 1719852381079
+      "timestamp": 1719852418067
+    },
+    {
+      "filepath": "knowledge/dev/архитектура/паттерн/CQRS.md",
+      "timestamp": 1719852414481
     },
     {
       "filepath": "_inbox/Блокировки.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "wiki/zero/00 PostgreSQL.md",
       "timestamp": 1719851678858
-    },
-    {
-      "filepath": "notes/Собеседования/Вопросы для собеседование Java.md",
-      "timestamp": 1719826611865
     }
   ],
   "bookmarkedFileStore": [],
