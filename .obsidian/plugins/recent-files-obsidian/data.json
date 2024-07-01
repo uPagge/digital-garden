@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Транзакция БД",
+      "path": "_inbox/Транзакция БД.md"
+    },
+    {
       "basename": "Вопросы для собеседование Java",
       "path": "notes/Собеседования/Вопросы для собеседование Java.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Repeatable read",
       "path": "_inbox/Repeatable read.md"
-    },
-    {
-      "basename": "Read committed",
-      "path": "_inbox/Read committed.md"
     }
   ],
   "omittedPaths": [],

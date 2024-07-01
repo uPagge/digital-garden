@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Транзакция БД.md",
+      "timestamp": 1719851338260
+    },
+    {
       "filepath": "notes/Собеседования/Вопросы для собеседование Java.md",
       "timestamp": 1719826611865
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Кэширование.md",
       "timestamp": 1719826042357
-    },
-    {
-      "filepath": "_inbox/Старт с холодным кэшом.md",
-      "timestamp": 1719825821750
     }
   ],
   "bookmarkedFileStore": [],
