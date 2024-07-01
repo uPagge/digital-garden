@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Content Delivery Network",
+      "path": "knowledge/dev/network/Content Delivery Network.md"
+    },
+    {
       "basename": "Кэширование на стороне браузера",
       "path": "_inbox/Кэширование на стороне браузера.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Свойства транзакции БД (ACID)",
       "path": "knowledge/dev/database/Свойства транзакции БД (ACID).md"
-    },
-    {
-      "basename": "Basically Available Soft state Eventual consistency",
-      "path": "_inbox/Basically Available Soft state Eventual consistency.md"
     }
   ],
   "omittedPaths": [],

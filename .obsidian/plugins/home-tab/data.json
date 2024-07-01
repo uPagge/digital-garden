@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/dev/network/Content Delivery Network.md",
+      "timestamp": 1719825036418
+    },
+    {
       "filepath": "_inbox/Кэширование на стороне браузера.md",
       "timestamp": 1719824627612
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Vitess.md",
       "timestamp": 1719773475773
-    },
-    {
-      "filepath": "_inbox/Шардирование в БД.md",
-      "timestamp": 1719773474871
     }
   ],
   "bookmarkedFileStore": [],
