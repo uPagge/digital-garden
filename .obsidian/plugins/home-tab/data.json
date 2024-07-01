@@ -24,20 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Транзакция БД.md",
+      "timestamp": 1719852381079
+    },
+    {
       "filepath": "_inbox/Блокировки.md",
-      "timestamp": 1719851750513
+      "timestamp": 1719852380531
+    },
+    {
+      "filepath": "_inbox/Deadlock.md",
+      "timestamp": 1719852111338
     },
     {
       "filepath": "wiki/zero/00 PostgreSQL.md",
       "timestamp": 1719851678858
-    },
-    {
-      "filepath": "_inbox/Транзакция БД.md",
-      "timestamp": 1719851570469
-    },
-    {
-      "filepath": "_inbox/Deadlock.md",
-      "timestamp": 1719851480848
     },
     {
       "filepath": "notes/Собеседования/Вопросы для собеседование Java.md",
