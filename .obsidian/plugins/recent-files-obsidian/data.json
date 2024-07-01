@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Старт с холодным кэшом",
+      "path": "_inbox/Старт с холодным кэшом.md"
+    },
+    {
+      "basename": "Кэширование",
+      "path": "_inbox/Кэширование.md"
+    },
+    {
+      "basename": "Кэширование в приложении",
+      "path": "_inbox/Кэширование в приложении.md"
+    },
+    {
       "basename": "Content Delivery Network",
       "path": "knowledge/dev/network/Content Delivery Network.md"
     },
     {
       "basename": "Кэширование на стороне браузера",
       "path": "_inbox/Кэширование на стороне браузера.md"
-    },
-    {
-      "basename": "Кэширование",
-      "path": "_inbox/Кэширование.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "Two Phase Lock",
       "path": "_inbox/Two Phase Lock.md"
-    },
-    {
-      "basename": "Транзакция БД",
-      "path": "_inbox/Транзакция БД.md"
-    },
-    {
-      "basename": "Свойства транзакции БД (ACID)",
-      "path": "knowledge/dev/database/Свойства транзакции БД (ACID).md"
     }
   ],
   "omittedPaths": [],

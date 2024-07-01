@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Старт с холодным кэшом.md",
+      "timestamp": 1719825821750
+    },
+    {
+      "filepath": "_inbox/Кэширование.md",
+      "timestamp": 1719825815060
+    },
+    {
+      "filepath": "_inbox/Кэширование в приложении.md",
+      "timestamp": 1719825701105
+    },
+    {
       "filepath": "knowledge/dev/network/Content Delivery Network.md",
       "timestamp": 1719825036418
     },
     {
       "filepath": "_inbox/Кэширование на стороне браузера.md",
       "timestamp": 1719824627612
-    },
-    {
-      "filepath": "_inbox/Кэширование.md",
-      "timestamp": 1719773482789
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1719773476286
-    },
-    {
-      "filepath": "_inbox/Vitess.md",
-      "timestamp": 1719773475773
     }
   ],
   "bookmarkedFileStore": [],
