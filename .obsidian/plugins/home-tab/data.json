@@ -24,12 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Настройка клиентского кэширования в Nginx.md",
-      "timestamp": 1719826052271
+      "filepath": "_inbox/Кэширование статики в Nginx.md",
+      "timestamp": 1719826234779
     },
     {
       "filepath": "_inbox/Кэширование на стороне Nginx.md",
-      "timestamp": 1719826046767
+      "timestamp": 1719826222287
     },
     {
       "filepath": "_inbox/Кэширование.md",

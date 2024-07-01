@@ -20,14 +20,10 @@ server {
   ...
 
     # Media
-    location ~* \.(?:jpg|jpeg|gif|png|ico|cur|gz|svg|mp4|ogg|ogv|webm|htc|)$ {
+    location ~* \.(?:jpg|jpeg|gif|png|ico|cur|gz|svg|mp4|ogg|ogv|webm|htc|css|js)$ {
         expires 365d;
         access log off;
-    }
-
-    # CSS and Js
-    location ~* \.()$ {
-        expires 365d;
+        add header Cache-Control public
     }
 
   ...
