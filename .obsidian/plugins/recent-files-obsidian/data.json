@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Кэширование на стороне браузера",
+      "path": "_inbox/Кэширование на стороне браузера.md"
+    },
+    {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Basically Available Soft state Eventual consistency",
       "path": "_inbox/Basically Available Soft state Eventual consistency.md"
-    },
-    {
-      "basename": "Журналы в MySQL",
-      "path": "_inbox/Журналы в MySQL.md"
     }
   ],
   "omittedPaths": [],
