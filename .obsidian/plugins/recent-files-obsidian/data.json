@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Вопросы для собеседование Java",
+      "path": "notes/Собеседования/Вопросы для собеседование Java.md"
+    },
+    {
       "basename": "Кэширование статики в Nginx",
       "path": "_inbox/Кэширование статики в Nginx.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Read committed",
       "path": "_inbox/Read committed.md"
-    },
-    {
-      "basename": "Блокировки",
-      "path": "_inbox/Блокировки.md"
     }
   ],
   "omittedPaths": [],
