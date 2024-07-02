@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Проекты",
+      "path": "_inbox/Проекты.md"
+    },
+    {
+      "basename": "Досрочное погашение ипотеки",
+      "path": "projects/Ремонт квартиры/Досрочное погашение ипотеки.md"
+    },
+    {
+      "basename": "pg_stat_statements",
+      "path": "_inbox/pg_stat_statements.md"
+    },
+    {
+      "basename": "Архитектура MySQL",
+      "path": "_inbox/Архитектура MySQL.md"
+    },
+    {
       "basename": "Транзакция БД",
       "path": "_inbox/Транзакция БД.md"
     },
@@ -74,7 +90,7 @@
     },
     {
       "basename": "Cassandra",
-      "path": "Cassandra.md"
+      "path": "_inbox/Cassandra.md"
     },
     {
       "basename": "Key Based Sharding",
@@ -183,22 +199,6 @@
     {
       "basename": "2024-06-20 1718910779",
       "path": "_inbox/2024-06-20 1718910779.md"
-    },
-    {
-      "basename": "Партиционирование в БД",
-      "path": "Партиционирование в БД.md"
-    },
-    {
-      "basename": "Горизонтальное масштабирование",
-      "path": "_inbox/Горизонтальное масштабирование.md"
-    },
-    {
-      "basename": "Вертикальное масштабирование",
-      "path": "_inbox/Вертикальное масштабирование.md"
-    },
-    {
-      "basename": "Шардирование - OTUS",
-      "path": "_inbox/Шардирование - OTUS.md"
     }
   ],
   "omittedPaths": [],

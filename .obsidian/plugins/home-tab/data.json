@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/2024-07-02 1719904334.md",
+      "timestamp": 1719904334521
+    },
+    {
+      "filepath": "projects/Ремонт квартиры/Досрочное погашение ипотеки.md",
+      "timestamp": 1719904295656
+    },
+    {
+      "filepath": "_inbox/pg_stat_statements.md",
+      "timestamp": 1719904287378
+    },
+    {
+      "filepath": "_inbox/Архитектура MySQL.md",
+      "timestamp": 1719904280702
+    },
+    {
       "filepath": "_inbox/Транзакция БД.md",
-      "timestamp": 1719852418067
-    },
-    {
-      "filepath": "knowledge/dev/архитектура/паттерн/CQRS.md",
-      "timestamp": 1719852414481
-    },
-    {
-      "filepath": "_inbox/Блокировки.md",
-      "timestamp": 1719852380531
-    },
-    {
-      "filepath": "_inbox/Deadlock.md",
-      "timestamp": 1719852111338
-    },
-    {
-      "filepath": "wiki/zero/00 PostgreSQL.md",
-      "timestamp": 1719851678858
+      "timestamp": 1719904275574
     }
   ],
   "bookmarkedFileStore": [],
