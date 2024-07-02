@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Брокер сообщений.md",
+      "timestamp": 1719948079017
+    },
+    {
+      "filepath": "_inbox/Горизонтальное масштабирование.md",
+      "timestamp": 1719948070529
+    },
+    {
+      "filepath": "_inbox/Kafka.md",
+      "timestamp": 1719947884484
+    },
+    {
       "filepath": "_inbox/Redis.md",
       "timestamp": 1719947769889
     },
     {
-      "filepath": "_inbox/Брокер сообщений.md",
-      "timestamp": 1719947767365
-    },
-    {
-      "filepath": "_inbox/Kafka.md",
-      "timestamp": 1719947719638
-    },
-    {
       "filepath": "_inbox/RabbitMQ.md",
       "timestamp": 1719947702431
-    },
-    {
-      "filepath": "_inbox/Enterprise Service Bus.md",
-      "timestamp": 1719947678370
     }
   ],
   "bookmarkedFileStore": [],

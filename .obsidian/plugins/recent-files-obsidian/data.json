@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Redis",
-      "path": "_inbox/Redis.md"
-    },
-    {
       "basename": "Брокер сообщений",
       "path": "_inbox/Брокер сообщений.md"
     },
     {
+      "basename": "Горизонтальное масштабирование",
+      "path": "_inbox/Горизонтальное масштабирование.md"
+    },
+    {
       "basename": "Kafka",
       "path": "_inbox/Kafka.md"
+    },
+    {
+      "basename": "Redis",
+      "path": "_inbox/Redis.md"
     },
     {
       "basename": "RabbitMQ",
@@ -195,10 +199,6 @@
     {
       "basename": "laminat-bez-porogov",
       "path": "meta/files/laminat-bez-porogov.jpg"
-    },
-    {
-      "basename": "don-karniz-1-1-min.2cda3db99d204da5e2c26e722e63ea04120",
-      "path": "meta/files/don-karniz-1-1-min.2cda3db99d204da5e2c26e722e63ea04120.jpg"
     }
   ],
   "omittedPaths": [],
