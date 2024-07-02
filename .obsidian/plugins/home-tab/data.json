@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "wiki/zero/00 Kafka.md",
-      "timestamp": 1719938290920
+      "timestamp": 1719938368701
+    },
+    {
+      "filepath": "_inbox/Событийно-ориентированное программирование.md",
+      "timestamp": 1719938361985
+    },
+    {
+      "filepath": "notes/Собеседования/Вопросы для собеседование Java.md",
+      "timestamp": 1719938347132
     },
     {
       "filepath": "_inbox/Брокер сообщений.md",
@@ -34,10 +42,6 @@
     {
       "filepath": "Home.md",
       "timestamp": 1719938054255
-    },
-    {
-      "filepath": "_inbox/Индекс в PostgreSQL.md",
-      "timestamp": 1719933867538
     }
   ],
   "bookmarkedFileStore": [],
