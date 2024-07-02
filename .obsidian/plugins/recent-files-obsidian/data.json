@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Проект. Ремонт квартиры",
-      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
-    },
-    {
-      "basename": "Статья. Т-Ж. Как сделать ремонт квартиры",
-      "path": "source/статьи/Статья. Т-Ж. Как сделать ремонт квартиры.md"
-    },
-    {
       "basename": "Проекты",
       "path": "Проекты.md"
     },
@@ -17,12 +9,40 @@
       "path": "Home.md"
     },
     {
-      "basename": "Список покупок для ремонта",
-      "path": "projects/Ремонт квартиры/Список покупок для ремонта.md"
+      "basename": "Проект. Здоровым к 30",
+      "path": "projects/Проект. Здоровым к 30.md"
+    },
+    {
+      "basename": "Проект. Ремонт квартиры",
+      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
+    },
+    {
+      "basename": "Проект. Дом Дурачок 2.0",
+      "path": "projects/Проект. Дом Дурачок 2.0.md"
     },
     {
       "basename": "Идеи для ремонта",
       "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
+    },
+    {
+      "basename": "Проект. Выступление на конференции Jpoint",
+      "path": "projects/Проект. Выступление на конференции Jpoint.md"
+    },
+    {
+      "basename": "Личная айдентика",
+      "path": "projects/Личная айдентика.md"
+    },
+    {
+      "basename": "План проекта бота",
+      "path": "archive/План проекта бота.md"
+    },
+    {
+      "basename": "Статья. Т-Ж. Как сделать ремонт квартиры",
+      "path": "source/статьи/Статья. Т-Ж. Как сделать ремонт квартиры.md"
+    },
+    {
+      "basename": "Список покупок для ремонта",
+      "path": "projects/Ремонт квартиры/Список покупок для ремонта.md"
     },
     {
       "basename": "Курс. Как сделать ремонт и не сойти с ума",
@@ -179,26 +199,6 @@
     {
       "basename": "Consistent hashing",
       "path": "_inbox/Consistent hashing.md"
-    },
-    {
-      "basename": "Безмастерная репликация",
-      "path": "_inbox/Безмастерная репликация.md"
-    },
-    {
-      "basename": "Cassandra",
-      "path": "_inbox/Cassandra.md"
-    },
-    {
-      "basename": "Key Based Sharding",
-      "path": "_inbox/Key Based Sharding.md"
-    },
-    {
-      "basename": "Directory Based Sharding",
-      "path": "_inbox/Directory Based Sharding.md"
-    },
-    {
-      "basename": "Range Base Sharding",
-      "path": "_inbox/Range Base Sharding.md"
     }
   ],
   "omittedPaths": [],

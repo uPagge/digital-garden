@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
-      "timestamp": 1719905548910
-    },
-    {
-      "filepath": "source/статьи/Статья. Т-Ж. Как сделать ремонт квартиры.md",
-      "timestamp": 1719905536640
-    },
-    {
       "filepath": "Проекты.md",
-      "timestamp": 1719905516445
+      "timestamp": 1719905832291
     },
     {
       "filepath": "Home.md",
-      "timestamp": 1719905514031
+      "timestamp": 1719905830615
+    },
+    {
+      "filepath": "projects/Проект. Здоровым к 30.md",
+      "timestamp": 1719905830157
+    },
+    {
+      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
+      "timestamp": 1719905829339
+    },
+    {
+      "filepath": "projects/Проект. Дом Дурачок 2.0.md",
+      "timestamp": 1719905828132
     }
   ],
   "bookmarkedFileStore": [],
