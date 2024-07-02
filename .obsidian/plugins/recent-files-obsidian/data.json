@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Enterprise Service Bus",
-      "path": "_inbox/Enterprise Service Bus.md"
-    },
-    {
-      "basename": "Event Loop",
-      "path": "knowledge/dev/Event Loop.md"
+      "basename": "Redis",
+      "path": "_inbox/Redis.md"
     },
     {
       "basename": "Брокер сообщений",
       "path": "_inbox/Брокер сообщений.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "_inbox/Redis.md"
     },
     {
       "basename": "Kafka",
@@ -23,6 +15,22 @@
     {
       "basename": "RabbitMQ",
       "path": "_inbox/RabbitMQ.md"
+    },
+    {
+      "basename": "Enterprise Service Bus",
+      "path": "_inbox/Enterprise Service Bus.md"
+    },
+    {
+      "basename": "Кластеризация",
+      "path": "_inbox/Кластеризация.md"
+    },
+    {
+      "basename": "Балансировка нагрузки",
+      "path": "_inbox/Балансировка нагрузки.md"
+    },
+    {
+      "basename": "Event Loop",
+      "path": "knowledge/dev/Event Loop.md"
     },
     {
       "basename": "Обучающий курс от HighLoad конференции 2024",
@@ -191,14 +199,6 @@
     {
       "basename": "don-karniz-1-1-min.2cda3db99d204da5e2c26e722e63ea04120",
       "path": "meta/files/don-karniz-1-1-min.2cda3db99d204da5e2c26e722e63ea04120.jpg"
-    },
-    {
-      "basename": "Pasted image 20231008173416",
-      "path": "meta/files/Pasted image 20231008173416.png"
-    },
-    {
-      "basename": "b1503c029e1089a75e5b8578b117ced9.png",
-      "path": "meta/files/b1503c029e1089a75e5b8578b117ced9.png.webp"
     }
   ],
   "omittedPaths": [],
