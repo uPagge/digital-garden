@@ -9,6 +9,18 @@
       "path": "_inbox/Serializable.md"
     },
     {
+      "basename": "Проекты",
+      "path": "Проекты.md"
+    },
+    {
+      "basename": "Проект. Узучение Английского",
+      "path": "projects/Проект. Узучение Английского.md"
+    },
+    {
+      "basename": "Проект. Обучение Highload",
+      "path": "projects/Проект. Обучение Highload.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "Блокировки",
       "path": "_inbox/Блокировки.md"
-    },
-    {
-      "basename": "Проекты",
-      "path": "Проекты.md"
     },
     {
       "basename": "Проект. Здоровым к 30",
@@ -191,14 +199,6 @@
     {
       "basename": "Кэширование статики в Nginx",
       "path": "_inbox/Кэширование статики в Nginx.md"
-    },
-    {
-      "basename": "Кэширование на стороне Nginx",
-      "path": "_inbox/Кэширование на стороне Nginx.md"
-    },
-    {
-      "basename": "Кэширование",
-      "path": "_inbox/Кэширование.md"
     }
   ],
   "omittedPaths": [],
