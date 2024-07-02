@@ -1,12 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Проекты",
-      "path": "Проекты.md"
+      "basename": "Идеи для ремонта",
+      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
+    },
+    {
+      "basename": "orig-2",
+      "path": "meta/files/orig-2.webp"
+    },
+    {
+      "basename": "Kromax20ATLANTIS-70",
+      "path": "meta/files/Kromax20ATLANTIS-70.jpg"
+    },
+    {
+      "basename": "6706110398",
+      "path": "meta/files/6706110398.jpg"
+    },
+    {
+      "basename": "S6d1773a36e954bf1b0458135ecbb9f9eA.jpg",
+      "path": "meta/files/S6d1773a36e954bf1b0458135ecbb9f9eA.jpg.webp"
+    },
+    {
+      "basename": "Pasted image 20231008174024",
+      "path": "meta/files/Pasted image 20231008174024.png"
+    },
+    {
+      "basename": "gde-razmestit-mikrovolnovku-1",
+      "path": "meta/files/gde-razmestit-mikrovolnovku-1.webp"
+    },
+    {
+      "basename": "mikrovolnovka_na_kuhne2023-2 1",
+      "path": "meta/files/mikrovolnovka_na_kuhne2023-2 1.jpg"
+    },
+    {
+      "basename": "Функциональность кухни",
+      "path": "projects/Ремонт квартиры/Функциональность кухни.md"
+    },
+    {
+      "basename": "kak-spryatat-krovat-01",
+      "path": "meta/files/kak-spryatat-krovat-01.jpg"
+    },
+    {
+      "basename": "orig",
+      "path": "meta/files/orig.webp"
+    },
+    {
+      "basename": "1640215.970",
+      "path": "meta/files/1640215.970.jpg"
+    },
+    {
+      "basename": "laminat-bez-porogov",
+      "path": "meta/files/laminat-bez-porogov.jpg"
+    },
+    {
+      "basename": "don-karniz-1-1-min.2cda3db99d204da5e2c26e722e63ea04120",
+      "path": "meta/files/don-karniz-1-1-min.2cda3db99d204da5e2c26e722e63ea04120.jpg"
+    },
+    {
+      "basename": "Pasted image 20231008173416",
+      "path": "meta/files/Pasted image 20231008173416.png"
+    },
+    {
+      "basename": "b1503c029e1089a75e5b8578b117ced9.png",
+      "path": "meta/files/b1503c029e1089a75e5b8578b117ced9.png.webp"
+    },
+    {
+      "basename": "maxresdefault",
+      "path": "meta/files/maxresdefault.jpg"
+    },
+    {
+      "basename": "Hd2e025e3e29048cfbfde146b8fe611a7W.jpg_480x480.jpg",
+      "path": "meta/files/Hd2e025e3e29048cfbfde146b8fe611a7W.jpg_480x480.jpg.webp"
+    },
+    {
+      "basename": "55",
+      "path": "meta/files/55.jpg"
+    },
+    {
+      "basename": "692ff633083a92147569ba47c",
+      "path": "meta/files/692ff633083a92147569ba47c.jpg"
     },
     {
       "basename": "Проект. Ремонт квартиры",
       "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
+    },
+    {
+      "basename": "Проекты",
+      "path": "Проекты.md"
     },
     {
       "basename": "CQRS",
@@ -119,82 +199,6 @@
     {
       "basename": "Репликация master-master",
       "path": "_inbox/Репликация master-master.md"
-    },
-    {
-      "basename": "Репликация master-slave",
-      "path": "_inbox/Репликация master-slave.md"
-    },
-    {
-      "basename": "High Availability",
-      "path": "_inbox/High Availability.md"
-    },
-    {
-      "basename": "Асинхронная репликация",
-      "path": "_inbox/Асинхронная репликация.md"
-    },
-    {
-      "basename": "2024-06-26 1719388540",
-      "path": "_inbox/2024-06-26 1719388540.md"
-    },
-    {
-      "basename": "OLAP",
-      "path": "_inbox/OLAP.md"
-    },
-    {
-      "basename": "OLTP",
-      "path": "_inbox/OLTP.md"
-    },
-    {
-      "basename": "2024-06-24 1719217152",
-      "path": "_inbox/2024-06-24 1719217152.md"
-    },
-    {
-      "basename": "Идеи для ремонта",
-      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
-    },
-    {
-      "basename": "Tombstone",
-      "path": "_inbox/Tombstone.md"
-    },
-    {
-      "basename": "Pasted image 20240531083508",
-      "path": "meta/files/Pasted image 20240531083508.png"
-    },
-    {
-      "basename": "Point In Time Recovery (PITR)",
-      "path": "_inbox/Point In Time Recovery (PITR).md"
-    },
-    {
-      "basename": "Журнал БД",
-      "path": "_inbox/Журнал БД.md"
-    },
-    {
-      "basename": "Репликация в MySQL",
-      "path": "_inbox/Репликация в MySQL.md"
-    },
-    {
-      "basename": "Групповая репликация",
-      "path": "_inbox/Групповая репликация.md"
-    },
-    {
-      "basename": "Монотонное чтение",
-      "path": "_inbox/Монотонное чтение.md"
-    },
-    {
-      "basename": "Отставание реплики в БД",
-      "path": "_inbox/Отставание реплики в БД.md"
-    },
-    {
-      "basename": "Полу-синхронная репликация",
-      "path": "_inbox/Полу-синхронная репликация.md"
-    },
-    {
-      "basename": "Репликация в PostgreSQL",
-      "path": "_inbox/Репликация в PostgreSQL.md"
-    },
-    {
-      "basename": "Настройка репликации в PostgreSQL",
-      "path": "_inbox/Настройка репликации в PostgreSQL.md"
     }
   ],
   "omittedPaths": [],
