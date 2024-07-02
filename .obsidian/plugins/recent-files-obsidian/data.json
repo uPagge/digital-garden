@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Транзакция БД",
+      "path": "_inbox/Транзакция БД.md"
+    },
+    {
+      "basename": "Serializable",
+      "path": "_inbox/Serializable.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Read committed",
       "path": "_inbox/Read committed.md"
     },
@@ -25,24 +37,12 @@
       "path": "_inbox/Фантомное чтение.md"
     },
     {
-      "basename": "Serializable",
-      "path": "_inbox/Serializable.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "Deadlock",
       "path": "_inbox/Deadlock.md"
     },
     {
       "basename": "Блокировки",
       "path": "_inbox/Блокировки.md"
-    },
-    {
-      "basename": "Транзакция БД",
-      "path": "_inbox/Транзакция БД.md"
     },
     {
       "basename": "Проекты",
