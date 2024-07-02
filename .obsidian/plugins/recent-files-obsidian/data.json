@@ -2,7 +2,15 @@
   "recentFiles": [
     {
       "basename": "Проекты",
-      "path": "_inbox/Проекты.md"
+      "path": "Проекты.md"
+    },
+    {
+      "basename": "Проект. Ремонт квартиры",
+      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
+    },
+    {
+      "basename": "CQRS",
+      "path": "knowledge/dev/архитектура/паттерн/CQRS.md"
     },
     {
       "basename": "Досрочное погашение ипотеки",
@@ -19,10 +27,6 @@
     {
       "basename": "Транзакция БД",
       "path": "_inbox/Транзакция БД.md"
-    },
-    {
-      "basename": "CQRS",
-      "path": "knowledge/dev/архитектура/паттерн/CQRS.md"
     },
     {
       "basename": "Блокировки",
@@ -191,14 +195,6 @@
     {
       "basename": "Настройка репликации в PostgreSQL",
       "path": "_inbox/Настройка репликации в PostgreSQL.md"
-    },
-    {
-      "basename": "Write-Ahead Log",
-      "path": "_inbox/Write-Ahead Log.md"
-    },
-    {
-      "basename": "2024-06-20 1718910779",
-      "path": "_inbox/2024-06-20 1718910779.md"
     }
   ],
   "omittedPaths": [],

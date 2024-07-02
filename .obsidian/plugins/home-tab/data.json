@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-07-02 1719904334.md",
-      "timestamp": 1719904334521
+      "filepath": "Проекты.md",
+      "timestamp": 1719904652265
+    },
+    {
+      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
+      "timestamp": 1719904648106
+    },
+    {
+      "filepath": "knowledge/dev/архитектура/паттерн/CQRS.md",
+      "timestamp": 1719904647366
     },
     {
       "filepath": "projects/Ремонт квартиры/Досрочное погашение ипотеки.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/pg_stat_statements.md",
       "timestamp": 1719904287378
-    },
-    {
-      "filepath": "_inbox/Архитектура MySQL.md",
-      "timestamp": 1719904280702
-    },
-    {
-      "filepath": "_inbox/Транзакция БД.md",
-      "timestamp": 1719904275574
     }
   ],
   "bookmarkedFileStore": [],
