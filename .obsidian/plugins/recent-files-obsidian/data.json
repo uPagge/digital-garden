@@ -5,6 +5,18 @@
       "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
     },
     {
+      "basename": "Статья. Т-Ж. Как сделать ремонт квартиры",
+      "path": "source/статьи/Статья. Т-Ж. Как сделать ремонт квартиры.md"
+    },
+    {
+      "basename": "Проекты",
+      "path": "Проекты.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Список покупок для ремонта",
       "path": "projects/Ремонт квартиры/Список покупок для ремонта.md"
     },
@@ -93,10 +105,6 @@
       "path": "meta/files/692ff633083a92147569ba47c.jpg"
     },
     {
-      "basename": "Проекты",
-      "path": "Проекты.md"
-    },
-    {
       "basename": "CQRS",
       "path": "knowledge/dev/архитектура/паттерн/CQRS.md"
     },
@@ -161,10 +169,6 @@
       "path": "_inbox/Кэширование на стороне браузера.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "Vitess",
       "path": "_inbox/Vitess.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Range Base Sharding",
       "path": "_inbox/Range Base Sharding.md"
-    },
-    {
-      "basename": "Синхронная репликация",
-      "path": "_inbox/Синхронная репликация.md"
     }
   ],
   "omittedPaths": [],
