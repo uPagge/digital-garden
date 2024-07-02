@@ -24,24 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "wiki/zero/00 Kafka.md",
+      "timestamp": 1719938290920
+    },
+    {
+      "filepath": "_inbox/Брокер сообщений.md",
+      "timestamp": 1719938280292
+    },
+    {
+      "filepath": "Home.md",
+      "timestamp": 1719938054255
+    },
+    {
       "filepath": "_inbox/Индекс в PostgreSQL.md",
       "timestamp": 1719933867538
-    },
-    {
-      "filepath": "_inbox/Индексы в MySQL.md",
-      "timestamp": 1719933854879
-    },
-    {
-      "filepath": "_inbox/Транзакция БД.md",
-      "timestamp": 1719933704525
-    },
-    {
-      "filepath": "_inbox/Serializable.md",
-      "timestamp": 1719933618607
-    },
-    {
-      "filepath": "Проекты.md",
-      "timestamp": 1719933588467
     }
   ],
   "bookmarkedFileStore": [],
