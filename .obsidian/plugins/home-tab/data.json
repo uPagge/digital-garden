@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Kafka.md",
+      "timestamp": 1719948221774
+    },
+    {
       "filepath": "_inbox/Брокер сообщений.md",
-      "timestamp": 1719948079017
+      "timestamp": 1719948219791
     },
     {
       "filepath": "_inbox/Горизонтальное масштабирование.md",
       "timestamp": 1719948070529
-    },
-    {
-      "filepath": "_inbox/Kafka.md",
-      "timestamp": 1719947884484
     },
     {
       "filepath": "_inbox/Redis.md",

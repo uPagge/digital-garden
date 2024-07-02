@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Kafka",
+      "path": "_inbox/Kafka.md"
+    },
+    {
       "basename": "Брокер сообщений",
       "path": "_inbox/Брокер сообщений.md"
     },
     {
       "basename": "Горизонтальное масштабирование",
       "path": "_inbox/Горизонтальное масштабирование.md"
-    },
-    {
-      "basename": "Kafka",
-      "path": "_inbox/Kafka.md"
     },
     {
       "basename": "Redis",
