@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Индекс в PostgreSQL.md",
+      "timestamp": 1719933867538
+    },
+    {
+      "filepath": "_inbox/Индексы в MySQL.md",
+      "timestamp": 1719933854879
+    },
+    {
       "filepath": "_inbox/Транзакция БД.md",
       "timestamp": 1719933704525
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "Проекты.md",
       "timestamp": 1719933588467
-    },
-    {
-      "filepath": "projects/Проект. Узучение Английского.md",
-      "timestamp": 1719933586322
-    },
-    {
-      "filepath": "projects/Проект. Обучение Highload.md",
-      "timestamp": 1719933489768
     }
   ],
   "bookmarkedFileStore": [],

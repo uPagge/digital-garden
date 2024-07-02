@@ -8,6 +8,7 @@ zero-link:
   - "[[00 MySQL]]"
 parents: 
 linked:
+  - "[[Индекс в PostgreSQL]]"
 ---
 ![Архитектура](Архитектура%20MySQL.md#^42f122)
 
