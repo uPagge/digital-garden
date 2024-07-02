@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Брокер сообщений",
+      "path": "_inbox/Брокер сообщений.md"
+    },
+    {
       "basename": "00 Kafka",
       "path": "wiki/zero/00 Kafka.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Вопросы для собеседование Java",
       "path": "notes/Собеседования/Вопросы для собеседование Java.md"
-    },
-    {
-      "basename": "Брокер сообщений",
-      "path": "_inbox/Брокер сообщений.md"
     },
     {
       "basename": "Home",

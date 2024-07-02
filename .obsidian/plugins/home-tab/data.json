@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Брокер сообщений.md",
+      "timestamp": 1719938889227
+    },
+    {
       "filepath": "wiki/zero/00 Kafka.md",
       "timestamp": 1719938368701
     },
@@ -34,10 +38,6 @@
     {
       "filepath": "notes/Собеседования/Вопросы для собеседование Java.md",
       "timestamp": 1719938347132
-    },
-    {
-      "filepath": "_inbox/Брокер сообщений.md",
-      "timestamp": 1719938280292
     },
     {
       "filepath": "Home.md",
