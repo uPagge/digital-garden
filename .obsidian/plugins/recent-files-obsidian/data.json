@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Read uncommitted",
+      "path": "_inbox/Read uncommitted.md"
+    },
+    {
       "basename": "Deadlock",
       "path": "_inbox/Deadlock.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
-    },
-    {
-      "basename": "Consistent hashing",
-      "path": "_inbox/Consistent hashing.md"
     }
   ],
   "omittedPaths": [],

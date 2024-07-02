@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Read uncommitted.md",
+      "timestamp": 1719932562185
+    },
+    {
       "filepath": "_inbox/Deadlock.md",
       "timestamp": 1719932139770
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Home.md",
       "timestamp": 1719905943843
-    },
-    {
-      "filepath": "Проекты.md",
-      "timestamp": 1719905942532
     }
   ],
   "bookmarkedFileStore": [],
