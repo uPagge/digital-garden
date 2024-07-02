@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Kafka",
-      "path": "_inbox/Kafka.md"
-    },
-    {
       "basename": "Брокер сообщений",
       "path": "_inbox/Брокер сообщений.md"
+    },
+    {
+      "basename": "Advanced Message Queuing Protocol",
+      "path": "_inbox/Advanced Message Queuing Protocol.md"
+    },
+    {
+      "basename": "Kafka",
+      "path": "_inbox/Kafka.md"
     },
     {
       "basename": "Горизонтальное масштабирование",
@@ -195,10 +199,6 @@
     {
       "basename": "1640215.970",
       "path": "meta/files/1640215.970.jpg"
-    },
-    {
-      "basename": "laminat-bez-porogov",
-      "path": "meta/files/laminat-bez-porogov.jpg"
     }
   ],
   "omittedPaths": [],
