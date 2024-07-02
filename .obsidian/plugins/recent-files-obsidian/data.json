@@ -5,8 +5,16 @@
       "path": "_inbox/Брокер сообщений.md"
     },
     {
-      "basename": "00 Kafka",
-      "path": "wiki/zero/00 Kafka.md"
+      "basename": "Kafka",
+      "path": "_inbox/Kafka.md"
+    },
+    {
+      "basename": "RabbitMQ",
+      "path": "_inbox/RabbitMQ.md"
+    },
+    {
+      "basename": "Обучающий курс от HighLoad конференции 2024",
+      "path": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md"
     },
     {
       "basename": "Событийно-ориентированное программирование",
@@ -191,14 +199,6 @@
     {
       "basename": "55",
       "path": "meta/files/55.jpg"
-    },
-    {
-      "basename": "692ff633083a92147569ba47c",
-      "path": "meta/files/692ff633083a92147569ba47c.jpg"
-    },
-    {
-      "basename": "CQRS",
-      "path": "knowledge/dev/архитектура/паттерн/CQRS.md"
     }
   ],
   "omittedPaths": [],

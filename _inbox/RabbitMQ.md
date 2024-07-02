@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases:
+  - RabbitMQ
 tags:
-  - зрелость/🌱
+  - type/moc
 date:
   - - 2024-07-02
 zero-link:
   - "[[00 Архитектура ПО]]"
-parents: 
+parents:
+  - "[[Брокер сообщений]]"
 linked:
 ---
-- [RabbitMQ](RabbitMQ.md)
-- [Kafka](Kafka.md)

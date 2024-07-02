@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Брокер сообщений.md",
-      "timestamp": 1719938889227
+      "timestamp": 1719939010654
     },
     {
-      "filepath": "wiki/zero/00 Kafka.md",
-      "timestamp": 1719938368701
+      "filepath": "_inbox/Kafka.md",
+      "timestamp": 1719938996631
+    },
+    {
+      "filepath": "_inbox/RabbitMQ.md",
+      "timestamp": 1719938947975
+    },
+    {
+      "filepath": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md",
+      "timestamp": 1719938911022
     },
     {
       "filepath": "_inbox/Событийно-ориентированное программирование.md",
       "timestamp": 1719938361985
-    },
-    {
-      "filepath": "notes/Собеседования/Вопросы для собеседование Java.md",
-      "timestamp": 1719938347132
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1719938054255
     }
   ],
   "bookmarkedFileStore": [],

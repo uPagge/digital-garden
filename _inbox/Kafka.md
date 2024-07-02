@@ -3,7 +3,7 @@ aliases:
   - кафка
   - kafka
 tags:
-  - type/zero-link
+  - type/moc
 date:
   - - 2024-07-02
   - - 2024-07-02
