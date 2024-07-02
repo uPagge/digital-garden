@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Enterprise Service Bus.md",
+      "timestamp": 1719947569158
+    },
+    {
+      "filepath": "knowledge/dev/Event Loop.md",
+      "timestamp": 1719947551922
+    },
+    {
       "filepath": "_inbox/Брокер сообщений.md",
-      "timestamp": 1719939010654
+      "timestamp": 1719947429058
+    },
+    {
+      "filepath": "_inbox/Redis.md",
+      "timestamp": 1719947421768
     },
     {
       "filepath": "_inbox/Kafka.md",
       "timestamp": 1719938996631
-    },
-    {
-      "filepath": "_inbox/RabbitMQ.md",
-      "timestamp": 1719938947975
-    },
-    {
-      "filepath": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md",
-      "timestamp": 1719938911022
-    },
-    {
-      "filepath": "_inbox/Событийно-ориентированное программирование.md",
-      "timestamp": 1719938361985
     }
   ],
   "bookmarkedFileStore": [],

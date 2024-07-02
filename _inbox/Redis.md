@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - зрелость/🌱
+  - type/moc
 date:
   - - 2024-05-23
 zero-link:
