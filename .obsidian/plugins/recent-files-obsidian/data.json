@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Serializable",
-      "path": "_inbox/Serializable.md"
+      "basename": "Read committed",
+      "path": "_inbox/Read committed.md"
+    },
+    {
+      "basename": "ExcaliBrain Snapshot - Read committed.excalidraw",
+      "path": "_inbox/drawing/ExcaliBrain Snapshot - Read committed.excalidraw.md"
     },
     {
       "basename": "excalibrain",
       "path": "excalibrain.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Read uncommitted",
+      "path": "_inbox/Read uncommitted.md"
     },
     {
       "basename": "Repeatable read",
       "path": "_inbox/Repeatable read.md"
     },
     {
-      "basename": "Read committed",
-      "path": "_inbox/Read committed.md"
+      "basename": "Фантомное чтение",
+      "path": "_inbox/Фантомное чтение.md"
     },
     {
-      "basename": "Read uncommitted",
-      "path": "_inbox/Read uncommitted.md"
+      "basename": "Serializable",
+      "path": "_inbox/Serializable.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Deadlock",
@@ -191,14 +199,6 @@
     {
       "basename": "Кэширование",
       "path": "_inbox/Кэширование.md"
-    },
-    {
-      "basename": "Старт с холодным кэшом",
-      "path": "_inbox/Старт с холодным кэшом.md"
-    },
-    {
-      "basename": "Кэширование в приложении",
-      "path": "_inbox/Кэширование в приложении.md"
     }
   ],
   "omittedPaths": [],
