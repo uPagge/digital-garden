@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/RabbitMQ.md",
+      "timestamp": 1719949131403
+    },
+    {
+      "filepath": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md",
+      "timestamp": 1719949126078
+    },
+    {
+      "filepath": "_inbox/Репликация.md",
+      "timestamp": 1719949091365
+    },
+    {
       "filepath": "_inbox/Брокер сообщений.md",
-      "timestamp": 1719948715949
+      "timestamp": 1719948981433
     },
     {
       "filepath": "_inbox/Advanced Message Queuing Protocol.md",
       "timestamp": 1719948554408
-    },
-    {
-      "filepath": "_inbox/Kafka.md",
-      "timestamp": 1719948221774
-    },
-    {
-      "filepath": "_inbox/Горизонтальное масштабирование.md",
-      "timestamp": 1719948070529
-    },
-    {
-      "filepath": "_inbox/Redis.md",
-      "timestamp": 1719947769889
     }
   ],
   "bookmarkedFileStore": [],

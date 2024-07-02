@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "RabbitMQ",
+      "path": "_inbox/RabbitMQ.md"
+    },
+    {
+      "basename": "Обучающий курс от HighLoad конференции 2024",
+      "path": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md"
+    },
+    {
+      "basename": "Репликация",
+      "path": "_inbox/Репликация.md"
+    },
+    {
       "basename": "Брокер сообщений",
       "path": "_inbox/Брокер сообщений.md"
     },
@@ -21,10 +33,6 @@
       "path": "_inbox/Redis.md"
     },
     {
-      "basename": "RabbitMQ",
-      "path": "_inbox/RabbitMQ.md"
-    },
-    {
       "basename": "Enterprise Service Bus",
       "path": "_inbox/Enterprise Service Bus.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Event Loop",
       "path": "knowledge/dev/Event Loop.md"
-    },
-    {
-      "basename": "Обучающий курс от HighLoad конференции 2024",
-      "path": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md"
     },
     {
       "basename": "Событийно-ориентированное программирование",
@@ -195,10 +199,6 @@
     {
       "basename": "orig",
       "path": "meta/files/orig.webp"
-    },
-    {
-      "basename": "1640215.970",
-      "path": "meta/files/1640215.970.jpg"
     }
   ],
   "omittedPaths": [],
