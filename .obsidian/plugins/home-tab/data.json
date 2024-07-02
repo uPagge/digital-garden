@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Read uncommitted.md",
-      "timestamp": 1719932562185
+      "filepath": "_inbox/Serializable.md",
+      "timestamp": 1719932863763
     },
     {
-      "filepath": "_inbox/Deadlock.md",
-      "timestamp": 1719932139770
-    },
-    {
-      "filepath": "_inbox/Блокировки.md",
-      "timestamp": 1719932133087
-    },
-    {
-      "filepath": "_inbox/Транзакция БД.md",
-      "timestamp": 1719932031125
+      "filepath": "excalibrain.md",
+      "timestamp": 1719932863485
     },
     {
       "filepath": "Home.md",
-      "timestamp": 1719905943843
+      "timestamp": 1719932797895
+    },
+    {
+      "filepath": "_inbox/Repeatable read.md",
+      "timestamp": 1719932751701
+    },
+    {
+      "filepath": "_inbox/Read committed.md",
+      "timestamp": 1719932676552
     }
   ],
   "bookmarkedFileStore": [],

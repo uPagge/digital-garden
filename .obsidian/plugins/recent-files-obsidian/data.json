@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Serializable",
+      "path": "_inbox/Serializable.md"
+    },
+    {
+      "basename": "excalibrain",
+      "path": "excalibrain.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Repeatable read",
+      "path": "_inbox/Repeatable read.md"
+    },
+    {
+      "basename": "Read committed",
+      "path": "_inbox/Read committed.md"
+    },
+    {
       "basename": "Read uncommitted",
       "path": "_inbox/Read uncommitted.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "Транзакция БД",
       "path": "_inbox/Транзакция БД.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Проекты",
@@ -183,22 +199,6 @@
     {
       "basename": "Кэширование в приложении",
       "path": "_inbox/Кэширование в приложении.md"
-    },
-    {
-      "basename": "Content Delivery Network",
-      "path": "knowledge/dev/network/Content Delivery Network.md"
-    },
-    {
-      "basename": "Кэширование на стороне браузера",
-      "path": "_inbox/Кэширование на стороне браузера.md"
-    },
-    {
-      "basename": "Vitess",
-      "path": "_inbox/Vitess.md"
-    },
-    {
-      "basename": "Шардирование в БД",
-      "path": "_inbox/Шардирование в БД.md"
     }
   ],
   "omittedPaths": [],
