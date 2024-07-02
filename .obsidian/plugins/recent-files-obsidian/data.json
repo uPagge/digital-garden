@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Брокер сообщений",
+      "path": "_inbox/Брокер сообщений.md"
+    },
+    {
       "basename": "RabbitMQ",
       "path": "_inbox/RabbitMQ.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Репликация",
       "path": "_inbox/Репликация.md"
-    },
-    {
-      "basename": "Брокер сообщений",
-      "path": "_inbox/Брокер сообщений.md"
     },
     {
       "basename": "Advanced Message Queuing Protocol",
