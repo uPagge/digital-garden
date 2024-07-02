@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Deadlock.md",
+      "timestamp": 1719932139770
+    },
+    {
+      "filepath": "_inbox/Блокировки.md",
+      "timestamp": 1719932133087
+    },
+    {
+      "filepath": "_inbox/Транзакция БД.md",
+      "timestamp": 1719932031125
+    },
+    {
       "filepath": "Home.md",
       "timestamp": 1719905943843
     },
     {
       "filepath": "Проекты.md",
       "timestamp": 1719905942532
-    },
-    {
-      "filepath": "projects/Проект. Здоровым к 30.md",
-      "timestamp": 1719905830157
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
-      "timestamp": 1719905829339
-    },
-    {
-      "filepath": "projects/Проект. Дом Дурачок 2.0.md",
-      "timestamp": 1719905828132
     }
   ],
   "bookmarkedFileStore": [],

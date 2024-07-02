@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Deadlock",
+      "path": "_inbox/Deadlock.md"
+    },
+    {
+      "basename": "Блокировки",
+      "path": "_inbox/Блокировки.md"
+    },
+    {
+      "basename": "Транзакция БД",
+      "path": "_inbox/Транзакция БД.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -139,18 +151,6 @@
     {
       "basename": "Архитектура MySQL",
       "path": "_inbox/Архитектура MySQL.md"
-    },
-    {
-      "basename": "Транзакция БД",
-      "path": "_inbox/Транзакция БД.md"
-    },
-    {
-      "basename": "Блокировки",
-      "path": "_inbox/Блокировки.md"
-    },
-    {
-      "basename": "Deadlock",
-      "path": "_inbox/Deadlock.md"
     },
     {
       "basename": "00 PostgreSQL",
