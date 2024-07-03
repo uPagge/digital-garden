@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Exchange Topics.md",
-      "timestamp": 1719988437886
+      "filepath": "_inbox/Exchange Headers.md",
+      "timestamp": 1719988705226
     },
     {
       "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1719988434061
-    },
-    {
-      "filepath": "_inbox/Exchange Fanout.md",
-      "timestamp": 1719988425222
+      "timestamp": 1719988704435
     },
     {
       "filepath": "_inbox/Exchange.md",
-      "timestamp": 1719988390280
+      "timestamp": 1719988654391
     },
     {
-      "filepath": "_inbox/Exchange Direct.md",
-      "timestamp": 1719988350111
+      "filepath": "_inbox/Exchange Fanout.md",
+      "timestamp": 1719988653045
+    },
+    {
+      "filepath": "_inbox/Exchange Topics.md",
+      "timestamp": 1719988437886
     }
   ],
   "bookmarkedFileStore": [],

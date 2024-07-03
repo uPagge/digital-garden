@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Exchange Topics",
-      "path": "_inbox/Exchange Topics.md"
+      "basename": "Exchange Headers",
+      "path": "_inbox/Exchange Headers.md"
     },
     {
       "basename": "00 RabbitMQ",
       "path": "_inbox/00 RabbitMQ.md"
     },
     {
+      "basename": "Exchange",
+      "path": "_inbox/Exchange.md"
+    },
+    {
       "basename": "Exchange Fanout",
       "path": "_inbox/Exchange Fanout.md"
     },
     {
-      "basename": "Exchange",
-      "path": "_inbox/Exchange.md"
+      "basename": "Exchange Topics",
+      "path": "_inbox/Exchange Topics.md"
     },
     {
       "basename": "Exchange Direct",
@@ -195,10 +199,6 @@
     {
       "basename": "S6d1773a36e954bf1b0458135ecbb9f9eA.jpg",
       "path": "meta/files/S6d1773a36e954bf1b0458135ecbb9f9eA.jpg.webp"
-    },
-    {
-      "basename": "Pasted image 20231008174024",
-      "path": "meta/files/Pasted image 20231008174024.png"
     }
   ],
   "omittedPaths": [],
