@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Exchange Topics",
+      "path": "_inbox/Exchange Topics.md"
+    },
+    {
       "basename": "00 RabbitMQ",
       "path": "_inbox/00 RabbitMQ.md"
     },
     {
-      "basename": "Exchange Direct",
-      "path": "_inbox/Exchange Direct.md"
+      "basename": "Exchange Fanout",
+      "path": "_inbox/Exchange Fanout.md"
     },
     {
       "basename": "Exchange",
       "path": "_inbox/Exchange.md"
     },
     {
-      "basename": "Обработка сообщений в RabbitMQ",
-      "path": "Обработка сообщений в RabbitMQ.md"
+      "basename": "Exchange Direct",
+      "path": "_inbox/Exchange Direct.md"
     },
     {
       "basename": "Advanced Message Queuing Protocol",
       "path": "_inbox/Advanced Message Queuing Protocol.md"
+    },
+    {
+      "basename": "Обработка сообщений в RabbitMQ",
+      "path": "Обработка сообщений в RabbitMQ.md"
     },
     {
       "basename": "Брокер сообщений",
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20231008174024",
       "path": "meta/files/Pasted image 20231008174024.png"
-    },
-    {
-      "basename": "gde-razmestit-mikrovolnovku-1",
-      "path": "meta/files/gde-razmestit-mikrovolnovku-1.webp"
-    },
-    {
-      "basename": "mikrovolnovka_na_kuhne2023-2 1",
-      "path": "meta/files/mikrovolnovka_na_kuhne2023-2 1.jpg"
     }
   ],
   "omittedPaths": [],

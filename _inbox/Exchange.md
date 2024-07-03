@@ -13,6 +13,6 @@ Exchange получает messages от producer и отправляет его 
 
 Типы Exchange:
 - [direct](Exchange%20Direct.md)
-- fanout
-- topics
+- [fanout](Exchange%20Fanout.md)
+- [topics](Exchange%20Topics.md)
 - headers

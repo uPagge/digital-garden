@@ -11,4 +11,6 @@ parents:
   - "[[Exchange]]"
 linked:
 ---
-Сообщения попавшие в этот Exchange будут скопированы только в те Queue, которые связаны с Exchange строгим 
+Сообщения попавшие в этот Exchange будут скопированы только в те Queue, которые связаны с Exchange строгим Routing Key.
+
+![](Pasted%20image%2020240703093105.png)
