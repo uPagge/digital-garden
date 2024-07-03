@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Kafka",
+      "path": "_inbox/Kafka.md"
+    },
+    {
+      "basename": "Брокер сообщений",
+      "path": "_inbox/Брокер сообщений.md"
+    },
+    {
       "basename": "00 RabbitMQ",
       "path": "_inbox/00 RabbitMQ.md"
+    },
+    {
+      "basename": "Queue",
+      "path": "_inbox/Queue.md"
     },
     {
       "basename": "Кластер RabbitMQ",
@@ -11,10 +23,6 @@
     {
       "basename": "Флаги очередей в RabbitMQ",
       "path": "_inbox/Флаги очередей в RabbitMQ.md"
-    },
-    {
-      "basename": "Queue",
-      "path": "_inbox/Queue.md"
     },
     {
       "basename": "Exchange",
@@ -45,20 +53,12 @@
       "path": "Обработка сообщений в RabbitMQ.md"
     },
     {
-      "basename": "Брокер сообщений",
-      "path": "_inbox/Брокер сообщений.md"
-    },
-    {
       "basename": "Обучающий курс от HighLoad конференции 2024",
       "path": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md"
     },
     {
       "basename": "Репликация",
       "path": "_inbox/Репликация.md"
-    },
-    {
-      "basename": "Kafka",
-      "path": "_inbox/Kafka.md"
     },
     {
       "basename": "Горизонтальное масштабирование",
