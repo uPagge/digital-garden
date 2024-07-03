@@ -5,6 +5,10 @@
       "path": "_inbox/00 RabbitMQ.md"
     },
     {
+      "basename": "Кластер RabbitMQ",
+      "path": "_inbox/Кластер RabbitMQ.md"
+    },
+    {
       "basename": "Флаги очередей в RabbitMQ",
       "path": "_inbox/Флаги очередей в RabbitMQ.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "orig-2",
       "path": "meta/files/orig-2.webp"
-    },
-    {
-      "basename": "Kromax20ATLANTIS-70",
-      "path": "meta/files/Kromax20ATLANTIS-70.jpg"
     }
   ],
   "omittedPaths": [],

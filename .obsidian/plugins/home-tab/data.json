@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1719991553169
+      "timestamp": 1719991810985
+    },
+    {
+      "filepath": "_inbox/Кластер RabbitMQ.md",
+      "timestamp": 1719991683676
     },
     {
       "filepath": "_inbox/Флаги очередей в RabbitMQ.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Exchange.md",
       "timestamp": 1719991138296
-    },
-    {
-      "filepath": "_inbox/Exchange Topics.md",
-      "timestamp": 1719991136425
     }
   ],
   "bookmarkedFileStore": [],
