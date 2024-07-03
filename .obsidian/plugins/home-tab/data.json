@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Монолитный ад.md",
-      "timestamp": 1720004873627
+      "filepath": "wiki/zero/Микросервисная архитектура.md",
+      "timestamp": 1720005092731
+    },
+    {
+      "filepath": "wiki/zero/00 Архитектура ПО.md",
+      "timestamp": 1720005091210
     },
     {
       "filepath": "_inbox/Монолитная архитектура.md",
-      "timestamp": 1720004866848
+      "timestamp": 1720005089089
+    },
+    {
+      "filepath": "_inbox/Монолитный ад.md",
+      "timestamp": 1720004935247
     },
     {
       "filepath": "_inbox/Kafka.md",
       "timestamp": 1719998664626
-    },
-    {
-      "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1719998632586
-    },
-    {
-      "filepath": "_inbox/Отставание реплики в БД.md",
-      "timestamp": 1719998000429
     }
   ],
   "bookmarkedFileStore": [],
