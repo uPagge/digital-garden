@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Журнал БД.md",
+      "timestamp": 1719997767675
+    },
+    {
       "filepath": "_inbox/Kafka.md",
       "timestamp": 1719997473660
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "wiki/zero/00 Nginx.md",
       "timestamp": 1719992461987
-    },
-    {
-      "filepath": "_inbox/Queue.md",
-      "timestamp": 1719992073683
     }
   ],
   "bookmarkedFileStore": [],
