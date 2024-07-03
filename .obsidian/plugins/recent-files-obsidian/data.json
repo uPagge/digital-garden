@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Обработка сообщений в RabbitMQ",
+      "path": "Обработка сообщений в RabbitMQ.md"
+    },
+    {
       "basename": "RabbitMQ",
       "path": "_inbox/RabbitMQ.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "kak-spryatat-krovat-01",
       "path": "meta/files/kak-spryatat-krovat-01.jpg"
-    },
-    {
-      "basename": "orig",
-      "path": "meta/files/orig.webp"
     }
   ],
   "omittedPaths": [],

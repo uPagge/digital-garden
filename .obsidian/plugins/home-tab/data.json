@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Обработка сообщений в RabbitMQ.md",
+      "timestamp": 1719987900206
+    },
+    {
       "filepath": "_inbox/RabbitMQ.md",
-      "timestamp": 1719987208650
+      "timestamp": 1719987898499
     },
     {
       "filepath": "_inbox/Брокер сообщений.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Репликация.md",
       "timestamp": 1719949091365
-    },
-    {
-      "filepath": "_inbox/Advanced Message Queuing Protocol.md",
-      "timestamp": 1719948554408
     }
   ],
   "bookmarkedFileStore": [],
