@@ -5,6 +5,10 @@
       "path": "_inbox/Kafka.md"
     },
     {
+      "basename": "00 RabbitMQ",
+      "path": "_inbox/00 RabbitMQ.md"
+    },
+    {
       "basename": "Отставание реплики в БД",
       "path": "_inbox/Отставание реплики в БД.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Брокер сообщений",
       "path": "_inbox/Брокер сообщений.md"
-    },
-    {
-      "basename": "00 RabbitMQ",
-      "path": "_inbox/00 RabbitMQ.md"
     },
     {
       "basename": "00 Nginx",
