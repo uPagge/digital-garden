@@ -32,5 +32,17 @@ linked:
 - Binding - Связь между Queue и Exchange.
 - Routing Key - Ключ на который смотрит Exchange и решает в какую Queue перенаправить message.
 - Vhost (virtual host) - Способ разделения приложений на одном и том же экземпляре RabbitMQ.
+
+Типы Exchange:
+- direct
+- fanout
+- topics
+- headers
+
+Обработка сообщений
+- Поставщик публикует сообщение в Exchange.
+- Обработчик получает сообщение 
+
+![](Pasted%20image%2020240703091701.png)
 ## Заметки
 - При прочтении сообщения consumer-ом сообщение удаляется из брокера.
