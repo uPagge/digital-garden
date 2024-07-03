@@ -5,8 +5,7 @@ tags:
   - type/moc
 date:
   - - 2024-07-02
-zero-link:
-  - "[[00 Архитектура ПО]]"
+zero-link: []
 parents:
   - "[[Брокер сообщений]]"
 linked:
@@ -28,17 +27,12 @@ linked:
 - Queue - Буфер, который хранит messages. Никакой логики.
 - Connection - [TCP](TCP.md) соединение между приложениями и менеджером очередей.
 - Channel - Виртуальное соединение внутри Connection. Когда вы публикуете или получаете message через Queue, это все делается в Channel. По факту сессия.
-- Exchange - получает messages от producer и отправляет его в Queue. Он решает в какую Queue будет помещено message.
+- [Exchange](Exchange.md) - получает messages от producer и отправляет его в Queue. Он решает в какую Queue будет помещено message.
 - Binding - Связь между Queue и Exchange.
 - Routing Key - Ключ на который смотрит Exchange и решает в какую Queue перенаправить message.
 - Vhost (virtual host) - Способ разделения приложений на одном и том же экземпляре RabbitMQ.
 
-Типы Exchange:
-- direct
-- fanout
-- topics
-- headers
-
-[Обработка сообщений в RabbitMQ](Обработка%20сообщений%20в%20RabbitMQ.md)
+Обработка сообщений в RabbitMQ
+![Обработка сообщений в RabbitMQ](Обработка%20сообщений%20в%20RabbitMQ.md)
 ## Заметки
 - При прочтении сообщения consumer-ом сообщение удаляется из брокера.

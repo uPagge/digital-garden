@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/00 RabbitMQ.md",
+      "timestamp": 1719988243151
+    },
+    {
+      "filepath": "_inbox/Exchange Direct.md",
+      "timestamp": 1719988218224
+    },
+    {
+      "filepath": "_inbox/Exchange.md",
+      "timestamp": 1719988212138
+    },
+    {
       "filepath": "Обработка сообщений в RabbitMQ.md",
-      "timestamp": 1719987900206
+      "timestamp": 1719988171905
     },
     {
-      "filepath": "_inbox/RabbitMQ.md",
-      "timestamp": 1719987898499
-    },
-    {
-      "filepath": "_inbox/Брокер сообщений.md",
-      "timestamp": 1719987202417
-    },
-    {
-      "filepath": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md",
-      "timestamp": 1719949126078
-    },
-    {
-      "filepath": "_inbox/Репликация.md",
-      "timestamp": 1719949091365
+      "filepath": "_inbox/Advanced Message Queuing Protocol.md",
+      "timestamp": 1719988164152
     }
   ],
   "bookmarkedFileStore": [],
