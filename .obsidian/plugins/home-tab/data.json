@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Монолитный ад.md",
+      "timestamp": 1720004873627
+    },
+    {
+      "filepath": "_inbox/Монолитная архитектура.md",
+      "timestamp": 1720004866848
+    },
+    {
       "filepath": "_inbox/Kafka.md",
       "timestamp": 1719998664626
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Отставание реплики в БД.md",
       "timestamp": 1719998000429
-    },
-    {
-      "filepath": "_inbox/Журнал БД.md",
-      "timestamp": 1719997922603
-    },
-    {
-      "filepath": "_inbox/Репликация в PostgreSQL.md",
-      "timestamp": 1719997807888
     }
   ],
   "bookmarkedFileStore": [],

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Монолитный ад",
+      "path": "_inbox/Монолитный ад.md"
+    },
+    {
+      "basename": "Монолитная архитектура",
+      "path": "_inbox/Монолитная архитектура.md"
+    },
+    {
       "basename": "Kafka",
       "path": "_inbox/Kafka.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Проект. Выступление на конференции Jpoint",
       "path": "projects/Проект. Выступление на конференции Jpoint.md"
-    },
-    {
-      "basename": "Личная айдентика",
-      "path": "projects/Личная айдентика.md"
-    },
-    {
-      "basename": "План проекта бота",
-      "path": "archive/План проекта бота.md"
     }
   ],
   "omittedPaths": [],
