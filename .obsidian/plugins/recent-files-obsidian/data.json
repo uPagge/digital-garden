@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Nginx",
+      "path": "wiki/zero/00 Nginx.md"
+    },
+    {
       "basename": "Kafka",
       "path": "_inbox/Kafka.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Курс. Как сделать ремонт и не сойти с ума",
       "path": "source/курсы/тж/Курс. Как сделать ремонт и не сойти с ума.md"
-    },
-    {
-      "basename": "orig-2",
-      "path": "meta/files/orig-2.webp"
     }
   ],
   "omittedPaths": [],
