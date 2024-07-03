@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "00 Nginx",
-      "path": "wiki/zero/00 Nginx.md"
-    },
-    {
       "basename": "Kafka",
       "path": "_inbox/Kafka.md"
+    },
+    {
+      "basename": "00 Nginx",
+      "path": "wiki/zero/00 Nginx.md"
     },
     {
       "basename": "Брокер сообщений",

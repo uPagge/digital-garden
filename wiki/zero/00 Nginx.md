@@ -37,4 +37,4 @@ ps aux | grep nginx
 - [Масштабируемая конфигурация nginx](https://highload.guide/blog/scalable-configuration-nginx.html)
 
 ## Заметки
-- Есть какой-то модуль, который позволяет отправлять события в 
+- Есть какой-то модуль, который позволяет отправлять события в [Kafka](Kafka.md)
