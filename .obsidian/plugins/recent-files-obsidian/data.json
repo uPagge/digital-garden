@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "00 RabbitMQ",
+      "path": "_inbox/00 RabbitMQ.md"
+    },
+    {
       "basename": "Флаги очередей в RabbitMQ",
       "path": "_inbox/Флаги очередей в RabbitMQ.md"
     },
     {
-      "basename": "00 RabbitMQ",
-      "path": "_inbox/00 RabbitMQ.md"
+      "basename": "Queue",
+      "path": "_inbox/Queue.md"
     },
     {
       "basename": "Exchange",
@@ -195,10 +199,6 @@
     {
       "basename": "Kromax20ATLANTIS-70",
       "path": "meta/files/Kromax20ATLANTIS-70.jpg"
-    },
-    {
-      "basename": "6706110398",
-      "path": "meta/files/6706110398.jpg"
     }
   ],
   "omittedPaths": [],

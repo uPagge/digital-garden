@@ -24,8 +24,7 @@ linked:
 - [Репликация](_inbox/Репликация.md)
 
 Терминология:
-- Queue - Буфер, который хранит messages. Никакой логики.
-	- [Флаги очередей в RabbitMQ](Флаги%20очередей%20в%20RabbitMQ.md)
+- [Queue](Queue.md) - Буфер, который хранит messages. Никакой логики.
 - Connection - [TCP](TCP.md) соединение между приложениями и менеджером очередей.
 - Channel - Виртуальное соединение внутри Connection. Когда вы публикуете или получаете message через Queue, это все делается в Channel. По факту сессия.
 - [Exchange](Exchange.md) - получает messages от producer и отправляет его в Queue. Он решает в какую Queue будет помещено message.

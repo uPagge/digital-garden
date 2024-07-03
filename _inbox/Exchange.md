@@ -9,7 +9,7 @@ zero-link:
 parents: []
 linked: 
 ---
-Exchange получает messages от producer и отправляет его в Queue. Он решает в какую Queue будет помещено message.
+Exchange получает messages от producer и отправляет его в [Queue](Queue.md). Он решает в какую [Queue](Queue.md) будет помещено message.
 
 Типы Exchange:
 - [direct](Exchange%20Direct.md)
