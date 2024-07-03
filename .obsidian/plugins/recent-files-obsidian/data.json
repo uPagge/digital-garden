@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Kafka",
+      "path": "_inbox/Kafka.md"
+    },
+    {
+      "basename": "Отставание реплики в БД",
+      "path": "_inbox/Отставание реплики в БД.md"
+    },
+    {
       "basename": "Журнал БД",
       "path": "_inbox/Журнал БД.md"
     },
     {
-      "basename": "Kafka",
-      "path": "_inbox/Kafka.md"
+      "basename": "Репликация в PostgreSQL",
+      "path": "_inbox/Репликация в PostgreSQL.md"
     },
     {
       "basename": "Брокер сообщений",
@@ -191,14 +199,6 @@
     {
       "basename": "План проекта бота",
       "path": "archive/План проекта бота.md"
-    },
-    {
-      "basename": "Статья. Т-Ж. Как сделать ремонт квартиры",
-      "path": "source/статьи/Статья. Т-Ж. Как сделать ремонт квартиры.md"
-    },
-    {
-      "basename": "Список покупок для ремонта",
-      "path": "projects/Ремонт квартиры/Список покупок для ремонта.md"
     }
   ],
   "omittedPaths": [],
