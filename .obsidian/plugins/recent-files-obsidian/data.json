@@ -5,16 +5,16 @@
       "path": "_inbox/Kafka.md"
     },
     {
-      "basename": "00 Nginx",
-      "path": "wiki/zero/00 Nginx.md"
-    },
-    {
       "basename": "Брокер сообщений",
       "path": "_inbox/Брокер сообщений.md"
     },
     {
       "basename": "00 RabbitMQ",
       "path": "_inbox/00 RabbitMQ.md"
+    },
+    {
+      "basename": "00 Nginx",
+      "path": "wiki/zero/00 Nginx.md"
     },
     {
       "basename": "Queue",
