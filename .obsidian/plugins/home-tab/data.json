@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Exchange Headers.md",
-      "timestamp": 1719988705226
+      "filepath": "_inbox/Флаги очередей в RabbitMQ.md",
+      "timestamp": 1719991160610
     },
     {
       "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1719988704435
+      "timestamp": 1719991158104
     },
     {
       "filepath": "_inbox/Exchange.md",
-      "timestamp": 1719988654391
-    },
-    {
-      "filepath": "_inbox/Exchange Fanout.md",
-      "timestamp": 1719988653045
+      "timestamp": 1719991138296
     },
     {
       "filepath": "_inbox/Exchange Topics.md",
-      "timestamp": 1719988437886
+      "timestamp": 1719991136425
+    },
+    {
+      "filepath": "_inbox/Exchange Headers.md",
+      "timestamp": 1719988705226
     }
   ],
   "bookmarkedFileStore": [],
