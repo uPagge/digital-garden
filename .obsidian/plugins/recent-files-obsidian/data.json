@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Обучающий курс от HighLoad конференции 2024",
+      "path": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md"
+    },
+    {
       "basename": "Tarantool",
       "path": "_inbox/Tarantool.md"
     },
@@ -175,10 +179,6 @@
     {
       "basename": "Обработка сообщений в RabbitMQ",
       "path": "Обработка сообщений в RabbitMQ.md"
-    },
-    {
-      "basename": "Обучающий курс от HighLoad конференции 2024",
-      "path": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md"
     },
     {
       "basename": "Репликация",

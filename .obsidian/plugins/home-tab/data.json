@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md",
+      "timestamp": 1720095244416
+    },
+    {
       "filepath": "_inbox/Tarantool.md",
       "timestamp": 1720095190492
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Кластер Kafka.md",
       "timestamp": 1720089903033
-    },
-    {
-      "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1720089796796
     }
   ],
   "bookmarkedFileStore": [],
