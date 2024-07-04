@@ -69,3 +69,7 @@ Apache Kafka – это платформа потоковой передачи, 
 ## Дополнительно
 - [Consumer Group](Consumer%20Group.md)
 - [[Кластер Kafka]]
+
+```
+sudo docker run -p 9000:9000 -e ZK_HOSTS="10.21.21.14:2181" sheepkiller/kafka-manager
+```
