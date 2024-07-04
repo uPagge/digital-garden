@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Redis.md",
+      "timestamp": 1720091144555
+    },
+    {
       "filepath": "_inbox/00 Kafka.md",
       "timestamp": 1720089997851
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
       "timestamp": 1720087741313
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
-      "timestamp": 1720087589504
     }
   ],
   "bookmarkedFileStore": [],

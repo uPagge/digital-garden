@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Redis",
+      "path": "_inbox/Redis.md"
+    },
+    {
       "basename": "00 Kafka",
       "path": "_inbox/00 Kafka.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "Горизонтальное масштабирование",
       "path": "_inbox/Горизонтальное масштабирование.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "_inbox/Redis.md"
     },
     {
       "basename": "Enterprise Service Bus",
