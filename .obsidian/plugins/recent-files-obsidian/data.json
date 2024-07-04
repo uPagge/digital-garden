@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Consumer Group",
-      "path": "_inbox/Consumer Group.md"
-    },
-    {
       "basename": "00 Kafka",
       "path": "_inbox/00 Kafka.md"
+    },
+    {
+      "basename": "Consumer Group",
+      "path": "_inbox/Consumer Group.md"
     },
     {
       "basename": "00 RabbitMQ",
