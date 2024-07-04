@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Tarantool",
+      "path": "_inbox/Tarantool.md"
+    },
+    {
       "basename": "Redis",
       "path": "_inbox/Redis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Балансировка нагрузки",
       "path": "_inbox/Балансировка нагрузки.md"
-    },
-    {
-      "basename": "Event Loop",
-      "path": "knowledge/dev/Event Loop.md"
     }
   ],
   "omittedPaths": [],

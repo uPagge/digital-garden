@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Tarantool.md",
+      "timestamp": 1720095190492
+    },
+    {
       "filepath": "_inbox/Redis.md",
       "timestamp": 1720091144555
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/00 RabbitMQ.md",
       "timestamp": 1720089796796
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
-      "timestamp": 1720087741313
     }
   ],
   "bookmarkedFileStore": [],
