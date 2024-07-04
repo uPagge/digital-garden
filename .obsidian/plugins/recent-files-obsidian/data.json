@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Микросервисная архитектура",
-      "path": "wiki/zero/Микросервисная архитектура.md"
+      "basename": "Consumer Group",
+      "path": "_inbox/Consumer Group.md"
     },
     {
-      "basename": "00 Архитектура ПО",
-      "path": "wiki/zero/00 Архитектура ПО.md"
+      "basename": "00 Kafka",
+      "path": "_inbox/00 Kafka.md"
+    },
+    {
+      "basename": "00 RabbitMQ",
+      "path": "_inbox/00 RabbitMQ.md"
     },
     {
       "basename": "Монолитная архитектура",
@@ -17,12 +21,12 @@
       "path": "_inbox/Монолитный ад.md"
     },
     {
-      "basename": "Kafka",
-      "path": "_inbox/Kafka.md"
+      "basename": "00 Архитектура ПО",
+      "path": "wiki/zero/00 Архитектура ПО.md"
     },
     {
-      "basename": "00 RabbitMQ",
-      "path": "_inbox/00 RabbitMQ.md"
+      "basename": "Микросервисная архитектура",
+      "path": "wiki/zero/Микросервисная архитектура.md"
     },
     {
       "basename": "Отставание реплики в БД",
@@ -195,10 +199,6 @@
     {
       "basename": "Проект. Ремонт квартиры",
       "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
-    },
-    {
-      "basename": "Проект. Дом Дурачок 2.0",
-      "path": "projects/Проект. Дом Дурачок 2.0.md"
     }
   ],
   "omittedPaths": [],

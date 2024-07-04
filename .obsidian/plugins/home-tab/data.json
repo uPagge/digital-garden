@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "wiki/zero/Микросервисная архитектура.md",
-      "timestamp": 1720005092731
+      "filepath": "_inbox/Consumer Group.md",
+      "timestamp": 1720085593192
     },
     {
-      "filepath": "wiki/zero/00 Архитектура ПО.md",
-      "timestamp": 1720005091210
+      "filepath": "_inbox/00 Kafka.md",
+      "timestamp": 1720085589204
+    },
+    {
+      "filepath": "_inbox/00 RabbitMQ.md",
+      "timestamp": 1720085493292
     },
     {
       "filepath": "_inbox/Монолитная архитектура.md",
-      "timestamp": 1720005089089
+      "timestamp": 1720085492055
     },
     {
       "filepath": "_inbox/Монолитный ад.md",
-      "timestamp": 1720004935247
-    },
-    {
-      "filepath": "_inbox/Kafka.md",
-      "timestamp": 1719998664626
+      "timestamp": 1720085491241
     }
   ],
   "bookmarkedFileStore": [],
