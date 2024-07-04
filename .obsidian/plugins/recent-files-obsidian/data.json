@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "6706110398",
-      "path": "meta/files/6706110398.jpg"
-    },
-    {
       "basename": "Идеи для ремонта",
       "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
+    },
+    {
+      "basename": "orig-2",
+      "path": "meta/files/orig-2.webp"
+    },
+    {
+      "basename": "6706110398",
+      "path": "meta/files/6706110398.jpg"
     },
     {
       "basename": "S6d1773a36e954bf1b0458135ecbb9f9eA.jpg",
@@ -195,10 +199,6 @@
     {
       "basename": "Индекс в PostgreSQL",
       "path": "_inbox/Индекс в PostgreSQL.md"
-    },
-    {
-      "basename": "Индексы в MySQL",
-      "path": "_inbox/Индексы в MySQL.md"
     }
   ],
   "omittedPaths": [],
