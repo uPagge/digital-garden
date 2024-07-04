@@ -5,6 +5,14 @@
       "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
     },
     {
+      "basename": "Список покупок для ремонта",
+      "path": "projects/Ремонт квартиры/Список покупок для ремонта.md"
+    },
+    {
+      "basename": "Функциональность кухни",
+      "path": "projects/Ремонт квартиры/Функциональность кухни.md"
+    },
+    {
       "basename": "orig-2",
       "path": "meta/files/orig-2.webp"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Вопросы для собеседование Java",
       "path": "notes/Собеседования/Вопросы для собеседование Java.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Индекс в PostgreSQL",
-      "path": "_inbox/Индекс в PostgreSQL.md"
     }
   ],
   "omittedPaths": [],

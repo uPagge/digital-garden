@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
-      "timestamp": 1720086719252
+      "timestamp": 1720087057056
+    },
+    {
+      "filepath": "projects/Ремонт квартиры/Список покупок для ремонта.md",
+      "timestamp": 1720087053313
+    },
+    {
+      "filepath": "projects/Ремонт квартиры/Функциональность кухни.md",
+      "timestamp": 1720086984682
     },
     {
       "filepath": "meta/files/orig-2.webp",
@@ -34,14 +42,6 @@
     {
       "filepath": "meta/files/6706110398.jpg",
       "timestamp": 1720086639986
-    },
-    {
-      "filepath": "meta/files/S6d1773a36e954bf1b0458135ecbb9f9eA.jpg.webp",
-      "timestamp": 1720086635940
-    },
-    {
-      "filepath": "meta/files/Pasted image 20231008174024.png",
-      "timestamp": 1720086620287
     }
   ],
   "bookmarkedFileStore": [],
