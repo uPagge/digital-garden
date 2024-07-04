@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
+      "timestamp": 1720087741313
+    },
+    {
       "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
-      "timestamp": 1720087057056
+      "timestamp": 1720087589504
     },
     {
       "filepath": "projects/Ремонт квартиры/Список покупок для ремонта.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "meta/files/orig-2.webp",
       "timestamp": 1720086715361
-    },
-    {
-      "filepath": "meta/files/6706110398.jpg",
-      "timestamp": 1720086639986
     }
   ],
   "bookmarkedFileStore": [],
