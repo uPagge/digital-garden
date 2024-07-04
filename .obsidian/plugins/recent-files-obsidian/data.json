@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Кластер Kafka",
+      "path": "Кластер Kafka.md"
+    },
+    {
+      "basename": "00 Kafka",
+      "path": "_inbox/00 Kafka.md"
+    },
+    {
+      "basename": "00 RabbitMQ",
+      "path": "_inbox/00 RabbitMQ.md"
+    },
+    {
       "basename": "Проект. Ремонт квартиры",
       "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
     },
@@ -77,16 +89,8 @@
       "path": "projects/Проект. Дом Дурачок 2.0.md"
     },
     {
-      "basename": "00 Kafka",
-      "path": "_inbox/00 Kafka.md"
-    },
-    {
       "basename": "Consumer Group",
       "path": "_inbox/Consumer Group.md"
-    },
-    {
-      "basename": "00 RabbitMQ",
-      "path": "_inbox/00 RabbitMQ.md"
     },
     {
       "basename": "Монолитная архитектура",
@@ -195,10 +199,6 @@
     {
       "basename": "Event Loop",
       "path": "knowledge/dev/Event Loop.md"
-    },
-    {
-      "basename": "Событийно-ориентированное программирование",
-      "path": "_inbox/Событийно-ориентированное программирование.md"
     }
   ],
   "omittedPaths": [],

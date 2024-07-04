@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Кластер Kafka.md",
+      "timestamp": 1720089903033
+    },
+    {
+      "filepath": "_inbox/00 Kafka.md",
+      "timestamp": 1720089804969
+    },
+    {
+      "filepath": "_inbox/00 RabbitMQ.md",
+      "timestamp": 1720089796796
+    },
+    {
       "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
       "timestamp": 1720087741313
     },
     {
       "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
       "timestamp": 1720087589504
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Список покупок для ремонта.md",
-      "timestamp": 1720087053313
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Функциональность кухни.md",
-      "timestamp": 1720086984682
-    },
-    {
-      "filepath": "meta/files/orig-2.webp",
-      "timestamp": 1720086715361
     }
   ],
   "bookmarkedFileStore": [],
