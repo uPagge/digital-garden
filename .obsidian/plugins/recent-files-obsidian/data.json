@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "6706110398",
+      "path": "meta/files/6706110398.jpg"
+    },
+    {
+      "basename": "Идеи для ремонта",
+      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
+    },
+    {
+      "basename": "S6d1773a36e954bf1b0458135ecbb9f9eA.jpg",
+      "path": "meta/files/S6d1773a36e954bf1b0458135ecbb9f9eA.jpg.webp"
+    },
+    {
+      "basename": "Pasted image 20231008174024",
+      "path": "meta/files/Pasted image 20231008174024.png"
+    },
+    {
+      "basename": "gde-razmestit-mikrovolnovku-1",
+      "path": "meta/files/gde-razmestit-mikrovolnovku-1.webp"
+    },
+    {
+      "basename": "kak-spryatat-krovat-01",
+      "path": "meta/files/kak-spryatat-krovat-01.jpg"
+    },
+    {
+      "basename": "orig",
+      "path": "meta/files/orig.webp"
+    },
+    {
+      "basename": "1640215.970",
+      "path": "meta/files/1640215.970.jpg"
+    },
+    {
+      "basename": "laminat-bez-porogov",
+      "path": "meta/files/laminat-bez-porogov.jpg"
+    },
+    {
+      "basename": "don-karniz-1-1-min.2cda3db99d204da5e2c26e722e63ea04120",
+      "path": "meta/files/don-karniz-1-1-min.2cda3db99d204da5e2c26e722e63ea04120.jpg"
+    },
+    {
+      "basename": "Pasted image 20231008173416",
+      "path": "meta/files/Pasted image 20231008173416.png"
+    },
+    {
+      "basename": "b1503c029e1089a75e5b8578b117ced9.png",
+      "path": "meta/files/b1503c029e1089a75e5b8578b117ced9.png.webp"
+    },
+    {
+      "basename": "maxresdefault",
+      "path": "meta/files/maxresdefault.jpg"
+    },
+    {
+      "basename": "Hd2e025e3e29048cfbfde146b8fe611a7W.jpg_480x480.jpg",
+      "path": "meta/files/Hd2e025e3e29048cfbfde146b8fe611a7W.jpg_480x480.jpg.webp"
+    },
+    {
+      "basename": "Проект. Дом Дурачок 2.0",
+      "path": "projects/Проект. Дом Дурачок 2.0.md"
+    },
+    {
       "basename": "00 Kafka",
       "path": "_inbox/00 Kafka.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "Индексы в MySQL",
       "path": "_inbox/Индексы в MySQL.md"
-    },
-    {
-      "basename": "Транзакция БД",
-      "path": "_inbox/Транзакция БД.md"
-    },
-    {
-      "basename": "Serializable",
-      "path": "_inbox/Serializable.md"
-    },
-    {
-      "basename": "Проекты",
-      "path": "Проекты.md"
-    },
-    {
-      "basename": "Проект. Узучение Английского",
-      "path": "projects/Проект. Узучение Английского.md"
-    },
-    {
-      "basename": "Проект. Обучение Highload",
-      "path": "projects/Проект. Обучение Highload.md"
-    },
-    {
-      "basename": "Read committed",
-      "path": "_inbox/Read committed.md"
-    },
-    {
-      "basename": "ExcaliBrain Snapshot - Read committed.excalidraw",
-      "path": "_inbox/drawing/ExcaliBrain Snapshot - Read committed.excalidraw.md"
-    },
-    {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
-    },
-    {
-      "basename": "Read uncommitted",
-      "path": "_inbox/Read uncommitted.md"
-    },
-    {
-      "basename": "Repeatable read",
-      "path": "_inbox/Repeatable read.md"
-    },
-    {
-      "basename": "Фантомное чтение",
-      "path": "_inbox/Фантомное чтение.md"
-    },
-    {
-      "basename": "Deadlock",
-      "path": "_inbox/Deadlock.md"
-    },
-    {
-      "basename": "Блокировки",
-      "path": "_inbox/Блокировки.md"
-    },
-    {
-      "basename": "Проект. Здоровым к 30",
-      "path": "projects/Проект. Здоровым к 30.md"
-    },
-    {
-      "basename": "Проект. Ремонт квартиры",
-      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
     }
   ],
   "omittedPaths": [],
