@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Обучающий курс от HighLoad конференции 2024",
       "path": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Кластеризация",
       "path": "_inbox/Кластеризация.md"
-    },
-    {
-      "basename": "Балансировка нагрузки",
-      "path": "_inbox/Балансировка нагрузки.md"
     }
   ],
   "omittedPaths": [],

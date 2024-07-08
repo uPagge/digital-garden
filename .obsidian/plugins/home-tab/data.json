@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1720422346603
+    },
+    {
       "filepath": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md",
-      "timestamp": 1720095244416
-    },
-    {
-      "filepath": "_inbox/Tarantool.md",
-      "timestamp": 1720095190492
-    },
-    {
-      "filepath": "_inbox/Redis.md",
-      "timestamp": 1720091144555
-    },
-    {
-      "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1720089997851
-    },
-    {
-      "filepath": "Кластер Kafka.md",
-      "timestamp": 1720089903033
+      "timestamp": 1720422345923
     }
   ],
   "bookmarkedFileStore": [],
