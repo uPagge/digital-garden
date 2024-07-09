@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Транзакция БД",
+      "path": "_inbox/Транзакция БД.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Enterprise Service Bus",
       "path": "_inbox/Enterprise Service Bus.md"
-    },
-    {
-      "basename": "Кластеризация",
-      "path": "_inbox/Кластеризация.md"
     }
   ],
   "omittedPaths": [],
