@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Последние измененные заметки",
+      "path": "_inbox/Последние измененные заметки.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Горизонтальное масштабирование",
       "path": "_inbox/Горизонтальное масштабирование.md"
-    },
-    {
-      "basename": "Enterprise Service Bus",
-      "path": "_inbox/Enterprise Service Bus.md"
     }
   ],
   "omittedPaths": [],
