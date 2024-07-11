@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Предлоги в Английском",
+      "path": "knowledge/english/Предлоги в Английском.md"
+    },
+    {
+      "basename": "Там что-то есть",
+      "path": "knowledge/english/Там что-то есть.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Обработка сообщений в RabbitMQ",
       "path": "Обработка сообщений в RabbitMQ.md"
-    },
-    {
-      "basename": "Репликация",
-      "path": "_inbox/Репликация.md"
-    },
-    {
-      "basename": "Горизонтальное масштабирование",
-      "path": "_inbox/Горизонтальное масштабирование.md"
     }
   ],
   "omittedPaths": [],
