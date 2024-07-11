@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Репликация в PostgreSQL",
+      "path": "_inbox/Репликация в PostgreSQL.md"
+    },
+    {
+      "basename": "Репликация БД",
+      "path": "_inbox/Репликация БД.md"
+    },
+    {
+      "basename": "Журнал БД",
+      "path": "_inbox/Журнал БД.md"
+    },
+    {
+      "basename": "Write-Ahead Log",
+      "path": "_inbox/Write-Ahead Log.md"
+    },
+    {
+      "basename": "Журналы в MySQL",
+      "path": "_inbox/Журналы в MySQL.md"
+    },
+    {
       "basename": "Асинхронная репликация",
       "path": "_inbox/Асинхронная репликация.md"
     },
     {
       "basename": "Полу-синхронная репликация",
       "path": "_inbox/Полу-синхронная репликация.md"
-    },
-    {
-      "basename": "Репликация БД",
-      "path": "_inbox/Репликация БД.md"
     },
     {
       "basename": "Отставание реплики в БД",
@@ -23,18 +39,6 @@
     {
       "basename": "Репликация master-master",
       "path": "_inbox/Репликация master-master.md"
-    },
-    {
-      "basename": "Журналы в MySQL",
-      "path": "_inbox/Журналы в MySQL.md"
-    },
-    {
-      "basename": "Write-Ahead Log",
-      "path": "_inbox/Write-Ahead Log.md"
-    },
-    {
-      "basename": "Журнал БД",
-      "path": "_inbox/Журнал БД.md"
     },
     {
       "basename": "Предлоги в Английском",
@@ -175,10 +179,6 @@
     {
       "basename": "Микросервисная архитектура",
       "path": "wiki/zero/Микросервисная архитектура.md"
-    },
-    {
-      "basename": "Репликация в PostgreSQL",
-      "path": "_inbox/Репликация в PostgreSQL.md"
     },
     {
       "basename": "Брокер сообщений",

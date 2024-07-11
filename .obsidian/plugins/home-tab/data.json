@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Асинхронная репликация.md",
-      "timestamp": 1720677956219
-    },
-    {
-      "filepath": "_inbox/Полу-синхронная репликация.md",
-      "timestamp": 1720677630745
+      "filepath": "_inbox/Репликация в PostgreSQL.md",
+      "timestamp": 1720678349645
     },
     {
       "filepath": "_inbox/Репликация БД.md",
-      "timestamp": 1720677627454
+      "timestamp": 1720678342289
     },
     {
-      "filepath": "_inbox/Отставание реплики в БД.md",
-      "timestamp": 1720677527014
+      "filepath": "_inbox/Журнал БД.md",
+      "timestamp": 1720678341527
     },
     {
-      "filepath": "_inbox/Синхронная репликация.md",
-      "timestamp": 1720676657416
+      "filepath": "_inbox/Write-Ahead Log.md",
+      "timestamp": 1720678245537
+    },
+    {
+      "filepath": "_inbox/Журналы в MySQL.md",
+      "timestamp": 1720678244355
     }
   ],
   "bookmarkedFileStore": [],
