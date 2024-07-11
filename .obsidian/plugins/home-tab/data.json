@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1720679489115
+    },
+    {
       "filepath": "_inbox/Репликация в PostgreSQL.md",
       "timestamp": 1720678825424
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Журнал БД.md",
       "timestamp": 1720678341527
-    },
-    {
-      "filepath": "_inbox/Write-Ahead Log.md",
-      "timestamp": 1720678245537
     }
   ],
   "bookmarkedFileStore": [],
