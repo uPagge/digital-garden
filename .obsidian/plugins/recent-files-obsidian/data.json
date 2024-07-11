@@ -5,6 +5,10 @@
       "path": "_inbox/Репликация в PostgreSQL.md"
     },
     {
+      "basename": "Настройка репликации в PostgreSQL",
+      "path": "_inbox/Настройка репликации в PostgreSQL.md"
+    },
+    {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Кластер RabbitMQ",
       "path": "_inbox/Кластер RabbitMQ.md"
-    },
-    {
-      "basename": "Флаги очередей в RabbitMQ",
-      "path": "_inbox/Флаги очередей в RabbitMQ.md"
     }
   ],
   "omittedPaths": [],

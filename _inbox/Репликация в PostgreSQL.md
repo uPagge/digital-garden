@@ -23,10 +23,6 @@ PostgreSQL реплика – это бинарная копия мастера.
 Добавление реплики требует остановки работы приложения, чтобы никакие записи не менялись в БД. Хотя, если данные пишутся не так часто, то новая реплика может просто догнать отставание в мастер, которое образуется за время подключения слейва.
 
 ![](Pasted%20image%2020240606094952.png)
-
-Logical Log Streaming Replication – это способ трансформировать Write-Ahead Log. Например, мы не хотим реплицировать все таблицы из данной базы, а хотим реплицировать только часть. Logical Log Streaming Replication позволяет мастеру объяснить, что из таблиц будет уезжать на слэйв.
-
-Logical Decoding – способ визуализировать то, что находится в PostgreSQL Write-Ahead Log. На самом деле, если мы можем напечатать в каком-то виде то, что у нас происходит на слэйве, точнее, что нам пришло через Write-Ahead Log, это значит, что мы можем программно реализовать все то, что делает libslave. Получили insert, update, delete, у нас “дернулся” нужный callback, мы узнали про изменения. Это и есть Logical Decoding.
 ## Синхронизация
 Async:
 - synchronus_commit = 
@@ -39,7 +35,9 @@ Sync/Semi-symc:
 - synchronus_standby_names = \[FIRST \/ ANY\] N (replicas_list)
 	- позволяет настроить от скольких реплик ожидается ответ
 ## Логическая репликация
-- [PostgreSQL: Documentation: 16: Chapter 31. Logical Replication](https://www.postgresql.org/docs/current/logical-replication.html)
+Logical Log Streaming Replication – это способ трансформировать Write-Ahead Log. Например, мы не хотим реплицировать все таблицы из данной базы, а хотим реплицировать только часть. Logical Log Streaming Replication позволяет мастеру объяснить, что из таблиц будет уезжать на слэйв.
+
+Logical Decoding – способ визуализировать то, что находится в PostgreSQL Write-Ahead Log. На самом деле, если мы можем напечатать в каком-то виде то, что у нас происходит на слэйве, точнее, что нам пришло через Write-Ahead Log, это значит, что мы можем программно реализовать все то, что делает libslave. Получили insert, update, delete, у нас “дернулся” нужный callback, мы узнали про изменения. Это и есть Logical Decoding.
 
 ![](Pasted%20image%2020240606100439.png)
 
@@ -49,6 +47,7 @@ Sync/Semi-symc:
 ## Дополнительные материалы
 - [Настройка репликации в PostgreSQL](Настройка%20репликации%20в%20PostgreSQL.md)
 - [BDR User Guide - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Logical_Log_Streaming_Replication)
-- [Site Unreachable](http://www.postgresql.org/docs/9.4/static/logicaldecoding.html) Аналог [libslave](libslave.md) в MySQL
+- [PostgreSQL: Documentation: 16: Chapter 31. Logical Replication](https://www.postgresql.org/docs/current/logical-replication.html)
+- [PostgreSQL: Documentation: 9.4: Logical Decoding](https://www.postgresql.org/docs/9.4/logicaldecoding.html). Аналог [libslave](libslave.md) в MySQL
 - [Отладка и устранение проблем в PostgreSQL Streaming Replication / Хабр](https://m.habr.com/ru/company/oleg-bunin/blog/414111/)
 - [An Overview of Logical Replication in PostgreSQL | Severalnines](https://severalnines.com/blog/overview-logical-replication-postgresql/)

@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Репликация в PostgreSQL.md",
-      "timestamp": 1720678349645
+      "timestamp": 1720678627912
+    },
+    {
+      "filepath": "_inbox/Настройка репликации в PostgreSQL.md",
+      "timestamp": 1720678625577
     },
     {
       "filepath": "_inbox/Репликация БД.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Write-Ahead Log.md",
       "timestamp": 1720678245537
-    },
-    {
-      "filepath": "_inbox/Журналы в MySQL.md",
-      "timestamp": 1720678244355
     }
   ],
   "bookmarkedFileStore": [],
