@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Репликация master-master",
+      "path": "_inbox/Репликация master-master.md"
+    },
+    {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
+    },
+    {
+      "basename": "Журналы в MySQL",
+      "path": "_inbox/Журналы в MySQL.md"
     },
     {
       "basename": "Write-Ahead Log",
@@ -191,14 +199,6 @@
     {
       "basename": "Exchange Headers",
       "path": "_inbox/Exchange Headers.md"
-    },
-    {
-      "basename": "Exchange Fanout",
-      "path": "_inbox/Exchange Fanout.md"
-    },
-    {
-      "basename": "Exchange Direct",
-      "path": "_inbox/Exchange Direct.md"
     }
   ],
   "omittedPaths": [],

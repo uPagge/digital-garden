@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Репликация master-master.md",
+      "timestamp": 1720676085556
+    },
+    {
       "filepath": "_inbox/Репликация БД.md",
-      "timestamp": 1720675857268
+      "timestamp": 1720676082682
+    },
+    {
+      "filepath": "_inbox/Журналы в MySQL.md",
+      "timestamp": 1720676038039
     },
     {
       "filepath": "_inbox/Write-Ahead Log.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Журнал БД.md",
       "timestamp": 1720675813187
-    },
-    {
-      "filepath": "knowledge/english/Предлоги в Английском.md",
-      "timestamp": 1720671680791
-    },
-    {
-      "filepath": "knowledge/english/Там что-то есть.md",
-      "timestamp": 1720671574325
     }
   ],
   "bookmarkedFileStore": [],
