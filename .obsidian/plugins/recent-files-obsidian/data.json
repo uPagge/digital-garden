@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Репликация БД",
+      "path": "_inbox/Репликация БД.md"
+    },
+    {
       "basename": "Предлоги в Английском",
       "path": "knowledge/english/Предлоги в Английском.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Advanced Message Queuing Protocol",
       "path": "_inbox/Advanced Message Queuing Protocol.md"
-    },
-    {
-      "basename": "Обработка сообщений в RabbitMQ",
-      "path": "Обработка сообщений в RabbitMQ.md"
     }
   ],
   "omittedPaths": [],
