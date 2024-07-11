@@ -5,6 +5,14 @@
       "path": "_inbox/Репликация БД.md"
     },
     {
+      "basename": "Write-Ahead Log",
+      "path": "_inbox/Write-Ahead Log.md"
+    },
+    {
+      "basename": "Журнал БД",
+      "path": "_inbox/Журнал БД.md"
+    },
+    {
       "basename": "Предлоги в Английском",
       "path": "knowledge/english/Предлоги в Английском.md"
     },
@@ -149,10 +157,6 @@
       "path": "_inbox/Отставание реплики в БД.md"
     },
     {
-      "basename": "Журнал БД",
-      "path": "_inbox/Журнал БД.md"
-    },
-    {
       "basename": "Репликация в PostgreSQL",
       "path": "_inbox/Репликация в PostgreSQL.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Exchange Direct",
       "path": "_inbox/Exchange Direct.md"
-    },
-    {
-      "basename": "Advanced Message Queuing Protocol",
-      "path": "_inbox/Advanced Message Queuing Protocol.md"
     }
   ],
   "omittedPaths": [],

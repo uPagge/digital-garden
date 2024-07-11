@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Репликация БД.md",
-      "timestamp": 1720674901798
+      "timestamp": 1720675857268
+    },
+    {
+      "filepath": "_inbox/Write-Ahead Log.md",
+      "timestamp": 1720675855378
+    },
+    {
+      "filepath": "_inbox/Журнал БД.md",
+      "timestamp": 1720675813187
     },
     {
       "filepath": "knowledge/english/Предлоги в Английском.md",
@@ -34,10 +42,6 @@
     {
       "filepath": "knowledge/english/Там что-то есть.md",
       "timestamp": 1720671574325
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1720668955135
     }
   ],
   "bookmarkedFileStore": [],
