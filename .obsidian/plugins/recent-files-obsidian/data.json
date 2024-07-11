@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Репликация master-master",
-      "path": "_inbox/Репликация master-master.md"
+      "basename": "Синхронная репликация",
+      "path": "_inbox/Синхронная репликация.md"
     },
     {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
+    },
+    {
+      "basename": "Репликация master-master",
+      "path": "_inbox/Репликация master-master.md"
     },
     {
       "basename": "Журналы в MySQL",
@@ -195,10 +199,6 @@
     {
       "basename": "Exchange Topics",
       "path": "_inbox/Exchange Topics.md"
-    },
-    {
-      "basename": "Exchange Headers",
-      "path": "_inbox/Exchange Headers.md"
     }
   ],
   "omittedPaths": [],
