@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Полу-синхронная репликация",
+      "path": "_inbox/Полу-синхронная репликация.md"
+    },
+    {
+      "basename": "Репликация БД",
+      "path": "_inbox/Репликация БД.md"
+    },
+    {
       "basename": "Асинхронная репликация",
       "path": "_inbox/Асинхронная репликация.md"
     },
     {
       "basename": "Отставание реплики в БД",
       "path": "_inbox/Отставание реплики в БД.md"
-    },
-    {
-      "basename": "Репликация БД",
-      "path": "_inbox/Репликация БД.md"
     },
     {
       "basename": "Синхронная репликация",
@@ -195,10 +199,6 @@
     {
       "basename": "Флаги очередей в RabbitMQ",
       "path": "_inbox/Флаги очередей в RabbitMQ.md"
-    },
-    {
-      "basename": "Exchange",
-      "path": "_inbox/Exchange.md"
     }
   ],
   "omittedPaths": [],
