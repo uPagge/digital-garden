@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Асинхронная репликация.md",
+      "timestamp": 1720677956219
+    },
+    {
       "filepath": "_inbox/Полу-синхронная репликация.md",
       "timestamp": 1720677630745
     },
     {
       "filepath": "_inbox/Репликация БД.md",
       "timestamp": 1720677627454
-    },
-    {
-      "filepath": "_inbox/Асинхронная репликация.md",
-      "timestamp": 1720677623346
     },
     {
       "filepath": "_inbox/Отставание реплики в БД.md",
