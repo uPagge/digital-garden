@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Асинхронная репликация.md",
-      "timestamp": 1720677062425
+      "timestamp": 1720677527995
+    },
+    {
+      "filepath": "_inbox/Отставание реплики в БД.md",
+      "timestamp": 1720677527014
     },
     {
       "filepath": "_inbox/Репликация БД.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Репликация master-master.md",
       "timestamp": 1720676085556
-    },
-    {
-      "filepath": "_inbox/Журналы в MySQL.md",
-      "timestamp": 1720676038039
     }
   ],
   "bookmarkedFileStore": [],
