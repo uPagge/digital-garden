@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Синхронная репликация",
-      "path": "_inbox/Синхронная репликация.md"
+      "basename": "Асинхронная репликация",
+      "path": "_inbox/Асинхронная репликация.md"
     },
     {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
+    },
+    {
+      "basename": "Синхронная репликация",
+      "path": "_inbox/Синхронная репликация.md"
     },
     {
       "basename": "Репликация master-master",
@@ -195,10 +199,6 @@
     {
       "basename": "Exchange",
       "path": "_inbox/Exchange.md"
-    },
-    {
-      "basename": "Exchange Topics",
-      "path": "_inbox/Exchange Topics.md"
     }
   ],
   "omittedPaths": [],

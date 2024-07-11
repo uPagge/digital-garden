@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Синхронная репликация.md",
-      "timestamp": 1720676657416
+      "filepath": "_inbox/Асинхронная репликация.md",
+      "timestamp": 1720677062425
     },
     {
       "filepath": "_inbox/Репликация БД.md",
-      "timestamp": 1720676654276
+      "timestamp": 1720677060354
+    },
+    {
+      "filepath": "_inbox/Синхронная репликация.md",
+      "timestamp": 1720676657416
     },
     {
       "filepath": "_inbox/Репликация master-master.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Журналы в MySQL.md",
       "timestamp": 1720676038039
-    },
-    {
-      "filepath": "_inbox/Write-Ahead Log.md",
-      "timestamp": 1720675855378
     }
   ],
   "bookmarkedFileStore": [],
