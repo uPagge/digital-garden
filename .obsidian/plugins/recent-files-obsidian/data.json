@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Statement Based Replication (SBR)",
-      "path": "_inbox/Statement Based Replication (SBR).md"
+      "basename": "Row Based Replication (RBR)",
+      "path": "_inbox/Row Based Replication (RBR).md"
     },
     {
       "basename": "Журналы в MySQL",
       "path": "_inbox/Журналы в MySQL.md"
+    },
+    {
+      "basename": "Репликация в MySQL",
+      "path": "_inbox/Репликация в MySQL.md"
+    },
+    {
+      "basename": "Statement Based Replication (SBR)",
+      "path": "_inbox/Statement Based Replication (SBR).md"
     },
     {
       "basename": "Журнал БД",
@@ -15,10 +23,6 @@
     {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
-    },
-    {
-      "basename": "Репликация в MySQL",
-      "path": "_inbox/Репликация в MySQL.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "Брокер сообщений",
       "path": "_inbox/Брокер сообщений.md"
-    },
-    {
-      "basename": "00 Nginx",
-      "path": "wiki/zero/00 Nginx.md"
     }
   ],
   "omittedPaths": [],
