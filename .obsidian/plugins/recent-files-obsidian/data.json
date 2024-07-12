@@ -5,6 +5,14 @@
       "path": "Home.md"
     },
     {
+      "basename": "Книги",
+      "path": "source/книги/Книги.md"
+    },
+    {
+      "basename": "00 Продуктивность",
+      "path": "wiki/zero/00 Продуктивность.md"
+    },
+    {
       "basename": "Репликация в MySQL",
       "path": "_inbox/Репликация в MySQL.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Монолитная архитектура",
       "path": "_inbox/Монолитная архитектура.md"
-    },
-    {
-      "basename": "Монолитный ад",
-      "path": "_inbox/Монолитный ад.md"
-    },
-    {
-      "basename": "00 Архитектура ПО",
-      "path": "wiki/zero/00 Архитектура ПО.md"
     }
   ],
   "omittedPaths": [],

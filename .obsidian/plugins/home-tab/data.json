@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "Home.md",
-      "timestamp": 1720765709097
+      "timestamp": 1720770330420
+    },
+    {
+      "filepath": "source/книги/Книги.md",
+      "timestamp": 1720770317915
+    },
+    {
+      "filepath": "wiki/zero/00 Продуктивность.md",
+      "timestamp": 1720770270905
     },
     {
       "filepath": "_inbox/Репликация в MySQL.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Журналы в MySQL.md",
       "timestamp": 1720764940848
-    },
-    {
-      "filepath": "wiki/zero/00 MySQL.md",
-      "timestamp": 1720764938970
-    },
-    {
-      "filepath": "_inbox/Репликация в PostgreSQL.md",
-      "timestamp": 1720763495198
     }
   ],
   "bookmarkedFileStore": [],
