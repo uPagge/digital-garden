@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Row Based Replication (RBR)",
-      "path": "_inbox/Row Based Replication (RBR).md"
+      "basename": "Репликация в MySQL",
+      "path": "_inbox/Репликация в MySQL.md"
     },
     {
       "basename": "Журналы в MySQL",
       "path": "_inbox/Журналы в MySQL.md"
     },
     {
-      "basename": "Репликация в MySQL",
-      "path": "_inbox/Репликация в MySQL.md"
+      "basename": "Row Based Replication (RBR)",
+      "path": "_inbox/Row Based Replication (RBR).md"
+    },
+    {
+      "basename": "Mixed binlog format",
+      "path": "_inbox/Mixed binlog format.md"
     },
     {
       "basename": "Statement Based Replication (SBR)",
@@ -195,10 +199,6 @@
     {
       "basename": "Микросервисная архитектура",
       "path": "wiki/zero/Микросервисная архитектура.md"
-    },
-    {
-      "basename": "Брокер сообщений",
-      "path": "_inbox/Брокер сообщений.md"
     }
   ],
   "omittedPaths": [],
