@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Журналы в MySQL",
+      "path": "_inbox/Журналы в MySQL.md"
+    },
+    {
+      "basename": "00 MySQL",
+      "path": "wiki/zero/00 MySQL.md"
+    },
+    {
       "basename": "Репликация в PostgreSQL",
       "path": "_inbox/Репликация в PostgreSQL.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Репликация в MySQL",
       "path": "_inbox/Репликация в MySQL.md"
-    },
-    {
-      "basename": "Журналы в MySQL",
-      "path": "_inbox/Журналы в MySQL.md"
     },
     {
       "basename": "Row Based Replication (RBR)",
@@ -195,10 +199,6 @@
     {
       "basename": "00 Архитектура ПО",
       "path": "wiki/zero/00 Архитектура ПО.md"
-    },
-    {
-      "basename": "Микросервисная архитектура",
-      "path": "wiki/zero/Микросервисная архитектура.md"
     }
   ],
   "omittedPaths": [],
