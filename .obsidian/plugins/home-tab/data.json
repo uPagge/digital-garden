@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Репликация в MySQL.md",
+      "timestamp": 1720765006178
+    },
+    {
       "filepath": "_inbox/Журналы в MySQL.md",
       "timestamp": 1720764940848
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Репликация БД.md",
       "timestamp": 1720763493632
-    },
-    {
-      "filepath": "_inbox/Репликация в MySQL.md",
-      "timestamp": 1720763433609
     }
   ],
   "bookmarkedFileStore": [],

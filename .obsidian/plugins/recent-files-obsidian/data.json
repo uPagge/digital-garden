@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Репликация в MySQL",
+      "path": "_inbox/Репликация в MySQL.md"
+    },
+    {
       "basename": "Журналы в MySQL",
       "path": "_inbox/Журналы в MySQL.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
-    },
-    {
-      "basename": "Репликация в MySQL",
-      "path": "_inbox/Репликация в MySQL.md"
     },
     {
       "basename": "Row Based Replication (RBR)",

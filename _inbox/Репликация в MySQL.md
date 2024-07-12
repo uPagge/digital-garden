@@ -8,7 +8,8 @@ zero-link:
   - "[[00 MySQL]]"
 parents:
   - "[[Репликация БД]]"
-linked: 
+linked:
+  - "[[Журналы в MySQL]]"
 link: https://highload.guide/blog/asynchronous-replication.html
 ---
 ## Тезисы
