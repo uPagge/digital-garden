@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Репликация в MySQL",
+      "path": "_inbox/Репликация в MySQL.md"
+    },
+    {
+      "basename": "Репликация БД",
+      "path": "_inbox/Репликация БД.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Настройка репликации в PostgreSQL",
       "path": "_inbox/Настройка репликации в PostgreSQL.md"
-    },
-    {
-      "basename": "Репликация БД",
-      "path": "_inbox/Репликация БД.md"
     },
     {
       "basename": "Журнал БД",
@@ -195,10 +199,6 @@
     {
       "basename": "Queue",
       "path": "_inbox/Queue.md"
-    },
-    {
-      "basename": "Кластер RabbitMQ",
-      "path": "_inbox/Кластер RabbitMQ.md"
     }
   ],
   "omittedPaths": [],
