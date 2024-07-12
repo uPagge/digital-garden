@@ -195,10 +195,6 @@
     {
       "basename": "00 Nginx",
       "path": "wiki/zero/00 Nginx.md"
-    },
-    {
-      "basename": "Queue",
-      "path": "_inbox/Queue.md"
     }
   ],
   "omittedPaths": [],
