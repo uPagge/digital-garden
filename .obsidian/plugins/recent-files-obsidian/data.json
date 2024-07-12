@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Репликация в MySQL",
-      "path": "_inbox/Репликация в MySQL.md"
+      "basename": "Журналы в MySQL",
+      "path": "_inbox/Журналы в MySQL.md"
+    },
+    {
+      "basename": "Statement Based Replication (SBR)",
+      "path": "_inbox/Statement Based Replication (SBR).md"
+    },
+    {
+      "basename": "Журнал БД",
+      "path": "_inbox/Журнал БД.md"
     },
     {
       "basename": "Репликация БД",
       "path": "_inbox/Репликация БД.md"
+    },
+    {
+      "basename": "Репликация в MySQL",
+      "path": "_inbox/Репликация в MySQL.md"
     },
     {
       "basename": "Home",
@@ -21,16 +33,8 @@
       "path": "_inbox/Настройка репликации в PostgreSQL.md"
     },
     {
-      "basename": "Журнал БД",
-      "path": "_inbox/Журнал БД.md"
-    },
-    {
       "basename": "Write-Ahead Log",
       "path": "_inbox/Write-Ahead Log.md"
-    },
-    {
-      "basename": "Журналы в MySQL",
-      "path": "_inbox/Журналы в MySQL.md"
     },
     {
       "basename": "Асинхронная репликация",

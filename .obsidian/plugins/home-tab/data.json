@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Репликация в MySQL.md",
-      "timestamp": 1720762282298
+      "filepath": "_inbox/Журналы в MySQL.md",
+      "timestamp": 1720762574443
+    },
+    {
+      "filepath": "_inbox/Statement Based Replication (SBR).md",
+      "timestamp": 1720762535554
+    },
+    {
+      "filepath": "_inbox/Журнал БД.md",
+      "timestamp": 1720762535080
     },
     {
       "filepath": "_inbox/Репликация БД.md",
-      "timestamp": 1720761402034
+      "timestamp": 1720762496159
     },
     {
-      "filepath": "Home.md",
-      "timestamp": 1720761391874
+      "filepath": "_inbox/Репликация в MySQL.md",
+      "timestamp": 1720762282298
     }
   ],
   "bookmarkedFileStore": [],
