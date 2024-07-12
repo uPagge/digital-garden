@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Репликация в PostgreSQL",
+      "path": "_inbox/Репликация в PostgreSQL.md"
+    },
+    {
+      "basename": "Репликация БД",
+      "path": "_inbox/Репликация БД.md"
+    },
+    {
       "basename": "Репликация в MySQL",
       "path": "_inbox/Репликация в MySQL.md"
     },
@@ -25,16 +33,8 @@
       "path": "_inbox/Журнал БД.md"
     },
     {
-      "basename": "Репликация БД",
-      "path": "_inbox/Репликация БД.md"
-    },
-    {
       "basename": "Home",
       "path": "Home.md"
-    },
-    {
-      "basename": "Репликация в PostgreSQL",
-      "path": "_inbox/Репликация в PostgreSQL.md"
     },
     {
       "basename": "Настройка репликации в PostgreSQL",

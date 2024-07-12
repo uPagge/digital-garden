@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Репликация в PostgreSQL.md",
+      "timestamp": 1720763495198
+    },
+    {
+      "filepath": "_inbox/Репликация БД.md",
+      "timestamp": 1720763493632
+    },
+    {
       "filepath": "_inbox/Репликация в MySQL.md",
       "timestamp": 1720763433609
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Row Based Replication (RBR).md",
       "timestamp": 1720763344575
-    },
-    {
-      "filepath": "_inbox/Mixed binlog format.md",
-      "timestamp": 1720763335264
-    },
-    {
-      "filepath": "_inbox/Statement Based Replication (SBR).md",
-      "timestamp": 1720762658547
     }
   ],
   "bookmarkedFileStore": [],
