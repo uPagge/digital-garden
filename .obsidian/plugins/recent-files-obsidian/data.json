@@ -9,6 +9,14 @@
       "path": "_inbox/Шардирование в БД.md"
     },
     {
+      "basename": "Решардинг",
+      "path": "Решардинг.md"
+    },
+    {
+      "basename": "Consistent hashing",
+      "path": "_inbox/Consistent hashing.md"
+    },
+    {
       "basename": "Согласованное префиксное чтение",
       "path": "_inbox/Согласованное префиксное чтение.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "laminat-bez-porogov",
       "path": "meta/files/laminat-bez-porogov.jpg"
-    },
-    {
-      "basename": "don-karniz-1-1-min.2cda3db99d204da5e2c26e722e63ea04120",
-      "path": "meta/files/don-karniz-1-1-min.2cda3db99d204da5e2c26e722e63ea04120.jpg"
-    },
-    {
-      "basename": "Pasted image 20231008173416",
-      "path": "meta/files/Pasted image 20231008173416.png"
     }
   ],
   "omittedPaths": [],
