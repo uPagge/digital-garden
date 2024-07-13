@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Explain в PostgreSQL",
-      "path": "_inbox/Explain в PostgreSQL.md"
+      "basename": "Партиционирование в БД",
+      "path": "_inbox/Партиционирование в БД.md"
     },
     {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
+    },
+    {
+      "basename": "Explain в PostgreSQL",
+      "path": "_inbox/Explain в PostgreSQL.md"
     },
     {
       "basename": "Шардирование в PostgreSQL",
@@ -23,10 +27,6 @@
     {
       "basename": "Согласованное префиксное чтение",
       "path": "_inbox/Согласованное префиксное чтение.md"
-    },
-    {
-      "basename": "Партиционирование в БД",
-      "path": "_inbox/Партиционирование в БД.md"
     },
     {
       "basename": "Партиционирование в PostgreSQL",

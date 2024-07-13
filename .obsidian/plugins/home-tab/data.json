@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Explain в PostgreSQL.md",
-      "timestamp": 1720895399776
+      "filepath": "_inbox/Партиционирование в БД.md",
+      "timestamp": 1720895874354
     },
     {
       "filepath": "_inbox/Шардирование в БД.md",
-      "timestamp": 1720895329689
+      "timestamp": 1720895760779
+    },
+    {
+      "filepath": "_inbox/Explain в PostgreSQL.md",
+      "timestamp": 1720895399776
     },
     {
       "filepath": "_inbox/Шардирование в PostgreSQL.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Решардинг.md",
       "timestamp": 1720891912711
-    },
-    {
-      "filepath": "_inbox/Consistent hashing.md",
-      "timestamp": 1720891856196
     }
   ],
   "bookmarkedFileStore": [],
