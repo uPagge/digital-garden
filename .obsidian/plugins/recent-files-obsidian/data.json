@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Партиционирование в PostgreSQL",
-      "path": "_inbox/Партиционирование в PostgreSQL.md"
+      "basename": "Шардирование в PostgreSQL",
+      "path": "_inbox/Шардирование в PostgreSQL.md"
+    },
+    {
+      "basename": "Шардирование в БД",
+      "path": "_inbox/Шардирование в БД.md"
+    },
+    {
+      "basename": "Согласованное префиксное чтение",
+      "path": "_inbox/Согласованное префиксное чтение.md"
     },
     {
       "basename": "Партиционирование в БД",
       "path": "_inbox/Партиционирование в БД.md"
     },
     {
-      "basename": "Шардирование в БД",
-      "path": "_inbox/Шардирование в БД.md"
+      "basename": "Партиционирование в PostgreSQL",
+      "path": "_inbox/Партиционирование в PostgreSQL.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20231008173416",
       "path": "meta/files/Pasted image 20231008173416.png"
-    },
-    {
-      "basename": "b1503c029e1089a75e5b8578b117ced9.png",
-      "path": "meta/files/b1503c029e1089a75e5b8578b117ced9.png.webp"
-    },
-    {
-      "basename": "maxresdefault",
-      "path": "meta/files/maxresdefault.jpg"
     }
   ],
   "omittedPaths": [],
