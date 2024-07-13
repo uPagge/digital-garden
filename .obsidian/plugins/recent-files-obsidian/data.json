@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-07-13 1720855435",
+      "path": "_inbox/2024-07-13 1720855435.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Consumer Group",
       "path": "_inbox/Consumer Group.md"
-    },
-    {
-      "basename": "Монолитная архитектура",
-      "path": "_inbox/Монолитная архитектура.md"
     }
   ],
   "omittedPaths": [],
