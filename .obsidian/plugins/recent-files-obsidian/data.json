@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Партиционирование в PostgreSQL",
+      "path": "_inbox/Партиционирование в PostgreSQL.md"
+    },
+    {
       "basename": "Партиционирование в БД",
       "path": "_inbox/Партиционирование в БД.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "maxresdefault",
       "path": "meta/files/maxresdefault.jpg"
-    },
-    {
-      "basename": "Hd2e025e3e29048cfbfde146b8fe611a7W.jpg_480x480.jpg",
-      "path": "meta/files/Hd2e025e3e29048cfbfde146b8fe611a7W.jpg_480x480.jpg.webp"
     }
   ],
   "omittedPaths": [],
