@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Партиционирование в БД",
-      "path": "_inbox/Партиционирование в БД.md"
-    },
-    {
       "basename": "Партиционирование в PostgreSQL",
       "path": "_inbox/Партиционирование в PostgreSQL.md"
+    },
+    {
+      "basename": "Партиционирование в БД",
+      "path": "_inbox/Партиционирование в БД.md"
     },
     {
       "basename": "Шардирование в БД",
