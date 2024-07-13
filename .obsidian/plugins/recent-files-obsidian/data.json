@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Шардирование в PostgreSQL",
-      "path": "_inbox/Шардирование в PostgreSQL.md"
+      "basename": "Explain в PostgreSQL",
+      "path": "_inbox/Explain в PostgreSQL.md"
     },
     {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
+    },
+    {
+      "basename": "Шардирование в PostgreSQL",
+      "path": "_inbox/Шардирование в PostgreSQL.md"
     },
     {
       "basename": "Решардинг",
@@ -195,10 +199,6 @@
     {
       "basename": "1640215.970",
       "path": "meta/files/1640215.970.jpg"
-    },
-    {
-      "basename": "laminat-bez-porogov",
-      "path": "meta/files/laminat-bez-porogov.jpg"
     }
   ],
   "omittedPaths": [],
