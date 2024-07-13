@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Базы Данных",
+      "path": "wiki/zero/00 Базы Данных.md"
+    },
+    {
       "basename": "Партиционирование в БД",
       "path": "_inbox/Партиционирование в БД.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "orig",
       "path": "meta/files/orig.webp"
-    },
-    {
-      "basename": "1640215.970",
-      "path": "meta/files/1640215.970.jpg"
     }
   ],
   "omittedPaths": [],
