@@ -82,9 +82,6 @@ var require_purify = __commonJS({
       const objectHasOwnProperty = unapply(Object.prototype.hasOwnProperty);
       const regExpTest = unapply(RegExp.prototype.test);
       const typeErrorCreate = unconstruct(TypeError);
-      function numberIsNaN(x) {
-        return typeof x === "number" && isNaN(x);
-      }
       function unapply(func) {
         return function(thisArg) {
           for (var _len = arguments.length, args = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
@@ -243,7 +240,7 @@ var require_purify = __commonJS({
       function createDOMPurify() {
         let window2 = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : getGlobal();
         const DOMPurify2 = (root) => createDOMPurify(root);
-        DOMPurify2.version = "3.1.4";
+        DOMPurify2.version = "3.1.5";
         DOMPurify2.removed = [];
         if (!window2 || !window2.document || window2.document.nodeType !== NODE_TYPE.document) {
           DOMPurify2.isSupported = false;
@@ -364,7 +361,6 @@ var require_purify = __commonJS({
         const DEFAULT_PARSER_MEDIA_TYPE = "text/html";
         let transformCaseFunc = null;
         let CONFIG = null;
-        const MAX_NESTING_DEPTH = 255;
         const formElement = document2.createElement("form");
         const isRegexOrFunction = function isRegexOrFunction2(testValue) {
           return testValue instanceof RegExp || testValue instanceof Function;
@@ -624,7 +620,7 @@ var require_purify = __commonJS({
           return createNodeIterator.call(root.ownerDocument || root, root, NodeFilter.SHOW_ELEMENT | NodeFilter.SHOW_COMMENT | NodeFilter.SHOW_TEXT | NodeFilter.SHOW_PROCESSING_INSTRUCTION | NodeFilter.SHOW_CDATA_SECTION, null);
         };
         const _isClobbered = function _isClobbered2(elm) {
-          return elm instanceof HTMLFormElement && (typeof elm.__depth !== "undefined" && typeof elm.__depth !== "number" || typeof elm.__removalCount !== "undefined" && typeof elm.__removalCount !== "number" || typeof elm.nodeName !== "string" || typeof elm.textContent !== "string" || typeof elm.removeChild !== "function" || !(elm.attributes instanceof NamedNodeMap) || typeof elm.removeAttribute !== "function" || typeof elm.setAttribute !== "function" || typeof elm.namespaceURI !== "string" || typeof elm.insertBefore !== "function" || typeof elm.hasChildNodes !== "function");
+          return elm instanceof HTMLFormElement && (typeof elm.nodeName !== "string" || typeof elm.textContent !== "string" || typeof elm.removeChild !== "function" || !(elm.attributes instanceof NamedNodeMap) || typeof elm.removeAttribute !== "function" || typeof elm.setAttribute !== "function" || typeof elm.namespaceURI !== "string" || typeof elm.insertBefore !== "function" || typeof elm.hasChildNodes !== "function");
         };
         const _isNode = function _isNode2(object) {
           return typeof Node === "function" && object instanceof Node;
@@ -709,7 +705,7 @@ var require_purify = __commonJS({
           return false;
         };
         const _isValidAttribute = function _isValidAttribute2(lcTag, lcName, value) {
-          if (SANITIZE_DOM && (lcName === "id" || lcName === "name") && (value in document2 || value in formElement || value === "__depth" || value === "__removalCount")) {
+          if (SANITIZE_DOM && (lcName === "id" || lcName === "name") && (value in document2 || value in formElement)) {
             return false;
           }
           if (ALLOW_DATA_ATTR && !FORBID_ATTR[lcName] && regExpTest(DATA_ATTR2, lcName))
@@ -838,19 +834,7 @@ var require_purify = __commonJS({
             if (_sanitizeElements(shadowNode)) {
               continue;
             }
-            const parentNode = getParentNode(shadowNode);
-            if (shadowNode.nodeType === NODE_TYPE.element) {
-              if (parentNode && parentNode.__depth) {
-                shadowNode.__depth = (shadowNode.__removalCount || 0) + parentNode.__depth + 1;
-              } else {
-                shadowNode.__depth = 1;
-              }
-            }
-            if (shadowNode.__depth >= MAX_NESTING_DEPTH || shadowNode.__depth < 0 || numberIsNaN(shadowNode.__depth)) {
-              _forceRemove(shadowNode);
-            }
             if (shadowNode.content instanceof DocumentFragment) {
-              shadowNode.content.__depth = shadowNode.__depth;
               _sanitizeShadowDOM2(shadowNode.content);
             }
             _sanitizeAttributes(shadowNode);
@@ -921,19 +905,7 @@ var require_purify = __commonJS({
             if (_sanitizeElements(currentNode)) {
               continue;
             }
-            const parentNode = getParentNode(currentNode);
-            if (currentNode.nodeType === NODE_TYPE.element) {
-              if (parentNode && parentNode.__depth) {
-                currentNode.__depth = (currentNode.__removalCount || 0) + parentNode.__depth + 1;
-              } else {
-                currentNode.__depth = 1;
-              }
-            }
-            if (currentNode.__depth >= MAX_NESTING_DEPTH || currentNode.__depth < 0 || numberIsNaN(currentNode.__depth)) {
-              _forceRemove(currentNode);
-            }
             if (currentNode.content instanceof DocumentFragment) {
-              currentNode.content.__depth = currentNode.__depth;
               _sanitizeShadowDOM(currentNode.content);
             }
             _sanitizeAttributes(currentNode);
@@ -1276,6 +1248,13 @@ function createCopyParentText(message, originalButton = "copy-plus") {
     return copyParentText(event, message, originalButton);
   };
 }
+function jumpToPreviousView() {
+  var _a;
+  const editor = (_a = this.app.workspace.getActiveFileView()) == null ? void 0 : _a.editor;
+  if (!editor)
+    return;
+  editor.focus();
+}
 function pasteTextAtCursor(text) {
   var _a;
   const editor = (_a = this.app.workspace.getActiveFileView()) == null ? void 0 : _a.editor;
@@ -1516,8 +1495,14 @@ var KhojPaneView = class extends import_obsidian4.ItemView {
       leaf = workspace.getRightLeaf(false);
       await (leaf == null ? void 0 : leaf.setViewState({ type: viewType, active: true }));
     }
-    if (leaf)
+    if (leaf) {
+      if (viewType === "khoj-chat-view" /* CHAT */) {
+        let chatInput = this.contentEl.getElementsByClassName("khoj-chat-input")[0];
+        if (chatInput)
+          chatInput.focus();
+      }
       workspace.revealLeaf(leaf);
+    }
   }
 };
 
@@ -1525,6 +1510,12 @@ var KhojPaneView = class extends import_obsidian4.ItemView {
 var KhojChatView = class extends KhojPaneView {
   constructor(leaf, setting) {
     super(leaf, setting);
+    this.keyPressTimeout = null;
+    this.scope = new import_obsidian5.Scope(this.app.scope);
+    this.scope.register(["Ctrl"], "n", (_) => this.createNewConversation());
+    this.scope.register(["Ctrl"], "o", async (_) => await this.toggleChatSessions());
+    this.scope.register(["Ctrl"], "f", (_) => new KhojSearchModal(this.app, this.setting).open());
+    this.scope.register(["Ctrl"], "r", (_) => new KhojSearchModal(this.app, this.setting, true).open());
     this.waitingForLocation = true;
     fetch("https://ipapi.co/json").then((response) => response.json()).then((data) => {
       this.location = {
@@ -1548,12 +1539,12 @@ var KhojChatView = class extends KhojPaneView {
   getIcon() {
     return "message-circle";
   }
-  async chat() {
+  async chat(isVoice = false) {
     let input_el = this.contentEl.getElementsByClassName("khoj-chat-input")[0];
     let user_message = input_el.value.trim();
     input_el.value = "";
     this.autoResize();
-    await this.getChatResponse(user_message);
+    await this.getChatResponse(user_message, isVoice);
   }
   async onOpen() {
     let { contentEl } = this;
@@ -1568,17 +1559,17 @@ var KhojChatView = class extends KhojPaneView {
     const childSrc = `child-src 'none';`;
     const objectSrc = `object-src 'none';`;
     const csp = `${defaultSrc} ${scriptSrc} ${connectSrc} ${styleSrc} ${imgSrc} ${childSrc} ${objectSrc}`;
-    document.head.createEl("meta", { attr: { "http-equiv": "Content-Security-Policy", "content": `${csp}` } });
     let chatBodyEl = contentEl.createDiv({ attr: { id: "khoj-chat-body", class: "khoj-chat-body" } });
     let inputRow = contentEl.createDiv("khoj-input-row");
     let chatSessions = inputRow.createEl("button", {
       text: "Chat Sessions",
       attr: {
-        class: "khoj-input-row-button clickable-icon"
+        class: "khoj-input-row-button clickable-icon",
+        title: "Show Conversations (^O)"
       }
     });
     chatSessions.addEventListener("click", async (_) => {
-      await this.toggleChatSessions(chatBodyEl);
+      await this.toggleChatSessions();
     });
     (0, import_obsidian5.setIcon)(chatSessions, "history");
     let chatInput = inputRow.createEl("textarea", {
@@ -1594,15 +1585,21 @@ var KhojChatView = class extends KhojPaneView {
     chatInput.addEventListener("keydown", (event) => {
       this.incrementalChat(event);
     });
+    this.contentEl.addEventListener("keydown", this.handleKeyDown.bind(this));
+    this.contentEl.addEventListener("keyup", this.handleKeyUp.bind(this));
     let transcribe = inputRow.createEl("button", {
       text: "Transcribe",
       attr: {
         id: "khoj-transcribe",
-        class: "khoj-transcribe khoj-input-row-button clickable-icon "
+        class: "khoj-transcribe khoj-input-row-button clickable-icon ",
+        title: "Start Voice Chat (^S)"
       }
     });
-    transcribe.addEventListener("mousedown", async (event) => {
-      await this.speechToText(event);
+    transcribe.addEventListener("mousedown", (event) => {
+      this.startSpeechToText(event);
+    });
+    transcribe.addEventListener("mouseup", async (event) => {
+      await this.stopSpeechToText(event);
     });
     transcribe.addEventListener("touchstart", async (event) => {
       await this.speechToText(event);
@@ -1637,6 +1634,41 @@ var KhojChatView = class extends KhojPaneView {
         chatInput2 == null ? void 0 : chatInput2.focus();
       });
     });
+  }
+  startSpeechToText(event, timeout = 200) {
+    if (!this.keyPressTimeout) {
+      this.keyPressTimeout = setTimeout(async () => {
+        if (this.sendMessageTimeout) {
+          clearTimeout(this.sendMessageTimeout);
+          const sendButton = this.contentEl.getElementsByClassName("khoj-chat-send")[0];
+          (0, import_obsidian5.setIcon)(sendButton, "arrow-up-circle");
+          let sendImg = sendButton.getElementsByClassName("lucide-arrow-up-circle")[0];
+          sendImg.addEventListener("click", async (_) => {
+            await this.chat();
+          });
+          const chatInput = this.contentEl.getElementsByClassName("khoj-chat-input")[0];
+          chatInput.value = "";
+        }
+        await this.speechToText(event);
+      }, timeout);
+    }
+  }
+  async stopSpeechToText(event) {
+    if (this.mediaRecorder) {
+      await this.speechToText(event);
+    }
+    if (this.keyPressTimeout) {
+      clearTimeout(this.keyPressTimeout);
+      this.keyPressTimeout = null;
+    }
+  }
+  handleKeyDown(event) {
+    if (event.key === "s" && event.getModifierState("Control"))
+      this.startSpeechToText(event);
+  }
+  async handleKeyUp(event) {
+    if (event.key === "s" && event.getModifierState("Control"))
+      await this.stopSpeechToText(event);
   }
   processOnlineReferences(referenceSection, onlineContext) {
     let numOnlineReferences = 0;
@@ -1745,20 +1777,59 @@ var KhojChatView = class extends KhojPaneView {
     });
     return referenceButton;
   }
+  textToSpeech(message, event = null) {
+    let loader = document.createElement("span");
+    loader.classList.add("loader");
+    let speechButton;
+    let speechIcon;
+    if (event === null) {
+      let speechButtons = document.getElementsByClassName("speech-button");
+      speechButton = speechButtons[speechButtons.length - 1];
+      let speechIcons = document.getElementsByClassName("speech-icon");
+      speechIcon = speechIcons[speechIcons.length - 1];
+    } else {
+      speechButton = event.currentTarget;
+      speechIcon = event.target;
+    }
+    speechButton.appendChild(loader);
+    speechButton.disabled = true;
+    const context = new AudioContext();
+    let textToSpeechApi = `${this.setting.khojUrl}/api/chat/speech?text=${encodeURIComponent(message)}`;
+    fetch(textToSpeechApi, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${this.setting.khojApiKey}`
+      }
+    }).then((response) => response.arrayBuffer()).then((arrayBuffer) => context.decodeAudioData(arrayBuffer)).then((audioBuffer) => {
+      const source = context.createBufferSource();
+      source.buffer = audioBuffer;
+      source.connect(context.destination);
+      source.start(0);
+      source.onended = function() {
+        speechButton.removeChild(loader);
+        speechButton.disabled = false;
+      };
+    }).catch((err) => {
+      console.error("Error playing speech:", err);
+      speechButton.removeChild(loader);
+      speechButton.disabled = false;
+    });
+  }
   formatHTMLMessage(message, raw = false, willReplace = true) {
     message = message.replace(/<s>\[INST\].+(<\/s>)?/g, "");
     message = DOMPurify.sanitize(message);
     let chat_message_body_text_el = this.contentEl.createDiv();
     chat_message_body_text_el.className = "chat-message-text-response";
-    chat_message_body_text_el.innerHTML = this.markdownTextToSanitizedHtml(message);
+    chat_message_body_text_el.innerHTML = this.markdownTextToSanitizedHtml(message, this);
     if (willReplace === true) {
       this.renderActionButtons(message, chat_message_body_text_el);
     }
     return chat_message_body_text_el;
   }
-  markdownTextToSanitizedHtml(markdownText) {
+  markdownTextToSanitizedHtml(markdownText, component) {
     let virtualChatMessageBodyTextEl = document.createElement("div");
-    import_obsidian5.MarkdownRenderer.renderMarkdown(markdownText, virtualChatMessageBodyTextEl, "", null);
+    import_obsidian5.MarkdownRenderer.renderMarkdown(markdownText, virtualChatMessageBodyTextEl, "", component);
     virtualChatMessageBodyTextEl.innerHTML = virtualChatMessageBodyTextEl.innerHTML.replace(/<img(?:(?!src=["'](app:|data:|https:\/\/generated\.khoj\.dev)).)*?>/gis, "");
     return DOMPurify.sanitize(virtualChatMessageBodyTextEl.innerHTML);
   }
@@ -1818,7 +1889,7 @@ ${inferredQuery}`;
     if (raw) {
       chat_message_body_text_el.innerHTML = message;
     } else {
-      chat_message_body_text_el.innerHTML = this.markdownTextToSanitizedHtml(message);
+      chat_message_body_text_el.innerHTML = this.markdownTextToSanitizedHtml(message, this);
     }
     if (willReplace === true) {
       this.renderActionButtons(message, chat_message_body_text_el);
@@ -1847,39 +1918,52 @@ ${inferredQuery}`;
     this.result += additionalMessage;
     htmlElement.innerHTML = "";
     this.result = DOMPurify.sanitize(this.result);
-    htmlElement.innerHTML = this.markdownTextToSanitizedHtml(this.result);
+    htmlElement.innerHTML = this.markdownTextToSanitizedHtml(this.result, this);
     this.renderActionButtons(this.result, htmlElement);
     this.scrollChatToBottom();
   }
   renderActionButtons(message, chat_message_body_text_el) {
+    var _a;
     let copyButton = this.contentEl.createEl("button");
-    copyButton.classList.add("copy-button");
+    copyButton.classList.add("chat-action-button");
     copyButton.title = "Copy Message to Clipboard";
     (0, import_obsidian5.setIcon)(copyButton, "copy-plus");
     copyButton.addEventListener("click", createCopyParentText(message));
-    chat_message_body_text_el.append(copyButton);
     let pasteToFile = this.contentEl.createEl("button");
-    pasteToFile.classList.add("copy-button");
+    pasteToFile.classList.add("chat-action-button");
     pasteToFile.title = "Paste Message to File";
     (0, import_obsidian5.setIcon)(pasteToFile, "clipboard-paste");
     pasteToFile.addEventListener("click", (event) => {
       pasteTextAtCursor(createCopyParentText(message, "clipboard-paste")(event));
     });
-    chat_message_body_text_el.append(pasteToFile);
+    let speechButton = null;
+    if ((_a = this.setting.userInfo) == null ? void 0 : _a.is_active) {
+      speechButton = this.contentEl.createEl("button");
+      speechButton.classList.add("chat-action-button", "speech-button");
+      speechButton.title = "Listen to Message";
+      (0, import_obsidian5.setIcon)(speechButton, "speech");
+      speechButton.addEventListener("click", (event) => this.textToSpeech(message, event));
+    }
+    chat_message_body_text_el.append(copyButton, pasteToFile);
+    if (speechButton) {
+      chat_message_body_text_el.append(speechButton);
+    }
   }
   formatDate(date) {
     let time_string = date.toLocaleTimeString("en-IN", { hour: "2-digit", minute: "2-digit", hour12: false });
     let date_string = date.toLocaleString("en-IN", { year: "numeric", month: "short", day: "2-digit" }).replace(/-/g, " ");
     return `${time_string}, ${date_string}`;
   }
-  createNewConversation(chatBodyEl) {
+  createNewConversation() {
+    let chatBodyEl = this.contentEl.getElementsByClassName("khoj-chat-body")[0];
     chatBodyEl.innerHTML = "";
     chatBodyEl.dataset.conversationId = "";
     chatBodyEl.dataset.conversationTitle = "";
     this.renderMessage(chatBodyEl, "Hey \u{1F44B}\u{1F3FE}, what's up?", "khoj");
   }
-  async toggleChatSessions(chatBodyEl, forceShow = false) {
+  async toggleChatSessions(forceShow = false) {
     var _a;
+    let chatBodyEl = this.contentEl.getElementsByClassName("khoj-chat-body")[0];
     if (!forceShow && ((_a = this.contentEl.getElementsByClassName("side-panel")) == null ? void 0 : _a.length) > 0) {
       chatBodyEl.innerHTML = "";
       return this.getChatHistory(chatBodyEl);
@@ -1892,9 +1976,10 @@ ${inferredQuery}`;
     const newConversationButtonEl = newConversationEl.createEl("button");
     newConversationButtonEl.classList.add("new-conversation-button");
     newConversationButtonEl.classList.add("side-panel-button");
-    newConversationButtonEl.addEventListener("click", (_) => this.createNewConversation(chatBodyEl));
+    newConversationButtonEl.addEventListener("click", (_) => this.createNewConversation());
     (0, import_obsidian5.setIcon)(newConversationButtonEl, "plus");
     newConversationButtonEl.innerHTML += "New";
+    newConversationButtonEl.title = "New Conversation (^N)";
     const existingConversationsEl = sidePanelEl.createDiv("existing-conversations");
     const conversationListEl = existingConversationsEl.createDiv("conversation-list");
     const conversationListBodyHeaderEl = conversationListEl.createDiv("conversation-list-header");
@@ -1942,8 +2027,7 @@ ${inferredQuery}`;
     let editConversationTitleButtonEl = this.contentEl.createEl("button");
     (0, import_obsidian5.setIcon)(editConversationTitleButtonEl, "edit");
     editConversationTitleButtonEl.title = "Rename";
-    editConversationTitleButtonEl.classList.add("edit-title-button");
-    editConversationTitleButtonEl.classList.add("three-dot-menu-button-item");
+    editConversationTitleButtonEl.classList.add("edit-title-button", "three-dot-menu-button-item", "clickable-icon");
     if (selectedConversation)
       editConversationTitleButtonEl.classList.add("selected-conversation");
     editConversationTitleButtonEl.addEventListener("click", (event) => {
@@ -1968,7 +2052,7 @@ ${inferredQuery}`;
       let editConversationTitleSaveButtonEl = this.contentEl.createEl("button");
       conversationSessionTitleEl.replaceWith(editConversationTitleInputEl);
       editConversationTitleSaveButtonEl.innerHTML = "Save";
-      editConversationTitleSaveButtonEl.classList.add("three-dot-menu-button-item");
+      editConversationTitleSaveButtonEl.classList.add("three-dot-menu-button-item", "clickable-icon");
       if (selectedConversation)
         editConversationTitleSaveButtonEl.classList.add("selected-conversation");
       editConversationTitleSaveButtonEl.addEventListener("click", (event2) => {
@@ -2001,8 +2085,7 @@ ${inferredQuery}`;
     let deleteConversationButtonEl = this.contentEl.createEl("button");
     (0, import_obsidian5.setIcon)(deleteConversationButtonEl, "trash");
     deleteConversationButtonEl.title = "Delete";
-    deleteConversationButtonEl.classList.add("delete-conversation-button");
-    deleteConversationButtonEl.classList.add("three-dot-menu-button-item");
+    deleteConversationButtonEl.classList.add("delete-conversation-button", "three-dot-menu-button-item", "clickable-icon");
     if (selectedConversation)
       deleteConversationButtonEl.classList.add("selected-conversation");
     deleteConversationButtonEl.addEventListener("click", () => {
@@ -2014,7 +2097,7 @@ ${inferredQuery}`;
         chatBodyEl.innerHTML = "";
         chatBodyEl.dataset.conversationId = "";
         chatBodyEl.dataset.conversationTitle = "";
-        this.toggleChatSessions(chatBodyEl, true);
+        this.toggleChatSessions(true);
       }).catch((err) => {
         return;
       });
@@ -2055,15 +2138,19 @@ ${inferredQuery}`;
     }
     return true;
   }
-  async readChatStream(response, responseElement) {
+  async readChatStream(response, responseElement, isVoice = false) {
+    var _a;
     if (response.body == null)
       return;
     const reader = response.body.getReader();
     const decoder = new TextDecoder();
     while (true) {
       const { value, done } = await reader.read();
-      if (done)
+      if (done) {
+        if (isVoice && ((_a = this.setting.userInfo) == null ? void 0 : _a.is_active))
+          this.textToSpeech(this.result);
         break;
+      }
       let responseText = decoder.decode(value);
       if (responseText.includes("### compiled references:")) {
         const [additionalResponse, rawReference] = responseText.split("### compiled references:", 2);
@@ -2076,7 +2163,7 @@ ${inferredQuery}`;
       }
     }
   }
-  async getChatResponse(query) {
+  async getChatResponse(query, isVoice = false) {
     var _a;
     if (!query || query === "")
       return;
@@ -2144,7 +2231,7 @@ ${inferredQuery}`;
           await this.renderIncrementalMessage(responseElement, responseText);
         }
       } else {
-        await this.readChatStream(response, responseElement);
+        await this.readChatStream(response, responseElement, isVoice);
       }
     } catch (err) {
       console.log(`Khoj chat response failed with
@@ -2184,7 +2271,7 @@ ${err}`);
     }
   }
   async speechToText(event) {
-    var _a;
+    var _a, _b;
     event.preventDefault();
     const transcribeButton = this.contentEl.getElementsByClassName("khoj-transcribe")[0];
     const chatInput = this.contentEl.getElementsByClassName("khoj-chat-input")[0];
@@ -2215,9 +2302,20 @@ Content-Type: "application/octet-stream"\r
         contentType: `multipart/form-data; boundary=----${boundary_string}`,
         body: requestBody
       });
+      let noSpeechText = [
+        "Thanks for watching!",
+        "Thanks for watching.",
+        "Thank you for watching!",
+        "Thank you for watching.",
+        "You",
+        "Bye."
+      ];
+      let noSpeech = false;
       if (response.status === 200) {
         console.log(response);
-        chatInput.value += response.json.text.trimStart();
+        noSpeech = noSpeechText.includes(response.json.text.trimStart());
+        if (!noSpeech)
+          chatInput.value += response.json.text.trimStart();
         this.autoResize();
       } else if (response.status === 501) {
         throw new Error("\u26D4\uFE0F Configure speech-to-text model on server.");
@@ -2226,7 +2324,7 @@ Content-Type: "application/octet-stream"\r
       } else {
         throw new Error("\u26D4\uFE0F Failed to transcribe audio.");
       }
-      if (chatInput.value.length === 0)
+      if (chatInput.value.length === 0 || noSpeech)
         return;
       (0, import_obsidian5.setIcon)(sendButton, "stop-circle");
       let stopSendButtonImg = sendButton.getElementsByClassName("lucide-stop-circle")[0];
@@ -2234,13 +2332,14 @@ Content-Type: "application/octet-stream"\r
         this.cancelSendMessage();
       });
       stopSendButtonImg.getElementsByTagName("circle")[0].style.animation = "countdown 3s linear 1 forwards";
+      stopSendButtonImg.getElementsByTagName("circle")[0].style.color = "var(--icon-color-active)";
       this.sendMessageTimeout = setTimeout(() => {
         (0, import_obsidian5.setIcon)(sendButton, "arrow-up-circle");
         let sendImg = sendButton.getElementsByClassName("lucide-arrow-up-circle")[0];
         sendImg.addEventListener("click", async (_) => {
           await this.chat();
         });
-        this.chat();
+        this.chat(true);
       }, 3e3);
     };
     const handleRecording = (stream) => {
@@ -2256,16 +2355,17 @@ Content-Type: "application/octet-stream"\r
         await sendToServer(audioBlob);
       });
       this.mediaRecorder.start();
-      (0, import_obsidian5.setIcon)(transcribeButton, "mic-off");
+      transcribeButton.classList.add("loading-encircle");
     };
-    if (!this.mediaRecorder || this.mediaRecorder.state === "inactive" || event.type === "touchstart") {
+    if (!this.mediaRecorder || this.mediaRecorder.state === "inactive" || event.type === "touchstart" || event.type === "mousedown" || event.type === "keydown") {
       (_a = navigator.mediaDevices.getUserMedia({ audio: true })) == null ? void 0 : _a.then(handleRecording).catch((e) => {
         this.flashStatusInChatInput("\u26D4\uFE0F Failed to access microphone");
       });
-    } else if (this.mediaRecorder.state === "recording" || event.type === "touchend" || event.type === "touchcancel") {
+    } else if (((_b = this.mediaRecorder) == null ? void 0 : _b.state) === "recording" || event.type === "touchend" || event.type === "touchcancel" || event.type === "mouseup" || event.type === "keyup") {
       this.mediaRecorder.stop();
       this.mediaRecorder.stream.getTracks().forEach((track) => track.stop());
       this.mediaRecorder = void 0;
+      transcribeButton.classList.remove("loading-encircle");
       (0, import_obsidian5.setIcon)(transcribeButton, "mic");
     }
   }
@@ -2480,6 +2580,7 @@ var Khoj = class extends import_obsidian6.Plugin {
     this.unload();
   }
   async activateView(viewType) {
+    var _a;
     const { workspace } = this.app;
     let leaf = null;
     const leaves = workspace.getLeavesOfType(viewType);
@@ -2489,8 +2590,20 @@ var Khoj = class extends import_obsidian6.Plugin {
       leaf = workspace.getRightLeaf(false);
       await (leaf == null ? void 0 : leaf.setViewState({ type: viewType, active: true }));
     }
-    if (leaf)
-      workspace.revealLeaf(leaf);
+    if (leaf) {
+      const activeKhojLeaf = (_a = workspace.getActiveViewOfType(KhojPaneView)) == null ? void 0 : _a.leaf;
+      if (activeKhojLeaf === leaf)
+        jumpToPreviousView();
+      else {
+        workspace.revealLeaf(leaf);
+        if (viewType === "khoj-chat-view" /* CHAT */) {
+          let chatView = leaf.view;
+          let chatInput = chatView.contentEl.getElementsByClassName("khoj-chat-input")[0];
+          if (chatInput)
+            chatInput.focus();
+        }
+      }
+    }
   }
 };
-/*! @license DOMPurify 3.1.4 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/3.1.4/LICENSE */
+/*! @license DOMPurify 3.1.5 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/3.1.5/LICENSE */

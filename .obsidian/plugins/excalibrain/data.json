@@ -292,8 +292,8 @@
     "_inbox/Read uncommitted.md",
     "_inbox/Read committed.md",
     "_inbox/Repeatable read.md",
-    "Home.md",
-    "_inbox/Serializable.md"
+    "_inbox/Serializable.md",
+    "Home.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
