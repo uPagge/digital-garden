@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Шардирование в БД",
+      "path": "_inbox/Шардирование в БД.md"
+    },
+    {
+      "basename": "00 Базы Данных",
+      "path": "wiki/zero/00 Базы Данных.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "00 SQL",
       "path": "wiki/zero/00 SQL.md"
     },
@@ -9,16 +21,8 @@
       "path": "Производительность SQL запросов.md"
     },
     {
-      "basename": "00 Базы Данных",
-      "path": "wiki/zero/00 Базы Данных.md"
-    },
-    {
       "basename": "Партиционирование в БД",
       "path": "_inbox/Партиционирование в БД.md"
-    },
-    {
-      "basename": "Шардирование в БД",
-      "path": "_inbox/Шардирование в БД.md"
     },
     {
       "basename": "Explain в PostgreSQL",
@@ -43,10 +47,6 @@
     {
       "basename": "Партиционирование в PostgreSQL",
       "path": "_inbox/Партиционирование в PostgreSQL.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "2024-07-13 1720855435",
