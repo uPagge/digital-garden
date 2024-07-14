@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Key Based Sharding",
+      "path": "_inbox/Key Based Sharding.md"
+    },
+    {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
+    },
+    {
+      "basename": "Решардинг",
+      "path": "Решардинг.md"
     },
     {
       "basename": "00 Базы Данных",
@@ -31,10 +39,6 @@
     {
       "basename": "Шардирование в PostgreSQL",
       "path": "_inbox/Шардирование в PostgreSQL.md"
-    },
-    {
-      "basename": "Решардинг",
-      "path": "Решардинг.md"
     },
     {
       "basename": "Consistent hashing",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231008174024",
       "path": "meta/files/Pasted image 20231008174024.png"
-    },
-    {
-      "basename": "gde-razmestit-mikrovolnovku-1",
-      "path": "meta/files/gde-razmestit-mikrovolnovku-1.webp"
     }
   ],
   "omittedPaths": [],
