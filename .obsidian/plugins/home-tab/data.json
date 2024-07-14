@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Consistent hashing.md",
-      "timestamp": 1720975722279
+      "filepath": "_inbox/Шардирование в БД.md",
+      "timestamp": 1720979905047
     },
     {
-      "filepath": "_inbox/Шардирование в БД.md",
-      "timestamp": 1720975721310
+      "filepath": "Решардинг.md",
+      "timestamp": 1720979834589
+    },
+    {
+      "filepath": "_inbox/Consistent hashing.md",
+      "timestamp": 1720975722279
     },
     {
       "filepath": "_inbox/Range Base Sharding.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Key Based Sharding.md",
       "timestamp": 1720975702126
-    },
-    {
-      "filepath": "_inbox/Directory Based Sharding.md",
-      "timestamp": 1720975669145
     }
   ],
   "bookmarkedFileStore": [],
