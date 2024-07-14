@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00 SQL",
+      "path": "wiki/zero/00 SQL.md"
+    },
+    {
+      "basename": "Производительность SQL запросов",
+      "path": "Производительность SQL запросов.md"
+    },
+    {
       "basename": "00 Базы Данных",
       "path": "wiki/zero/00 Базы Данных.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "gde-razmestit-mikrovolnovku-1",
       "path": "meta/files/gde-razmestit-mikrovolnovku-1.webp"
-    },
-    {
-      "basename": "kak-spryatat-krovat-01",
-      "path": "meta/files/kak-spryatat-krovat-01.jpg"
-    },
-    {
-      "basename": "orig",
-      "path": "meta/files/orig.webp"
     }
   ],
   "omittedPaths": [],
