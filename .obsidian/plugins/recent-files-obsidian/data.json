@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Решардинг",
-      "path": "Решардинг.md"
+      "basename": "Consistent hashing",
+      "path": "_inbox/Consistent hashing.md"
     },
     {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
     },
     {
+      "basename": "Range Base Sharding",
+      "path": "_inbox/Range Base Sharding.md"
+    },
+    {
       "basename": "Key Based Sharding",
       "path": "_inbox/Key Based Sharding.md"
+    },
+    {
+      "basename": "Directory Based Sharding",
+      "path": "_inbox/Directory Based Sharding.md"
+    },
+    {
+      "basename": "Решардинг",
+      "path": "Решардинг.md"
     },
     {
       "basename": "00 Базы Данных",
@@ -39,10 +51,6 @@
     {
       "basename": "Шардирование в PostgreSQL",
       "path": "_inbox/Шардирование в PostgreSQL.md"
-    },
-    {
-      "basename": "Consistent hashing",
-      "path": "_inbox/Consistent hashing.md"
     },
     {
       "basename": "Согласованное префиксное чтение",
@@ -191,14 +199,6 @@
     {
       "basename": "6706110398",
       "path": "meta/files/6706110398.jpg"
-    },
-    {
-      "basename": "S6d1773a36e954bf1b0458135ecbb9f9eA.jpg",
-      "path": "meta/files/S6d1773a36e954bf1b0458135ecbb9f9eA.jpg.webp"
-    },
-    {
-      "basename": "Pasted image 20231008174024",
-      "path": "meta/files/Pasted image 20231008174024.png"
     }
   ],
   "omittedPaths": [],
