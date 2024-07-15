@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "source/курсы/тж/Курс. Как сделать ремонт и не сойти с ума.md",
-      "timestamp": 1721021898491
+      "filepath": "Home.md",
+      "timestamp": 1721024878274
     },
     {
       "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
-      "timestamp": 1721021884752
+      "timestamp": 1721024877200
+    },
+    {
+      "filepath": "source/курсы/тж/Курс. Как сделать ремонт и не сойти с ума.md",
+      "timestamp": 1721021898491
     },
     {
       "filepath": "knowledge/english/Непроизносимые буквы.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Произношение.md",
       "timestamp": 1721020504909
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1721018437789
     }
   ],
   "bookmarkedFileStore": [],
