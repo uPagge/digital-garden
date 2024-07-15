@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Идеи для ремонта",
+      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "00 RabbitMQ",
       "path": "_inbox/00 RabbitMQ.md"
-    },
-    {
-      "basename": "Идеи для ремонта",
-      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
     },
     {
       "basename": "Список покупок для ремонта",
