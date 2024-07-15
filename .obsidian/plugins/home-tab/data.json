@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Партиционирование в БД.md",
+      "timestamp": 1721039086621
+    },
+    {
+      "filepath": "_inbox/Партиционирование в PostgreSQL.md",
+      "timestamp": 1721039069717
+    },
+    {
       "filepath": "_inbox/Шардирование в БД.md",
       "timestamp": 1721038752160
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "Home.md",
       "timestamp": 1721037621404
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
-      "timestamp": 1721025529510
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
-      "timestamp": 1721024877200
     }
   ],
   "bookmarkedFileStore": [],

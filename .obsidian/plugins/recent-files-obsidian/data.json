@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Партиционирование в БД",
+      "path": "_inbox/Партиционирование в БД.md"
+    },
+    {
+      "basename": "Партиционирование в PostgreSQL",
+      "path": "_inbox/Партиционирование в PostgreSQL.md"
+    },
+    {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
     },
@@ -61,10 +69,6 @@
       "path": "Производительность SQL запросов.md"
     },
     {
-      "basename": "Партиционирование в БД",
-      "path": "_inbox/Партиционирование в БД.md"
-    },
-    {
       "basename": "Explain в PostgreSQL",
       "path": "_inbox/Explain в PostgreSQL.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Согласованное префиксное чтение",
       "path": "_inbox/Согласованное префиксное чтение.md"
-    },
-    {
-      "basename": "Партиционирование в PostgreSQL",
-      "path": "_inbox/Партиционирование в PostgreSQL.md"
     },
     {
       "basename": "2024-07-13 1720855435",
