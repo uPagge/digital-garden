@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Решардинг",
+      "path": "Решардинг.md"
+    },
+    {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Партиционирование в PostgreSQL",
       "path": "_inbox/Партиционирование в PostgreSQL.md"
-    },
-    {
-      "basename": "Решардинг",
-      "path": "Решардинг.md"
     },
     {
       "basename": "Home",
