@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Произношение",
+      "path": "_inbox/Произношение.md"
+    },
+    {
       "basename": "Непроизносимые буквы",
       "path": "knowledge/english/Непроизносимые буквы.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Функциональность кухни",
       "path": "projects/Ремонт квартиры/Функциональность кухни.md"
-    },
-    {
-      "basename": "orig-2",
-      "path": "meta/files/orig-2.webp"
     }
   ],
   "omittedPaths": [],
