@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Идеи для ремонта",
-      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
+      "basename": "Шардирование в БД",
+      "path": "_inbox/Шардирование в БД.md"
     },
     {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Идеи для ремонта",
+      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
     },
     {
       "basename": "Проект. Ремонт квартиры",
@@ -27,10 +31,6 @@
     {
       "basename": "Решардинг",
       "path": "Решардинг.md"
-    },
-    {
-      "basename": "Шардирование в БД",
-      "path": "_inbox/Шардирование в БД.md"
     },
     {
       "basename": "Consistent hashing",

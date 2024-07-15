@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
-      "timestamp": 1721025529510
+      "filepath": "_inbox/Шардирование в БД.md",
+      "timestamp": 1721037626198
     },
     {
       "filepath": "Home.md",
-      "timestamp": 1721024878274
+      "timestamp": 1721037621404
+    },
+    {
+      "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
+      "timestamp": 1721025529510
     },
     {
       "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "source/курсы/тж/Курс. Как сделать ремонт и не сойти с ума.md",
       "timestamp": 1721021898491
-    },
-    {
-      "filepath": "knowledge/english/Непроизносимые буквы.md",
-      "timestamp": 1721020507546
     }
   ],
   "bookmarkedFileStore": [],
