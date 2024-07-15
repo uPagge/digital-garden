@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Решардинг",
+      "path": "Решардинг.md"
+    },
+    {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Произношение",
       "path": "_inbox/Произношение.md"
-    },
-    {
-      "basename": "Решардинг",
-      "path": "Решардинг.md"
     },
     {
       "basename": "Consistent hashing",

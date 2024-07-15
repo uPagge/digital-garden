@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Решардинг.md",
+      "timestamp": 1721037859219
+    },
+    {
       "filepath": "_inbox/Шардирование в БД.md",
       "timestamp": 1721037626198
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
       "timestamp": 1721024877200
-    },
-    {
-      "filepath": "source/курсы/тж/Курс. Как сделать ремонт и не сойти с ума.md",
-      "timestamp": 1721021898491
     }
   ],
   "bookmarkedFileStore": [],
