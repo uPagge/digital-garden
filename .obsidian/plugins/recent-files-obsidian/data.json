@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Range Base Sharding",
+      "path": "_inbox/Range Base Sharding.md"
+    },
+    {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
+    },
+    {
+      "basename": "Key Based Sharding",
+      "path": "_inbox/Key Based Sharding.md"
     },
     {
       "basename": "Партиционирование в БД",
@@ -43,14 +51,6 @@
     {
       "basename": "Consistent hashing",
       "path": "_inbox/Consistent hashing.md"
-    },
-    {
-      "basename": "Range Base Sharding",
-      "path": "_inbox/Range Base Sharding.md"
-    },
-    {
-      "basename": "Key Based Sharding",
-      "path": "_inbox/Key Based Sharding.md"
     },
     {
       "basename": "Directory Based Sharding",
