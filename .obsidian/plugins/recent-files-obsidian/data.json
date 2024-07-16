@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Продуктивность",
+      "path": "wiki/zero/00 Продуктивность.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "Книги",
       "path": "source/книги/Книги.md"
-    },
-    {
-      "basename": "00 Продуктивность",
-      "path": "wiki/zero/00 Продуктивность.md"
     },
     {
       "basename": "Репликация в MySQL",
