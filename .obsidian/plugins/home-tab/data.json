@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-07-16 1721108505.md",
-      "timestamp": 1721108505101
+      "filepath": "Мокрая стяжка пола.md",
+      "timestamp": 1721108910508
     },
     {
       "filepath": "wiki/zero/00 Ремонт.md",
-      "timestamp": 1721108476717
+      "timestamp": 1721108902733
+    },
+    {
+      "filepath": "_inbox/Стяжка пола.md",
+      "timestamp": 1721108505101
     },
     {
       "filepath": "source/курсы/тж/Курс. Как сделать ремонт и не сойти с ума.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
       "timestamp": 1721108432857
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1721106507811
     }
   ],
   "bookmarkedFileStore": [],
