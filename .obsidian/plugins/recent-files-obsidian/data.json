@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Прошедшее время",
+      "path": "knowledge/english/Прошедшее время.md"
+    },
+    {
       "basename": "Произношение",
       "path": "_inbox/Произношение.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Кластер Kafka",
       "path": "Кластер Kafka.md"
-    },
-    {
-      "basename": "00 RabbitMQ",
-      "path": "_inbox/00 RabbitMQ.md"
     }
   ],
   "omittedPaths": [],
