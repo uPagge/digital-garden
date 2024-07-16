@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Сухая стяжка пола",
+      "path": "_inbox/Сухая стяжка пола.md"
+    },
+    {
+      "basename": "Стяжка пола",
+      "path": "_inbox/Стяжка пола.md"
+    },
+    {
       "basename": "Наливной пол",
       "path": "_inbox/Наливной пол.md"
     },
     {
-      "basename": "Без названия",
-      "path": "Без названия.md"
-    },
-    {
       "basename": "Мокрая стяжка пола",
       "path": "Мокрая стяжка пола.md"
+    },
+    {
+      "basename": "Без названия",
+      "path": "Без названия.md"
     },
     {
       "basename": "Бетон",
@@ -27,10 +35,6 @@
     {
       "basename": "00 Ремонт",
       "path": "wiki/zero/00 Ремонт.md"
-    },
-    {
-      "basename": "Стяжка пола",
-      "path": "_inbox/Стяжка пола.md"
     },
     {
       "basename": "Курс. Как сделать ремонт и не сойти с ума",
@@ -195,10 +199,6 @@
     {
       "basename": "Репликация master-master",
       "path": "_inbox/Репликация master-master.md"
-    },
-    {
-      "basename": "Там что-то есть",
-      "path": "knowledge/english/Там что-то есть.md"
     }
   ],
   "omittedPaths": [],
