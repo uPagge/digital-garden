@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1721106507811
+    },
+    {
       "filepath": "knowledge/english/Предлоги в Английском.md",
       "timestamp": 1721105891113
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "notes/Отзыв на алерголога.md",
       "timestamp": 1721104174776
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1721101353326
     }
   ],
   "bookmarkedFileStore": [],
