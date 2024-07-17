@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Кварцвинил",
-      "path": "_inbox/Кварцвинил.md"
-    },
-    {
       "basename": "Пол в квартире",
       "path": "_inbox/Пол в квартире.md"
+    },
+    {
+      "basename": "Какое напольное покрытие выбрать?",
+      "path": "_inbox/Какое напольное покрытие выбрать?.md"
+    },
+    {
+      "basename": "Ламинированная ДСП",
+      "path": "_inbox/Ламинированная ДСП.md"
+    },
+    {
+      "basename": "Инженерная доска",
+      "path": "_inbox/Инженерная доска.md"
+    },
+    {
+      "basename": "SPC-плитка",
+      "path": "_inbox/SPC-плитка.md"
+    },
+    {
+      "basename": "Кварцвинил",
+      "path": "_inbox/Кварцвинил.md"
     },
     {
       "basename": "Виниловая плитка",
@@ -183,22 +199,6 @@
     {
       "basename": "00 MySQL",
       "path": "wiki/zero/00 MySQL.md"
-    },
-    {
-      "basename": "Репликация в PostgreSQL",
-      "path": "_inbox/Репликация в PostgreSQL.md"
-    },
-    {
-      "basename": "Репликация БД",
-      "path": "_inbox/Репликация БД.md"
-    },
-    {
-      "basename": "Row Based Replication (RBR)",
-      "path": "_inbox/Row Based Replication (RBR).md"
-    },
-    {
-      "basename": "Mixed binlog format",
-      "path": "_inbox/Mixed binlog format.md"
     }
   ],
   "omittedPaths": [],
