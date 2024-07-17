@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Паркет",
+      "path": "_inbox/Паркет.md"
+    },
+    {
+      "basename": "Пол в квартире",
+      "path": "_inbox/Пол в квартире.md"
+    },
+    {
+      "basename": "Ламинат",
+      "path": "_inbox/Ламинат.md"
+    },
+    {
       "basename": "Проект. Ремонт квартиры",
       "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Write-Ahead Log",
       "path": "_inbox/Write-Ahead Log.md"
-    },
-    {
-      "basename": "Асинхронная репликация",
-      "path": "_inbox/Асинхронная репликация.md"
-    },
-    {
-      "basename": "Полу-синхронная репликация",
-      "path": "_inbox/Полу-синхронная репликация.md"
-    },
-    {
-      "basename": "Отставание реплики в БД",
-      "path": "_inbox/Отставание реплики в БД.md"
     }
   ],
   "omittedPaths": [],
