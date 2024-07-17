@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Паркет",
-      "path": "_inbox/Паркет.md"
+      "basename": "Кварцвинил",
+      "path": "_inbox/Кварцвинил.md"
     },
     {
       "basename": "Пол в квартире",
       "path": "_inbox/Пол в квартире.md"
     },
     {
-      "basename": "Ламинат",
-      "path": "_inbox/Ламинат.md"
+      "basename": "Виниловая плитка",
+      "path": "_inbox/Виниловая плитка.md"
     },
     {
       "basename": "Проект. Ремонт квартиры",
       "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
+    },
+    {
+      "basename": "Плитка и керамогранит",
+      "path": "_inbox/Плитка и керамогранит.md"
+    },
+    {
+      "basename": "Линолеум",
+      "path": "_inbox/Линолеум.md"
+    },
+    {
+      "basename": "Паркет",
+      "path": "_inbox/Паркет.md"
+    },
+    {
+      "basename": "Ламинат",
+      "path": "_inbox/Ламинат.md"
     },
     {
       "basename": "Теплый пол",
@@ -183,22 +199,6 @@
     {
       "basename": "Mixed binlog format",
       "path": "_inbox/Mixed binlog format.md"
-    },
-    {
-      "basename": "Statement Based Replication (SBR)",
-      "path": "_inbox/Statement Based Replication (SBR).md"
-    },
-    {
-      "basename": "Журнал БД",
-      "path": "_inbox/Журнал БД.md"
-    },
-    {
-      "basename": "Настройка репликации в PostgreSQL",
-      "path": "_inbox/Настройка репликации в PostgreSQL.md"
-    },
-    {
-      "basename": "Write-Ahead Log",
-      "path": "_inbox/Write-Ahead Log.md"
     }
   ],
   "omittedPaths": [],
