@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1721198130600
+    },
+    {
       "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
       "timestamp": 1721196954915
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Ламинированная ДСП.md",
       "timestamp": 1721196858876
-    },
-    {
-      "filepath": "_inbox/Инженерная доска.md",
-      "timestamp": 1721196854987
     }
   ],
   "bookmarkedFileStore": [],
