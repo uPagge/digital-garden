@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-07-18 1721319943",
+      "path": "_inbox/2024-07-18 1721319943.md"
+    },
+    {
+      "basename": "Освещение",
+      "path": "_inbox/Освещение.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Репликация в MySQL",
       "path": "_inbox/Репликация в MySQL.md"
-    },
-    {
-      "basename": "Журналы в MySQL",
-      "path": "_inbox/Журналы в MySQL.md"
-    },
-    {
-      "basename": "00 MySQL",
-      "path": "wiki/zero/00 MySQL.md"
     }
   ],
   "omittedPaths": [],
