@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Розетки и выключатели.md",
-      "timestamp": 1721320834549
+      "timestamp": 1721320945000
+    },
+    {
+      "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
+      "timestamp": 1721320885579
     },
     {
       "filepath": "_inbox/Электрика.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Автоматы.md",
       "timestamp": 1721320666545
-    },
-    {
-      "filepath": "_inbox/Проводка.md",
-      "timestamp": 1721320564237
     }
   ],
   "bookmarkedFileStore": [],
