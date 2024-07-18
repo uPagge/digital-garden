@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Розетки и выключатели",
+      "path": "_inbox/Розетки и выключатели.md"
+    },
+    {
+      "basename": "Электрика",
+      "path": "_inbox/Электрика.md"
+    },
+    {
+      "basename": "Дифавтомат",
+      "path": "_inbox/Дифавтомат.md"
+    },
+    {
       "basename": "Автоматы",
       "path": "_inbox/Автоматы.md"
     },
     {
       "basename": "Проводка",
       "path": "_inbox/Проводка.md"
-    },
-    {
-      "basename": "Электрика",
-      "path": "_inbox/Электрика.md"
     },
     {
       "basename": "Проект. Ремонт квартиры",
@@ -191,14 +199,6 @@
     {
       "basename": "Explain в PostgreSQL",
       "path": "_inbox/Explain в PostgreSQL.md"
-    },
-    {
-      "basename": "Шардирование в PostgreSQL",
-      "path": "_inbox/Шардирование в PostgreSQL.md"
-    },
-    {
-      "basename": "Согласованное префиксное чтение",
-      "path": "_inbox/Согласованное префиксное чтение.md"
     }
   ],
   "omittedPaths": [],
