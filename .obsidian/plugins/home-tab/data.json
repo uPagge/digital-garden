@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-07-18 1721320240.md",
-      "timestamp": 1721320240194
+      "filepath": "_inbox/2024-07-18 1721320536.md",
+      "timestamp": 1721320536619
+    },
+    {
+      "filepath": "_inbox/Проводка.md",
+      "timestamp": 1721320354186
+    },
+    {
+      "filepath": "_inbox/Электрика.md",
+      "timestamp": 1721320348817
     },
     {
       "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Вопросы для найма ремонта.md",
       "timestamp": 1721320023458
-    },
-    {
-      "filepath": "_inbox/Освещение.md",
-      "timestamp": 1721320022935
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1721275709395
     }
   ],
   "bookmarkedFileStore": [],
