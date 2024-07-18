@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Полипропиленовая труба",
+      "path": "_inbox/Полипропиленовая труба.md"
+    },
+    {
+      "basename": "Сантехника",
+      "path": "_inbox/Сантехника.md"
+    },
+    {
+      "basename": "00 Ремонт",
+      "path": "wiki/zero/00 Ремонт.md"
+    },
+    {
+      "basename": "Трубы",
+      "path": "_inbox/Трубы.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Розетки и выключатели",
       "path": "_inbox/Розетки и выключатели.md"
     },
@@ -35,10 +55,6 @@
     {
       "basename": "Освещение",
       "path": "_inbox/Освещение.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Пол в квартире",
@@ -133,10 +149,6 @@
       "path": "_inbox/Фиброволокно.md"
     },
     {
-      "basename": "00 Ремонт",
-      "path": "wiki/zero/00 Ремонт.md"
-    },
-    {
       "basename": "Предлоги в Английском",
       "path": "knowledge/english/Предлоги в Английском.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "00 Базы Данных",
       "path": "wiki/zero/00 Базы Данных.md"
-    },
-    {
-      "basename": "00 SQL",
-      "path": "wiki/zero/00 SQL.md"
-    },
-    {
-      "basename": "Производительность SQL запросов",
-      "path": "Производительность SQL запросов.md"
-    },
-    {
-      "basename": "Explain в PostgreSQL",
-      "path": "_inbox/Explain в PostgreSQL.md"
     }
   ],
   "omittedPaths": [],
