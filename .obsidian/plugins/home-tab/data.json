@@ -24,24 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "diary/weekly/2024-W30.md",
-      "timestamp": 1721363948569
-    },
-    {
       "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
-      "timestamp": 1721363937513
+      "timestamp": 1721364353043
     },
     {
-      "filepath": "diary/weekly/2024-W31.md",
-      "timestamp": 1721362965626
+      "filepath": "diary/weekly/2024-W30.md",
+      "timestamp": 1721364352796
     },
     {
-      "filepath": "meta/templates/Еженедельная.md",
-      "timestamp": 1721362888719
+      "filepath": "diary/daily/2024-07-22.md",
+      "timestamp": 1721364338072
     },
     {
-      "filepath": "Проекты.md",
-      "timestamp": 1721362837005
+      "filepath": "Home.md",
+      "timestamp": 1721364127830
     }
   ],
   "bookmarkedFileStore": [],

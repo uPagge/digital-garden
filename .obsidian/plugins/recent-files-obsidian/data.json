@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Проект. Ремонт квартиры",
+      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
+    },
+    {
       "basename": "2024-W30",
       "path": "diary/weekly/2024-W30.md"
     },
     {
-      "basename": "Проект. Ремонт квартиры",
-      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
+      "basename": "2024-07-22",
+      "path": "diary/daily/2024-07-22.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "2024-W31",
@@ -35,10 +43,6 @@
     {
       "basename": "Проект. Здоровым к 30",
       "path": "projects/Проект. Здоровым к 30.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Полипропиленовая труба",
@@ -195,10 +199,6 @@
     {
       "basename": "Шардирование в БД",
       "path": "_inbox/Шардирование в БД.md"
-    },
-    {
-      "basename": "Consistent hashing",
-      "path": "_inbox/Consistent hashing.md"
     }
   ],
   "omittedPaths": [],
