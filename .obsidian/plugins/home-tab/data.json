@@ -24,12 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Home.md",
-      "timestamp": 1721362317874
+      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
+      "timestamp": 1721362563886
     },
     {
-      "filepath": "_inbox/Полипропиленовая труба.md",
-      "timestamp": 1721362317420
+      "filepath": "diary/weekly/2024-W30.md",
+      "timestamp": 1721362511457
+    },
+    {
+      "filepath": "projects/Проект. Изучение Английского.md",
+      "timestamp": 1721362507621
+    },
+    {
+      "filepath": "meta/templates/Еженедельная.md",
+      "timestamp": 1721362464256
+    },
+    {
+      "filepath": "_inbox/Чеклист. Еженедельное планирование.md",
+      "timestamp": 1721362379424
     }
   ],
   "bookmarkedFileStore": [],

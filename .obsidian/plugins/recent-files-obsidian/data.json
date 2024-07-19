@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Проект. Ремонт квартиры",
+      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
+    },
+    {
+      "basename": "2024-W30",
+      "path": "diary/weekly/2024-W30.md"
+    },
+    {
+      "basename": "Проект. Изучение Английского",
+      "path": "projects/Проект. Изучение Английского.md"
+    },
+    {
+      "basename": "Еженедельная",
+      "path": "meta/templates/Еженедельная.md"
+    },
+    {
+      "basename": "Чеклист. Еженедельное планирование",
+      "path": "_inbox/Чеклист. Еженедельное планирование.md"
+    },
+    {
+      "basename": "Проекты",
+      "path": "Проекты.md"
+    },
+    {
+      "basename": "Проект. Здоровым к 30",
+      "path": "projects/Проект. Здоровым к 30.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -43,10 +71,6 @@
     {
       "basename": "Проводка",
       "path": "_inbox/Проводка.md"
-    },
-    {
-      "basename": "Проект. Ремонт квартиры",
-      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
     },
     {
       "basename": "Вопросы для найма ремонта",
@@ -175,30 +199,6 @@
     {
       "basename": "Решардинг",
       "path": "Решардинг.md"
-    },
-    {
-      "basename": "Range Base Sharding",
-      "path": "_inbox/Range Base Sharding.md"
-    },
-    {
-      "basename": "Key Based Sharding",
-      "path": "_inbox/Key Based Sharding.md"
-    },
-    {
-      "basename": "Партиционирование в БД",
-      "path": "_inbox/Партиционирование в БД.md"
-    },
-    {
-      "basename": "Партиционирование в PostgreSQL",
-      "path": "_inbox/Партиционирование в PostgreSQL.md"
-    },
-    {
-      "basename": "Непроизносимые буквы",
-      "path": "knowledge/english/Непроизносимые буквы.md"
-    },
-    {
-      "basename": "00 Базы Данных",
-      "path": "wiki/zero/00 Базы Данных.md"
     }
   ],
   "omittedPaths": [],
