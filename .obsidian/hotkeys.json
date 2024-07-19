@@ -41,15 +41,6 @@
     }
   ],
   "file-explorer:new-file": [],
-  "editor:insert-callout": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "L"
-    }
-  ],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "obsidian-emoji-toolbar:emoji-picker:open-picker": [
     {
@@ -382,6 +373,15 @@
         "Shift"
       ],
       "key": "L"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
     }
   ]
 }
