@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-W30",
-      "path": "diary/weekly/2024-W30.md"
-    },
-    {
       "basename": "Проект. Ремонт квартиры",
       "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
+    },
+    {
+      "basename": "Без названия 2",
+      "path": "Без названия 2.md"
+    },
+    {
+      "basename": "2024-07-19 1721364994",
+      "path": "_inbox/2024-07-19 1721364994.md"
+    },
+    {
+      "basename": "Без названия 1",
+      "path": "Без названия 1.md"
+    },
+    {
+      "basename": "Идеи для ремонта",
+      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
+    },
+    {
+      "basename": "2024-W30",
+      "path": "diary/weekly/2024-W30.md"
     },
     {
       "basename": "Home",
@@ -63,10 +79,6 @@
     {
       "basename": "Розетки и выключатели",
       "path": "_inbox/Розетки и выключатели.md"
-    },
-    {
-      "basename": "Идеи для ремонта",
-      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
     },
     {
       "basename": "Электрика",
@@ -187,18 +199,6 @@
     {
       "basename": "Произношение",
       "path": "_inbox/Произношение.md"
-    },
-    {
-      "basename": "Отзыв на алерголога",
-      "path": "notes/Отзыв на алерголога.md"
-    },
-    {
-      "basename": "Directory Based Sharding",
-      "path": "_inbox/Directory Based Sharding.md"
-    },
-    {
-      "basename": "Шардирование в БД",
-      "path": "_inbox/Шардирование в БД.md"
     }
   ],
   "omittedPaths": [],

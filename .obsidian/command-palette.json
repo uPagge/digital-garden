@@ -1,5 +1,6 @@
 {
   "pinned": [
+    "obsidian-tasks-plugin:edit-task",
     "insert-template",
     "workspace:export-pdf",
     "obsidian-excalidraw-plugin:export-image"
