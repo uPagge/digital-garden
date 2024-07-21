@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "English. Тоже. Также",
-      "path": "_inbox/English. Тоже. Также.md"
+      "basename": "Устойчивые выражения в английском",
+      "path": "_inbox/Устойчивые выражения в английском.md"
     },
     {
       "basename": "Грамматика в английском",
       "path": "_inbox/Грамматика в английском.md"
+    },
+    {
+      "basename": "English. Тоже. Также",
+      "path": "_inbox/English. Тоже. Также.md"
     },
     {
       "basename": "Present Simple",
@@ -195,10 +199,6 @@
     {
       "basename": "Кварцвинил",
       "path": "_inbox/Кварцвинил.md"
-    },
-    {
-      "basename": "Виниловая плитка",
-      "path": "_inbox/Виниловая плитка.md"
     }
   ],
   "omittedPaths": [],
