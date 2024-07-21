@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "00 English",
+      "path": "wiki/zero/00 English.md"
+    },
+    {
+      "basename": "English. Иногда",
+      "path": "_inbox/English. Иногда.md"
+    },
+    {
+      "basename": "Грамматика в английском",
+      "path": "_inbox/Грамматика в английском.md"
+    },
+    {
+      "basename": "Достаточно чего-то",
+      "path": "knowledge/english/Достаточно чего-то.md"
+    },
+    {
+      "basename": "Времена в Английском языке",
+      "path": "knowledge/english/Времена в Английском языке.md"
+    },
+    {
+      "basename": "Simple",
+      "path": "knowledge/english/Simple.md"
+    },
+    {
+      "basename": "Present Simple",
+      "path": "knowledge/english/Present Simple.md"
+    },
+    {
+      "basename": "Произношение в английском",
+      "path": "_inbox/Произношение в английском.md"
+    },
+    {
+      "basename": "Ударение",
+      "path": "_inbox/Ударение.md"
+    },
+    {
+      "basename": "Мне нравится",
+      "path": "_inbox/Мне нравится.md"
+    },
+    {
       "basename": "Трифтонг",
       "path": "_inbox/Трифтонг.md"
     },
     {
       "basename": "Дифтонги",
       "path": "knowledge/english/Дифтонги.md"
-    },
-    {
-      "basename": "00 English",
-      "path": "wiki/zero/00 English.md"
-    },
-    {
-      "basename": "Произношение в английском",
-      "path": "_inbox/Произношение в английском.md"
     },
     {
       "basename": "Непроизносимые буквы",
@@ -27,10 +59,6 @@
     {
       "basename": "Home",
       "path": "Home.md"
-    },
-    {
-      "basename": "Мне нравится",
-      "path": "_inbox/Мне нравится.md"
     },
     {
       "basename": "Проект. Ремонт квартиры",
@@ -171,34 +199,6 @@
     {
       "basename": "Паркет",
       "path": "_inbox/Паркет.md"
-    },
-    {
-      "basename": "Ламинат",
-      "path": "_inbox/Ламинат.md"
-    },
-    {
-      "basename": "Теплый пол",
-      "path": "_inbox/Теплый пол.md"
-    },
-    {
-      "basename": "Наливной пол",
-      "path": "_inbox/Наливной пол.md"
-    },
-    {
-      "basename": "Полусухая стяжка",
-      "path": "_inbox/Полусухая стяжка.md"
-    },
-    {
-      "basename": "Сухая стяжка пола",
-      "path": "_inbox/Сухая стяжка пола.md"
-    },
-    {
-      "basename": "Мокрая стяжка пола",
-      "path": "Мокрая стяжка пола.md"
-    },
-    {
-      "basename": "Прошедшее время",
-      "path": "knowledge/english/Прошедшее время.md"
     }
   ],
   "omittedPaths": [],
