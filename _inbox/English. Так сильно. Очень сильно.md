@@ -10,4 +10,7 @@ parents:
   - "[[Грамматические конструкции в английском]]"
 linked:
 ---
-- so much - так 
+- so much - так сильно. I love you so much
+- very much - очень сильно. I lover you very much
+
+Используются в конце предложения
