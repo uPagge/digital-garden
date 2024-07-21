@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "English. Так сильно. Очень сильно",
-      "path": "_inbox/English. Так сильно. Очень сильно.md"
+      "basename": "English. Тоже. Также",
+      "path": "_inbox/English. Тоже. Также.md"
+    },
+    {
+      "basename": "Грамматика в английском",
+      "path": "_inbox/Грамматика в английском.md"
+    },
+    {
+      "basename": "Present Simple",
+      "path": "knowledge/english/Present Simple.md"
     },
     {
       "basename": "00 English",
       "path": "wiki/zero/00 English.md"
+    },
+    {
+      "basename": "English. Так сильно. Очень сильно",
+      "path": "_inbox/English. Так сильно. Очень сильно.md"
     },
     {
       "basename": "English. Иногда",
@@ -15,10 +27,6 @@
     {
       "basename": "Грамматические конструкции в английском",
       "path": "_inbox/Грамматические конструкции в английском.md"
-    },
-    {
-      "basename": "Грамматика в английском",
-      "path": "_inbox/Грамматика в английском.md"
     },
     {
       "basename": "Достаточно чего-то",
@@ -31,10 +39,6 @@
     {
       "basename": "Simple",
       "path": "knowledge/english/Simple.md"
-    },
-    {
-      "basename": "Present Simple",
-      "path": "knowledge/english/Present Simple.md"
     },
     {
       "basename": "Произношение в английском",
@@ -195,10 +199,6 @@
     {
       "basename": "Виниловая плитка",
       "path": "_inbox/Виниловая плитка.md"
-    },
-    {
-      "basename": "Плитка и керамогранит",
-      "path": "_inbox/Плитка и керамогранит.md"
     }
   ],
   "omittedPaths": [],
