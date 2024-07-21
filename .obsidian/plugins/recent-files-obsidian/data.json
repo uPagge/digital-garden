@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "English. Так сильно. Очень сильно",
+      "path": "_inbox/English. Так сильно. Очень сильно.md"
+    },
+    {
       "basename": "00 English",
       "path": "wiki/zero/00 English.md"
     },
     {
       "basename": "English. Иногда",
       "path": "_inbox/English. Иногда.md"
+    },
+    {
+      "basename": "Грамматические конструкции в английском",
+      "path": "_inbox/Грамматические конструкции в английском.md"
     },
     {
       "basename": "Грамматика в английском",
@@ -191,14 +199,6 @@
     {
       "basename": "Плитка и керамогранит",
       "path": "_inbox/Плитка и керамогранит.md"
-    },
-    {
-      "basename": "Линолеум",
-      "path": "_inbox/Линолеум.md"
-    },
-    {
-      "basename": "Паркет",
-      "path": "_inbox/Паркет.md"
     }
   ],
   "omittedPaths": [],
