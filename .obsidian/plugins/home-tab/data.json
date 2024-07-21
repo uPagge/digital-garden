@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1721365483985
+    },
+    {
       "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
-      "timestamp": 1721365000037
-    },
-    {
-      "filepath": "Без названия 2.md",
-      "timestamp": 1721364998054
-    },
-    {
-      "filepath": "_inbox/2024-07-19 1721364994.md",
-      "timestamp": 1721364994512
-    },
-    {
-      "filepath": "Без названия 1.md",
-      "timestamp": 1721364990768
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
-      "timestamp": 1721364955873
+      "timestamp": 1721365483271
     }
   ],
   "bookmarkedFileStore": [],
