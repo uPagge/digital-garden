@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Событийно-ориентированное программирование",
+      "path": "_inbox/Событийно-ориентированное программирование.md"
+    },
+    {
+      "basename": "Event Loop",
+      "path": "knowledge/dev/Event Loop.md"
+    },
+    {
+      "basename": "00 RabbitMQ",
+      "path": "_inbox/00 RabbitMQ.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Пол в квартире",
       "path": "_inbox/Пол в квартире.md"
-    },
-    {
-      "basename": "Какое напольное покрытие выбрать?",
-      "path": "_inbox/Какое напольное покрытие выбрать?.md"
-    },
-    {
-      "basename": "Ламинированная ДСП",
-      "path": "_inbox/Ламинированная ДСП.md"
-    },
-    {
-      "basename": "Инженерная доска",
-      "path": "_inbox/Инженерная доска.md"
     }
   ],
   "omittedPaths": [],

@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Событийно-ориентированное программирование.md",
+      "timestamp": 1721649601476
+    },
+    {
+      "filepath": "knowledge/dev/Event Loop.md",
+      "timestamp": 1721649598156
+    },
+    {
+      "filepath": "_inbox/00 RabbitMQ.md",
+      "timestamp": 1721649353251
+    },
+    {
       "filepath": "Home.md",
       "timestamp": 1721629614822
     },
     {
       "filepath": "checklists/Обслуживание велосипеда.md",
       "timestamp": 1721629408464
-    },
-    {
-      "filepath": "knowledge/english/Present Simple.md",
-      "timestamp": 1721622165150
-    },
-    {
-      "filepath": "knowledge/english/Модальные глаголы.md",
-      "timestamp": 1721622163561
-    },
-    {
-      "filepath": "_inbox/Грамматика в английском.md",
-      "timestamp": 1721621726772
     }
   ],
   "bookmarkedFileStore": [],
