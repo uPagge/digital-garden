@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Модальные глаголы",
+      "path": "knowledge/english/Модальные глаголы.md"
+    },
+    {
+      "basename": "Present Simple",
+      "path": "knowledge/english/Present Simple.md"
+    },
+    {
+      "basename": "Грамматика в английском",
+      "path": "_inbox/Грамматика в английском.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -9,16 +21,8 @@
       "path": "_inbox/Устойчивые выражения в английском.md"
     },
     {
-      "basename": "Грамматика в английском",
-      "path": "_inbox/Грамматика в английском.md"
-    },
-    {
       "basename": "English. Тоже. Также",
       "path": "_inbox/English. Тоже. Также.md"
-    },
-    {
-      "basename": "Present Simple",
-      "path": "knowledge/english/Present Simple.md"
     },
     {
       "basename": "00 English",
@@ -195,10 +199,6 @@
     {
       "basename": "SPC-плитка",
       "path": "_inbox/SPC-плитка.md"
-    },
-    {
-      "basename": "Кварцвинил",
-      "path": "_inbox/Кварцвинил.md"
     }
   ],
   "omittedPaths": [],
