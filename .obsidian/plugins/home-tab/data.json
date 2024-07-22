@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1721629614822
+    },
+    {
       "filepath": "checklists/Обслуживание велосипеда.md",
       "timestamp": 1721629408464
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Грамматика в английском.md",
       "timestamp": 1721621726772
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1721621722361
     }
   ],
   "bookmarkedFileStore": [],
