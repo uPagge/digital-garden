@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Обслуживание велосипеда",
+      "path": "checklists/Обслуживание велосипеда.md"
+    },
+    {
       "basename": "Present Simple",
       "path": "knowledge/english/Present Simple.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Инженерная доска",
       "path": "_inbox/Инженерная доска.md"
-    },
-    {
-      "basename": "SPC-плитка",
-      "path": "_inbox/SPC-плитка.md"
     }
   ],
   "omittedPaths": [],
