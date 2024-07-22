@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Устойчивые выражения в английском",
       "path": "_inbox/Устойчивые выражения в английском.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Интонация",
       "path": "_inbox/Интонация.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Проект. Ремонт квартиры",
