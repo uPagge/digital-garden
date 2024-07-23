@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Приемка квартиры с черновым ремонтом",
       "path": "_inbox/Приемка квартиры с черновым ремонтом.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Мне нравится",
       "path": "_inbox/Мне нравится.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "00 RabbitMQ",
