@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Приемка квартиры с черновым ремонтом.md",
+      "timestamp": 1721714184076
+    },
+    {
+      "filepath": "_inbox/Черновая отделка.md",
+      "timestamp": 1721714163600
+    },
+    {
+      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
+      "timestamp": 1721714029423
+    },
+    {
       "filepath": "_inbox/Мне нравится.md",
       "timestamp": 1721711740934
     },
     {
       "filepath": "Home.md",
       "timestamp": 1721711112270
-    },
-    {
-      "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1721711111350
-    },
-    {
-      "filepath": "_inbox/Событийно-ориентированное программирование.md",
-      "timestamp": 1721650221867
-    },
-    {
-      "filepath": "knowledge/dev/Event Loop.md",
-      "timestamp": 1721649598156
     }
   ],
   "bookmarkedFileStore": [],
