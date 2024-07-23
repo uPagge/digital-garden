@@ -24,20 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1721711112270
+    },
+    {
+      "filepath": "_inbox/00 RabbitMQ.md",
+      "timestamp": 1721711111350
+    },
+    {
       "filepath": "_inbox/Событийно-ориентированное программирование.md",
       "timestamp": 1721650221867
     },
     {
       "filepath": "knowledge/dev/Event Loop.md",
       "timestamp": 1721649598156
-    },
-    {
-      "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1721649353251
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1721629614822
     },
     {
       "filepath": "checklists/Обслуживание велосипеда.md",

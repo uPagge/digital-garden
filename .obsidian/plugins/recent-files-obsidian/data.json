@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Событийно-ориентированное программирование",
-      "path": "_inbox/Событийно-ориентированное программирование.md"
-    },
-    {
-      "basename": "Event Loop",
-      "path": "knowledge/dev/Event Loop.md"
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "00 RabbitMQ",
       "path": "_inbox/00 RabbitMQ.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Событийно-ориентированное программирование",
+      "path": "_inbox/Событийно-ориентированное программирование.md"
+    },
+    {
+      "basename": "Event Loop",
+      "path": "knowledge/dev/Event Loop.md"
     },
     {
       "basename": "Обслуживание велосипеда",
