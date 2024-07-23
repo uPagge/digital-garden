@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Мне нравится.md",
+      "timestamp": 1721711740934
+    },
+    {
       "filepath": "Home.md",
       "timestamp": 1721711112270
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "knowledge/dev/Event Loop.md",
       "timestamp": 1721649598156
-    },
-    {
-      "filepath": "checklists/Обслуживание велосипеда.md",
-      "timestamp": 1721629408464
     }
   ],
   "bookmarkedFileStore": [],
