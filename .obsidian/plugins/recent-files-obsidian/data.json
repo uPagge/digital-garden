@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Обладание",
+      "path": "_inbox/Обладание.md"
+    },
+    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Чеклист. Еженедельное планирование",
       "path": "_inbox/Чеклист. Еженедельное планирование.md"
-    },
-    {
-      "basename": "Проект. Здоровым к 30",
-      "path": "projects/Проект. Здоровым к 30.md"
     }
   ],
   "omittedPaths": [],
