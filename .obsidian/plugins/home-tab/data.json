@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1721810355868
+    },
+    {
+      "filepath": "wiki/zero/00 PostgreSQL.md",
+      "timestamp": 1721810353947
+    },
+    {
+      "filepath": "_inbox/pg_utils.md",
+      "timestamp": 1721810343396
+    },
+    {
       "filepath": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md",
       "timestamp": 1721808711993
     },
     {
-      "filepath": "wiki/zero/00 PostgreSQL.md",
-      "timestamp": 1721808655233
-    },
-    {
       "filepath": "_inbox/Оптимизация SQL запросов.md",
       "timestamp": 1721808648209
-    },
-    {
-      "filepath": "_inbox/pg_utils.md",
-      "timestamp": 1721808646220
-    },
-    {
-      "filepath": "_inbox/pg_stat_statements.md",
-      "timestamp": 1721808516025
     }
   ],
   "bookmarkedFileStore": [],

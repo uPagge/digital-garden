@@ -11,4 +11,4 @@ linked:
 ---
 - [GitHub - dataegret/pg-utils: Useful PostgreSQL utilities](https://github.com/dataegret/pg-utils)
 
-Полезный отчет в global_reports
+Полезный отчет в global_reports.
