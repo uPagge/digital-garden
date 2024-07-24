@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Оптимизация SQL запросов",
+      "path": "_inbox/Оптимизация SQL запросов.md"
+    },
+    {
+      "basename": "pg_stat_statements",
+      "path": "_inbox/pg_stat_statements.md"
+    },
+    {
+      "basename": "00 PostgreSQL",
+      "path": "wiki/zero/00 PostgreSQL.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "00 Ремонт",
       "path": "wiki/zero/00 Ремонт.md"
-    },
-    {
-      "basename": "Трубы",
-      "path": "_inbox/Трубы.md"
-    },
-    {
-      "basename": "Розетки и выключатели",
-      "path": "_inbox/Розетки и выключатели.md"
-    },
-    {
-      "basename": "Электрика",
-      "path": "_inbox/Электрика.md"
     }
   ],
   "omittedPaths": [],

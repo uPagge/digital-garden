@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Оптимизация SQL запросов.md",
+      "timestamp": 1721808520488
+    },
+    {
+      "filepath": "_inbox/pg_stat_statements.md",
+      "timestamp": 1721808516025
+    },
+    {
+      "filepath": "wiki/zero/00 PostgreSQL.md",
+      "timestamp": 1721808376304
+    },
+    {
       "filepath": "Home.md",
       "timestamp": 1721804467102
     },
     {
       "filepath": "_inbox/Уроки от English Galaxy.md",
       "timestamp": 1721802572152
-    },
-    {
-      "filepath": "knowledge/english/Полезные фразы.md",
-      "timestamp": 1721801805180
-    },
-    {
-      "filepath": "knowledge/english/Неопределенный артикль.md",
-      "timestamp": 1721801666798
-    },
-    {
-      "filepath": "knowledge/english/Определенный артикль.md",
-      "timestamp": 1721801664619
     }
   ],
   "bookmarkedFileStore": [],
