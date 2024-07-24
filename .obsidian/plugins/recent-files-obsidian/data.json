@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Уроки от English Galaxy",
+      "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
+      "basename": "Present Simple",
+      "path": "knowledge/english/Present Simple.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Обслуживание велосипеда",
       "path": "checklists/Обслуживание велосипеда.md"
-    },
-    {
-      "basename": "Present Simple",
-      "path": "knowledge/english/Present Simple.md"
     },
     {
       "basename": "Модальные глаголы",
@@ -195,10 +199,6 @@
     {
       "basename": "Проводка",
       "path": "_inbox/Проводка.md"
-    },
-    {
-      "basename": "Вопросы для найма ремонта",
-      "path": "_inbox/Вопросы для найма ремонта.md"
     }
   ],
   "omittedPaths": [],
