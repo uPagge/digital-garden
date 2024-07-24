@@ -27,7 +27,7 @@ linked:
 	- ==Анализом необходимо заниматься только на продуктовой БД.==
 	- Все подряд оптимизировать бесполезно. Нужно отобрать самые проблемные и начать с них.
 		- [PostgreSQL](00%20PostgreSQL.md)
-			- Использовать [GitHub - Полезные утилиты для тюнинга PostgreSQL](https://github.com/dataegret/pg-utils) - global_reports
+			- Использовать [pg_utils](pg_utils.md)
 			- Использовать [[pg_stat_statements]]
 - Оптимизировать запросы
 	- Использовать [Explain в PostgreSQL](Explain%20в%20PostgreSQL.md) и [Explain в MySQL](Explain%20в%20MySQL.md) для анализа запросов

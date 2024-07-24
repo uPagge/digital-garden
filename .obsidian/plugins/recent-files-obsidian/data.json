@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Оптимизация SQL запросов",
-      "path": "_inbox/Оптимизация SQL запросов.md"
-    },
-    {
-      "basename": "pg_stat_statements",
-      "path": "_inbox/pg_stat_statements.md"
+      "basename": "Обучающий курс от HighLoad конференции 2024",
+      "path": "source/курсы/_toc/Обучающий курс от HighLoad конференции 2024.md"
     },
     {
       "basename": "00 PostgreSQL",
       "path": "wiki/zero/00 PostgreSQL.md"
+    },
+    {
+      "basename": "Оптимизация SQL запросов",
+      "path": "_inbox/Оптимизация SQL запросов.md"
+    },
+    {
+      "basename": "pg_utils",
+      "path": "_inbox/pg_utils.md"
+    },
+    {
+      "basename": "pg_stat_statements",
+      "path": "_inbox/pg_stat_statements.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "Полипропиленовая труба",
       "path": "_inbox/Полипропиленовая труба.md"
-    },
-    {
-      "basename": "Сантехника",
-      "path": "_inbox/Сантехника.md"
-    },
-    {
-      "basename": "00 Ремонт",
-      "path": "wiki/zero/00 Ремонт.md"
     }
   ],
   "omittedPaths": [],
