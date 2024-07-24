@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Уроки от English Galaxy",
+      "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
       "basename": "Оптимизация SQL запросов",
       "path": "_inbox/Оптимизация SQL запросов.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "pg_stat_statements",
       "path": "_inbox/pg_stat_statements.md"
-    },
-    {
-      "basename": "Уроки от English Galaxy",
-      "path": "_inbox/Уроки от English Galaxy.md"
     },
     {
       "basename": "Полезные фразы",
