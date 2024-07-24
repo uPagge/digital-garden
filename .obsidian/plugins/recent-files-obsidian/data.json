@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Обладание",
-      "path": "_inbox/Обладание.md"
-    },
-    {
-      "basename": "Уроки от English Galaxy",
-      "path": "_inbox/Уроки от English Galaxy.md"
+      "basename": "Present Continuous",
+      "path": "_inbox/Present Continuous.md"
     },
     {
       "basename": "Грамматика в английском",
@@ -15,6 +11,14 @@
     {
       "basename": "Устойчивые выражения в английском",
       "path": "_inbox/Устойчивые выражения в английском.md"
+    },
+    {
+      "basename": "Уроки от English Galaxy",
+      "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
+      "basename": "Обладание",
+      "path": "_inbox/Обладание.md"
     },
     {
       "basename": "Грамматические конструкции в английском",
@@ -195,10 +199,6 @@
     {
       "basename": "Проект. Изучение Английского",
       "path": "projects/Проект. Изучение Английского.md"
-    },
-    {
-      "basename": "Чеклист. Еженедельное планирование",
-      "path": "_inbox/Чеклист. Еженедельное планирование.md"
     }
   ],
   "omittedPaths": [],
