@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Неопределенный артикль",
+      "path": "knowledge/english/Неопределенный артикль.md"
+    },
+    {
+      "basename": "Определенный артикль",
+      "path": "knowledge/english/Определенный артикль.md"
+    },
+    {
+      "basename": "Грамматика в английском",
+      "path": "_inbox/Грамматика в английском.md"
+    },
+    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "Модальные глаголы",
       "path": "knowledge/english/Модальные глаголы.md"
-    },
-    {
-      "basename": "Грамматика в английском",
-      "path": "_inbox/Грамматика в английском.md"
     },
     {
       "basename": "Устойчивые выражения в английском",
@@ -191,14 +199,6 @@
     {
       "basename": "Дифавтомат",
       "path": "_inbox/Дифавтомат.md"
-    },
-    {
-      "basename": "Автоматы",
-      "path": "_inbox/Автоматы.md"
-    },
-    {
-      "basename": "Проводка",
-      "path": "_inbox/Проводка.md"
     }
   ],
   "omittedPaths": [],
