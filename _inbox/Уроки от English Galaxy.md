@@ -18,3 +18,4 @@ linked:
 	- Урок 2 Present Simple – We / You / They
 		- [Урок 2. Грамматика](https://youtu.be/fAW5P2oOozo)
 		- [Урок 2. Полезные фразы](https://youtu.be/ueySet8pzRs)
+		- [Урок 2. Разговорные ситуации](https://youtu.be/ueySet8pzRs)
