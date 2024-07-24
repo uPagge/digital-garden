@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Устойчивые выражения в английском.md",
+      "timestamp": 1721841898612
+    },
+    {
       "filepath": "_inbox/Грамматика в английском.md",
       "timestamp": 1721841742303
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Уроки от English Galaxy.md",
       "timestamp": 1721840930656
-    },
-    {
-      "filepath": "_inbox/Оптимизация SQL запросов.md",
-      "timestamp": 1721822841983
     }
   ],
   "bookmarkedFileStore": [],
