@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
+    },
+    {
       "basename": "Неопределенный артикль",
       "path": "knowledge/english/Неопределенный артикль.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Электрика",
       "path": "_inbox/Электрика.md"
-    },
-    {
-      "basename": "Дифавтомат",
-      "path": "_inbox/Дифавтомат.md"
     }
   ],
   "omittedPaths": [],

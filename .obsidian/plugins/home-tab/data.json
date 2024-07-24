@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/english/Полезные фразы.md",
+      "timestamp": 1721801805180
+    },
+    {
       "filepath": "knowledge/english/Неопределенный артикль.md",
       "timestamp": 1721801666798
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Уроки от English Galaxy.md",
       "timestamp": 1721799892756
-    },
-    {
-      "filepath": "knowledge/english/Present Simple.md",
-      "timestamp": 1721799803766
     }
   ],
   "bookmarkedFileStore": [],
