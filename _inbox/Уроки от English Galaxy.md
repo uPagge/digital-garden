@@ -24,3 +24,4 @@ linked:
 		- [Урок 3. Грамматика](https://youtu.be/ripywrGKcmU)
 		- [Урок 3. Полезные фразы](https://youtu.be/ofreE9CN4g4)
 		- [Урок 3. Разговорные ситуации](https://youtu.be/wK8YfETpwPg)
+		- [Урок 3. Диалоги](https://youtu.be/aCgsHXsKUqs)
