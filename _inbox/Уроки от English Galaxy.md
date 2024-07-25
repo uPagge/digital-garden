@@ -22,3 +22,4 @@ linked:
 		- [Урок 2. Диалоги](https://youtu.be/t81nRSq0ojg)
 	- Урок 3 Present Simple – He / She / It
 		- [Урок 3. Грамматика](https://youtu.be/ripywrGKcmU)
+		- [Урок 3. Полезные фразы](https://youtu.be/ofreE9CN4g4)
