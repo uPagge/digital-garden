@@ -20,3 +20,5 @@ linked:
 		- [Урок 2. Полезные фразы](https://youtu.be/ueySet8pzRs)
 		- [Урок 2. Разговорные ситуации](https://youtu.be/ueySet8pzRs)
 		- [Урок 2. Диалоги](https://youtu.be/t81nRSq0ojg)
+	- Урок 3 Present Simple – He / She / It
+		- [Урок 3. Грамматика](https://youtu.be/ripywrGKcmU)
