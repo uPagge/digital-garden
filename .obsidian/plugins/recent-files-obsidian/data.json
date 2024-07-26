@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Репликация БД",
+      "path": "_inbox/Репликация БД.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Проекты",
       "path": "Проекты.md"
-    },
-    {
-      "basename": "Курс. Как сделать ремонт и не сойти с ума",
-      "path": "source/курсы/тж/Курс. Как сделать ремонт и не сойти с ума.md"
     }
   ],
   "omittedPaths": [],
