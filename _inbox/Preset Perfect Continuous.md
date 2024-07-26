@@ -10,4 +10,4 @@ linked:
 Preset Perfect Continuous (настоящее совершенное продолженное время).
 
 Маркеры:
-- for a long time - долгое время, давно
+- for a long time - долгое время, давно 
