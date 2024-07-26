@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Времена в Английском языке",
+      "path": "knowledge/english/Времена в Английском языке.md"
+    },
+    {
       "basename": "Preset Perfect Continuous",
       "path": "_inbox/Preset Perfect Continuous.md"
     },
     {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Present Continuous",
@@ -127,10 +131,6 @@
     {
       "basename": "Достаточно чего-то",
       "path": "knowledge/english/Достаточно чего-то.md"
-    },
-    {
-      "basename": "Времена в Английском языке",
-      "path": "knowledge/english/Времена в Английском языке.md"
     },
     {
       "basename": "Simple",
