@@ -34,3 +34,4 @@ linked:
 		- [Урок 5. Грамматика](https://youtu.be/exYZjYVZtUU)
 		- [Урок 5. Полезные фразы](https://youtu.be/vyskW0iVTdo)
 		- [Урок 5. Разговорные ситуации](https://youtu.be/fBwfvF9VB1s)
+		- [Урок 5. Диалоги](https://youtu.be/tAFj_2gt2cs)
