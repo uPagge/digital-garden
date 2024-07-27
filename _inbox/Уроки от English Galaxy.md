@@ -32,3 +32,4 @@ linked:
 		- [Урок 4. Диалоги](https://youtu.be/qSJ2BCQQEQg)
 	- Урок 5 Present Simple – Do / Does вопрос
 		- [Урок 5. Грамматика](https://youtu.be/exYZjYVZtUU)
+		- [Урок 5. Полезные фразы](https://youtu.be/vyskW0iVTdo)
