@@ -30,3 +30,5 @@ linked:
 		- [Урок 4. Полезные фразы](https://youtu.be/QAGiJ4-PSQA)
 		- [Урок 4. Разговорные ситуации](https://youtu.be/hLrJRJXcERg)
 		- [Урок 4. Диалоги](https://youtu.be/qSJ2BCQQEQg)
+	- Урок 5 Present Simple – Do / Does вопрос
+		- [Урок 5. Грамматика](https://youtu.be/exYZjYVZtUU)
