@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Результаты генетического теста",
+      "path": "home/Результаты генетического теста.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
     },
     {
       "basename": "English. Иногда",
       "path": "_inbox/English. Иногда.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Репликация БД",
@@ -195,10 +199,6 @@
     {
       "basename": "Еженедельная",
       "path": "meta/templates/Еженедельная.md"
-    },
-    {
-      "basename": "Проекты",
-      "path": "Проекты.md"
     }
   ],
   "omittedPaths": [],
