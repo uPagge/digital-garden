@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Ежегодный чекап (Марк)",
+      "path": "home/Ежегодный чекап (Марк).md"
+    },
+    {
+      "basename": "Мое здоровье",
+      "path": "_inbox/Мое здоровье.md"
+    },
+    {
+      "basename": "Ежегодные Анализы Марк 20240427",
+      "path": "home/Обследования/Ежегодные Анализы Марк 20240427.md"
+    },
+    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2024-W30",
       "path": "diary/weekly/2024-W30.md"
-    },
-    {
-      "basename": "2024-07-22",
-      "path": "diary/daily/2024-07-22.md"
-    },
-    {
-      "basename": "2024-W31",
-      "path": "diary/weekly/2024-W31.md"
-    },
-    {
-      "basename": "Еженедельная",
-      "path": "meta/templates/Еженедельная.md"
     }
   ],
   "omittedPaths": [],
