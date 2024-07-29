@@ -39,3 +39,4 @@ linked:
 		- [Урок 6.  Грамматика](https://youtu.be/qKwk_P8gT1Y)
 		- [Урок 6. Полезные фразы](https://youtu.be/_SJF7t-7qkE)
 		- [Урок 6. Разговорные ситуации](https://youtu.be/rxCeT9GXsVc)
+		- [Урок 6. Диалоги](https://youtu.be/NnRqWaClFIM)
