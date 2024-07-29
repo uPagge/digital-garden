@@ -37,4 +37,4 @@ linked:
 		- [Урок 5. Диалоги](https://youtu.be/tAFj_2gt2cs)
 	- Урок 6. Present Simple – Do / Does
 		- [Урок 6.  Грамматика](https://youtu.be/qKwk_P8gT1Y)
-		- [Fetching Title#uv12](https://youtu.be/_SJF7t-7qkE)
+		- [Урок 6. Полезные фразы](https://youtu.be/_SJF7t-7qkE)
