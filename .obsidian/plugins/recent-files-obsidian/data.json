@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
+    },
+    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "pg_stat_statements",
       "path": "_inbox/pg_stat_statements.md"
-    },
-    {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
     },
     {
       "basename": "Неопределенный артикль",
