@@ -44,3 +44,4 @@ linked:
 		- [Урок 7. Грамматика](https://youtu.be/PbE9wCj4Ow8)
 		- [Урок 7. Полезные фразы](https://youtu.be/1yr8qrdwPyM)
 		- [Урок 7. Разговорные ситуации](https://youtu.be/ELNK510wGDY)
+		- [Урок 7. Диалоги](https://youtu.be/Fz9Xq_iRRo4)
