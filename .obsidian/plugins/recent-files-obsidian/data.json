@@ -5,6 +5,10 @@
       "path": "_inbox/Уроки от English Galaxy.md"
     },
     {
+      "basename": "2024-W31",
+      "path": "diary/weekly/2024-W31.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Без названия 1",
       "path": "Без названия 1.md"
-    },
-    {
-      "basename": "Идеи для ремонта",
-      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
-    },
-    {
-      "basename": "2024-W30",
-      "path": "diary/weekly/2024-W30.md"
     }
   ],
   "omittedPaths": [],

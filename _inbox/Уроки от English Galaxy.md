@@ -38,3 +38,4 @@ linked:
 	- Урок 6. Present Simple – Do / Does
 		- [Урок 6.  Грамматика](https://youtu.be/qKwk_P8gT1Y)
 		- [Урок 6. Полезные фразы](https://youtu.be/_SJF7t-7qkE)
+		- [Урок 6. Разговорные ситуации](https://youtu.be/rxCeT9GXsVc)
