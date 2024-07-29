@@ -40,3 +40,5 @@ linked:
 		- [Урок 6. Полезные фразы](https://youtu.be/_SJF7t-7qkE)
 		- [Урок 6. Разговорные ситуации](https://youtu.be/rxCeT9GXsVc)
 		- [Урок 6. Диалоги](https://youtu.be/NnRqWaClFIM)
+	- Урок 7. Present Simple – глагол to be утверждение
+		- [Урок 7. Грамматика](https://youtu.be/PbE9wCj4Ow8)
