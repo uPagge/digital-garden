@@ -1033,11 +1033,13 @@ function filenameToMimeType(filename) {
       return "text/plain";
   }
 }
+var supportedImageFilesTypes = ["png", "jpg", "jpeg"];
+var supportedBinaryFileTypes = ["pdf"].concat(supportedImageFilesTypes);
+var supportedFileTypes = ["md", "markdown"].concat(supportedBinaryFileTypes);
 async function updateContentIndex(vault, setting, lastSync, regenerate = false) {
   var _a;
   console.log(`Khoj: Updating Khoj content index...`);
-  const files = vault.getFiles().filter((file) => file.extension === "md" || file.extension === "markdown" || file.extension === "pdf");
-  const binaryFileTypes = ["pdf"];
+  const files = vault.getFiles().filter((file) => supportedFileTypes.includes(file.extension));
   let countOfFilesToIndex = 0;
   let countOfFilesToDelete = 0;
   lastSync = lastSync.size > 0 ? lastSync : /* @__PURE__ */ new Map();
@@ -1047,7 +1049,7 @@ async function updateContentIndex(vault, setting, lastSync, regenerate = false) 
       continue;
     }
     countOfFilesToIndex++;
-    const encoding = binaryFileTypes.includes(file.extension) ? "binary" : "utf8";
+    const encoding = supportedBinaryFileTypes.includes(file.extension) ? "binary" : "utf8";
     const mimeType = fileExtensionToMimeType(file.extension) + (encoding === "utf8" ? "; charset=UTF-8" : "");
     const fileContent = encoding == "binary" ? await vault.readBinary(file) : await vault.read(file);
     fileData.push({ blob: new Blob([fileContent], { type: mimeType }), path: file.path });
@@ -1267,8 +1269,12 @@ function pasteTextAtCursor(text) {
     editor.replaceRange(text, cursor);
   }
 }
-function getLinkToEntry(sourceFiles, chosenFile, chosenEntry) {
+function getFileFromPath(sourceFiles, chosenFile) {
   let fileMatch = sourceFiles.sort((a, b) => b.path.length - a.path.length).find((file) => chosenFile.replace(/\\/g, "/").endsWith(file.path));
+  return fileMatch;
+}
+function getLinkToEntry(sourceFiles, chosenFile, chosenEntry) {
+  let fileMatch = getFileFromPath(sourceFiles, chosenFile);
   if (fileMatch) {
     let resultHeading = fileMatch.extension !== "pdf" ? chosenEntry.split("\n", 1)[0] : "";
     let linkToEntry = resultHeading.startsWith("#") ? `${fileMatch.path}${resultHeading}` : fileMatch.path;
@@ -1436,20 +1442,33 @@ var KhojSearchModal = class extends import_obsidian3.SuggestModal {
     return results;
   }
   async renderSuggestion(result, el) {
+    var _a;
     let lines_to_render = 8;
     let os_path_separator = result.file.includes("\\") ? "\\" : "/";
     let filename = result.file.split(os_path_separator).pop();
-    result.entry = result.entry.replace(/---[\n\r][\s\S]*---[\n\r]/, "");
-    let entry_snipped_indicator = result.entry.split("\n").length > lines_to_render ? " **...**" : "";
-    let snipped_entry = result.entry.split("\n").slice(0, lines_to_render).join("\n");
     el.createEl("div", { cls: "khoj-result-file" }).setText(filename != null ? filename : "");
     let result_el = el.createEl("div", { cls: "khoj-result-entry" });
-    import_obsidian3.MarkdownRenderer.renderMarkdown(snipped_entry + entry_snipped_indicator, result_el, result.file, null);
+    let resultToRender = "";
+    let fileExtension = (_a = filename == null ? void 0 : filename.split(".").pop()) != null ? _a : "";
+    if (supportedImageFilesTypes.includes(fileExtension) && filename) {
+      let linkToEntry = filename;
+      let imageFiles = this.app.vault.getFiles().filter((file) => supportedImageFilesTypes.includes(fileExtension));
+      let fileInVault = getFileFromPath(imageFiles, result.file);
+      if (fileInVault)
+        linkToEntry = this.app.vault.getResourcePath(fileInVault);
+      resultToRender = `![](${linkToEntry})`;
+    } else {
+      result.entry = result.entry.replace(/---[\n\r][\s\S]*---[\n\r]/, "");
+      let entry_snipped_indicator = result.entry.split("\n").length > lines_to_render ? " **...**" : "";
+      let snipped_entry = result.entry.split("\n").slice(0, lines_to_render).join("\n");
+      resultToRender = `${snipped_entry}${entry_snipped_indicator}`;
+    }
+    import_obsidian3.MarkdownRenderer.renderMarkdown(resultToRender, result_el, result.file, null);
   }
   async onChooseSuggestion(result, _) {
     const mdFiles = this.app.vault.getMarkdownFiles();
-    const pdfFiles = this.app.vault.getFiles().filter((file) => file.extension === "pdf");
-    let linkToEntry = getLinkToEntry(mdFiles.concat(pdfFiles), result.file, result.entry);
+    const binaryFiles = this.app.vault.getFiles().filter((file) => supportedBinaryFileTypes.includes(file.extension));
+    let linkToEntry = getLinkToEntry(mdFiles.concat(binaryFiles), result.file, result.entry);
     if (linkToEntry)
       this.app.workspace.openLinkText(linkToEntry, "");
   }
@@ -1819,13 +1838,12 @@ var KhojChatView = class extends KhojPaneView {
   formatHTMLMessage(message, raw = false, willReplace = true) {
     message = message.replace(/<s>\[INST\].+(<\/s>)?/g, "");
     message = DOMPurify.sanitize(message);
-    let chat_message_body_text_el = this.contentEl.createDiv();
-    chat_message_body_text_el.className = "chat-message-text-response";
-    chat_message_body_text_el.innerHTML = this.markdownTextToSanitizedHtml(message, this);
+    let chatMessageBodyTextEl = this.contentEl.createDiv();
+    chatMessageBodyTextEl.innerHTML = this.markdownTextToSanitizedHtml(message, this);
     if (willReplace === true) {
-      this.renderActionButtons(message, chat_message_body_text_el);
+      this.renderActionButtons(message, chatMessageBodyTextEl);
     }
-    return chat_message_body_text_el;
+    return chatMessageBodyTextEl;
   }
   markdownTextToSanitizedHtml(markdownText, component) {
     let virtualChatMessageBodyTextEl = document.createElement("div");
@@ -1882,47 +1900,43 @@ ${inferredQuery}`;
         class: `khoj-chat-message ${sender}`
       }
     });
-    let chat_message_body_el = chatMessageEl.createDiv();
-    chat_message_body_el.addClasses(["khoj-chat-message-text", sender]);
-    let chat_message_body_text_el = chat_message_body_el.createDiv();
+    let chatMessageBodyEl = chatMessageEl.createDiv();
+    chatMessageBodyEl.addClasses(["khoj-chat-message-text", sender]);
+    let chatMessageBodyTextEl = chatMessageBodyEl.createDiv();
     message = DOMPurify.sanitize(message);
     if (raw) {
-      chat_message_body_text_el.innerHTML = message;
+      chatMessageBodyTextEl.innerHTML = message;
     } else {
-      chat_message_body_text_el.innerHTML = this.markdownTextToSanitizedHtml(message, this);
+      chatMessageBodyTextEl.innerHTML = this.markdownTextToSanitizedHtml(message, this);
     }
     if (willReplace === true) {
-      this.renderActionButtons(message, chat_message_body_text_el);
+      this.renderActionButtons(message, chatMessageBodyTextEl);
     }
     chatMessageEl.style.userSelect = "text";
     this.scrollChatToBottom();
     return chatMessageEl;
   }
   createKhojResponseDiv(dt) {
-    let message_time = this.formatDate(dt != null ? dt : new Date());
-    let chat_body_el = this.contentEl.getElementsByClassName("khoj-chat-body")[0];
-    let chat_message_el = chat_body_el.createDiv({
+    let messageTime = this.formatDate(dt != null ? dt : new Date());
+    let chatBodyEl = this.contentEl.getElementsByClassName("khoj-chat-body")[0];
+    let chatMessageEl = chatBodyEl.createDiv({
       attr: {
-        "data-meta": `\u{1F3EE} Khoj at ${message_time}`,
+        "data-meta": `\u{1F3EE} Khoj at ${messageTime}`,
         class: `khoj-chat-message khoj`
       }
-    }).createDiv({
-      attr: {
-        class: `khoj-chat-message-text khoj`
-      }
-    }).createDiv();
+    });
     this.scrollChatToBottom();
-    return chat_message_el;
+    return chatMessageEl;
   }
   async renderIncrementalMessage(htmlElement, additionalMessage) {
-    this.result += additionalMessage;
+    this.chatMessageState.rawResponse += additionalMessage;
     htmlElement.innerHTML = "";
-    this.result = DOMPurify.sanitize(this.result);
-    htmlElement.innerHTML = this.markdownTextToSanitizedHtml(this.result, this);
-    this.renderActionButtons(this.result, htmlElement);
+    this.chatMessageState.rawResponse = DOMPurify.sanitize(this.chatMessageState.rawResponse);
+    htmlElement.innerHTML = this.markdownTextToSanitizedHtml(this.chatMessageState.rawResponse, this);
+    this.renderActionButtons(this.chatMessageState.rawResponse, htmlElement);
     this.scrollChatToBottom();
   }
-  renderActionButtons(message, chat_message_body_text_el) {
+  renderActionButtons(message, chatMessageBodyTextEl) {
     var _a;
     let copyButton = this.contentEl.createEl("button");
     copyButton.classList.add("chat-action-button");
@@ -1944,9 +1958,9 @@ ${inferredQuery}`;
       (0, import_obsidian5.setIcon)(speechButton, "speech");
       speechButton.addEventListener("click", (event) => this.textToSpeech(message, event));
     }
-    chat_message_body_text_el.append(copyButton, pasteToFile);
+    chatMessageBodyTextEl.append(copyButton, pasteToFile);
     if (speechButton) {
-      chat_message_body_text_el.append(speechButton);
+      chatMessageBodyTextEl.append(speechButton);
     }
   }
   formatDate(date) {
@@ -2138,106 +2152,155 @@ ${inferredQuery}`;
     }
     return true;
   }
-  async readChatStream(response, responseElement, isVoice = false) {
-    var _a;
+  convertMessageChunkToJson(rawChunk) {
+    if ((rawChunk == null ? void 0 : rawChunk.startsWith("{")) && (rawChunk == null ? void 0 : rawChunk.endsWith("}"))) {
+      try {
+        let jsonChunk = JSON.parse(rawChunk);
+        if (!jsonChunk.type)
+          jsonChunk = { type: "message", data: jsonChunk };
+        return jsonChunk;
+      } catch (e) {
+        return { type: "message", data: rawChunk };
+      }
+    } else if (rawChunk.length > 0) {
+      return { type: "message", data: rawChunk };
+    }
+    return { type: "", data: "" };
+  }
+  processMessageChunk(rawChunk) {
+    var _a, _b, _c;
+    const chunk = this.convertMessageChunkToJson(rawChunk);
+    console.debug("Chunk:", chunk);
+    if (!chunk || !chunk.type)
+      return;
+    if (chunk.type === "status") {
+      console.log(`status: ${chunk.data}`);
+      const statusMessage = chunk.data;
+      this.handleStreamResponse(this.chatMessageState.newResponseTextEl, statusMessage, this.chatMessageState.loadingEllipsis, false);
+    } else if (chunk.type === "start_llm_response") {
+      console.log("Started streaming", new Date());
+    } else if (chunk.type === "end_llm_response") {
+      console.log("Stopped streaming", new Date());
+      if (this.chatMessageState.isVoice && ((_a = this.setting.userInfo) == null ? void 0 : _a.is_active))
+        this.textToSpeech(this.chatMessageState.rawResponse);
+      this.finalizeChatBodyResponse(this.chatMessageState.references, this.chatMessageState.newResponseTextEl);
+      const liveQuery = this.chatMessageState.rawQuery;
+      this.chatMessageState = {
+        newResponseTextEl: null,
+        newResponseEl: null,
+        loadingEllipsis: null,
+        references: {},
+        rawResponse: "",
+        rawQuery: liveQuery,
+        isVoice: false
+      };
+    } else if (chunk.type === "references") {
+      this.chatMessageState.references = { "notes": chunk.data.context, "online": chunk.data.onlineContext };
+    } else if (chunk.type === "message") {
+      const chunkData = chunk.data;
+      if (typeof chunkData === "object" && chunkData !== null) {
+        this.handleJsonResponse(chunkData);
+      } else if (typeof chunkData === "string" && ((_b = chunkData.trim()) == null ? void 0 : _b.startsWith("{")) && ((_c = chunkData.trim()) == null ? void 0 : _c.endsWith("}"))) {
+        try {
+          const jsonData = JSON.parse(chunkData.trim());
+          this.handleJsonResponse(jsonData);
+        } catch (e) {
+          this.chatMessageState.rawResponse += chunkData;
+          this.handleStreamResponse(this.chatMessageState.newResponseTextEl, this.chatMessageState.rawResponse, this.chatMessageState.loadingEllipsis);
+        }
+      } else {
+        this.chatMessageState.rawResponse += chunkData;
+        this.handleStreamResponse(this.chatMessageState.newResponseTextEl, this.chatMessageState.rawResponse, this.chatMessageState.loadingEllipsis);
+      }
+    }
+  }
+  handleJsonResponse(jsonData) {
+    if (jsonData.image || jsonData.detail) {
+      this.chatMessageState.rawResponse = this.handleImageResponse(jsonData, this.chatMessageState.rawResponse);
+    } else if (jsonData.response) {
+      this.chatMessageState.rawResponse = jsonData.response;
+    }
+    if (this.chatMessageState.newResponseTextEl) {
+      this.chatMessageState.newResponseTextEl.innerHTML = "";
+      this.chatMessageState.newResponseTextEl.appendChild(this.formatHTMLMessage(this.chatMessageState.rawResponse));
+    }
+  }
+  async readChatStream(response) {
     if (response.body == null)
       return;
     const reader = response.body.getReader();
     const decoder = new TextDecoder();
+    const eventDelimiter = "\u2403\u{1F51A}\u2417";
+    let buffer = "";
     while (true) {
       const { value, done } = await reader.read();
       if (done) {
-        if (isVoice && ((_a = this.setting.userInfo) == null ? void 0 : _a.is_active))
-          this.textToSpeech(this.result);
+        this.processMessageChunk(buffer);
+        buffer = "";
         break;
       }
-      let responseText = decoder.decode(value);
-      if (responseText.includes("### compiled references:")) {
-        const [additionalResponse, rawReference] = responseText.split("### compiled references:", 2);
-        await this.renderIncrementalMessage(responseElement, additionalResponse);
-        const rawReferenceAsJson = JSON.parse(rawReference);
-        let references = this.extractReferences(rawReferenceAsJson);
-        responseElement.appendChild(this.createReferenceSection(references));
-      } else {
-        await this.renderIncrementalMessage(responseElement, responseText);
+      const chunk = decoder.decode(value, { stream: true });
+      console.debug("Raw Chunk:", chunk);
+      buffer += chunk;
+      let newEventIndex;
+      while ((newEventIndex = buffer.indexOf(eventDelimiter)) !== -1) {
+        const event = buffer.slice(0, newEventIndex);
+        buffer = buffer.slice(newEventIndex + eventDelimiter.length);
+        if (event)
+          this.processMessageChunk(event);
       }
     }
   }
   async getChatResponse(query, isVoice = false) {
-    var _a;
     if (!query || query === "")
       return;
     let chatBodyEl = this.contentEl.getElementsByClassName("khoj-chat-body")[0];
     this.renderMessage(chatBodyEl, query, "you");
-    let conversationID = chatBodyEl.dataset.conversationId;
-    if (!conversationID) {
+    let conversationId = chatBodyEl.dataset.conversationId;
+    if (!conversationId) {
       let chatUrl2 = `${this.setting.khojUrl}/api/chat/sessions?client=obsidian`;
       let response2 = await fetch(chatUrl2, {
         method: "POST",
         headers: { "Authorization": `Bearer ${this.setting.khojApiKey}` }
       });
       let data = await response2.json();
-      conversationID = data.conversation_id;
-      chatBodyEl.dataset.conversationId = conversationID;
+      conversationId = data.conversation_id;
+      chatBodyEl.dataset.conversationId = conversationId;
     }
     let encodedQuery = encodeURIComponent(query);
-    let chatUrl = `${this.setting.khojUrl}/api/chat?q=${encodedQuery}&n=${this.setting.resultsCount}&client=obsidian&stream=true&region=${this.location.region}&city=${this.location.city}&country=${this.location.countryName}&timezone=${this.location.timezone}`;
-    let responseElement = this.createKhojResponseDiv();
-    this.result = "";
+    let chatUrl = `${this.setting.khojUrl}/api/chat?q=${encodedQuery}&conversation_id=${conversationId}&n=${this.setting.resultsCount}&stream=true&client=obsidian`;
+    if (!!this.location)
+      chatUrl += `&region=${this.location.region}&city=${this.location.city}&country=${this.location.countryName}&timezone=${this.location.timezone}`;
+    let newResponseEl = this.createKhojResponseDiv();
+    let newResponseTextEl = newResponseEl.createDiv();
+    newResponseTextEl.classList.add("khoj-chat-message-text", "khoj");
     let loadingEllipsis = this.createLoadingEllipse();
-    responseElement.appendChild(loadingEllipsis);
+    newResponseTextEl.appendChild(loadingEllipsis);
+    this.chatMessageState = {
+      newResponseEl,
+      newResponseTextEl,
+      loadingEllipsis,
+      references: {},
+      rawQuery: query,
+      rawResponse: "",
+      isVoice
+    };
     let response = await fetch(chatUrl, {
       method: "GET",
       headers: {
-        "Content-Type": "text/event-stream",
+        "Content-Type": "text/plain",
         "Authorization": `Bearer ${this.setting.khojApiKey}`
       }
     });
     try {
-      if (response.body === null) {
+      if (response.body === null)
         throw new Error("Response body is null");
-      }
-      if (responseElement.getElementsByClassName("lds-ellipsis").length > 0 && loadingEllipsis) {
-        responseElement.removeChild(loadingEllipsis);
-      }
-      this.result = "";
-      responseElement.innerHTML = "";
-      if (response.headers.get("content-type") === "application/json") {
-        let responseText = "";
-        try {
-          const responseAsJson = await response.json();
-          if (responseAsJson.image) {
-            if (responseAsJson.intentType === "text-to-image") {
-              responseText += `![${query}](data:image/png;base64,${responseAsJson.image})`;
-            } else if (responseAsJson.intentType === "text-to-image2") {
-              responseText += `![${query}](${responseAsJson.image})`;
-            } else if (responseAsJson.intentType === "text-to-image-v3") {
-              responseText += `![${query}](data:image/webp;base64,${responseAsJson.image})`;
-            }
-            const inferredQuery = (_a = responseAsJson.inferredQueries) == null ? void 0 : _a[0];
-            if (inferredQuery) {
-              responseText += `
-
-**Inferred Query**:
-
-${inferredQuery}`;
-            }
-          } else if (responseAsJson.detail) {
-            responseText = responseAsJson.detail;
-          }
-        } catch (error) {
-          responseText = await response.text();
-        } finally {
-          await this.renderIncrementalMessage(responseElement, responseText);
-        }
-      } else {
-        await this.readChatStream(response, responseElement, isVoice);
-      }
+      await this.readChatStream(response);
     } catch (err) {
-      console.log(`Khoj chat response failed with
+      console.error(`Khoj chat response failed with
 ${err}`);
       let errorMsg = "Sorry, unable to get response from Khoj backend \u2764\uFE0F\u200D\u{1FA79}. Retry or contact developers for help at <a href=mailto:'team@khoj.dev'>team@khoj.dev</a> or <a href='https://discord.gg/BDgyabRM6e'>on Discord</a>";
-      responseElement.innerHTML = errorMsg;
+      newResponseTextEl.textContent = errorMsg;
     }
   }
   flashStatusInChatInput(message) {
@@ -2423,25 +2486,14 @@ Content-Type: "application/octet-stream"\r
   handleStreamResponse(newResponseElement, rawResponse, loadingEllipsis, replace = true) {
     if (!newResponseElement)
       return;
-    if (newResponseElement.getElementsByClassName("lds-ellipsis").length > 0 && loadingEllipsis) {
+    if (newResponseElement.getElementsByClassName("lds-ellipsis").length > 0 && loadingEllipsis)
       newResponseElement.removeChild(loadingEllipsis);
-    }
-    if (replace) {
+    if (replace)
       newResponseElement.innerHTML = "";
-    }
     newResponseElement.appendChild(this.formatHTMLMessage(rawResponse, false, replace));
+    if (!replace && loadingEllipsis)
+      newResponseElement.appendChild(loadingEllipsis);
     this.scrollChatToBottom();
-  }
-  handleCompiledReferences(rawResponseElement, chunk, references, rawResponse) {
-    if (!rawResponseElement || !chunk)
-      return { rawResponse, references };
-    const [additionalResponse, rawReference] = chunk.split("### compiled references:", 2);
-    rawResponse += additionalResponse;
-    rawResponseElement.innerHTML = "";
-    rawResponseElement.appendChild(this.formatHTMLMessage(rawResponse));
-    const rawReferenceAsJson = JSON.parse(rawReference);
-    references = this.extractReferences(rawReferenceAsJson);
-    return { rawResponse, references };
   }
   handleImageResponse(imageJson, rawResponse) {
     var _a, _b;
@@ -2462,30 +2514,9 @@ Content-Type: "application/octet-stream"\r
 ${inferredQuery}`;
       }
     }
-    let references = {};
-    if (imageJson.context && imageJson.context.length > 0) {
-      references = this.extractReferences(imageJson.context);
-    }
-    if (imageJson.detail) {
+    if (imageJson.detail)
       rawResponse += imageJson.detail;
-    }
-    return { rawResponse, references };
-  }
-  extractReferences(rawReferenceAsJson) {
-    let references = {};
-    if (rawReferenceAsJson instanceof Array) {
-      references["notes"] = rawReferenceAsJson;
-    } else if (typeof rawReferenceAsJson === "object" && rawReferenceAsJson !== null) {
-      references["online"] = rawReferenceAsJson;
-    }
-    return references;
-  }
-  addMessageToChatBody(rawResponse, newResponseElement, references) {
-    if (!newResponseElement)
-      return;
-    newResponseElement.innerHTML = "";
-    newResponseElement.appendChild(this.formatHTMLMessage(rawResponse));
-    this.finalizeChatBodyResponse(references, newResponseElement);
+    return rawResponse;
   }
   finalizeChatBodyResponse(references, newResponseElement) {
     if (!!newResponseElement && references != null && Object.keys(references).length > 0) {
