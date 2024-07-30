@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
-    },
-    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
     },
     {
       "basename": "Preset Perfect",
@@ -27,10 +31,6 @@
     {
       "basename": "2024-W31",
       "path": "diary/weekly/2024-W31.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Ежегодный чекап (Марк)",

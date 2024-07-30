@@ -45,3 +45,5 @@ linked:
 		- [Урок 7. Полезные фразы](https://youtu.be/1yr8qrdwPyM)
 		- [Урок 7. Разговорные ситуации](https://youtu.be/ELNK510wGDY)
 		- [Урок 7. Диалоги](https://youtu.be/Fz9Xq_iRRo4)
+	- Урок 8 Present Simple – глагол to be отрицание
+		- [Урок 8. Грамматика](https://youtu.be/RH8oR0TExaA)
