@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "PEX труба",
+      "path": "_inbox/PEX труба.md"
+    },
+    {
+      "basename": "Металлопластиковая труба",
+      "path": "_inbox/Металлопластиковая труба.md"
+    },
+    {
+      "basename": "Полипропиленовая труба",
+      "path": "_inbox/Полипропиленовая труба.md"
+    },
+    {
+      "basename": "Трубы",
+      "path": "_inbox/Трубы.md"
+    },
+    {
+      "basename": "Проект. Ремонт квартиры",
+      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -133,10 +153,6 @@
       "path": "_inbox/Черновая отделка.md"
     },
     {
-      "basename": "Проект. Ремонт квартиры",
-      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
-    },
-    {
       "basename": "Мне нравится",
       "path": "_inbox/Мне нравится.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Произношение в английском",
       "path": "_inbox/Произношение в английском.md"
-    },
-    {
-      "basename": "Ударение",
-      "path": "_inbox/Ударение.md"
-    },
-    {
-      "basename": "Трифтонг",
-      "path": "_inbox/Трифтонг.md"
-    },
-    {
-      "basename": "Дифтонги",
-      "path": "knowledge/english/Дифтонги.md"
-    },
-    {
-      "basename": "Непроизносимые буквы",
-      "path": "knowledge/english/Непроизносимые буквы.md"
     }
   ],
   "omittedPaths": [],
