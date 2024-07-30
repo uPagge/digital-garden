@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "PEX труба",
-      "path": "_inbox/PEX труба.md"
+      "basename": "Идеи для ремонта",
+      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
     },
     {
-      "basename": "Металлопластиковая труба",
-      "path": "_inbox/Металлопластиковая труба.md"
-    },
-    {
-      "basename": "Полипропиленовая труба",
-      "path": "_inbox/Полипропиленовая труба.md"
+      "basename": "Проект. Ремонт квартиры",
+      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
     },
     {
       "basename": "Трубы",
       "path": "_inbox/Трубы.md"
     },
     {
-      "basename": "Проект. Ремонт квартиры",
-      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
+      "basename": "Медная труба",
+      "path": "_inbox/Медная труба.md"
+    },
+    {
+      "basename": "PEX труба",
+      "path": "_inbox/PEX труба.md"
+    },
+    {
+      "basename": "Полипропиленовая труба",
+      "path": "_inbox/Полипропиленовая труба.md"
+    },
+    {
+      "basename": "Металлопластиковая труба",
+      "path": "_inbox/Металлопластиковая труба.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "Достаточно чего-то",
       "path": "knowledge/english/Достаточно чего-то.md"
-    },
-    {
-      "basename": "Simple",
-      "path": "knowledge/english/Simple.md"
-    },
-    {
-      "basename": "Произношение в английском",
-      "path": "_inbox/Произношение в английском.md"
     }
   ],
   "omittedPaths": [],
