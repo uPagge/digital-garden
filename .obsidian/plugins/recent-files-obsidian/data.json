@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Вопросы для собеседование Java",
+      "path": "notes/Собеседования/Вопросы для собеседование Java.md"
+    },
+    {
       "basename": "Биметаллические радиаторы",
       "path": "_inbox/Биметаллические радиаторы.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "00 English",
       "path": "wiki/zero/00 English.md"
-    },
-    {
-      "basename": "English. Так сильно. Очень сильно",
-      "path": "_inbox/English. Так сильно. Очень сильно.md"
     }
   ],
   "omittedPaths": [],
