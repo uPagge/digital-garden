@@ -5,6 +5,10 @@
       "path": "_inbox/Уроки от English Galaxy.md"
     },
     {
+      "basename": "Сравнение в английском",
+      "path": "_inbox/Сравнение в английском.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Без названия 2",
       "path": "Без названия 2.md"
-    },
-    {
-      "basename": "2024-07-19 1721364994",
-      "path": "_inbox/2024-07-19 1721364994.md"
     }
   ],
   "omittedPaths": [],
