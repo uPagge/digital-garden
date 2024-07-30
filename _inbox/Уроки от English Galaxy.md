@@ -49,3 +49,4 @@ linked:
 		- [Урок 8. Грамматика](https://youtu.be/RH8oR0TExaA)
 		- [Урок 8. Полезные фразы](https://youtu.be/cyBfaO4V_xY)
 		- [Урок 8. Разговорные ситуации](https://youtu.be/G891wBshA0k)
+		- [Урок 8. Диалоги](https://youtu.be/NjRuMi9XKuc)
