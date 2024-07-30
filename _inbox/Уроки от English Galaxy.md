@@ -47,3 +47,4 @@ linked:
 		- [Урок 7. Диалоги](https://youtu.be/Fz9Xq_iRRo4)
 	- Урок 8 Present Simple – глагол to be отрицание
 		- [Урок 8. Грамматика](https://youtu.be/RH8oR0TExaA)
+		- [Урок 8. Полезные фразы](https://youtu.be/cyBfaO4V_xY)
