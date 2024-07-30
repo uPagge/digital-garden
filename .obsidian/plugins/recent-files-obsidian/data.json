@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Вопросы для собеседование Java",
       "path": "notes/Собеседования/Вопросы для собеседование Java.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Металлопластиковая труба",
       "path": "_inbox/Металлопластиковая труба.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Времена в Английском языке",
