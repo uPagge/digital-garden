@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Биметаллические радиаторы.md",
+      "timestamp": 1722320595873
+    },
+    {
       "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
-      "timestamp": 1722320051520
+      "timestamp": 1722320590098
     },
     {
       "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Медная труба.md",
       "timestamp": 1722319919505
-    },
-    {
-      "filepath": "_inbox/PEX труба.md",
-      "timestamp": 1722319842664
     }
   ],
   "bookmarkedFileStore": [],
