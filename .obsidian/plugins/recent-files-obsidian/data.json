@@ -9,6 +9,10 @@
       "path": "_inbox/Уроки от English Galaxy.md"
     },
     {
+      "basename": "Числительные в английском",
+      "path": "_inbox/Числительные в английском.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Модальные глаголы",
       "path": "knowledge/english/Модальные глаголы.md"
-    },
-    {
-      "basename": "English. Тоже. Также",
-      "path": "_inbox/English. Тоже. Также.md"
     }
   ],
   "omittedPaths": [],
