@@ -52,3 +52,4 @@ linked:
 		- [Урок 8. Диалоги](https://youtu.be/NjRuMi9XKuc)
 	- Урок 9 Present Simple – глагол to be вопрос
 		- [Урок 9. Грамматика](https://youtu.be/ViA9Pv1pEqs)
+		- [Урок 9. Полезные фразы](https://youtu.be/FNHTiq0zo0s)
