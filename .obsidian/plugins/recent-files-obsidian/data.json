@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Queue",
-      "path": "_inbox/Queue.md"
+      "basename": "Событийно-ориентированное программирование",
+      "path": "_inbox/Событийно-ориентированное программирование.md"
+    },
+    {
+      "basename": "Advanced Message Queuing Protocol",
+      "path": "_inbox/Advanced Message Queuing Protocol.md"
     },
     {
       "basename": "00 RabbitMQ",
       "path": "_inbox/00 RabbitMQ.md"
+    },
+    {
+      "basename": "Queue",
+      "path": "_inbox/Queue.md"
     },
     {
       "basename": "Обработка сообщений в RabbitMQ",
@@ -191,14 +199,6 @@
     {
       "basename": "Мне нравится",
       "path": "_inbox/Мне нравится.md"
-    },
-    {
-      "basename": "Событийно-ориентированное программирование",
-      "path": "_inbox/Событийно-ориентированное программирование.md"
-    },
-    {
-      "basename": "Event Loop",
-      "path": "knowledge/dev/Event Loop.md"
     }
   ],
   "omittedPaths": [],

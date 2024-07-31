@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Событийно-ориентированное программирование.md",
+      "timestamp": 1722422766744
+    },
+    {
+      "filepath": "_inbox/Advanced Message Queuing Protocol.md",
+      "timestamp": 1722422574271
+    },
+    {
+      "filepath": "_inbox/00 RabbitMQ.md",
+      "timestamp": 1722422566703
+    },
+    {
       "filepath": "_inbox/Queue.md",
       "timestamp": 1722422551854
     },
     {
-      "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1722422544142
-    },
-    {
       "filepath": "Обработка сообщений в RabbitMQ.md",
       "timestamp": 1722421427145
-    },
-    {
-      "filepath": "_inbox/Уроки от English Galaxy.md",
-      "timestamp": 1722417500379
-    },
-    {
-      "filepath": "_inbox/Указание места.md",
-      "timestamp": 1722405692164
     }
   ],
   "bookmarkedFileStore": [],
