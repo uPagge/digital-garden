@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Указание места",
+      "path": "_inbox/Указание места.md"
+    },
+    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "English. Тоже. Также",
       "path": "_inbox/English. Тоже. Также.md"
-    },
-    {
-      "basename": "00 English",
-      "path": "wiki/zero/00 English.md"
     }
   ],
   "omittedPaths": [],
