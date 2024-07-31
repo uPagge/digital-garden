@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/00 RabbitMQ.md",
+      "timestamp": 1722421429422
+    },
+    {
+      "filepath": "Обработка сообщений в RabbitMQ.md",
+      "timestamp": 1722421427145
+    },
+    {
       "filepath": "_inbox/Уроки от English Galaxy.md",
       "timestamp": 1722417500379
     },
@@ -34,10 +42,6 @@
     {
       "filepath": "_inbox/Числительные в английском.md",
       "timestamp": 1722405317413
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1722403668584
     }
   ],
   "bookmarkedFileStore": [],
