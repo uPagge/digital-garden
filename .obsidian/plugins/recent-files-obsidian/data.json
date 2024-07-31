@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "00 RabbitMQ",
+      "path": "_inbox/00 RabbitMQ.md"
+    },
+    {
       "basename": "Событийно-ориентированное программирование",
       "path": "_inbox/Событийно-ориентированное программирование.md"
     },
     {
       "basename": "Advanced Message Queuing Protocol",
       "path": "_inbox/Advanced Message Queuing Protocol.md"
-    },
-    {
-      "basename": "00 RabbitMQ",
-      "path": "_inbox/00 RabbitMQ.md"
     },
     {
       "basename": "Queue",
@@ -31,10 +35,6 @@
     {
       "basename": "Числительные в английском",
       "path": "_inbox/Числительные в английском.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Вопросы для собеседование Java",

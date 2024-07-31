@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1722432509411
+    },
+    {
+      "filepath": "_inbox/00 RabbitMQ.md",
+      "timestamp": 1722432508349
+    },
+    {
       "filepath": "_inbox/Событийно-ориентированное программирование.md",
       "timestamp": 1722422766744
     },
@@ -32,16 +40,8 @@
       "timestamp": 1722422574271
     },
     {
-      "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1722422566703
-    },
-    {
       "filepath": "_inbox/Queue.md",
       "timestamp": 1722422551854
-    },
-    {
-      "filepath": "Обработка сообщений в RabbitMQ.md",
-      "timestamp": 1722421427145
     }
   ],
   "bookmarkedFileStore": [],
