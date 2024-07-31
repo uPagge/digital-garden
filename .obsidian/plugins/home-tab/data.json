@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1722421429422
+      "timestamp": 1722422168344
+    },
+    {
+      "filepath": "_inbox/Queue.md",
+      "timestamp": 1722422018742
     },
     {
       "filepath": "Обработка сообщений в RabbitMQ.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Указание места.md",
       "timestamp": 1722405692164
-    },
-    {
-      "filepath": "_inbox/Числительные в английском.md",
-      "timestamp": 1722405317413
     }
   ],
   "bookmarkedFileStore": [],

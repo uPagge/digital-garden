@@ -5,6 +5,10 @@
       "path": "_inbox/00 RabbitMQ.md"
     },
     {
+      "basename": "Queue",
+      "path": "_inbox/Queue.md"
+    },
+    {
       "basename": "Обработка сообщений в RabbitMQ",
       "path": "Обработка сообщений в RabbitMQ.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Event Loop",
       "path": "knowledge/dev/Event Loop.md"
-    },
-    {
-      "basename": "Обслуживание велосипеда",
-      "path": "checklists/Обслуживание велосипеда.md"
     }
   ],
   "omittedPaths": [],
