@@ -24,12 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1722422168344
+      "filepath": "_inbox/Queue.md",
+      "timestamp": 1722422551854
     },
     {
-      "filepath": "_inbox/Queue.md",
-      "timestamp": 1722422018742
+      "filepath": "_inbox/00 RabbitMQ.md",
+      "timestamp": 1722422544142
     },
     {
       "filepath": "Обработка сообщений в RabbitMQ.md",
