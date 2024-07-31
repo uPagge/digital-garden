@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Уроки от English Galaxy",
+      "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Обработка сообщений в RabbitMQ",
       "path": "Обработка сообщений в RabbitMQ.md"
-    },
-    {
-      "basename": "Уроки от English Galaxy",
-      "path": "_inbox/Уроки от English Galaxy.md"
     },
     {
       "basename": "Указание места",

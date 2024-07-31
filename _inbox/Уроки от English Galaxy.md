@@ -54,3 +54,4 @@ linked:
 		- [Урок 9. Грамматика](https://youtu.be/ViA9Pv1pEqs)
 		- [Урок 9. Полезные фразы](https://youtu.be/FNHTiq0zo0s)
 		- [Урок 9. Разговорные ситуации](https://youtu.be/zmchjCnvJb0)
+		- [Урок 9. Диалоги](https://youtu.be/8DktsQ0W8Vk)

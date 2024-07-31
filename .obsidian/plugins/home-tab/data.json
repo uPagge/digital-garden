@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Уроки от English Galaxy.md",
+      "timestamp": 1722447203879
+    },
+    {
       "filepath": "Home.md",
-      "timestamp": 1722432509411
-    },
-    {
-      "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1722432508349
-    },
-    {
-      "filepath": "_inbox/Событийно-ориентированное программирование.md",
-      "timestamp": 1722422766744
-    },
-    {
-      "filepath": "_inbox/Advanced Message Queuing Protocol.md",
-      "timestamp": 1722422574271
-    },
-    {
-      "filepath": "_inbox/Queue.md",
-      "timestamp": 1722422551854
+      "timestamp": 1722446992395
     }
   ],
   "bookmarkedFileStore": [],
