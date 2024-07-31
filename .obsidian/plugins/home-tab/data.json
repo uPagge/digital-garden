@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Уроки от English Galaxy.md",
+      "timestamp": 1722403678164
+    },
+    {
       "filepath": "Home.md",
-      "timestamp": 1722330240570
-    },
-    {
-      "filepath": "notes/Собеседования/Вопросы для собеседование Java.md",
-      "timestamp": 1722329190540
-    },
-    {
-      "filepath": "_inbox/Биметаллические радиаторы.md",
-      "timestamp": 1722320595873
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
-      "timestamp": 1722320590098
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
-      "timestamp": 1722320043185
+      "timestamp": 1722403668584
     }
   ],
   "bookmarkedFileStore": [],

@@ -50,3 +50,5 @@ linked:
 		- [Урок 8. Полезные фразы](https://youtu.be/cyBfaO4V_xY)
 		- [Урок 8. Разговорные ситуации](https://youtu.be/G891wBshA0k)
 		- [Урок 8. Диалоги](https://youtu.be/NjRuMi9XKuc)
+	- Урок 9 Present Simple – глагол to be вопрос
+		- [Урок 9. Грамматика](https://youtu.be/ViA9Pv1pEqs)
