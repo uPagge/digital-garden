@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Kafka",
+      "path": "_inbox/00 Kafka.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Определенный артикль",
       "path": "knowledge/english/Определенный артикль.md"
-    },
-    {
-      "basename": "Черновая отделка",
-      "path": "_inbox/Черновая отделка.md"
     }
   ],
   "omittedPaths": [],
