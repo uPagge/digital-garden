@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/dev/java/frameworks/quarkus/Выполнение блокирующего кода в реактивном потоке.md",
+      "timestamp": 1722520580822
+    },
+    {
       "filepath": "_inbox/00 Kafka.md",
       "timestamp": 1722503184263
     },

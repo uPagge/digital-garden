@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Выполнение блокирующего кода в реактивном потоке",
+      "path": "knowledge/dev/java/frameworks/quarkus/Выполнение блокирующего кода в реактивном потоке.md"
+    },
+    {
       "basename": "00 Kafka",
       "path": "_inbox/00 Kafka.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Неопределенный артикль",
       "path": "knowledge/english/Неопределенный артикль.md"
-    },
-    {
-      "basename": "Определенный артикль",
-      "path": "knowledge/english/Определенный артикль.md"
     }
   ],
   "omittedPaths": [],
