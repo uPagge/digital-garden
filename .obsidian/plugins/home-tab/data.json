@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "knowledge/dev/java/frameworks/quarkus/Выполнение блокирующего кода в реактивном потоке.md",
-      "timestamp": 1722520580822
-    },
-    {
-      "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1722503184263
-    },
-    {
       "filepath": "Home.md",
-      "timestamp": 1722494432460
+      "timestamp": 1722577758254
     },
     {
-      "filepath": "wiki/zero/00 Продуктивность.md",
-      "timestamp": 1722494388495
-    },
-    {
-      "filepath": "_inbox/Present Continuous.md",
-      "timestamp": 1722494385101
+      "filepath": "knowledge/dev/java/frameworks/quarkus/Выполнение блокирующего кода в реактивном потоке.md",
+      "timestamp": 1722577756898
     }
   ],
   "bookmarkedFileStore": [],

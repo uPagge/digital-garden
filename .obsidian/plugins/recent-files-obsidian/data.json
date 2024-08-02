@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Выполнение блокирующего кода в реактивном потоке",
       "path": "knowledge/dev/java/frameworks/quarkus/Выполнение блокирующего кода в реактивном потоке.md"
     },
     {
       "basename": "00 Kafka",
       "path": "_inbox/00 Kafka.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "00 Продуктивность",
