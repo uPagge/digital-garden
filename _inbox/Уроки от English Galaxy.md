@@ -56,5 +56,6 @@ linked:
 		- [Урок 9. Разговорные ситуации](https://youtu.be/zmchjCnvJb0)
 		- [Урок 9. Диалоги](https://youtu.be/8DktsQ0W8Vk)
 	- Урок 10 Present Simple - to be специальный вопрос
-		- 
+		- [Урок 10. Грамматика](https://youtu.be/47A-Oa_stMI)
+		- [Урок 10. Полезные фразы](https://youtu.be/tm6szX_ebGg)
 		- [Урок 10. Разговорные ситуации](https://youtu.be/IcfhXa4ffNc)
