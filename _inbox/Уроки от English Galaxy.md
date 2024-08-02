@@ -59,3 +59,6 @@ linked:
 		- [Урок 10. Грамматика](https://youtu.be/47A-Oa_stMI)
 		- [Урок 10. Полезные фразы](https://youtu.be/tm6szX_ebGg)
 		- [Урок 10. Разговорные ситуации](https://youtu.be/IcfhXa4ffNc)
+		- [Урок 10. Диалоги](https://youtu.be/2QKJ-oM3QOs)
+	- Урок 11 Past Simple. Простое прошедшее время правильные глаголы
+		- [Урок 11. Грамматика](https://youtu.be/dV_HSUFx3SY)

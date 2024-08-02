@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Прошедшее время",
+      "path": "knowledge/english/Прошедшее время.md"
     },
     {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Выполнение блокирующего кода в реактивном потоке",
@@ -195,10 +199,6 @@
     {
       "basename": "pg_stat_statements",
       "path": "_inbox/pg_stat_statements.md"
-    },
-    {
-      "basename": "Неопределенный артикль",
-      "path": "knowledge/english/Неопределенный артикль.md"
     }
   ],
   "omittedPaths": [],
