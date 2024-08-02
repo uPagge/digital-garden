@@ -62,3 +62,4 @@ linked:
 		- [Урок 10. Диалоги](https://youtu.be/2QKJ-oM3QOs)
 	- Урок 11 Past Simple. Простое прошедшее время правильные глаголы
 		- [Урок 11. Грамматика](https://youtu.be/dV_HSUFx3SY)
+		- [Урок 11. Полезные фразы](https://youtu.be/Qhhbpo_TMvI)
