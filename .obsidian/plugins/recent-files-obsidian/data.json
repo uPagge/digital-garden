@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
-    },
-    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Прошедшее время",
       "path": "knowledge/english/Прошедшее время.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
     },
     {
       "basename": "Выполнение блокирующего кода в реактивном потоке",
