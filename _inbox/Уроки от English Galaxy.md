@@ -64,3 +64,4 @@ linked:
 		- [Урок 11. Грамматика](https://youtu.be/dV_HSUFx3SY)
 		- [Урок 11. Полезные фразы](https://youtu.be/Qhhbpo_TMvI)
 		- [Урок 11. Разговорные ситуации](https://youtu.be/Kj2iz_yajUM)
+		- [Урок 11. Диалоги](https://youtu.be/GFj4QoC4TO8)
