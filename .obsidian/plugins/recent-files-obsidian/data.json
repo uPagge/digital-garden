@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "firewalld",
+      "path": "_inbox/firewalld.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "pg_utils",
       "path": "_inbox/pg_utils.md"
-    },
-    {
-      "basename": "pg_stat_statements",
-      "path": "_inbox/pg_stat_statements.md"
     }
   ],
   "omittedPaths": [],
