@@ -65,3 +65,5 @@ linked:
 		- [Урок 11. Полезные фразы](https://youtu.be/Qhhbpo_TMvI)
 		- [Урок 11. Разговорные ситуации](https://youtu.be/Kj2iz_yajUM)
 		- [Урок 11. Диалоги](https://youtu.be/GFj4QoC4TO8)
+	- Урок 12 Past Simple – неправильные глаголы 1
+		- [Урок 12. Грамматика](https://youtu.be/AYHzdcaWfrw)
