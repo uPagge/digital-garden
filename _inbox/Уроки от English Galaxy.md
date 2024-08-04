@@ -68,3 +68,4 @@ linked:
 	- Урок 12 Past Simple – неправильные глаголы 1
 		- [Урок 12. Грамматика](https://youtu.be/AYHzdcaWfrw)
 		- [Урок 12. Полезные фразы](https://youtu.be/anKedENiIJc)
+		- [Урок 12. Разговорные ситуации](https://youtu.be/-et1NF1Cqgw)
