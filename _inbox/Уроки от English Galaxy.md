@@ -69,4 +69,4 @@ linked:
 		- [Урок 12. Грамматика](https://youtu.be/AYHzdcaWfrw)
 		- [Урок 12. Полезные фразы](https://youtu.be/anKedENiIJc)
 		- [Урок 12. Разговорные ситуации](https://youtu.be/-et1NF1Cqgw)
-		- [Урок 12 Диалоги](https://youtu.be/dFOtcFQegvM)
+		- [Урок 12. Диалоги](https://youtu.be/dFOtcFQegvM)
