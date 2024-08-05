@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/dev/snippet/Удаление .DS_Store из Git репозитория.md",
+      "timestamp": 1722857785471
+    },
+    {
       "filepath": "Home.md",
       "timestamp": 1722839395431
     },

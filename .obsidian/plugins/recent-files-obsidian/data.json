@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Удаление .DS_Store из Git репозитория",
+      "path": "knowledge/dev/snippet/Удаление .DS_Store из Git репозитория.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "00 PostgreSQL",
       "path": "wiki/zero/00 PostgreSQL.md"
-    },
-    {
-      "basename": "pg_utils",
-      "path": "_inbox/pg_utils.md"
     }
   ],
   "omittedPaths": [],
