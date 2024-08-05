@@ -70,3 +70,5 @@ linked:
 		- [Урок 12. Полезные фразы](https://youtu.be/anKedENiIJc)
 		- [Урок 12. Разговорные ситуации](https://youtu.be/-et1NF1Cqgw)
 		- [Урок 12. Диалоги](https://youtu.be/dFOtcFQegvM)
+	- Урок 13 Past Simple – неправильные глаголы 2
+		- [Урок 13. Грамматика](https://youtu.be/dc9GuYACdiQ)
