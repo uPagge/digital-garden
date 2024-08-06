@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Уроки от English Galaxy.md",
+      "timestamp": 1722920655772
+    },
+    {
       "filepath": "knowledge/dev/snippet/Удаление .DS_Store из Git репозитория.md",
       "timestamp": 1722857785471
     },
@@ -34,10 +38,6 @@
     {
       "filepath": "_inbox/Preset Perfect.md",
       "timestamp": 1722839394989
-    },
-    {
-      "filepath": "_inbox/Уроки от English Galaxy.md",
-      "timestamp": 1722833870603
     }
   ],
   "bookmarkedFileStore": [],

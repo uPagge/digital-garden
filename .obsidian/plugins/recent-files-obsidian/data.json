@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Уроки от English Galaxy",
+      "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
       "basename": "Удаление .DS_Store из Git репозитория",
       "path": "knowledge/dev/snippet/Удаление .DS_Store из Git репозитория.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Preset Perfect",
       "path": "_inbox/Preset Perfect.md"
-    },
-    {
-      "basename": "Уроки от English Galaxy",
-      "path": "_inbox/Уроки от English Galaxy.md"
     },
     {
       "basename": "firewalld",

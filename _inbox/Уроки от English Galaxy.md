@@ -72,3 +72,4 @@ linked:
 		- [Урок 12. Диалоги](https://youtu.be/dFOtcFQegvM)
 	- Урок 13 Past Simple – неправильные глаголы 2
 		- [Урок 13. Грамматика](https://youtu.be/dc9GuYACdiQ)
+		- [Урок 13. Полезные фразы](https://youtu.be/FD_Mx_P9ouQ)
