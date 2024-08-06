@@ -73,3 +73,4 @@ linked:
 	- Урок 13 Past Simple – неправильные глаголы 2
 		- [Урок 13. Грамматика](https://youtu.be/dc9GuYACdiQ)
 		- [Урок 13. Полезные фразы](https://youtu.be/FD_Mx_P9ouQ)
+		- [Урок 13. Разговорные ситуации](https://youtu.be/pMNlE60bhHQ)
