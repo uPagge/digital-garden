@@ -75,3 +75,5 @@ linked:
 		- [Урок 13. Полезные фразы](https://youtu.be/FD_Mx_P9ouQ)
 		- [Урок 13. Разговорные ситуации](https://youtu.be/pMNlE60bhHQ)
 		- [Урок 13. Диалоги](https://youtu.be/vtzDn4KxlKs)
+	- Урок 14 Past Simple – didn't
+		- [Урок 14. Грамматика](https://youtu.be/U57cc6Iso98)
