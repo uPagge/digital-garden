@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Без названия 2",
+      "path": "Без названия 2.md"
+    },
+    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "00 HighLoad",
       "path": "wiki/zero/00 HighLoad.md"
-    },
-    {
-      "basename": "00 PostgreSQL",
-      "path": "wiki/zero/00 PostgreSQL.md"
     }
   ],
   "omittedPaths": [],
