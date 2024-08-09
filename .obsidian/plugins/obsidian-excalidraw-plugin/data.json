@@ -93,7 +93,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.12",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.3.0",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -13936,12 +13936,14 @@
             "startBinding": {
               "elementId": "v6Va9v7pPEZlIseg4I5-P",
               "focus": 0.03340258771227226,
-              "gap": 9.092720869612094
+              "gap": 9.092720869612094,
+              "fixedPoint": null
             },
             "endBinding": {
               "elementId": "4v7_zzVP1Dy82NZ-1uOJA",
               "focus": 2.456132592376039,
-              "gap": 8.206444049758204
+              "gap": 8.206444049758204,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -14081,12 +14083,14 @@
             "startBinding": {
               "elementId": "v6Va9v7pPEZlIseg4I5-P",
               "focus": 3.2890502365576073,
-              "gap": 9.417440996672383
+              "gap": 9.417440996672383,
+              "fixedPoint": null
             },
             "endBinding": {
               "elementId": "XvgnFmIr4PMT1Qk0RiI3a",
               "focus": -0.1328247803196256,
-              "gap": 14.942126305195984
+              "gap": 14.942126305195984,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -14214,12 +14218,14 @@
             "startBinding": {
               "elementId": "_TRhwQYRY54mP65DjT5SA",
               "focus": -1.3793878506756339,
-              "gap": 5.390822366955263
+              "gap": 5.390822366955263,
+              "fixedPoint": null
             },
             "endBinding": {
               "elementId": "Toh85IWAiw9HabPMv8s85",
               "gap": 1.355493879007847,
-              "focus": 0.08999325624637074
+              "focus": 0.08999325624637074,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -15657,12 +15663,14 @@
             "startBinding": {
               "elementId": "pox47NS3FC9ABkChfXJMH",
               "focus": 1.5746714835694358,
-              "gap": 9.084720379804452
+              "gap": 9.084720379804452,
+              "fixedPoint": null
             },
             "endBinding": {
               "elementId": "Y9GmviCvklfymeDZK1mZq",
               "gap": 2.4986588812855737,
-              "focus": -0.9714757846993713
+              "focus": -0.9714757846993713,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -15918,7 +15926,8 @@
             "startBinding": {
               "elementId": "6QIcBleuO98WvymKt4gbA",
               "focus": 0.24472012017708752,
-              "gap": 1.0429565441458966
+              "gap": 1.0429565441458966,
+              "fixedPoint": null
             },
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -15969,12 +15978,14 @@
             "startBinding": {
               "elementId": "6QIcBleuO98WvymKt4gbA",
               "focus": -0.05630840266133614,
-              "gap": 1
+              "gap": 1,
+              "fixedPoint": null
             },
             "endBinding": {
               "elementId": "6vQTtRixzyLa3xqqquvtF",
               "focus": 0.05904577717458523,
-              "gap": 1
+              "gap": 1,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -16024,12 +16035,14 @@
             "startBinding": {
               "elementId": "6QIcBleuO98WvymKt4gbA",
               "focus": -0.08869372840676369,
-              "gap": 1
+              "gap": 1,
+              "fixedPoint": null
             },
             "endBinding": {
               "elementId": "-XwvH_bzr33Otu49wlGel",
               "focus": -0.09679793421698195,
-              "gap": 1
+              "gap": 1,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -20474,7 +20487,8 @@
             "endBinding": {
               "elementId": "Oz2gQfIHMdIcUZVB1Tgc3",
               "focus": -0.05142288149570251,
-              "gap": 1.1470503752704282
+              "gap": 1.1470503752704282,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -20567,7 +20581,8 @@
             "endBinding": {
               "elementId": "ofSvxwfYmq_ijeFo0WfhZ",
               "focus": -0.051422881495702594,
-              "gap": 1.14705037527035
+              "gap": 1.14705037527035,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -24537,7 +24552,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "2.2.12",
+  "previousRelease": "2.3.0",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",

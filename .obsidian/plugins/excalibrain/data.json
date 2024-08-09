@@ -292,8 +292,8 @@
     "_inbox/Read committed.md",
     "_inbox/Repeatable read.md",
     "_inbox/Serializable.md",
-    "Home.md",
-    "_inbox/Уроки от English Galaxy.md"
+    "_inbox/Уроки от English Galaxy.md",
+    "Home.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

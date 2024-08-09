@@ -1068,11 +1068,12 @@ async function updateContentIndex(vault, setting, lastSync, regenerate = false) 
   for (let i = 0; i < fileData.length; i += 1e3) {
     const filesGroup = fileData.slice(i, i + 1e3);
     const formData = new FormData();
+    const method = regenerate ? "PUT" : "PATCH";
     filesGroup.forEach((fileItem) => {
       formData.append("files", fileItem.blob, fileItem.path);
     });
-    const response = await fetch(`${setting.khojUrl}/api/v1/index/update?force=${regenerate}&client=obsidian`, {
-      method: "POST",
+    const response = await fetch(`${setting.khojUrl}/api/content?client=obsidian`, {
+      method,
       headers: {
         "Authorization": `Bearer ${setting.khojApiKey}`
       },
@@ -1159,11 +1160,11 @@ ${error}`);
 }
 function getBackendStatusMessage(connectedToServer, userEmail, khojUrl, khojApiKey) {
   if (!khojApiKey && khojUrl === "https://app.khoj.dev")
-    return `\u{1F308} Welcome to Khoj! Get your API key from ${khojUrl}/config#clients and set it in the Khoj plugin settings on Obsidian`;
+    return `\u{1F308} Welcome to Khoj! Get your API key from ${khojUrl}/settings#clients and set it in the Khoj plugin settings on Obsidian`;
   if (!connectedToServer)
     return `\u2757\uFE0FCould not connect to Khoj at ${khojUrl}. Ensure your can access it`;
   else if (!userEmail)
-    return `\u2705 Connected to Khoj. \u2757\uFE0FGet a valid API key from ${khojUrl}/config#clients to log in`;
+    return `\u2705 Connected to Khoj. \u2757\uFE0FGet a valid API key from ${khojUrl}/settings#clients to log in`;
   else if (userEmail === "default@example.com")
     return `\u2705 Signed in to Khoj`;
   else
