@@ -5,6 +5,10 @@
       "path": "_inbox/Уроки от English Galaxy.md"
     },
     {
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Прошедшее время",
       "path": "knowledge/english/Прошедшее время.md"
-    },
-    {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
     },
     {
       "basename": "Выполнение блокирующего кода в реактивном потоке",
