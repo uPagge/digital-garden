@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Руководитель Интегратор",
+      "path": "_inbox/Руководитель Интегратор.md"
+    },
+    {
       "basename": "Типы руководителей по Адизису",
       "path": "_inbox/Типы руководителей по Адизису.md"
+    },
+    {
+      "basename": "Коммуникация сотрудник - управленец",
+      "path": "_inbox/Коммуникация сотрудник - управленец.md"
+    },
+    {
+      "basename": "Коммуникации с людьми",
+      "path": "_inbox/Коммуникации с людьми.md"
     },
     {
       "basename": "Ицхак Адизес",
@@ -37,10 +49,6 @@
       "path": "_inbox/Муда.md"
     },
     {
-      "basename": "Коммуникации с людьми",
-      "path": "_inbox/Коммуникации с людьми.md"
-    },
-    {
       "basename": "Мама я тимлид",
       "path": "source/книги/книготека/Мама я тимлид.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Нормы деловой переписки",
       "path": "_inbox/Нормы деловой переписки.md"
-    },
-    {
-      "basename": "Коммуникация сотрудник - управленец",
-      "path": "_inbox/Коммуникация сотрудник - управленец.md"
     },
     {
       "basename": "Позиция в коммуникации",
@@ -195,10 +199,6 @@
     {
       "basename": "Advanced Message Queuing Protocol",
       "path": "_inbox/Advanced Message Queuing Protocol.md"
-    },
-    {
-      "basename": "Queue",
-      "path": "_inbox/Queue.md"
     }
   ],
   "omittedPaths": [],
