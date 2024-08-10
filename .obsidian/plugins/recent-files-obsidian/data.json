@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Позиция во взаимодействии",
+      "path": "_inbox/Позиция во взаимодействии.md"
+    },
+    {
+      "basename": "Коммуникации с людьми",
+      "path": "_inbox/Коммуникации с людьми.md"
+    },
+    {
+      "basename": "Позиция жерты",
+      "path": "_inbox/Позиция жерты.md"
+    },
+    {
       "basename": "Повышение ЗП",
       "path": "_inbox/Повышение ЗП.md"
+    },
+    {
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
+    },
+    {
+      "basename": "Курс. Introvert. Повышение секреты успешных переговоров",
+      "path": "source/курсы/introvert/Курс. Introvert. Повышение секреты успешных переговоров.md"
+    },
+    {
+      "basename": "2024-08-10 1723280049",
+      "path": "_inbox/2024-08-10 1723280049.md"
+    },
+    {
+      "basename": "Правое полушарие интроверта",
+      "path": "wiki/компании/Правое полушарие интроверта.md"
+    },
+    {
+      "basename": "Косарева Ольга",
+      "path": "wiki/people/Косарева Ольга.md"
+    },
+    {
+      "basename": "Soft Skills",
+      "path": "_inbox/Soft Skills.md"
     },
     {
       "basename": "Индексация ЗП",
@@ -17,28 +53,8 @@
       "path": "wiki/Инфляция в РФ.md"
     },
     {
-      "basename": "Косарева Ольга",
-      "path": "wiki/people/Косарева Ольга.md"
-    },
-    {
-      "basename": "Soft Skills",
-      "path": "_inbox/Soft Skills.md"
-    },
-    {
-      "basename": "Курс. Introvert. Повышение секреты успешных переговоров",
-      "path": "source/курсы/introvert/Курс. Introvert. Повышение секреты успешных переговоров.md"
-    },
-    {
-      "basename": "Правое полушарие интроверта",
-      "path": "wiki/компании/Правое полушарие интроверта.md"
-    },
-    {
       "basename": "OTUS",
       "path": "wiki/компании/OTUS.md"
-    },
-    {
-      "basename": "2024-08-10 1723280049",
-      "path": "_inbox/2024-08-10 1723280049.md"
     },
     {
       "basename": "Не переработано",
@@ -47,10 +63,6 @@
     {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
-    },
-    {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
     },
     {
       "basename": "Home",
@@ -187,18 +199,6 @@
     {
       "basename": "2024-W31",
       "path": "diary/weekly/2024-W31.md"
-    },
-    {
-      "basename": "Ежегодный чекап (Марк)",
-      "path": "home/Ежегодный чекап (Марк).md"
-    },
-    {
-      "basename": "Мое здоровье",
-      "path": "_inbox/Мое здоровье.md"
-    },
-    {
-      "basename": "Ежегодные Анализы Марк 20240427",
-      "path": "home/Обследования/Ежегодные Анализы Марк 20240427.md"
     }
   ],
   "omittedPaths": [],
