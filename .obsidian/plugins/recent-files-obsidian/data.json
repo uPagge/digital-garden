@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Позиция жерты",
-      "path": "_inbox/Позиция жерты.md"
+      "basename": "Позиция гипер-перфекционист",
+      "path": "_inbox/Позиция гипер-перфекционист.md"
     },
     {
       "basename": "Позиция в коммуникации",
       "path": "_inbox/Позиция в коммуникации.md"
+    },
+    {
+      "basename": "Позиция саботажник",
+      "path": "_inbox/Позиция саботажник.md"
+    },
+    {
+      "basename": "Позиция жерты",
+      "path": "_inbox/Позиция жерты.md"
     },
     {
       "basename": "Коммуникации с людьми",
@@ -191,14 +199,6 @@
     {
       "basename": "Preset Perfect Continuous",
       "path": "_inbox/Preset Perfect Continuous.md"
-    },
-    {
-      "basename": "Much Many",
-      "path": "_inbox/Much Many.md"
-    },
-    {
-      "basename": "2024-W31",
-      "path": "diary/weekly/2024-W31.md"
     }
   ],
   "omittedPaths": [],
