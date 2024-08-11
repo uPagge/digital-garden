@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Формы зависимого поведения",
+      "path": "_inbox/Формы зависимого поведения.md"
+    },
+    {
+      "basename": "Трудоголизм",
+      "path": "_inbox/Трудоголизм.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Выполнение блокирующего кода в реактивном потоке",
       "path": "knowledge/dev/java/frameworks/quarkus/Выполнение блокирующего кода в реактивном потоке.md"
-    },
-    {
-      "basename": "00 Kafka",
-      "path": "_inbox/00 Kafka.md"
-    },
-    {
-      "basename": "00 Продуктивность",
-      "path": "wiki/zero/00 Продуктивность.md"
     }
   ],
   "omittedPaths": [],
