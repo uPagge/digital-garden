@@ -5,6 +5,18 @@
       "path": "_inbox/Трудоголизм.md"
     },
     {
+      "basename": "Стресс",
+      "path": "knowledge/human/Стресс.md"
+    },
+    {
+      "basename": "Метод прогрессивной мышечной релаксации",
+      "path": "knowledge/mindfulness/Метод прогрессивной мышечной релаксации.md"
+    },
+    {
+      "basename": "Как эффективно отдыхать?",
+      "path": "knowledge/productivity/Как эффективно отдыхать?.md"
+    },
+    {
       "basename": "Формы зависимого поведения",
       "path": "_inbox/Формы зависимого поведения.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Preset Perfect",
       "path": "_inbox/Preset Perfect.md"
-    },
-    {
-      "basename": "firewalld",
-      "path": "_inbox/firewalld.md"
-    },
-    {
-      "basename": "Прошедшее время",
-      "path": "knowledge/english/Прошедшее время.md"
-    },
-    {
-      "basename": "Выполнение блокирующего кода в реактивном потоке",
-      "path": "knowledge/dev/java/frameworks/quarkus/Выполнение блокирующего кода в реактивном потоке.md"
     }
   ],
   "omittedPaths": [],
