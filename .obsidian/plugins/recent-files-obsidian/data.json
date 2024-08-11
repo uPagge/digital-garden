@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Трудоголизм",
+      "path": "_inbox/Трудоголизм.md"
+    },
+    {
+      "basename": "Установки",
+      "path": "knowledge/human/Установки.md"
+    },
+    {
+      "basename": "Мышление роста",
+      "path": "knowledge/psychology/Мышление роста.md"
+    },
+    {
       "basename": "Самооценка",
       "path": "_inbox/Самооценка.md"
     },
     {
       "basename": "Ментальное здоровье",
       "path": "knowledge/human/Ментальное здоровье.md"
-    },
-    {
-      "basename": "Трудоголизм",
-      "path": "_inbox/Трудоголизм.md"
     },
     {
       "basename": "00 Здоровье",
@@ -191,14 +199,6 @@
     {
       "basename": "Косарева Ольга",
       "path": "wiki/people/Косарева Ольга.md"
-    },
-    {
-      "basename": "Soft Skills",
-      "path": "_inbox/Soft Skills.md"
-    },
-    {
-      "basename": "Заработная плата",
-      "path": "_inbox/Заработная плата.md"
     }
   ],
   "omittedPaths": [],
