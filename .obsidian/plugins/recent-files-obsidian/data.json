@@ -5,12 +5,28 @@
       "path": "_inbox/Подсознательный страх.md"
     },
     {
-      "basename": "Трудоголизм",
-      "path": "_inbox/Трудоголизм.md"
-    },
-    {
       "basename": "Потребность",
       "path": "knowledge/human/Потребность.md"
+    },
+    {
+      "basename": "Страх сцены",
+      "path": "knowledge/psychology/Страх сцены.md"
+    },
+    {
+      "basename": "Страх",
+      "path": "_inbox/Страх.md"
+    },
+    {
+      "basename": "Когнетивно-поведенческая теропия",
+      "path": "knowledge/health/other/Когнетивно-поведенческая теропия.md"
+    },
+    {
+      "basename": "Парадоксальная интенция",
+      "path": "knowledge/psychology/Парадоксальная интенция.md"
+    },
+    {
+      "basename": "Трудоголизм",
+      "path": "_inbox/Трудоголизм.md"
     },
     {
       "basename": "Самооценка",
@@ -183,22 +199,6 @@
     {
       "basename": "Позиция саботажник",
       "path": "_inbox/Позиция саботажник.md"
-    },
-    {
-      "basename": "Позиция жерты",
-      "path": "_inbox/Позиция жерты.md"
-    },
-    {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
-    },
-    {
-      "basename": "Курс. Introvert. Повышение секреты успешных переговоров",
-      "path": "source/курсы/introvert/Курс. Introvert. Повышение секреты успешных переговоров.md"
-    },
-    {
-      "basename": "2024-08-10 1723280049",
-      "path": "_inbox/2024-08-10 1723280049.md"
     }
   ],
   "omittedPaths": [],
