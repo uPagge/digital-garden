@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Ментальное здоровье",
+      "path": "knowledge/human/Ментальное здоровье.md"
+    },
+    {
+      "basename": "00 Здоровье",
+      "path": "wiki/zero/00 Здоровье.md"
+    },
+    {
       "basename": "Трудоголизм",
       "path": "_inbox/Трудоголизм.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "Заработная плата",
       "path": "_inbox/Заработная плата.md"
-    },
-    {
-      "basename": "Инфляция в РФ",
-      "path": "wiki/Инфляция в РФ.md"
-    },
-    {
-      "basename": "OTUS",
-      "path": "wiki/компании/OTUS.md"
-    },
-    {
-      "basename": "Не переработано",
-      "path": "source/Не переработано.md"
     }
   ],
   "omittedPaths": [],
