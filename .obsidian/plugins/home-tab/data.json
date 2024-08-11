@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Страх.md",
+      "timestamp": 1723404406220
+    },
+    {
+      "filepath": "knowledge/human/Потребность.md",
+      "timestamp": 1723404403238
+    },
+    {
       "filepath": "knowledge/psychology/Синдром самозванца.md",
       "timestamp": 1723403941495
     },
@@ -32,16 +40,8 @@
       "timestamp": 1723403931522
     },
     {
-      "filepath": "knowledge/human/Потребность.md",
-      "timestamp": 1723403351045
-    },
-    {
       "filepath": "knowledge/psychology/Страх сцены.md",
       "timestamp": 1723403340539
-    },
-    {
-      "filepath": "_inbox/Страх.md",
-      "timestamp": 1723403306579
     }
   ],
   "bookmarkedFileStore": [],
