@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Трудоголизм.md",
-      "timestamp": 1723359471683
+      "timestamp": 1723359750170
+    },
+    {
+      "filepath": "knowledge/productivity/Многозадачность у человека.md",
+      "timestamp": 1723359748799
+    },
+    {
+      "filepath": "_inbox/Смена контекстов.md",
+      "timestamp": 1723359736839
     },
     {
       "filepath": "knowledge/human/Стресс.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "knowledge/mindfulness/Метод прогрессивной мышечной релаксации.md",
       "timestamp": 1723359370112
-    },
-    {
-      "filepath": "knowledge/productivity/Как эффективно отдыхать?.md",
-      "timestamp": 1723359293090
-    },
-    {
-      "filepath": "_inbox/Формы зависимого поведения.md",
-      "timestamp": 1723359280792
     }
   ],
   "bookmarkedFileStore": [],

@@ -5,6 +5,14 @@
       "path": "_inbox/Трудоголизм.md"
     },
     {
+      "basename": "Многозадачность у человека",
+      "path": "knowledge/productivity/Многозадачность у человека.md"
+    },
+    {
+      "basename": "Смена контекстов",
+      "path": "_inbox/Смена контекстов.md"
+    },
+    {
       "basename": "Стресс",
       "path": "knowledge/human/Стресс.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "Эффективная встреча",
       "path": "_inbox/Эффективная встреча.md"
-    },
-    {
-      "basename": "Смена контекстов",
-      "path": "_inbox/Смена контекстов.md"
     },
     {
       "basename": "Переключение контекста",
@@ -195,10 +199,6 @@
     {
       "basename": "Удаление .DS_Store из Git репозитория",
       "path": "knowledge/dev/snippet/Удаление .DS_Store из Git репозитория.md"
-    },
-    {
-      "basename": "Preset Perfect",
-      "path": "_inbox/Preset Perfect.md"
     }
   ],
   "omittedPaths": [],
