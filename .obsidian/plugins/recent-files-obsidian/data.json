@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Стресс",
+      "path": "knowledge/human/Стресс.md"
+    },
+    {
+      "basename": "Идентичность",
+      "path": "knowledge/human/Идентичность.md"
+    },
+    {
       "basename": "Трудоголизм",
       "path": "_inbox/Трудоголизм.md"
+    },
+    {
+      "basename": "Сон",
+      "path": "knowledge/health/Сон.md"
+    },
+    {
+      "basename": "Кортизол",
+      "path": "knowledge/human/гормоны/Кортизол.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Многозадачность у человека",
@@ -11,10 +31,6 @@
     {
       "basename": "Смена контекстов",
       "path": "_inbox/Смена контекстов.md"
-    },
-    {
-      "basename": "Стресс",
-      "path": "knowledge/human/Стресс.md"
     },
     {
       "basename": "Метод прогрессивной мышечной релаксации",
@@ -27,10 +43,6 @@
     {
       "basename": "Формы зависимого поведения",
       "path": "_inbox/Формы зависимого поведения.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Коммуникации с людьми",
@@ -187,18 +199,6 @@
     {
       "basename": "Не переработано",
       "path": "source/Не переработано.md"
-    },
-    {
-      "basename": "Уроки от English Galaxy",
-      "path": "_inbox/Уроки от English Galaxy.md"
-    },
-    {
-      "basename": "Без названия 2",
-      "path": "Без названия 2.md"
-    },
-    {
-      "basename": "Удаление .DS_Store из Git репозитория",
-      "path": "knowledge/dev/snippet/Удаление .DS_Store из Git репозитория.md"
     }
   ],
   "omittedPaths": [],
