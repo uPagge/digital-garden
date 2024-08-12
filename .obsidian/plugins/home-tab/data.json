@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1723456681714
+    },
+    {
       "filepath": "_inbox/Подсознательный страх.md",
       "timestamp": 1723444249179
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "notes/Эротическая игра в телеграме для пар.md",
       "timestamp": 1723442312867
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1723440851009
     }
   ],
   "bookmarkedFileStore": [],
