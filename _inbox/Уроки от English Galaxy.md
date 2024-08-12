@@ -84,3 +84,4 @@ linked:
 		- [Урок 15. Грамматика](https://youtu.be/8ely4UVwp4s)
 		- [Урок 15. Полезные фразы](https://youtu.be/zEBZFKvLhtA)
 		- [Урок 15. Разговорные ситуации](https://youtu.be/7_7KP6ryD90)
+		- [Урок 15. Диалоги](https://youtu.be/VpFu1nRSZM4)
