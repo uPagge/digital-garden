@@ -85,3 +85,5 @@ linked:
 		- [Урок 15. Полезные фразы](https://youtu.be/zEBZFKvLhtA)
 		- [Урок 15. Разговорные ситуации](https://youtu.be/7_7KP6ryD90)
 		- [Урок 15. Диалоги](https://youtu.be/VpFu1nRSZM4)
+	- Урок 16 Past Simple – специальный вопрос с обычным глаголом
+		- [Урок 16. Грамматика](https://youtu.be/T51J2o050U0)
