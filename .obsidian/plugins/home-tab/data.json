@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/productivity/Как эффективно отдыхать?.md",
+      "timestamp": 1723571905401
+    },
+    {
+      "filepath": "knowledge/human/Усталость.md",
+      "timestamp": 1723571880379
+    },
+    {
       "filepath": "_inbox/Трудоголизм.md",
-      "timestamp": 1723570911104
+      "timestamp": 1723571878739
     },
     {
       "filepath": "_inbox/Самооценка.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Подсознательный страх.md",
       "timestamp": 1723570306085
-    },
-    {
-      "filepath": "_inbox/Бесполезная продуктивность.md",
-      "timestamp": 1723570260509
-    },
-    {
-      "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1723557170729
     }
   ],
   "bookmarkedFileStore": [],
