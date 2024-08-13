@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Локус контроля.md",
+      "timestamp": 1723574638372
+    },
+    {
       "filepath": "knowledge/psychology/Синдром самозванца.md",
-      "timestamp": 1723574313642
+      "timestamp": 1723574598215
+    },
+    {
+      "filepath": "knowledge/education/Эффект Даннинга — Крюгера.md",
+      "timestamp": 1723574597428
+    },
+    {
+      "filepath": "_inbox/Когнитивная ошибка.md",
+      "timestamp": 1723574426219
     },
     {
       "filepath": "source/книги/книготека/Мама я тимлид.md",
       "timestamp": 1723574311306
-    },
-    {
-      "filepath": "knowledge/education/Эффект Даннинга — Крюгера.md",
-      "timestamp": 1723574235328
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1723574218379
-    },
-    {
-      "filepath": "_inbox/Переработки.md",
-      "timestamp": 1723574017701
     }
   ],
   "bookmarkedFileStore": [],

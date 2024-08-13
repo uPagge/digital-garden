@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Локус контроля",
+      "path": "_inbox/Локус контроля.md"
+    },
+    {
       "basename": "Синдром самозванца",
       "path": "knowledge/psychology/Синдром самозванца.md"
     },
     {
-      "basename": "Мама я тимлид",
-      "path": "source/книги/книготека/Мама я тимлид.md"
-    },
-    {
       "basename": "Эффект Даннинга — Крюгера",
       "path": "knowledge/education/Эффект Даннинга — Крюгера.md"
+    },
+    {
+      "basename": "Когнитивная ошибка",
+      "path": "_inbox/Когнитивная ошибка.md"
+    },
+    {
+      "basename": "Мама я тимлид",
+      "path": "source/книги/книготека/Мама я тимлид.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "Позиция персонализатор",
       "path": "_inbox/Позиция персонализатор.md"
-    },
-    {
-      "basename": "Повышение ЗП",
-      "path": "_inbox/Повышение ЗП.md"
-    },
-    {
-      "basename": "Индексация ЗП",
-      "path": "_inbox/Индексация ЗП.md"
     }
   ],
   "omittedPaths": [],
