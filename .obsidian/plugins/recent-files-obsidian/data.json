@@ -5,6 +5,10 @@
       "path": "knowledge/productivity/Как эффективно отдыхать?.md"
     },
     {
+      "basename": "Йога",
+      "path": "knowledge/mindfulness/Йога.md"
+    },
+    {
       "basename": "Усталость",
       "path": "knowledge/human/Усталость.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Эффективная встреча",
       "path": "_inbox/Эффективная встреча.md"
-    },
-    {
-      "basename": "Переключение контекста",
-      "path": "knowledge/dev/pc/Переключение контекста.md"
     }
   ],
   "omittedPaths": [],

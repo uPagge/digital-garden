@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "knowledge/productivity/Как эффективно отдыхать?.md",
-      "timestamp": 1723572215102
+      "timestamp": 1723572444681
+    },
+    {
+      "filepath": "knowledge/mindfulness/Йога.md",
+      "timestamp": 1723572443157
     },
     {
       "filepath": "knowledge/human/Усталость.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Самооценка.md",
       "timestamp": 1723572210377
-    },
-    {
-      "filepath": "wiki/zero/00 Продуктивность.md",
-      "timestamp": 1723572082493
     }
   ],
   "bookmarkedFileStore": [],
