@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Синдром самозванца",
+      "path": "knowledge/psychology/Синдром самозванца.md"
+    },
+    {
+      "basename": "Мама я тимлид",
+      "path": "source/книги/книготека/Мама я тимлид.md"
+    },
+    {
+      "basename": "Эффект Даннинга — Крюгера",
+      "path": "knowledge/education/Эффект Даннинга — Крюгера.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Переработки",
       "path": "_inbox/Переработки.md"
     },
@@ -25,10 +41,6 @@
       "path": "knowledge/human/Усталость.md"
     },
     {
-      "basename": "Синдром самозванца",
-      "path": "knowledge/psychology/Синдром самозванца.md"
-    },
-    {
       "basename": "Йога",
       "path": "knowledge/mindfulness/Йога.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "00 Kafka",
       "path": "_inbox/00 Kafka.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Вопросы для собеседование Java",
@@ -191,14 +199,6 @@
     {
       "basename": "Индексация ЗП",
       "path": "_inbox/Индексация ЗП.md"
-    },
-    {
-      "basename": "Переговоры",
-      "path": "_inbox/Переговоры.md"
-    },
-    {
-      "basename": "Ицхак Адизес",
-      "path": "wiki/people/Ицхак Адизес.md"
     }
   ],
   "omittedPaths": [],
