@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Трудоголизм.md",
+      "timestamp": 1723558720258
+    },
+    {
+      "filepath": "_inbox/Подсознательный страх.md",
+      "timestamp": 1723558718449
+    },
+    {
       "filepath": "_inbox/00 Kafka.md",
       "timestamp": 1723557170729
     },
@@ -34,10 +42,6 @@
     {
       "filepath": "notes/Собеседования/Вопросы для собеседование Java.md",
       "timestamp": 1723541906353
-    },
-    {
-      "filepath": "notes/Собеседования/Задачи/Задача 9.md",
-      "timestamp": 1723541500130
     }
   ],
   "bookmarkedFileStore": [],
