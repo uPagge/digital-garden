@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Самооценка.md",
+      "timestamp": 1723570334478
+    },
+    {
       "filepath": "_inbox/Трудоголизм.md",
-      "timestamp": 1723570075188
+      "timestamp": 1723570322345
     },
     {
       "filepath": "_inbox/Подсознательный страх.md",
-      "timestamp": 1723569322737
+      "timestamp": 1723570306085
+    },
+    {
+      "filepath": "_inbox/Бесполезная продуктивность.md",
+      "timestamp": 1723570260509
     },
     {
       "filepath": "_inbox/00 Kafka.md",
       "timestamp": 1723557170729
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1723541908585
-    },
-    {
-      "filepath": "notes/Собеседования/Вопросы для собеседование Java.md",
-      "timestamp": 1723541906353
     }
   ],
   "bookmarkedFileStore": [],

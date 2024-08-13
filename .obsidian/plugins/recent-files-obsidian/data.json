@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Самооценка",
+      "path": "_inbox/Самооценка.md"
+    },
+    {
       "basename": "Трудоголизм",
       "path": "_inbox/Трудоголизм.md"
     },
     {
       "basename": "Подсознательный страх",
       "path": "_inbox/Подсознательный страх.md"
+    },
+    {
+      "basename": "Бесполезная продуктивность",
+      "path": "_inbox/Бесполезная продуктивность.md"
     },
     {
       "basename": "00 Kafka",
@@ -63,10 +71,6 @@
     {
       "basename": "Парадоксальная интенция",
       "path": "knowledge/psychology/Парадоксальная интенция.md"
-    },
-    {
-      "basename": "Самооценка",
-      "path": "_inbox/Самооценка.md"
     },
     {
       "basename": "Установки",
@@ -195,10 +199,6 @@
     {
       "basename": "Фиксированное мышление",
       "path": "knowledge/psychology/Фиксированное мышление.md"
-    },
-    {
-      "basename": "Муда",
-      "path": "_inbox/Муда.md"
     }
   ],
   "omittedPaths": [],
