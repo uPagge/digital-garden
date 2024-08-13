@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Как эффективно отдыхать?",
-      "path": "knowledge/productivity/Как эффективно отдыхать?.md"
+      "basename": "Переработки",
+      "path": "_inbox/Переработки.md"
+    },
+    {
+      "basename": "Перфекционизм",
+      "path": "knowledge/human/Перфекционизм.md"
     },
     {
       "basename": "Трудоголизм",
       "path": "_inbox/Трудоголизм.md"
+    },
+    {
+      "basename": "Как эффективно отдыхать?",
+      "path": "knowledge/productivity/Как эффективно отдыхать?.md"
     },
     {
       "basename": "Подсознательный страх",
@@ -191,14 +199,6 @@
     {
       "basename": "Ицхак Адизес",
       "path": "wiki/people/Ицхак Адизес.md"
-    },
-    {
-      "basename": "Эффективная коммуникация",
-      "path": "_inbox/Эффективная коммуникация.md"
-    },
-    {
-      "basename": "Эффективная встреча",
-      "path": "_inbox/Эффективная встреча.md"
     }
   ],
   "omittedPaths": [],
