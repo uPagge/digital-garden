@@ -90,3 +90,5 @@ linked:
 		- [Урок 16. Полезные фразы](https://youtu.be/s_3geFTM-j8)
 		- [Урок 16. Разговорные ситуации](https://youtu.be/CVgDYHbW1x8)
 		- [Урок 16. Диалоги](https://youtu.be/w1OkkRpgjOE)
+	- Урок 17 Past Simple – was / were
+		- [Урок 17. Грамматика](https://youtu.be/ijJmnc0JWyk)
