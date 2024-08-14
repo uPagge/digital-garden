@@ -88,3 +88,4 @@ linked:
 	- Урок 16 Past Simple – специальный вопрос с обычным глаголом
 		- [Урок 16. Грамматика](https://youtu.be/T51J2o050U0)
 		- [Урок 16. Полезные фразы](https://youtu.be/s_3geFTM-j8)
+		- [Урок 16. Разговорные ситуации](https://youtu.be/CVgDYHbW1x8)
