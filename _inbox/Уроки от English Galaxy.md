@@ -93,3 +93,4 @@ linked:
 	- Урок 17 Past Simple – was / were
 		- [Урок 17. Грамматика](https://youtu.be/ijJmnc0JWyk)
 		- [Урок 17. Полезные фразы](https://youtu.be/_VsQl6An_54)
+		- [Урок 17. Разговорные ситуации](https://youtu.be/7MwqYp6wQ_8)
