@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Work-life balance",
-      "path": "_inbox/Work-life balance.md"
+      "basename": "Смена работы",
+      "path": "_inbox/Смена работы.md"
     },
     {
-      "basename": "Работа",
-      "path": "_inbox/Работа.md"
+      "basename": "Повышение ЗП",
+      "path": "_inbox/Повышение ЗП.md"
     },
     {
       "basename": "Трудоголизм",
       "path": "_inbox/Трудоголизм.md"
     },
     {
-      "basename": "Смена работы",
-      "path": "_inbox/Смена работы.md"
+      "basename": "Переработки",
+      "path": "_inbox/Переработки.md"
     },
     {
-      "basename": "Руководитель",
-      "path": "_inbox/Руководитель.md"
+      "basename": "Work-life balance",
+      "path": "_inbox/Work-life balance.md"
     },
     {
       "basename": "Начальник",
       "path": "_inbox/Начальник.md"
     },
     {
-      "basename": "Повышение ЗП",
-      "path": "_inbox/Повышение ЗП.md"
+      "basename": "Руководитель",
+      "path": "_inbox/Руководитель.md"
+    },
+    {
+      "basename": "Индексация ЗП",
+      "path": "_inbox/Индексация ЗП.md"
+    },
+    {
+      "basename": "00 Работа",
+      "path": "_inbox/00 Работа.md"
     },
     {
       "basename": "Коммуникация сотрудник - управленец",
@@ -121,10 +129,6 @@
       "path": "source/книги/книготека/Мама я тимлид.md"
     },
     {
-      "basename": "Переработки",
-      "path": "_inbox/Переработки.md"
-    },
-    {
       "basename": "Как эффективно отдыхать?",
       "path": "knowledge/productivity/Как эффективно отдыхать?.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Парадоксальная интенция",
       "path": "knowledge/psychology/Парадоксальная интенция.md"
-    },
-    {
-      "basename": "Установки",
-      "path": "knowledge/human/Установки.md"
     }
   ],
   "omittedPaths": [],

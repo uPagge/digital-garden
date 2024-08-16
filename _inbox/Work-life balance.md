@@ -2,8 +2,10 @@
 aliases: 
 tags:
   - зрелость/🌱
-date: [[2024-08-16]]
-zero-link: 
+date:
+  - - 2024-08-16
+zero-link:
+  - "[[00 Работа]]"
 parents: 
 linked:
 ---
