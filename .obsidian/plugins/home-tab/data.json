@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1723833807681
+    },
+    {
+      "filepath": "_inbox/Желчнокаменная болезнь.md",
+      "timestamp": 1723833807131
+    },
+    {
+      "filepath": "knowledge/health/болезни/Гемохроматоз.md",
+      "timestamp": 1723833806620
+    },
+    {
       "filepath": "home/Результаты генетического теста.md",
       "timestamp": 1723811549633
     },
     {
-      "filepath": "knowledge/health/болезни/Гемохроматоз.md",
-      "timestamp": 1723811438520
-    },
-    {
-      "filepath": "_inbox/Желчнокаменная болезнь.md",
-      "timestamp": 1723810873107
-    },
-    {
       "filepath": "knowledge/health/питание/Ожирение.md",
       "timestamp": 1723810403584
-    },
-    {
-      "filepath": "meta/templates/Болезнь.md",
-      "timestamp": 1723810163636
     }
   ],
   "bookmarkedFileStore": [],
