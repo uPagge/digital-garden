@@ -9,6 +9,10 @@
       "path": "_inbox/Повышение ЗП.md"
     },
     {
+      "basename": "Exit-интервью",
+      "path": "_inbox/Exit-интервью.md"
+    },
+    {
       "basename": "Трудоголизм",
       "path": "_inbox/Трудоголизм.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Когнетивно-поведенческая теропия",
       "path": "knowledge/health/other/Когнетивно-поведенческая теропия.md"
-    },
-    {
-      "basename": "Парадоксальная интенция",
-      "path": "knowledge/psychology/Парадоксальная интенция.md"
     }
   ],
   "omittedPaths": [],
