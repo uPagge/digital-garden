@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Work-life balance",
+      "path": "_inbox/Work-life balance.md"
+    },
+    {
+      "basename": "Работа",
+      "path": "_inbox/Работа.md"
+    },
+    {
       "basename": "Трудоголизм",
       "path": "_inbox/Трудоголизм.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Установки",
       "path": "knowledge/human/Установки.md"
-    },
-    {
-      "basename": "Мышление роста",
-      "path": "knowledge/psychology/Мышление роста.md"
-    },
-    {
-      "basename": "Ментальное здоровье",
-      "path": "knowledge/human/Ментальное здоровье.md"
     }
   ],
   "omittedPaths": [],
