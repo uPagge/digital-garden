@@ -25,19 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Гипотиреоз.md",
-      "timestamp": 1723809620158
+      "timestamp": 1723810021206
     },
     {
       "filepath": "home/Результаты генетического теста.md",
-      "timestamp": 1723809578299
+      "timestamp": 1723810019003
+    },
+    {
+      "filepath": "meta/templates/Болезнь.md",
+      "timestamp": 1723810012785
+    },
+    {
+      "filepath": "knowledge/health/питание/Ожирение.md",
+      "timestamp": 1723810004887
     },
     {
       "filepath": "Home.md",
       "timestamp": 1723793040367
-    },
-    {
-      "filepath": "_inbox/Составные индексы в БД.md",
-      "timestamp": 1723793039050
     }
   ],
   "bookmarkedFileStore": [],
