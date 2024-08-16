@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Смена работы",
+      "path": "_inbox/Смена работы.md"
+    },
+    {
+      "basename": "Пирамида Маслоу",
+      "path": "_inbox/Пирамида Маслоу.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Смена контекстов",
       "path": "_inbox/Смена контекстов.md"
-    },
-    {
-      "basename": "Метод прогрессивной мышечной релаксации",
-      "path": "knowledge/mindfulness/Метод прогрессивной мышечной релаксации.md"
-    },
-    {
-      "basename": "Формы зависимого поведения",
-      "path": "_inbox/Формы зависимого поведения.md"
     }
   ],
   "omittedPaths": [],
