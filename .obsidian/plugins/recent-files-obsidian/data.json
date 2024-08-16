@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Руководитель",
+      "path": "_inbox/Руководитель.md"
+    },
+    {
+      "basename": "Коммуникация сотрудник - управленец",
+      "path": "_inbox/Коммуникация сотрудник - управленец.md"
+    },
+    {
+      "basename": "Деловые коммуникации",
+      "path": "_inbox/Деловые коммуникации.md"
+    },
+    {
+      "basename": "Типы руководителей по Адизису",
+      "path": "_inbox/Типы руководителей по Адизису.md"
+    },
+    {
+      "basename": "Руководитель Интегратор",
+      "path": "_inbox/Руководитель Интегратор.md"
+    },
+    {
       "basename": "Смена работы",
       "path": "_inbox/Смена работы.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Стресс",
       "path": "knowledge/human/Стресс.md"
-    },
-    {
-      "basename": "Идентичность",
-      "path": "knowledge/human/Идентичность.md"
-    },
-    {
-      "basename": "Сон",
-      "path": "knowledge/health/Сон.md"
-    },
-    {
-      "basename": "Кортизол",
-      "path": "knowledge/human/гормоны/Кортизол.md"
-    },
-    {
-      "basename": "Многозадачность у человека",
-      "path": "knowledge/productivity/Многозадачность у человека.md"
-    },
-    {
-      "basename": "Смена контекстов",
-      "path": "_inbox/Смена контекстов.md"
     }
   ],
   "omittedPaths": [],
