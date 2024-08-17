@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Как выбрать оффер",
+      "path": "Как выбрать оффер.md"
+    },
+    {
       "basename": "Поиск новой работы",
       "path": "_inbox/Поиск новой работы.md"
+    },
+    {
+      "basename": "Оффер",
+      "path": "_inbox/Оффер.md"
     },
     {
       "basename": "Вопросы работодателю",
@@ -11,10 +19,6 @@
     {
       "basename": "Увольнение с работы",
       "path": "_inbox/Увольнение с работы.md"
-    },
-    {
-      "basename": "Оффер",
-      "path": "_inbox/Оффер.md"
     },
     {
       "basename": "Повышение ЗП",
@@ -195,10 +199,6 @@
     {
       "basename": "Йога",
       "path": "knowledge/mindfulness/Йога.md"
-    },
-    {
-      "basename": "Самооценка",
-      "path": "_inbox/Самооценка.md"
     }
   ],
   "omittedPaths": [],
