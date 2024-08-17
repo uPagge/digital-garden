@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Моя оценка на рынке труда.md",
-      "timestamp": 1723923150751
+      "timestamp": 1723923993210
+    },
+    {
+      "filepath": "meta/files/Pasted image 20240817224606.png",
+      "timestamp": 1723923991618
     },
     {
       "filepath": "_inbox/Заработная плата.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Как понять, сколько вы стоите на рынке труда.md",
       "timestamp": 1723922714478
-    },
-    {
-      "filepath": "_inbox/Повышение ЗП.md",
-      "timestamp": 1723922707424
     }
   ],
   "bookmarkedFileStore": [],

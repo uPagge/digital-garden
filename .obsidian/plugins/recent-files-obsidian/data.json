@@ -5,6 +5,10 @@
       "path": "_inbox/Моя оценка на рынке труда.md"
     },
     {
+      "basename": "Pasted image 20240817224606",
+      "path": "meta/files/Pasted image 20240817224606.png"
+    },
+    {
       "basename": "Заработная плата",
       "path": "_inbox/Заработная плата.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "00 Продуктивность",
       "path": "wiki/zero/00 Продуктивность.md"
-    },
-    {
-      "basename": "Бесполезная продуктивность",
-      "path": "_inbox/Бесполезная продуктивность.md"
     }
   ],
   "omittedPaths": [],
