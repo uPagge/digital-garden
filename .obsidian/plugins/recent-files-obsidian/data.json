@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Увольнение с работы",
-      "path": "_inbox/Увольнение с работы.md"
+      "basename": "Выход на новую работу",
+      "path": "_inbox/Выход на новую работу.md"
     },
     {
-      "basename": "Контроффер",
-      "path": "_inbox/Контроффер.md"
+      "basename": "Обратная связь",
+      "path": "knowledge/education/Обратная связь.md"
+    },
+    {
+      "basename": "Поиск новой работы",
+      "path": "_inbox/Поиск новой работы.md"
     },
     {
       "basename": "Как выбрать оффер",
@@ -21,12 +25,16 @@
       "path": "_inbox/Повышение ЗП.md"
     },
     {
-      "basename": "Оффер",
-      "path": "_inbox/Оффер.md"
+      "basename": "Увольнение с работы",
+      "path": "_inbox/Увольнение с работы.md"
     },
     {
-      "basename": "Поиск новой работы",
-      "path": "_inbox/Поиск новой работы.md"
+      "basename": "Контроффер",
+      "path": "_inbox/Контроффер.md"
+    },
+    {
+      "basename": "Оффер",
+      "path": "_inbox/Оффер.md"
     },
     {
       "basename": "Вопросы работодателю",
@@ -191,14 +199,6 @@
     {
       "basename": "Мама я тимлид",
       "path": "source/книги/книготека/Мама я тимлид.md"
-    },
-    {
-      "basename": "Как эффективно отдыхать?",
-      "path": "knowledge/productivity/Как эффективно отдыхать?.md"
-    },
-    {
-      "basename": "Подсознательный страх",
-      "path": "_inbox/Подсознательный страх.md"
     }
   ],
   "omittedPaths": [],
