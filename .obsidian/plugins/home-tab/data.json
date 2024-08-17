@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Поиск новой работы.md",
+      "timestamp": 1723898597820
+    },
+    {
       "filepath": "_inbox/Смена работы.md",
-      "timestamp": 1723897760387
+      "timestamp": 1723898573027
+    },
+    {
+      "filepath": "_inbox/Повышение ЗП.md",
+      "timestamp": 1723898427684
     },
     {
       "filepath": "_inbox/Exit-интервью.md",
@@ -34,10 +42,6 @@
     {
       "filepath": "_inbox/Уроки от English Galaxy.md",
       "timestamp": 1723878504983
-    },
-    {
-      "filepath": "_inbox/Повышение ЗП.md",
-      "timestamp": 1723837280906
     }
   ],
   "bookmarkedFileStore": [],
