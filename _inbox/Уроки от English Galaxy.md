@@ -95,3 +95,5 @@ linked:
 		- [Урок 17. Полезные фразы](https://youtu.be/_VsQl6An_54)
 		- [Урок 17. Разговорные ситуации](https://youtu.be/7MwqYp6wQ_8)
 		- [Урок 17. Диалоги](https://youtu.be/aV2r2Z_cxVM)
+	- Урок 18 Future Simple. Простое будущее время утверждение
+		- [Урок 18. Грамматика](https://youtu.be/y9mH1VpzzAA)
