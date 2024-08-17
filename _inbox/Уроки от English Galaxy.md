@@ -97,3 +97,4 @@ linked:
 		- [Урок 17. Диалоги](https://youtu.be/aV2r2Z_cxVM)
 	- Урок 18 Future Simple. Простое будущее время утверждение
 		- [Урок 18. Грамматика](https://youtu.be/y9mH1VpzzAA)
+		- [Урок 18. Полезные фразы](https://youtu.be/fxycakR4Fyo)
