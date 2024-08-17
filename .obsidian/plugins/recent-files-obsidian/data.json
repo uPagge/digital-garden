@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Как понять, сколько вы стоите на рынке труда",
+      "path": "_inbox/Как понять, сколько вы стоите на рынке труда.md"
+    },
+    {
       "basename": "Поиск новой работы",
       "path": "_inbox/Поиск новой работы.md"
     },
     {
-      "basename": "Смена работы",
-      "path": "_inbox/Смена работы.md"
+      "basename": "Оффер",
+      "path": "_inbox/Оффер.md"
     },
     {
       "basename": "Повышение ЗП",
       "path": "_inbox/Повышение ЗП.md"
+    },
+    {
+      "basename": "Смена работы",
+      "path": "_inbox/Смена работы.md"
     },
     {
       "basename": "Exit-интервью",
@@ -191,14 +199,6 @@
     {
       "basename": "Страх",
       "path": "_inbox/Страх.md"
-    },
-    {
-      "basename": "Потребность",
-      "path": "knowledge/human/Потребность.md"
-    },
-    {
-      "basename": "Страх сцены",
-      "path": "knowledge/psychology/Страх сцены.md"
     }
   ],
   "omittedPaths": [],
