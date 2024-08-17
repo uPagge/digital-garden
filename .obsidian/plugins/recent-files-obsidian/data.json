@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Переговоры",
+      "path": "_inbox/Переговоры.md"
+    },
+    {
       "basename": "Поиск новой работы",
       "path": "_inbox/Поиск новой работы.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Самооценка",
       "path": "_inbox/Самооценка.md"
-    },
-    {
-      "basename": "00 Продуктивность",
-      "path": "wiki/zero/00 Продуктивность.md"
     }
   ],
   "omittedPaths": [],
