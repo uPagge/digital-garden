@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Диагностика HDD c использованием S.M.A.R.T.",
+      "path": "_inbox/Диагностика HDD c использованием S.M.A.R.T..md"
+    },
+    {
+      "basename": "Переговоры",
+      "path": "_inbox/Переговоры.md"
+    },
+    {
       "basename": "Поиск новой работы",
       "path": "_inbox/Поиск новой работы.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Оффер",
       "path": "_inbox/Оффер.md"
-    },
-    {
-      "basename": "Переговоры",
-      "path": "_inbox/Переговоры.md"
     },
     {
       "basename": "Как понять, сколько вы стоите на рынке труда",
@@ -195,10 +199,6 @@
     {
       "basename": "Эффект Даннинга — Крюгера",
       "path": "knowledge/education/Эффект Даннинга — Крюгера.md"
-    },
-    {
-      "basename": "Перфекционизм",
-      "path": "knowledge/human/Перфекционизм.md"
     }
   ],
   "omittedPaths": [],
