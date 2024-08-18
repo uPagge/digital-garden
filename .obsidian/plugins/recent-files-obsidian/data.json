@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Собеседование на работу",
-      "path": "_inbox/Собеседование на работу.md"
+      "basename": "Система STAR",
+      "path": "_inbox/Система STAR.md"
+    },
+    {
+      "basename": "Самопрезентация",
+      "path": "_inbox/Самопрезентация.md"
     },
     {
       "basename": "Поиск новой работы",
       "path": "_inbox/Поиск новой работы.md"
     },
     {
-      "basename": "Самопрезентация",
-      "path": "_inbox/Самопрезентация.md"
+      "basename": "Собеседование на работу",
+      "path": "_inbox/Собеседование на работу.md"
     },
     {
       "basename": "Вопросы для собеседование Java",
@@ -195,10 +199,6 @@
     {
       "basename": "Слабый ученик",
       "path": "knowledge/training/Слабый ученик.md"
-    },
-    {
-      "basename": "Локус контроля",
-      "path": "_inbox/Локус контроля.md"
     }
   ],
   "omittedPaths": [],
