@@ -5,6 +5,10 @@
       "path": "_inbox/Поиск новой работы.md"
     },
     {
+      "basename": "Проект",
+      "path": "knowledge/productivity/Проект.md"
+    },
+    {
       "basename": "Самопрезентация",
       "path": "_inbox/Самопрезентация.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Синдром самозванца",
       "path": "knowledge/psychology/Синдром самозванца.md"
-    },
-    {
-      "basename": "Потворствующая гиперпротекция",
-      "path": "_inbox/Потворствующая гиперпротекция.md"
     }
   ],
   "omittedPaths": [],

@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Поиск новой работы.md",
-      "timestamp": 1724000214143
+      "timestamp": 1724000306092
+    },
+    {
+      "filepath": "knowledge/productivity/Проект.md",
+      "timestamp": 1724000301885
     },
     {
       "filepath": "_inbox/Самопрезентация.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Скрининг.md",
       "timestamp": 1723972367237
-    },
-    {
-      "filepath": "_inbox/Собеседование на работу с нанимателем.md",
-      "timestamp": 1723971292486
     }
   ],
   "bookmarkedFileStore": [],
