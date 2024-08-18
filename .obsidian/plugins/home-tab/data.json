@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1723972368889
+    },
+    {
+      "filepath": "_inbox/Скрининг.md",
+      "timestamp": 1723972367237
+    },
+    {
+      "filepath": "_inbox/Поиск новой работы.md",
+      "timestamp": 1723972366358
+    },
+    {
       "filepath": "_inbox/Собеседование на работу с нанимателем.md",
       "timestamp": 1723971292486
     },
     {
       "filepath": "notes/Собеседования/Вопросы работодателю.md",
       "timestamp": 1723971172402
-    },
-    {
-      "filepath": "_inbox/Собеседование на работу с HR.md",
-      "timestamp": 1723971118185
-    },
-    {
-      "filepath": "_inbox/Поиск новой работы.md",
-      "timestamp": 1723970697805
-    },
-    {
-      "filepath": "_inbox/Самопрезентация.md",
-      "timestamp": 1723970453190
     }
   ],
   "bookmarkedFileStore": [],
