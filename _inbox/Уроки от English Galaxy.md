@@ -100,4 +100,5 @@ linked:
 		- [Урок 18. Полезные фразы](https://youtu.be/fxycakR4Fyo)
 		- [Урок 18. Разговорные ситуации](https://youtu.be/jKYxthUGqWg)
 		- [Урок 18. Диалоги](https://youtu.be/H0r2kvYPypc)
-	- 
+	- Урок 19 Future Simple – отрицание
+		- [Урок 19. Грамматика](https://youtu.be/MYiYasAf7Ck)
