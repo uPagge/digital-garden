@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1724049146267
+    },
+    {
       "filepath": "_inbox/Выравниваем стены сухим способом.md",
       "timestamp": 1724048208021
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
       "timestamp": 1724047932682
-    },
-    {
-      "filepath": "wiki/zero/00 Ремонт.md",
-      "timestamp": 1724047794321
     }
   ],
   "bookmarkedFileStore": [],

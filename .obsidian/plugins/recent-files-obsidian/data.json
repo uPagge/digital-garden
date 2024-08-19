@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Выравниваем стены сухим способом",
       "path": "_inbox/Выравниваем стены сухим способом.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Поиск новой работы",
