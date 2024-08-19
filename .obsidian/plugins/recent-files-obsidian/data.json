@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-19 1724063500",
+      "path": "_inbox/2024-08-19 1724063500.md"
+    },
+    {
+      "basename": "Обработка сообщений в RabbitMQ",
+      "path": "Обработка сообщений в RabbitMQ.md"
+    },
+    {
       "basename": "00 RabbitMQ",
       "path": "_inbox/00 RabbitMQ.md"
+    },
+    {
+      "basename": "Exchange Topics",
+      "path": "_inbox/Exchange Topics.md"
+    },
+    {
+      "basename": "Exchange",
+      "path": "_inbox/Exchange.md"
+    },
+    {
+      "basename": "Exchange Direct",
+      "path": "_inbox/Exchange Direct.md"
+    },
+    {
+      "basename": "Репликация",
+      "path": "_inbox/Репликация.md"
+    },
+    {
+      "basename": "Exchange Fanout",
+      "path": "_inbox/Exchange Fanout.md"
+    },
+    {
+      "basename": "Queue",
+      "path": "_inbox/Queue.md"
     },
     {
       "basename": "Событийно-ориентированное программирование",
@@ -167,38 +199,6 @@
     {
       "basename": "Pasted image 20240817224606",
       "path": "meta/files/Pasted image 20240817224606.png"
-    },
-    {
-      "basename": "Заработная плата",
-      "path": "_inbox/Заработная плата.md"
-    },
-    {
-      "basename": "00 Работа",
-      "path": "_inbox/00 Работа.md"
-    },
-    {
-      "basename": "Мой комфорт на работе",
-      "path": "_inbox/Мой комфорт на работе.md"
-    },
-    {
-      "basename": "2024-08-17 1723916479",
-      "path": "_inbox/2024-08-17 1723916479.md"
-    },
-    {
-      "basename": "Без названия 3",
-      "path": "Без названия 3.md"
-    },
-    {
-      "basename": "Индексация ЗП",
-      "path": "_inbox/Индексация ЗП.md"
-    },
-    {
-      "basename": "Exit-интервью",
-      "path": "_inbox/Exit-интервью.md"
-    },
-    {
-      "basename": "Трудоголизм",
-      "path": "_inbox/Трудоголизм.md"
     }
   ],
   "omittedPaths": [],

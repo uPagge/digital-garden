@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/2024-08-19 1724063500.md",
+      "timestamp": 1724063500085
+    },
+    {
+      "filepath": "Обработка сообщений в RabbitMQ.md",
+      "timestamp": 1724063480400
+    },
+    {
       "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1724063056651
+      "timestamp": 1724063457071
     },
     {
-      "filepath": "_inbox/Событийно-ориентированное программирование.md",
-      "timestamp": 1724062926218
+      "filepath": "_inbox/Exchange Topics.md",
+      "timestamp": 1724063454382
     },
     {
-      "filepath": "_inbox/Моя оценка на рынке труда.md",
-      "timestamp": 1724049895596
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1724049891685
-    },
-    {
-      "filepath": "_inbox/Как понять, сколько вы стоите на рынке труда.md",
-      "timestamp": 1724049889572
+      "filepath": "_inbox/Exchange.md",
+      "timestamp": 1724063448750
     }
   ],
   "bookmarkedFileStore": [],
