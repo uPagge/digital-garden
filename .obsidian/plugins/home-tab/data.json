@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Моя оценка на рынке труда.md",
+      "timestamp": 1724064701648
+    },
+    {
+      "filepath": "_inbox/Queue.md",
+      "timestamp": 1724064700322
+    },
+    {
+      "filepath": "_inbox/Exchange.md",
+      "timestamp": 1724064539421
+    },
+    {
       "filepath": "_inbox/Варианты взаимодействия.md",
       "timestamp": 1724063984968
     },
     {
-      "filepath": "_inbox/Exchange.md",
-      "timestamp": 1724063983222
-    },
-    {
       "filepath": "_inbox/Exchange Headers.md",
       "timestamp": 1724063966699
-    },
-    {
-      "filepath": "_inbox/Exchange Topics.md",
-      "timestamp": 1724063920569
-    },
-    {
-      "filepath": "_inbox/Exchange Fanout.md",
-      "timestamp": 1724063905799
     }
   ],
   "bookmarkedFileStore": [],

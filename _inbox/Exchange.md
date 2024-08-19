@@ -9,7 +9,9 @@ zero-link:
 parents: []
 linked: 
 ---
-Exchange получает messages от producer и отправляет его в [Queue](Queue.md). Он решает в какую [Queue](Queue.md) будет помещено message.
+Сообщения публикуются в очередь не напрямую. Вместо этого Producer отправляет сообщение в Exchange, который отвечает за перенаправление его в нужную [Queue](Queue.md).
+
+![600](Pasted%20image%2020240819134918.png)
 
 Типы Exchange:
 - [direct](Exchange%20Direct.md)
