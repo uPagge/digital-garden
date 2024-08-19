@@ -99,3 +99,5 @@ linked:
 		- [Урок 18. Грамматика](https://youtu.be/y9mH1VpzzAA)
 		- [Урок 18. Полезные фразы](https://youtu.be/fxycakR4Fyo)
 		- [Урок 18. Разговорные ситуации](https://youtu.be/jKYxthUGqWg)
+		- [Урок 18. Диалоги](https://youtu.be/H0r2kvYPypc)
+	- 
