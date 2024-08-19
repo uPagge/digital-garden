@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Выравниваем стены сухим способом",
+      "path": "_inbox/Выравниваем стены сухим способом.md"
+    },
+    {
+      "basename": "Ремонт стен",
+      "path": "_inbox/Ремонт стен.md"
+    },
+    {
       "basename": "Выравниваем стены мокрым способом",
       "path": "_inbox/Выравниваем стены мокрым способом.md"
     },
     {
       "basename": "Идеи для ремонта",
       "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
-    },
-    {
-      "basename": "Ремонт стен",
-      "path": "_inbox/Ремонт стен.md"
     },
     {
       "basename": "00 Ремонт",
@@ -195,10 +199,6 @@
     {
       "basename": "Work-life balance",
       "path": "_inbox/Work-life balance.md"
-    },
-    {
-      "basename": "Начальник",
-      "path": "_inbox/Начальник.md"
     }
   ],
   "omittedPaths": [],
