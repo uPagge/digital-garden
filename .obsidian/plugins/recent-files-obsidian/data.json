@@ -5,6 +5,26 @@
       "path": "_inbox/Варианты взаимодействия.md"
     },
     {
+      "basename": "Exchange",
+      "path": "_inbox/Exchange.md"
+    },
+    {
+      "basename": "Exchange Headers",
+      "path": "_inbox/Exchange Headers.md"
+    },
+    {
+      "basename": "Exchange Topics",
+      "path": "_inbox/Exchange Topics.md"
+    },
+    {
+      "basename": "Exchange Fanout",
+      "path": "_inbox/Exchange Fanout.md"
+    },
+    {
+      "basename": "Exchange Direct",
+      "path": "_inbox/Exchange Direct.md"
+    },
+    {
       "basename": "Queue",
       "path": "_inbox/Queue.md"
     },
@@ -17,24 +37,8 @@
       "path": "_inbox/00 RabbitMQ.md"
     },
     {
-      "basename": "Exchange Topics",
-      "path": "_inbox/Exchange Topics.md"
-    },
-    {
-      "basename": "Exchange",
-      "path": "_inbox/Exchange.md"
-    },
-    {
-      "basename": "Exchange Direct",
-      "path": "_inbox/Exchange Direct.md"
-    },
-    {
       "basename": "Репликация",
       "path": "_inbox/Репликация.md"
-    },
-    {
-      "basename": "Exchange Fanout",
-      "path": "_inbox/Exchange Fanout.md"
     },
     {
       "basename": "Событийно-ориентированное программирование",
@@ -195,10 +199,6 @@
     {
       "basename": "Оффер",
       "path": "_inbox/Оффер.md"
-    },
-    {
-      "basename": "Pasted image 20240817224606",
-      "path": "meta/files/Pasted image 20240817224606.png"
     }
   ],
   "omittedPaths": [],

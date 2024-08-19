@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Варианты взаимодействия.md",
-      "timestamp": 1724063587127
+      "timestamp": 1724063984968
     },
     {
-      "filepath": "_inbox/Queue.md",
-      "timestamp": 1724063584717
+      "filepath": "_inbox/Exchange.md",
+      "timestamp": 1724063983222
     },
     {
-      "filepath": "Обработка сообщений в RabbitMQ.md",
-      "timestamp": 1724063522856
-    },
-    {
-      "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1724063457071
+      "filepath": "_inbox/Exchange Headers.md",
+      "timestamp": 1724063966699
     },
     {
       "filepath": "_inbox/Exchange Topics.md",
-      "timestamp": 1724063454382
+      "timestamp": 1724063920569
+    },
+    {
+      "filepath": "_inbox/Exchange Fanout.md",
+      "timestamp": 1724063905799
     }
   ],
   "bookmarkedFileStore": [],
