@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00 RabbitMQ",
+      "path": "_inbox/00 RabbitMQ.md"
+    },
+    {
+      "basename": "Событийно-ориентированное программирование",
+      "path": "_inbox/Событийно-ориентированное программирование.md"
+    },
+    {
       "basename": "Моя оценка на рынке труда",
       "path": "_inbox/Моя оценка на рынке труда.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Трудоголизм",
       "path": "_inbox/Трудоголизм.md"
-    },
-    {
-      "basename": "Переработки",
-      "path": "_inbox/Переработки.md"
-    },
-    {
-      "basename": "Work-life balance",
-      "path": "_inbox/Work-life balance.md"
     }
   ],
   "omittedPaths": [],
