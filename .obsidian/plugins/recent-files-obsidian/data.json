@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-19 1724063500",
-      "path": "_inbox/2024-08-19 1724063500.md"
+      "basename": "Варианты взаимодействия",
+      "path": "_inbox/Варианты взаимодействия.md"
+    },
+    {
+      "basename": "Queue",
+      "path": "_inbox/Queue.md"
     },
     {
       "basename": "Обработка сообщений в RabbitMQ",
@@ -31,10 +35,6 @@
     {
       "basename": "Exchange Fanout",
       "path": "_inbox/Exchange Fanout.md"
-    },
-    {
-      "basename": "Queue",
-      "path": "_inbox/Queue.md"
     },
     {
       "basename": "Событийно-ориентированное программирование",
