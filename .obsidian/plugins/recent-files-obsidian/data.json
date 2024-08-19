@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Алюминевый радиатор",
+      "path": "_inbox/Алюминевый радиатор.md"
+    },
+    {
+      "basename": "Стальной радиатор",
+      "path": "_inbox/Стальной радиатор.md"
+    },
+    {
+      "basename": "Радиатор",
+      "path": "_inbox/Радиатор.md"
+    },
+    {
+      "basename": "Биметаллический радиатор",
+      "path": "_inbox/Биметаллический радиатор.md"
+    },
+    {
+      "basename": "Система отопления",
+      "path": "_inbox/Система отопления.md"
+    },
+    {
+      "basename": "Теплый пол",
+      "path": "_inbox/Теплый пол.md"
+    },
+    {
+      "basename": "00 Ремонт",
+      "path": "wiki/zero/00 Ремонт.md"
+    },
+    {
       "basename": "Полезные фразы",
       "path": "knowledge/english/Полезные фразы.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Желчнокаменная болезнь",
       "path": "_inbox/Желчнокаменная болезнь.md"
-    },
-    {
-      "basename": "Гемохроматоз",
-      "path": "knowledge/health/болезни/Гемохроматоз.md"
-    },
-    {
-      "basename": "Результаты генетического теста",
-      "path": "home/Результаты генетического теста.md"
-    },
-    {
-      "basename": "Ожирение",
-      "path": "knowledge/health/питание/Ожирение.md"
-    },
-    {
-      "basename": "Болезнь",
-      "path": "meta/templates/Болезнь.md"
-    },
-    {
-      "basename": "Гипотиреоз",
-      "path": "_inbox/Гипотиреоз.md"
-    },
-    {
-      "basename": "Составные индексы в БД",
-      "path": "_inbox/Составные индексы в БД.md"
-    },
-    {
-      "basename": "Вычет 2024",
-      "path": "home/Вычеты/Вычет 2024.md"
     }
   ],
   "omittedPaths": [],
