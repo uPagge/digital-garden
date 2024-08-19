@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Моя оценка на рынке труда.md",
+      "timestamp": 1724049895596
+    },
+    {
       "filepath": "Home.md",
-      "timestamp": 1724049146267
+      "timestamp": 1724049891685
+    },
+    {
+      "filepath": "_inbox/Как понять, сколько вы стоите на рынке труда.md",
+      "timestamp": 1724049889572
     },
     {
       "filepath": "_inbox/Выравниваем стены сухим способом.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Ремонт стен.md",
       "timestamp": 1724048199785
-    },
-    {
-      "filepath": "_inbox/Выравниваем стены мокрым способом.md",
-      "timestamp": 1724048193362
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
-      "timestamp": 1724047932682
     }
   ],
   "bookmarkedFileStore": [],
