@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
+      "basename": "Мелатонин",
+      "path": "knowledge/human/гормоны/Мелатонин.md"
+    },
+    {
+      "basename": "Сон",
+      "path": "knowledge/health/Сон.md"
+    },
+    {
+      "basename": "Аденозин",
+      "path": "_inbox/Аденозин.md"
+    },
+    {
+      "basename": "Будильники для поддержания режима сна",
+      "path": "knowledge/health/сон/Будильники для поддержания режима сна.md"
     },
     {
       "basename": "Циркадные ритмы",
       "path": "knowledge/human/Циркадные ритмы.md"
     },
     {
-      "basename": "Сон",
-      "path": "knowledge/health/Сон.md"
+      "basename": "excalibrain",
+      "path": "excalibrain.md"
     },
     {
       "basename": "Здоровый образ жизни",
@@ -187,18 +199,6 @@
     {
       "basename": "Смеситель",
       "path": "_inbox/Смеситель.md"
-    },
-    {
-      "basename": "Система отопления",
-      "path": "_inbox/Система отопления.md"
-    },
-    {
-      "basename": "Радиатор",
-      "path": "_inbox/Радиатор.md"
-    },
-    {
-      "basename": "Проект. Дом Дурачок 2.0",
-      "path": "projects/Проект. Дом Дурачок 2.0.md"
     }
   ],
   "omittedPaths": [],
