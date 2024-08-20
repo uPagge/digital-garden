@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "wiki/zero/00 Продуктивность.md",
+      "timestamp": 1724169511566
+    },
+    {
+      "filepath": "knowledge/human/Хронотип.md",
+      "timestamp": 1724169504117
+    },
+    {
+      "filepath": "knowledge/health/Сон.md",
+      "timestamp": 1724169414026
+    },
+    {
+      "filepath": "knowledge/health/питание/Режим питания.md",
+      "timestamp": 1724169366480
+    },
+    {
       "filepath": "knowledge/health/сон/Фазы сна.md",
       "timestamp": 1724169234880
-    },
-    {
-      "filepath": "knowledge/health/сон/Глубокая фаза сна.md",
-      "timestamp": 1724169212215
-    },
-    {
-      "filepath": "_inbox/Высокоуглеводная диета.md",
-      "timestamp": 1724169207277
-    },
-    {
-      "filepath": "knowledge/health/питание/диета/Низкоуглеводная диета.md",
-      "timestamp": 1724169203302
-    },
-    {
-      "filepath": "knowledge/health/питание/Диета.md",
-      "timestamp": 1724169202003
     }
   ],
   "bookmarkedFileStore": [],
