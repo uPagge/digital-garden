@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Натяжные потолки",
-      "path": "_inbox/Натяжные потолки.md"
+      "basename": "2024-08-20 1724134562",
+      "path": "_inbox/2024-08-20 1724134562.md"
     },
     {
       "basename": "Ремонт потолка",
       "path": "_inbox/Ремонт потолка.md"
     },
     {
-      "basename": "00 Ремонт",
-      "path": "wiki/zero/00 Ремонт.md"
+      "basename": "Натяжные потолки",
+      "path": "_inbox/Натяжные потолки.md"
     },
     {
-      "basename": "Ремонт стен",
-      "path": "_inbox/Ремонт стен.md"
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
+    },
+    {
+      "basename": "Проект. Ремонт квартиры",
+      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
+    },
+    {
+      "basename": "Идеи для ремонта",
+      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
+    },
+    {
+      "basename": "00 Ремонт",
+      "path": "wiki/zero/00 Ремонт.md"
     },
     {
       "basename": "Финишное покрытие стены",
@@ -23,6 +35,10 @@
     {
       "basename": "Обои",
       "path": "_inbox/Обои.md"
+    },
+    {
+      "basename": "Ремонт стен",
+      "path": "_inbox/Ремонт стен.md"
     },
     {
       "basename": "Рисунки на стенах",
@@ -45,16 +61,8 @@
       "path": "_inbox/Стена из гипсокартона.md"
     },
     {
-      "basename": "Проект. Ремонт квартиры",
-      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
-    },
-    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
-    },
-    {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
     },
     {
       "basename": "Home",
@@ -119,10 +127,6 @@
     {
       "basename": "Выравниваем стены мокрым способом",
       "path": "_inbox/Выравниваем стены мокрым способом.md"
-    },
-    {
-      "basename": "Идеи для ремонта",
-      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
     },
     {
       "basename": "Как выбрать смеситель",
@@ -195,10 +199,6 @@
     {
       "basename": "Система STAR",
       "path": "_inbox/Система STAR.md"
-    },
-    {
-      "basename": "Выход на новую работу",
-      "path": "_inbox/Выход на новую работу.md"
     }
   ],
   "omittedPaths": [],
