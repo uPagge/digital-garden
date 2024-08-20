@@ -105,3 +105,5 @@ linked:
 		- [Урок 19. Полезные фразы](https://youtu.be/CLITaaO-kMM)
 		- [Урок 19. Разговорные ситуации](https://youtu.be/dFEpce0sOck)
 		- [Урок 19. Диалоги](https://youtu.be/do7AgH0vN6I)
+	- Урок 20 Future Simple – вопрос
+		- [Урок 20 Грамматика](https://youtu.be/-90gNTrqvIU)
