@@ -107,3 +107,4 @@ linked:
 		- [Урок 19. Диалоги](https://youtu.be/do7AgH0vN6I)
 	- Урок 20 Future Simple – вопрос
 		- [Урок 20 Грамматика](https://youtu.be/-90gNTrqvIU)
+		- [Урок 20. Полезные фразы](https://youtu.be/9iDHqPcq1ZQ)
