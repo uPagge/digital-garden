@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "knowledge/health/Сон.md",
-      "timestamp": 1724170102749
+      "timestamp": 1724170233382
+    },
+    {
+      "filepath": "knowledge/human/Стресс.md",
+      "timestamp": 1724170220198
     },
     {
       "filepath": "knowledge/health/сон/Фазы сна.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "knowledge/health/сон/Глубокая фаза сна.md",
       "timestamp": 1724169798532
-    },
-    {
-      "filepath": "wiki/zero/00 Продуктивность.md",
-      "timestamp": 1724169511566
     }
   ],
   "bookmarkedFileStore": [],

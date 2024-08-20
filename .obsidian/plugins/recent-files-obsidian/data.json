@@ -5,6 +5,10 @@
       "path": "knowledge/health/Сон.md"
     },
     {
+      "basename": "Стресс",
+      "path": "knowledge/human/Стресс.md"
+    },
+    {
       "basename": "Фазы сна",
       "path": "knowledge/health/сон/Фазы сна.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Варианты взаимодействия",
       "path": "_inbox/Варианты взаимодействия.md"
-    },
-    {
-      "basename": "Exchange Headers",
-      "path": "_inbox/Exchange Headers.md"
     }
   ],
   "omittedPaths": [],
