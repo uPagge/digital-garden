@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Фазы сна",
+      "path": "knowledge/health/сон/Фазы сна.md"
+    },
+    {
+      "basename": "Фазы сна ребенка",
+      "path": "_inbox/Фазы сна ребенка.md"
+    },
+    {
+      "basename": "Глубокая фаза сна",
+      "path": "knowledge/health/сон/Глубокая фаза сна.md"
+    },
+    {
+      "basename": "Сон",
+      "path": "knowledge/health/Сон.md"
+    },
+    {
       "basename": "00 Продуктивность",
       "path": "wiki/zero/00 Продуктивность.md"
     },
@@ -9,20 +25,8 @@
       "path": "knowledge/human/Хронотип.md"
     },
     {
-      "basename": "Сон",
-      "path": "knowledge/health/Сон.md"
-    },
-    {
       "basename": "Режим питания",
       "path": "knowledge/health/питание/Режим питания.md"
-    },
-    {
-      "basename": "Фазы сна",
-      "path": "knowledge/health/сон/Фазы сна.md"
-    },
-    {
-      "basename": "Глубокая фаза сна",
-      "path": "knowledge/health/сон/Глубокая фаза сна.md"
     },
     {
       "basename": "Высокоуглеводная диета",
@@ -195,10 +199,6 @@
     {
       "basename": "Exchange Headers",
       "path": "_inbox/Exchange Headers.md"
-    },
-    {
-      "basename": "Exchange Topics",
-      "path": "_inbox/Exchange Topics.md"
     }
   ],
   "omittedPaths": [],
