@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Флаги очередей в RabbitMQ",
+      "path": "_inbox/Флаги очередей в RabbitMQ.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Вопросы для собеседование Java",
       "path": "notes/Собеседования/Вопросы для собеседование Java.md"
-    },
-    {
-      "basename": "Система STAR",
-      "path": "_inbox/Система STAR.md"
     }
   ],
   "omittedPaths": [],
