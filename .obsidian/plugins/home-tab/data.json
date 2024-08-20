@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/00 RabbitMQ.md",
+      "timestamp": 1724149308524
+    },
+    {
       "filepath": "_inbox/Флаги очередей в RabbitMQ.md",
       "timestamp": 1724148467882
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Подвесной потолок.md",
       "timestamp": 1724134562793
-    },
-    {
-      "filepath": "_inbox/Ремонт потолка.md",
-      "timestamp": 1724134557553
     }
   ],
   "bookmarkedFileStore": [],
