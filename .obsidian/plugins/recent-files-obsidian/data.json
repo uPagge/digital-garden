@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Мелатонин",
-      "path": "knowledge/human/гормоны/Мелатонин.md"
+      "basename": "Качественный сон",
+      "path": "knowledge/health/сон/Качественный сон.md"
     },
     {
       "basename": "Сон",
       "path": "knowledge/health/Сон.md"
+    },
+    {
+      "basename": "Шишковидная железа",
+      "path": "knowledge/human/строение/Шишковидная железа.md"
+    },
+    {
+      "basename": "Мелатонин",
+      "path": "knowledge/human/гормоны/Мелатонин.md"
     },
     {
       "basename": "Аденозин",
@@ -31,10 +39,6 @@
     {
       "basename": "00 Продуктивность",
       "path": "wiki/zero/00 Продуктивность.md"
-    },
-    {
-      "basename": "Качественный сон",
-      "path": "knowledge/health/сон/Качественный сон.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "Как выбрать смеситель",
       "path": "_inbox/Как выбрать смеситель.md"
-    },
-    {
-      "basename": "Смеситель",
-      "path": "_inbox/Смеситель.md"
     }
   ],
   "omittedPaths": [],
