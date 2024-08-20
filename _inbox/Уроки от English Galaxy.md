@@ -103,4 +103,5 @@ linked:
 	- Урок 19 Future Simple – отрицание
 		- [Урок 19. Грамматика](https://youtu.be/MYiYasAf7Ck)
 		- [Урок 19. Полезные фразы](https://youtu.be/CLITaaO-kMM)
-		- [Урок 19 Разговорные ситуации](https://youtu.be/dFEpce0sOck)
+		- [Урок 19. Разговорные ситуации](https://youtu.be/dFEpce0sOck)
+		- [Урок 19. Диалоги](https://youtu.be/do7AgH0vN6I)
