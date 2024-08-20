@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Обои",
-      "path": "_inbox/Обои.md"
+      "basename": "Рисунки на стенах",
+      "path": "_inbox/Рисунки на стенах.md"
     },
     {
       "basename": "Финишное покрытие стены",
       "path": "_inbox/Финишное покрытие стены.md"
+    },
+    {
+      "basename": "Обои",
+      "path": "_inbox/Обои.md"
+    },
+    {
+      "basename": "Покраска стен",
+      "path": "_inbox/Покраска стен.md"
     },
     {
       "basename": "Ремонт стен",
@@ -191,14 +199,6 @@
     {
       "basename": "Переговоры",
       "path": "_inbox/Переговоры.md"
-    },
-    {
-      "basename": "Диагностика HDD c использованием S.M.A.R.T.",
-      "path": "_inbox/Диагностика HDD c использованием S.M.A.R.T..md"
-    },
-    {
-      "basename": "Обратная связь",
-      "path": "knowledge/education/Обратная связь.md"
     }
   ],
   "omittedPaths": [],
