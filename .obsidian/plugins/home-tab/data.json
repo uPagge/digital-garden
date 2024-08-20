@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1724153099919
+      "filepath": "knowledge/human/Здоровый образ жизни.md",
+      "timestamp": 1724167602093
     },
     {
-      "filepath": "knowledge/dev/архитектура/паттерн/CQRS.md",
-      "timestamp": 1724153032438
+      "filepath": "wiki/zero/00 Продуктивность.md",
+      "timestamp": 1724167587950
     },
     {
-      "filepath": "_inbox/Kafka Connect.md",
-      "timestamp": 1724153018938
+      "filepath": "knowledge/health/сон/Качественный сон.md",
+      "timestamp": 1724167544940
     },
     {
-      "filepath": "_inbox/Kafka Stream.md",
-      "timestamp": 1724152939885
+      "filepath": "knowledge/health/Сон.md",
+      "timestamp": 1724167515586
     },
     {
-      "filepath": "knowledge/dev/java/other/JDBC.md",
-      "timestamp": 1724151998864
+      "filepath": "Home.md",
+      "timestamp": 1724167481021
     }
   ],
   "bookmarkedFileStore": [],
