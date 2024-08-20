@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/00 Kafka.md",
+      "timestamp": 1724152033556
+    },
+    {
       "filepath": "_inbox/Kafka Connect.md",
       "timestamp": 1724152002564
     },
     {
       "filepath": "knowledge/dev/java/other/JDBC.md",
       "timestamp": 1724151998864
-    },
-    {
-      "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1724151928517
     },
     {
       "filepath": "_inbox/Флаги очередей в RabbitMQ.md",

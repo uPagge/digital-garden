@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Kafka",
+      "path": "_inbox/00 Kafka.md"
+    },
+    {
       "basename": "Kafka Connect",
       "path": "_inbox/Kafka Connect.md"
     },
     {
       "basename": "JDBC",
       "path": "knowledge/dev/java/other/JDBC.md"
-    },
-    {
-      "basename": "00 Kafka",
-      "path": "_inbox/00 Kafka.md"
     },
     {
       "basename": "Флаги очередей в RabbitMQ",
