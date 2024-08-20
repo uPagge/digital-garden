@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kafka Stream",
+      "path": "_inbox/Kafka Stream.md"
+    },
+    {
       "basename": "00 Kafka",
       "path": "_inbox/00 Kafka.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Самопрезентация",
       "path": "_inbox/Самопрезентация.md"
-    },
-    {
-      "basename": "Скрининг",
-      "path": "_inbox/Скрининг.md"
     }
   ],
   "omittedPaths": [],

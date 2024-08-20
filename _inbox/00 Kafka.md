@@ -23,8 +23,9 @@ Apache Kafka – это платформа потоковой передачи, 
 
 Примеры использований:
 - Буфферизация.
-	- Агрегация журналов логов.
-- 
+	- Агрегация журналов логов. 
+- Интернет вещей
+	- Показатели датчиков
 
 ![](Pasted%20image%2020240703120512.png)
 
@@ -86,6 +87,7 @@ Apache Kafka – это платформа потоковой передачи, 
 - [Consumer Group](Consumer%20Group.md)
 - [[Кластер Kafka]]
 - [Kafka Connect](Kafka%20Connect.md)
+- [Kafka Stream](Kafka%20Stream.md)
 
 ```
 sudo docker run -p 9000:9000 -e ZK_HOSTS="10.21.21.14:2181" sheepkiller/kafka-manager

@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Kafka Stream.md",
+      "timestamp": 1724152939885
+    },
+    {
       "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1724152033556
+      "timestamp": 1724152906456
     },
     {
       "filepath": "_inbox/Kafka Connect.md",
-      "timestamp": 1724152002564
+      "timestamp": 1724152894026
     },
     {
       "filepath": "knowledge/dev/java/other/JDBC.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Флаги очередей в RabbitMQ.md",
       "timestamp": 1724151453166
-    },
-    {
-      "filepath": "_inbox/00 RabbitMQ.md",
-      "timestamp": 1724151210046
     }
   ],
   "bookmarkedFileStore": [],
