@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/00 Kafka.md",
+      "timestamp": 1724153099919
+    },
+    {
+      "filepath": "knowledge/dev/архитектура/паттерн/CQRS.md",
+      "timestamp": 1724153032438
+    },
+    {
+      "filepath": "_inbox/Kafka Connect.md",
+      "timestamp": 1724153018938
+    },
+    {
       "filepath": "_inbox/Kafka Stream.md",
       "timestamp": 1724152939885
     },
     {
-      "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1724152906456
-    },
-    {
-      "filepath": "_inbox/Kafka Connect.md",
-      "timestamp": 1724152894026
-    },
-    {
       "filepath": "knowledge/dev/java/other/JDBC.md",
       "timestamp": 1724151998864
-    },
-    {
-      "filepath": "_inbox/Флаги очередей в RabbitMQ.md",
-      "timestamp": 1724151453166
     }
   ],
   "bookmarkedFileStore": [],
