@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Сновидения",
+      "path": "knowledge/health/сон/Сновидения.md"
+    },
+    {
       "basename": "Сон",
       "path": "knowledge/health/Сон.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Exchange",
       "path": "_inbox/Exchange.md"
-    },
-    {
-      "basename": "Варианты взаимодействия",
-      "path": "_inbox/Варианты взаимодействия.md"
     }
   ],
   "omittedPaths": [],
