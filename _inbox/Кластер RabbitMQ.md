@@ -7,6 +7,8 @@ zero-link:
 parents: 
 linked:
 ---
+![](Pasted%20image%2020240820133224.png)
+
 Синхронизировать через файл `/var/lib/rabbitmq/.erlang.cookie`
 ```
 rabbitmqctl stop_app
