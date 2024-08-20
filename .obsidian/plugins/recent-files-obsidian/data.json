@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Kafka Connect",
+      "path": "_inbox/Kafka Connect.md"
+    },
+    {
+      "basename": "JDBC",
+      "path": "knowledge/dev/java/other/JDBC.md"
+    },
+    {
       "basename": "00 Kafka",
       "path": "_inbox/00 Kafka.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Скрининг",
       "path": "_inbox/Скрининг.md"
-    },
-    {
-      "basename": "Собеседование на работу с нанимателем",
-      "path": "_inbox/Собеседование на работу с нанимателем.md"
-    },
-    {
-      "basename": "Вопросы работодателю",
-      "path": "notes/Собеседования/Вопросы работодателю.md"
     }
   ],
   "omittedPaths": [],
