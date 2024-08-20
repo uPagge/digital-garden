@@ -24,16 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/00 Kafka.md",
+      "timestamp": 1724151458389
+    },
+    {
+      "filepath": "_inbox/Флаги очередей в RabbitMQ.md",
+      "timestamp": 1724151453166
+    },
+    {
       "filepath": "_inbox/00 RabbitMQ.md",
       "timestamp": 1724151210046
     },
     {
       "filepath": "_inbox/Кластер RabbitMQ.md",
       "timestamp": 1724151081888
-    },
-    {
-      "filepath": "_inbox/Флаги очередей в RabbitMQ.md",
-      "timestamp": 1724148467882
     },
     {
       "filepath": "Home.md",
