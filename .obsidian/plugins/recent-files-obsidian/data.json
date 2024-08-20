@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Фаза быстрого сна",
-      "path": "knowledge/health/сон/Фаза быстрого сна.md"
-    },
-    {
       "basename": "Фазы сна",
       "path": "knowledge/health/сон/Фазы сна.md"
+    },
+    {
+      "basename": "Глубокая фаза сна",
+      "path": "knowledge/health/сон/Глубокая фаза сна.md"
+    },
+    {
+      "basename": "Высокоуглеводная диета",
+      "path": "_inbox/Высокоуглеводная диета.md"
+    },
+    {
+      "basename": "Низкоуглеводная диета",
+      "path": "knowledge/health/питание/диета/Низкоуглеводная диета.md"
+    },
+    {
+      "basename": "Диета",
+      "path": "knowledge/health/питание/Диета.md"
+    },
+    {
+      "basename": "Фаза быстрого сна",
+      "path": "knowledge/health/сон/Фаза быстрого сна.md"
     },
     {
       "basename": "Поверхностный сон",
@@ -183,22 +199,6 @@
     {
       "basename": "Exchange Direct",
       "path": "_inbox/Exchange Direct.md"
-    },
-    {
-      "basename": "Обработка сообщений в RabbitMQ",
-      "path": "Обработка сообщений в RabbitMQ.md"
-    },
-    {
-      "basename": "Репликация",
-      "path": "_inbox/Репликация.md"
-    },
-    {
-      "basename": "Событийно-ориентированное программирование",
-      "path": "_inbox/Событийно-ориентированное программирование.md"
-    },
-    {
-      "basename": "Как понять, сколько вы стоите на рынке труда",
-      "path": "_inbox/Как понять, сколько вы стоите на рынке труда.md"
     }
   ],
   "omittedPaths": [],
