@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "excalibrain",
+      "path": "excalibrain.md"
+    },
+    {
+      "basename": "Циркадные ритмы",
+      "path": "knowledge/human/Циркадные ритмы.md"
+    },
+    {
+      "basename": "Сон",
+      "path": "knowledge/health/Сон.md"
+    },
+    {
       "basename": "Здоровый образ жизни",
       "path": "knowledge/human/Здоровый образ жизни.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Качественный сон",
       "path": "knowledge/health/сон/Качественный сон.md"
-    },
-    {
-      "basename": "Сон",
-      "path": "knowledge/health/Сон.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "Проект. Дом Дурачок 2.0",
       "path": "projects/Проект. Дом Дурачок 2.0.md"
-    },
-    {
-      "basename": "Алюминиевый радиатор",
-      "path": "_inbox/Алюминиевый радиатор.md"
-    },
-    {
-      "basename": "Стальной радиатор",
-      "path": "_inbox/Стальной радиатор.md"
     }
   ],
   "omittedPaths": [],

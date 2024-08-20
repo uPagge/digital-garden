@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "excalibrain.md",
+      "timestamp": 1724168077863
+    },
+    {
+      "filepath": "knowledge/human/Циркадные ритмы.md",
+      "timestamp": 1724168048247
+    },
+    {
+      "filepath": "knowledge/health/Сон.md",
+      "timestamp": 1724167804066
+    },
+    {
       "filepath": "knowledge/human/Здоровый образ жизни.md",
       "timestamp": 1724167602093
     },
     {
       "filepath": "wiki/zero/00 Продуктивность.md",
       "timestamp": 1724167587950
-    },
-    {
-      "filepath": "knowledge/health/сон/Качественный сон.md",
-      "timestamp": 1724167544940
-    },
-    {
-      "filepath": "knowledge/health/Сон.md",
-      "timestamp": 1724167515586
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1724167481021
     }
   ],
   "bookmarkedFileStore": [],
