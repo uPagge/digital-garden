@@ -24,7 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-08-20 1724134562.md",
+      "filepath": "Home.md",
+      "timestamp": 1724137322406
+    },
+    {
+      "filepath": "_inbox/Уроки от English Galaxy.md",
+      "timestamp": 1724137321122
+    },
+    {
+      "filepath": "_inbox/Подвесной потолок.md",
       "timestamp": 1724134562793
     },
     {
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Натяжные потолки.md",
       "timestamp": 1724134553437
-    },
-    {
-      "filepath": "knowledge/english/Полезные фразы.md",
-      "timestamp": 1724134552188
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
-      "timestamp": 1724134550410
     }
   ],
   "bookmarkedFileStore": [],
