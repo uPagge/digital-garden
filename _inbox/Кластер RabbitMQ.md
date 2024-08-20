@@ -2,8 +2,10 @@
 aliases: 
 tags:
   - зрелость/🌱
-date: [[2024-07-03]]
-zero-link: 
+date:
+  - - 2024-07-03
+zero-link:
+  - "[[00 RabbitMQ]]"
 parents: 
 linked:
 ---
@@ -27,27 +29,24 @@ docker run -d --hostname node1.rabbit --net cluster-network --name rabbitNode1 -
 ```
 docker run -d --hostname node2.rabbit --net cluster-network --name rabbitNode2 --add-host node1.rabbit:172.24.0.2 -p  "15674:15672" -e "RABBITMQ_USE_LONGNAME=true" -e RABBITMQ_ERLANG_COOKIE="cookie" rabbitmq:3-management
 ```
-6. docker exec -it rabbitNode1 bash
 
-7. rabbitmqctl stop_app
+```
+docker exec -it rabbitNode1 bash
+```
 
-8. rabbitmqctl join_cluster rabbit@node2.rabbit
+```
+rabbitmqctl stop_app
+```
 
-9. rabbitmqctl start_app
+```
+rabbitmqctl join_cluster rabbit@node2.rabbit
+```
 
-10. cd kafka-test
+```
+rabbitmqctl start_app
+```
 
-11. docker-compose up -d
-
-12. docker exec -it kafka-test-kafka-1 bash
-
-13. kafka-topics --bootstrap-server localhost:9092 --topic test --create
-
-14. kafka-topics --bootstrap-server localhost:9092 --list
-
-15. kafka-console-consumer --bootstrap-server localhost:9092 --topic test
-
-16. kafka-console-producer --bootstrap-server localhost:9092 --topic test
+***
 
 Синхронизировать через файл `/var/lib/rabbitmq/.erlang.cookie`
 ```

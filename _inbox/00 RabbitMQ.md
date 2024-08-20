@@ -53,3 +53,5 @@ rabbitmqctl set_vm_memory_high_watermark 0.5
 - Написан на Erlang
 - Имеет плагины расширения
 - Транзакций нет
+- [rabbit-test.zip](rabbit-test.zip) - Пример работы с Rabbit
+- [rabbit-rpc.zip](rabbit-rpc.zip) - Пример реализация rpc на базе Rabbit
