@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Кластер RabbitMQ.md",
+      "timestamp": 1724149751131
+    },
+    {
       "filepath": "_inbox/00 RabbitMQ.md",
       "timestamp": 1724149308524
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Уроки от English Galaxy.md",
       "timestamp": 1724137321122
-    },
-    {
-      "filepath": "_inbox/Подвесной потолок.md",
-      "timestamp": 1724134562793
     }
   ],
   "bookmarkedFileStore": [],
