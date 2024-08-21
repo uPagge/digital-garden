@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-21 1724213794",
+      "path": "_inbox/2024-08-21 1724213794.md"
+    },
+    {
+      "basename": "00 Linux",
+      "path": "wiki/zero/00 Linux.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Моя оценка на рынке труда",
       "path": "_inbox/Моя оценка на рынке труда.md"
-    },
-    {
-      "basename": "Queue",
-      "path": "_inbox/Queue.md"
-    },
-    {
-      "basename": "Exchange",
-      "path": "_inbox/Exchange.md"
     }
   ],
   "omittedPaths": [],
