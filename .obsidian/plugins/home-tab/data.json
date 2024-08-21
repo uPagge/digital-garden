@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1724221685878
+    },
+    {
       "filepath": "_inbox/Минеральная вата.md",
       "timestamp": 1724219840980
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Стена из гипсокартона.md",
       "timestamp": 1724219706163
-    },
-    {
-      "filepath": "_inbox/Битумно-полимерные материалы со звукоизоляцией.md",
-      "timestamp": 1724219674890
     }
   ],
   "bookmarkedFileStore": [],
