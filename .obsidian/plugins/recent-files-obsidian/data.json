@@ -5,6 +5,14 @@
       "path": "_inbox/Проверка свободного места на дисках.md"
     },
     {
+      "basename": "Структура хранилища файлов Docker",
+      "path": "_inbox/Структура хранилища файлов Docker.md"
+    },
+    {
+      "basename": "00 Docker",
+      "path": "wiki/zero/00 Docker.md"
+    },
+    {
       "basename": "00 Linux",
       "path": "wiki/zero/00 Linux.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Стена из пазогребневых плит",
       "path": "Стена из пазогребневых плит.md"
-    },
-    {
-      "basename": "Стена из гипсокартона",
-      "path": "_inbox/Стена из гипсокартона.md"
-    },
-    {
-      "basename": "Моя оценка на рынке труда",
-      "path": "_inbox/Моя оценка на рынке труда.md"
     }
   ],
   "omittedPaths": [],

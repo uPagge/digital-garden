@@ -13,6 +13,7 @@ parents:
 - [Команды Docker](Команды%20Docker.md)
 - [Dockerfile](Dockerfile.md)
 - [Docker Network](Docker%20Network.md)
+- [Структура хранилища файлов Docker](Структура%20хранилища%20файлов%20Docker.md)
 
 
 

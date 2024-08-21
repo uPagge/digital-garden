@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Проверка свободного места на дисках.md",
-      "timestamp": 1724213824189
+      "timestamp": 1724215824134
+    },
+    {
+      "filepath": "_inbox/Структура хранилища файлов Docker.md",
+      "timestamp": 1724215809403
+    },
+    {
+      "filepath": "wiki/zero/00 Docker.md",
+      "timestamp": 1724215755126
     },
     {
       "filepath": "wiki/zero/00 Linux.md",
@@ -34,10 +42,6 @@
     {
       "filepath": "Home.md",
       "timestamp": 1724212893895
-    },
-    {
-      "filepath": "knowledge/health/сон/Сновидения.md",
-      "timestamp": 1724212893308
     }
   ],
   "bookmarkedFileStore": [],
