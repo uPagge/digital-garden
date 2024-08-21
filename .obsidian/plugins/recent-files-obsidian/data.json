@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Настройка ротации логов в Docker",
+      "path": "_inbox/Настройка ротации логов в Docker.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Очистка мусора в Docker",
       "path": "_inbox/Очистка мусора в Docker.md"
-    },
-    {
-      "basename": "Настройка ротации логов в Docker",
-      "path": "_inbox/Настройка ротации логов в Docker.md"
     },
     {
       "basename": "Ручная очистка docker overlay2",

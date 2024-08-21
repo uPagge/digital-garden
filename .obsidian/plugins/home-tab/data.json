@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Настройка ротации логов в Docker.md",
+      "timestamp": 1724221849035
+    },
+    {
       "filepath": "Home.md",
       "timestamp": 1724221685878
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Звукопоглощающие вибродемпфирующие маты.md",
       "timestamp": 1724219712216
-    },
-    {
-      "filepath": "_inbox/Стена из гипсокартона.md",
-      "timestamp": 1724219706163
     }
   ],
   "bookmarkedFileStore": [],
