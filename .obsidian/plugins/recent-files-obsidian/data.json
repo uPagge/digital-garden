@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Проверка свободного места на дисках",
+      "path": "_inbox/Проверка свободного места на дисках.md"
+    },
+    {
       "basename": "00 Docker",
       "path": "wiki/zero/00 Docker.md"
+    },
+    {
+      "basename": "00 Linux",
+      "path": "wiki/zero/00 Linux.md"
     },
     {
       "basename": "Очистка мусора в Docker",
       "path": "_inbox/Очистка мусора в Docker.md"
     },
     {
-      "basename": "Команды Docker",
-      "path": "_inbox/Команды Docker.md"
+      "basename": "Настройка ротации логов в Docker",
+      "path": "_inbox/Настройка ротации логов в Docker.md"
     },
     {
       "basename": "Ручная очистка docker overlay2",
       "path": "_inbox/Ручная очистка docker overlay2.md"
+    },
+    {
+      "basename": "Команды Docker",
+      "path": "_inbox/Команды Docker.md"
     },
     {
       "basename": "Структура хранилища файлов Docker",
@@ -25,20 +37,8 @@
       "path": "_inbox/Структура хранения файлов в Linux.md"
     },
     {
-      "basename": "00 Linux",
-      "path": "wiki/zero/00 Linux.md"
-    },
-    {
-      "basename": "Настройка ротации логов в Docker",
-      "path": "_inbox/Настройка ротации логов в Docker.md"
-    },
-    {
       "basename": "2024-08-21 1724216319",
       "path": "_inbox/2024-08-21 1724216319.md"
-    },
-    {
-      "basename": "Проверка свободного места на дисках",
-      "path": "_inbox/Проверка свободного места на дисках.md"
     },
     {
       "basename": "Home",

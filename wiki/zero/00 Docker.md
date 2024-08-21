@@ -15,17 +15,7 @@ parents:
 - [Docker Network](Docker%20Network.md)
 - [Структура хранилища файлов Docker](Структура%20хранилища%20файлов%20Docker.md)
 - [Очистка мусора в Docker](Очистка%20мусора%20в%20Docker.md)
-
-
-
-services:
-	service-name:
-		
-		logging:
-			options:
-		        max-size: "10m"
-		        max-file: "5"
-```
+	- [Настройка ротации логов в Docker](Настройка%20ротации%20логов%20в%20Docker.md)
 ## Полезное
 - Утилита для анализа докер образов: [Утилита Dive](Утилита%20Dive.md)
 - Утилита [Hadolint](https://github.com/hadolint/hadolint). Проверяет докер файл на плохие практики.

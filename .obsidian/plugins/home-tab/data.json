@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Проверка свободного места на дисках.md",
+      "timestamp": 1724217316315
+    },
+    {
       "filepath": "wiki/zero/00 Docker.md",
-      "timestamp": 1724217241692
+      "timestamp": 1724217315333
+    },
+    {
+      "filepath": "wiki/zero/00 Linux.md",
+      "timestamp": 1724217314072
     },
     {
       "filepath": "_inbox/Очистка мусора в Docker.md",
-      "timestamp": 1724217238599
+      "timestamp": 1724217312519
     },
     {
-      "filepath": "_inbox/Команды Docker.md",
-      "timestamp": 1724217206861
-    },
-    {
-      "filepath": "_inbox/Ручная очистка docker overlay2.md",
-      "timestamp": 1724216695170
-    },
-    {
-      "filepath": "_inbox/Структура хранилища файлов Docker.md",
-      "timestamp": 1724216676741
+      "filepath": "_inbox/Настройка ротации логов в Docker.md",
+      "timestamp": 1724217307032
     }
   ],
   "bookmarkedFileStore": [],
