@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Звукоизоляционные панели",
-      "path": "_inbox/Звукоизоляционные панели.md"
+      "basename": "Битумно-полимерные материалы со звукоизоляцией",
+      "path": "_inbox/Битумно-полимерные материалы со звукоизоляцией.md"
+    },
+    {
+      "basename": "Вспененный пенополиэтилен",
+      "path": "_inbox/Вспененный пенополиэтилен.md"
     },
     {
       "basename": "Звукоизоляция квартиры",
@@ -11,6 +15,14 @@
     {
       "basename": "00 Ремонт",
       "path": "wiki/zero/00 Ремонт.md"
+    },
+    {
+      "basename": "Стена из гипсокартона",
+      "path": "_inbox/Стена из гипсокартона.md"
+    },
+    {
+      "basename": "Звукоизоляционные панели",
+      "path": "_inbox/Звукоизоляционные панели.md"
     },
     {
       "basename": "Виды обоев",
@@ -187,18 +199,6 @@
     {
       "basename": "Здоровый образ жизни",
       "path": "knowledge/human/Здоровый образ жизни.md"
-    },
-    {
-      "basename": "00 Kafka",
-      "path": "_inbox/00 Kafka.md"
-    },
-    {
-      "basename": "CQRS",
-      "path": "knowledge/dev/архитектура/паттерн/CQRS.md"
-    },
-    {
-      "basename": "Kafka Connect",
-      "path": "_inbox/Kafka Connect.md"
     }
   ],
   "omittedPaths": [],
