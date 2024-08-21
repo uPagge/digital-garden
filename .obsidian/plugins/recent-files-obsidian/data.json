@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Звукоизоляция квартиры",
+      "path": "_inbox/Звукоизоляция квартиры.md"
+    },
+    {
+      "basename": "00 Ремонт",
+      "path": "wiki/zero/00 Ремонт.md"
+    },
+    {
       "basename": "Виды обоев",
       "path": "Виды обоев.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Kafka Stream",
       "path": "_inbox/Kafka Stream.md"
-    },
-    {
-      "basename": "JDBC",
-      "path": "knowledge/dev/java/other/JDBC.md"
-    },
-    {
-      "basename": "Флаги очередей в RabbitMQ",
-      "path": "_inbox/Флаги очередей в RabbitMQ.md"
     }
   ],
   "omittedPaths": [],
