@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Штукатурка потолка.md",
+      "timestamp": 1724217783713
+    },
+    {
+      "filepath": "_inbox/Ремонт потолка.md",
+      "timestamp": 1724217779228
+    },
+    {
+      "filepath": "_inbox/Подвесной потолок.md",
+      "timestamp": 1724217587800
+    },
+    {
       "filepath": "_inbox/Проверка свободного места на дисках.md",
       "timestamp": 1724217316315
     },
     {
       "filepath": "wiki/zero/00 Docker.md",
       "timestamp": 1724217315333
-    },
-    {
-      "filepath": "wiki/zero/00 Linux.md",
-      "timestamp": 1724217314072
-    },
-    {
-      "filepath": "_inbox/Очистка мусора в Docker.md",
-      "timestamp": 1724217312519
-    },
-    {
-      "filepath": "_inbox/Настройка ротации логов в Docker.md",
-      "timestamp": 1724217307032
     }
   ],
   "bookmarkedFileStore": [],
