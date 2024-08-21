@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Очистка мусора в Docker.md",
-      "timestamp": 1724216344730
+      "timestamp": 1724216662904
+    },
+    {
+      "filepath": "_inbox/Ручная очистка docker overlay2.md",
+      "timestamp": 1724216626610
     },
     {
       "filepath": "_inbox/Настройка ротации логов в Docker.md",
-      "timestamp": 1724216323103
+      "timestamp": 1724216419708
     },
     {
       "filepath": "_inbox/2024-08-21 1724216319.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "wiki/zero/00 Docker.md",
       "timestamp": 1724216234507
-    },
-    {
-      "filepath": "_inbox/Структура хранения файлов в Linux.md",
-      "timestamp": 1724216195347
     }
   ],
   "bookmarkedFileStore": [],

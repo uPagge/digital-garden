@@ -5,6 +5,10 @@
       "path": "_inbox/Очистка мусора в Docker.md"
     },
     {
+      "basename": "Ручная очистка docker overlay2",
+      "path": "_inbox/Ручная очистка docker overlay2.md"
+    },
+    {
       "basename": "Настройка ротации логов в Docker",
       "path": "_inbox/Настройка ротации логов в Docker.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Обои",
       "path": "_inbox/Обои.md"
-    },
-    {
-      "basename": "Ремонт стен",
-      "path": "_inbox/Ремонт стен.md"
     }
   ],
   "omittedPaths": [],
