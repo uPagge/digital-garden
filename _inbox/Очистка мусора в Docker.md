@@ -15,3 +15,5 @@ linked:
 ```
 docker system prune -a
 ```
+
+- [Ручная очистка docker overlay2](Ручная%20очистка%20docker%20overlay2.md)

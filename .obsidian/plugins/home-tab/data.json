@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Очистка мусора в Docker.md",
-      "timestamp": 1724216662904
-    },
-    {
       "filepath": "_inbox/Ручная очистка docker overlay2.md",
-      "timestamp": 1724216626610
+      "timestamp": 1724216695170
     },
     {
-      "filepath": "_inbox/Настройка ротации логов в Docker.md",
-      "timestamp": 1724216419708
-    },
-    {
-      "filepath": "_inbox/2024-08-21 1724216319.md",
-      "timestamp": 1724216319509
+      "filepath": "_inbox/Очистка мусора в Docker.md",
+      "timestamp": 1724216690692
     },
     {
       "filepath": "wiki/zero/00 Docker.md",
-      "timestamp": 1724216234507
+      "timestamp": 1724216689511
+    },
+    {
+      "filepath": "_inbox/Структура хранилища файлов Docker.md",
+      "timestamp": 1724216676741
+    },
+    {
+      "filepath": "_inbox/Структура хранения файлов в Linux.md",
+      "timestamp": 1724216673812
     }
   ],
   "bookmarkedFileStore": [],
