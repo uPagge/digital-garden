@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Звукоизоляционные панели",
+      "path": "_inbox/Звукоизоляционные панели.md"
+    },
+    {
       "basename": "Звукоизоляция квартиры",
       "path": "_inbox/Звукоизоляция квартиры.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Kafka Connect",
       "path": "_inbox/Kafka Connect.md"
-    },
-    {
-      "basename": "Kafka Stream",
-      "path": "_inbox/Kafka Stream.md"
     }
   ],
   "omittedPaths": [],
