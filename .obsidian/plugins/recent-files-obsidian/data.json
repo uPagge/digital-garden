@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Штукатурка потолка",
-      "path": "_inbox/Штукатурка потолка.md"
+      "basename": "Обои на потолке",
+      "path": "_inbox/Обои на потолке.md"
     },
     {
       "basename": "Ремонт потолка",
       "path": "_inbox/Ремонт потолка.md"
+    },
+    {
+      "basename": "Штукатурка потолка",
+      "path": "_inbox/Штукатурка потолка.md"
+    },
+    {
+      "basename": "Покраска потолка",
+      "path": "_inbox/Покраска потолка.md"
+    },
+    {
+      "basename": "Покраска стен",
+      "path": "_inbox/Покраска стен.md"
+    },
+    {
+      "basename": "Строительные краски",
+      "path": "_inbox/Строительные краски.md"
+    },
+    {
+      "basename": "Глянцевая краска",
+      "path": "_inbox/Глянцевая краска.md"
+    },
+    {
+      "basename": "Матовая краска",
+      "path": "_inbox/Матовая краска.md"
     },
     {
       "basename": "Подвесной потолок",
@@ -175,30 +199,6 @@
     {
       "basename": "Кластер RabbitMQ",
       "path": "_inbox/Кластер RabbitMQ.md"
-    },
-    {
-      "basename": "Уроки от English Galaxy",
-      "path": "_inbox/Уроки от English Galaxy.md"
-    },
-    {
-      "basename": "Натяжные потолки",
-      "path": "_inbox/Натяжные потолки.md"
-    },
-    {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
-    },
-    {
-      "basename": "Проект. Ремонт квартиры",
-      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
-    },
-    {
-      "basename": "Идеи для ремонта",
-      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
-    },
-    {
-      "basename": "00 Ремонт",
-      "path": "wiki/zero/00 Ремонт.md"
     }
   ],
   "omittedPaths": [],
