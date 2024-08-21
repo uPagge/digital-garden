@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Ручная очистка docker overlay2",
-      "path": "_inbox/Ручная очистка docker overlay2.md"
+      "basename": "00 Docker",
+      "path": "wiki/zero/00 Docker.md"
     },
     {
       "basename": "Очистка мусора в Docker",
       "path": "_inbox/Очистка мусора в Docker.md"
     },
     {
-      "basename": "00 Docker",
-      "path": "wiki/zero/00 Docker.md"
+      "basename": "Команды Docker",
+      "path": "_inbox/Команды Docker.md"
+    },
+    {
+      "basename": "Ручная очистка docker overlay2",
+      "path": "_inbox/Ручная очистка docker overlay2.md"
     },
     {
       "basename": "Структура хранилища файлов Docker",
@@ -195,10 +199,6 @@
     {
       "basename": "Финишное покрытие стены",
       "path": "_inbox/Финишное покрытие стены.md"
-    },
-    {
-      "basename": "Обои",
-      "path": "_inbox/Обои.md"
     }
   ],
   "omittedPaths": [],
