@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Очистка мусора в Docker",
+      "path": "_inbox/Очистка мусора в Docker.md"
+    },
+    {
+      "basename": "Настройка ротации логов в Docker",
+      "path": "_inbox/Настройка ротации логов в Docker.md"
+    },
+    {
+      "basename": "2024-08-21 1724216319",
+      "path": "_inbox/2024-08-21 1724216319.md"
+    },
+    {
+      "basename": "00 Docker",
+      "path": "wiki/zero/00 Docker.md"
+    },
+    {
+      "basename": "Структура хранения файлов в Linux",
+      "path": "_inbox/Структура хранения файлов в Linux.md"
+    },
+    {
       "basename": "Проверка свободного места на дисках",
       "path": "_inbox/Проверка свободного места на дисках.md"
     },
     {
       "basename": "Структура хранилища файлов Docker",
       "path": "_inbox/Структура хранилища файлов Docker.md"
-    },
-    {
-      "basename": "00 Docker",
-      "path": "wiki/zero/00 Docker.md"
     },
     {
       "basename": "00 Linux",
@@ -183,22 +199,6 @@
     {
       "basename": "Ремонт стен",
       "path": "_inbox/Ремонт стен.md"
-    },
-    {
-      "basename": "Рисунки на стенах",
-      "path": "_inbox/Рисунки на стенах.md"
-    },
-    {
-      "basename": "Покраска стен",
-      "path": "_inbox/Покраска стен.md"
-    },
-    {
-      "basename": "Постройка новой стены",
-      "path": "_inbox/Постройка новой стены.md"
-    },
-    {
-      "basename": "Стена из пазогребневых плит",
-      "path": "Стена из пазогребневых плит.md"
     }
   ],
   "omittedPaths": [],

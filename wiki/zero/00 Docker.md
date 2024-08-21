@@ -14,6 +14,7 @@ parents:
 - [Dockerfile](Dockerfile.md)
 - [Docker Network](Docker%20Network.md)
 - [Структура хранилища файлов Docker](Структура%20хранилища%20файлов%20Docker.md)
+- [Очистка мусора в Docker](Очистка%20мусора%20в%20Docker.md)
 
 
 
