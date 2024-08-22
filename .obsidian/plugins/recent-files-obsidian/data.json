@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
+    },
+    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Аденозин",
       "path": "_inbox/Аденозин.md"
-    },
-    {
-      "basename": "Будильники для поддержания режима сна",
-      "path": "knowledge/health/сон/Будильники для поддержания режима сна.md"
     }
   ],
   "omittedPaths": [],
