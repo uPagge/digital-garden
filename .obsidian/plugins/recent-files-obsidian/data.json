@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Моя оценка на рынке труда",
+      "path": "_inbox/Моя оценка на рынке труда.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "LVM",
       "path": "_inbox/LVM.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Полезные фразы",
       "path": "knowledge/english/Полезные фразы.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Настройка ротации логов в Docker",
@@ -195,10 +199,6 @@
     {
       "basename": "Фаза быстрого сна",
       "path": "knowledge/health/сон/Фаза быстрого сна.md"
-    },
-    {
-      "basename": "Поверхностный сон",
-      "path": "_inbox/Поверхностный сон.md"
     }
   ],
   "omittedPaths": [],

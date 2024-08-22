@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Моя оценка на рынке труда.md",
+      "timestamp": 1724308643017
+    },
+    {
+      "filepath": "Home.md",
+      "timestamp": 1724308639055
+    },
+    {
       "filepath": "_inbox/LVM.md",
       "timestamp": 1724305251082
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Raspbbery PI Four.md",
       "timestamp": 1724304806493
-    },
-    {
-      "filepath": "_inbox/Диагностика HDD c использованием S.M.A.R.T..md",
-      "timestamp": 1724303263182
-    },
-    {
-      "filepath": "_inbox/Уроки от English Galaxy.md",
-      "timestamp": 1724300908142
     }
   ],
   "bookmarkedFileStore": [],
