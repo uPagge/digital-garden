@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LVM",
+      "path": "_inbox/LVM.md"
+    },
+    {
+      "basename": "Raspbbery PI Four",
+      "path": "_inbox/Raspbbery PI Four.md"
+    },
+    {
       "basename": "Диагностика HDD c использованием S.M.A.R.T.",
       "path": "_inbox/Диагностика HDD c использованием S.M.A.R.T..md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Качественный сон",
       "path": "knowledge/health/сон/Качественный сон.md"
-    },
-    {
-      "basename": "Шишковидная железа",
-      "path": "knowledge/human/строение/Шишковидная железа.md"
-    },
-    {
-      "basename": "Мелатонин",
-      "path": "knowledge/human/гормоны/Мелатонин.md"
     }
   ],
   "omittedPaths": [],

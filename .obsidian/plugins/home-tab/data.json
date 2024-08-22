@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/LVM.md",
+      "timestamp": 1724304885819
+    },
+    {
+      "filepath": "_inbox/Raspbbery PI Four.md",
+      "timestamp": 1724304806493
+    },
+    {
       "filepath": "_inbox/Диагностика HDD c использованием S.M.A.R.T..md",
       "timestamp": 1724303263182
     },
@@ -34,10 +42,6 @@
     {
       "filepath": "knowledge/english/Полезные фразы.md",
       "timestamp": 1724300240964
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1724298526527
     }
   ],
   "bookmarkedFileStore": [],
