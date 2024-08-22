@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/LVM.md",
-      "timestamp": 1724304885819
+      "timestamp": 1724305251082
+    },
+    {
+      "filepath": "_inbox/2024-03-10 1710051533.md",
+      "timestamp": 1724305243828
     },
     {
       "filepath": "_inbox/Raspbbery PI Four.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Уроки от English Galaxy.md",
       "timestamp": 1724300908142
-    },
-    {
-      "filepath": "knowledge/english/Полезные фразы.md",
-      "timestamp": 1724300240964
     }
   ],
   "bookmarkedFileStore": [],
