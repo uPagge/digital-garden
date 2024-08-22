@@ -108,3 +108,4 @@ linked:
 	- Урок 20 Future Simple – вопрос
 		- [Урок 20 Грамматика](https://youtu.be/-90gNTrqvIU)
 		- [Урок 20. Полезные фразы](https://youtu.be/9iDHqPcq1ZQ)
+		- [Урок 20. Разговорные ситуации](https://youtu.be/hStowCBEOyc)
