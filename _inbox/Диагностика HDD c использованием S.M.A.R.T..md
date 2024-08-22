@@ -2,6 +2,7 @@
 aliases:
   - smartctl
   - Self-Monitoring, Analysis and Reporting Technology
+  - проверка hdd
 tags:
   - зрелость/🌱
 date:

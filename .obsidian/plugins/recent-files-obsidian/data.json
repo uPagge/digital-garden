@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Диагностика HDD c использованием S.M.A.R.T.",
+      "path": "_inbox/Диагностика HDD c использованием S.M.A.R.T..md"
+    },
+    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Мелатонин",
       "path": "knowledge/human/гормоны/Мелатонин.md"
-    },
-    {
-      "basename": "Аденозин",
-      "path": "_inbox/Аденозин.md"
     }
   ],
   "omittedPaths": [],
