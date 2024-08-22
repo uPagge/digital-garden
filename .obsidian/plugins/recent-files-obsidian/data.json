@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Уроки от English Galaxy",
+      "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Будильники для поддержания режима сна",
       "path": "knowledge/health/сон/Будильники для поддержания режима сна.md"
-    },
-    {
-      "basename": "Циркадные ритмы",
-      "path": "knowledge/human/Циркадные ритмы.md"
     }
   ],
   "omittedPaths": [],

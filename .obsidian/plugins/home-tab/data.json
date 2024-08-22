@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Уроки от English Galaxy.md",
+      "timestamp": 1724298544695
+    },
+    {
       "filepath": "Home.md",
-      "timestamp": 1724222369538
-    },
-    {
-      "filepath": "_inbox/Настройка ротации логов в Docker.md",
-      "timestamp": 1724221849035
-    },
-    {
-      "filepath": "_inbox/Минеральная вата.md",
-      "timestamp": 1724219840980
-    },
-    {
-      "filepath": "_inbox/Звукоизоляция квартиры.md",
-      "timestamp": 1724219802249
-    },
-    {
-      "filepath": "_inbox/Звукопоглощающие вибродемпфирующие маты.md",
-      "timestamp": 1724219712216
+      "timestamp": 1724298526527
     }
   ],
   "bookmarkedFileStore": [],
