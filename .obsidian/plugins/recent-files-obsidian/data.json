@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Ужасы во сне",
+      "path": "_inbox/Ужасы во сне.md"
+    },
+    {
+      "basename": "Кошмар",
+      "path": "_inbox/Кошмар.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Без названия 4",
+      "path": "Без названия 4.md"
     },
     {
       "basename": "Моя оценка на рынке труда",
@@ -187,18 +199,6 @@
     {
       "basename": "Высокоуглеводная диета",
       "path": "_inbox/Высокоуглеводная диета.md"
-    },
-    {
-      "basename": "Низкоуглеводная диета",
-      "path": "knowledge/health/питание/диета/Низкоуглеводная диета.md"
-    },
-    {
-      "basename": "Диета",
-      "path": "knowledge/health/питание/Диета.md"
-    },
-    {
-      "basename": "Фаза быстрого сна",
-      "path": "knowledge/health/сон/Фаза быстрого сна.md"
     }
   ],
   "omittedPaths": [],
