@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Бессонница",
+      "path": "knowledge/health/болезни/Бессонница.md"
+    },
+    {
+      "basename": "Депрессия",
+      "path": "knowledge/health/болезни/Депрессия.md"
+    },
+    {
       "basename": "Кошмар",
       "path": "_inbox/Кошмар.md"
     },
     {
       "basename": "Шизофрения",
       "path": "knowledge/health/болезни/Шизофрения.md"
-    },
-    {
-      "basename": "Депрессия",
-      "path": "knowledge/health/болезни/Депрессия.md"
     },
     {
       "basename": "Психические заболевания",
@@ -195,10 +199,6 @@
     {
       "basename": "Фазы сна ребенка",
       "path": "_inbox/Фазы сна ребенка.md"
-    },
-    {
-      "basename": "Глубокая фаза сна",
-      "path": "knowledge/health/сон/Глубокая фаза сна.md"
     }
   ],
   "omittedPaths": [],
