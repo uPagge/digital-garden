@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Кошмар",
+      "path": "_inbox/Кошмар.md"
+    },
+    {
+      "basename": "Шизофрения",
+      "path": "knowledge/health/болезни/Шизофрения.md"
+    },
+    {
+      "basename": "Депрессия",
+      "path": "knowledge/health/болезни/Депрессия.md"
+    },
+    {
+      "basename": "Психические заболевания",
+      "path": "_inbox/Психические заболевания.md"
+    },
+    {
       "basename": "Ужасы во сне",
       "path": "_inbox/Ужасы во сне.md"
     },
     {
-      "basename": "Кошмар",
-      "path": "_inbox/Кошмар.md"
+      "basename": "Ментальное здоровье",
+      "path": "knowledge/human/Ментальное здоровье.md"
     },
     {
       "basename": "Home",
@@ -183,22 +199,6 @@
     {
       "basename": "Глубокая фаза сна",
       "path": "knowledge/health/сон/Глубокая фаза сна.md"
-    },
-    {
-      "basename": "00 Продуктивность",
-      "path": "wiki/zero/00 Продуктивность.md"
-    },
-    {
-      "basename": "Хронотип",
-      "path": "knowledge/human/Хронотип.md"
-    },
-    {
-      "basename": "Режим питания",
-      "path": "knowledge/health/питание/Режим питания.md"
-    },
-    {
-      "basename": "Высокоуглеводная диета",
-      "path": "_inbox/Высокоуглеводная диета.md"
     }
   ],
   "omittedPaths": [],
