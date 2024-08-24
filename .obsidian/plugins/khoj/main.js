@@ -1531,6 +1531,10 @@ var KhojChatView = class extends KhojPaneView {
   constructor(leaf, setting) {
     super(leaf, setting);
     this.keyPressTimeout = null;
+    this.userMessages = [];
+    this.currentMessageIndex = -1;
+    this.currentUserInput = "";
+    this.startingMessage = "Message";
     this.scope = new import_obsidian5.Scope(this.app.scope);
     this.scope.register(["Ctrl"], "n", (_) => this.createNewConversation());
     this.scope.register(["Ctrl"], "o", async (_) => await this.toggleChatSessions());
@@ -1562,6 +1566,12 @@ var KhojChatView = class extends KhojPaneView {
   async chat(isVoice = false) {
     let input_el = this.contentEl.getElementsByClassName("khoj-chat-input")[0];
     let user_message = input_el.value.trim();
+    if (user_message) {
+      this.userMessages.push(user_message);
+      const modifierKey = import_obsidian5.Platform.isMacOS ? "\u2318" : "^";
+      this.startingMessage = `(${modifierKey}+\u2191/\u2193) for prev messages`;
+      input_el.placeholder = this.startingMessage;
+    }
     input_el.value = "";
     this.autoResize();
     await this.getChatResponse(user_message, isVoice);
@@ -1604,6 +1614,7 @@ var KhojChatView = class extends KhojPaneView {
     });
     chatInput.addEventListener("keydown", (event) => {
       this.incrementalChat(event);
+      this.handleArrowKeys(event);
     });
     this.contentEl.addEventListener("keydown", this.handleKeyDown.bind(this));
     this.contentEl.addEventListener("keyup", this.handleKeyUp.bind(this));
@@ -1644,7 +1655,7 @@ var KhojChatView = class extends KhojPaneView {
       await this.chat();
     });
     let getChatHistorySucessfully = await this.getChatHistory(chatBodyEl);
-    let placeholderText = getChatHistorySucessfully ? "Message" : "Configure Khoj to enable chat";
+    let placeholderText = getChatHistorySucessfully ? this.startingMessage : "Configure Khoj to enable chat";
     chatInput.placeholder = placeholderText;
     chatInput.disabled = !getChatHistorySucessfully;
     requestAnimationFrame(() => {
@@ -1974,10 +1985,17 @@ ${inferredQuery}`;
     chatBodyEl.innerHTML = "";
     chatBodyEl.dataset.conversationId = "";
     chatBodyEl.dataset.conversationTitle = "";
+    this.userMessages = [];
+    this.startingMessage = "Message";
+    const chatInput = this.contentEl.querySelector(".khoj-chat-input");
+    if (chatInput) {
+      chatInput.placeholder = this.startingMessage;
+    }
     this.renderMessage(chatBodyEl, "Hey \u{1F44B}\u{1F3FE}, what's up?", "khoj");
   }
   async toggleChatSessions(forceShow = false) {
     var _a;
+    this.userMessages = [];
     let chatBodyEl = this.contentEl.getElementsByClassName("khoj-chat-body")[0];
     if (!forceShow && ((_a = this.contentEl.getElementsByClassName("side-panel")) == null ? void 0 : _a.length) > 0) {
       chatBodyEl.innerHTML = "";
@@ -2144,7 +2162,16 @@ ${inferredQuery}`;
         chatLogs.forEach((chatLog) => {
           var _a2, _b2;
           this.renderMessageWithReferences(chatBodyEl, chatLog.message, chatLog.by, chatLog.context, chatLog.onlineContext, new Date(chatLog.created), (_a2 = chatLog.intent) == null ? void 0 : _a2.type, (_b2 = chatLog.intent) == null ? void 0 : _b2["inferred-queries"]);
+          if (chatLog.by === "you") {
+            this.userMessages.push(chatLog.message);
+          }
         });
+        const modifierKey = import_obsidian5.Platform.isMacOS ? "\u2318" : "^";
+        this.startingMessage = this.userMessages.length > 0 ? `(${modifierKey}+\u2191/\u2193) for prev messages` : "Message";
+        const chatInput = this.contentEl.querySelector(".khoj-chat-input");
+        if (chatInput) {
+          chatInput.placeholder = this.startingMessage;
+        }
       }
     } catch (err) {
       let errorMsg = "Unable to get response from Khoj server \u2764\uFE0F\u200D\u{1FA79}. Ensure server is running or contact developers for help at [team@khoj.dev](mailto:team@khoj.dev) or in [Discord](https://discord.gg/BDgyabRM6e)";
@@ -2451,6 +2478,8 @@ Content-Type: "application/octet-stream"\r
   onChatInput() {
     const chatInput = this.contentEl.getElementsByClassName("khoj-chat-input")[0];
     chatInput.value = chatInput.value.trimStart();
+    this.currentMessageIndex = -1;
+    this.currentUserInput = chatInput.value;
     this.autoResize();
   }
   autoResize() {
@@ -2560,6 +2589,26 @@ ${inferredQuery}`;
     referencesDiv.appendChild(referenceExpandButton);
     referencesDiv.appendChild(referenceSection);
     return referencesDiv;
+  }
+  handleArrowKeys(event) {
+    const chatInput = event.target;
+    const isModKey = import_obsidian5.Platform.isMacOS ? event.metaKey : event.ctrlKey;
+    if (isModKey && event.key === "ArrowUp") {
+      event.preventDefault();
+      if (this.currentMessageIndex < this.userMessages.length - 1) {
+        this.currentMessageIndex++;
+        chatInput.value = this.userMessages[this.userMessages.length - 1 - this.currentMessageIndex];
+      }
+    } else if (isModKey && event.key === "ArrowDown") {
+      event.preventDefault();
+      if (this.currentMessageIndex > 0) {
+        this.currentMessageIndex--;
+        chatInput.value = this.userMessages[this.userMessages.length - 1 - this.currentMessageIndex];
+      } else if (this.currentMessageIndex === 0) {
+        this.currentMessageIndex = -1;
+        chatInput.value = this.currentUserInput;
+      }
+    }
   }
 };
 
