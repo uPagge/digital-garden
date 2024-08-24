@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
+    },
+    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Диагностика HDD c использованием S.M.A.R.T.",
       "path": "_inbox/Диагностика HDD c использованием S.M.A.R.T..md"
-    },
-    {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
     },
     {
       "basename": "Настройка ротации логов в Docker",
