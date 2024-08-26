@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Мигрень.md",
-      "timestamp": 1724699985557
+      "timestamp": 1724701642990
+    },
+    {
+      "filepath": "knowledge/mindfulness/Практика дыхания.md",
+      "timestamp": 1724701640792
+    },
+    {
+      "filepath": "knowledge/human/Осознанность.md",
+      "timestamp": 1724701627562
+    },
+    {
+      "filepath": "knowledge/mindfulness/Йога.md",
+      "timestamp": 1724701626066
     },
     {
       "filepath": "_inbox/Головная боль.md",
       "timestamp": 1724699978091
-    },
-    {
-      "filepath": "checklists/Проверка лекарства.md",
-      "timestamp": 1724699971160
-    },
-    {
-      "filepath": "knowledge/health/лекарства/Фуфломицины.md",
-      "timestamp": 1724698300518
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1724697639885
     }
   ],
   "bookmarkedFileStore": [],

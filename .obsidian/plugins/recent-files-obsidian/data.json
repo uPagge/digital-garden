@@ -5,6 +5,18 @@
       "path": "_inbox/Мигрень.md"
     },
     {
+      "basename": "Практика дыхания",
+      "path": "knowledge/mindfulness/Практика дыхания.md"
+    },
+    {
+      "basename": "Осознанность",
+      "path": "knowledge/human/Осознанность.md"
+    },
+    {
+      "basename": "Йога",
+      "path": "knowledge/mindfulness/Йога.md"
+    },
+    {
       "basename": "Головная боль",
       "path": "_inbox/Головная боль.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Мокрая стяжка пола",
       "path": "Мокрая стяжка пола.md"
-    },
-    {
-      "basename": "00 Ремонт",
-      "path": "wiki/zero/00 Ремонт.md"
-    },
-    {
-      "basename": "Виброизоляционное крепление",
-      "path": "_inbox/Виброизоляционное крепление.md"
-    },
-    {
-      "basename": "Уроки от English Galaxy",
-      "path": "_inbox/Уроки от English Galaxy.md"
     }
   ],
   "omittedPaths": [],
