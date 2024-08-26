@@ -49,3 +49,28 @@ services:
     depends_on:
       - "kafka"
 ```
+
+```
+docker-compose up -d
+```
+
+```
+docker exec -it kafka-test-kafka-1 bash
+```
+
+Создание топика
+```
+kafka-topics --bootstrap-server localhost:9092 --topic test --create
+```
+
+```
+kafka-topics --bootstrap-server localhost:9092 --list
+```
+
+```
+kafka-console-consumer --bootstrap-server localhost:9092 --topic test
+```
+
+```
+kafka-console-producer --bootstrap-server localhost:9092 --topic test
+```
