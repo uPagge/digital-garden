@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Апноэ во сне",
+      "path": "knowledge/health/болезни/Апноэ во сне.md"
+    },
+    {
+      "basename": "Храп",
+      "path": "knowledge/health/болезни/Храп.md"
+    },
+    {
+      "basename": "Расстройства сна",
+      "path": "knowledge/health/болезни/Расстройства сна.md"
+    },
+    {
+      "basename": "Недосып",
+      "path": "knowledge/health/болезни/Недосып.md"
+    },
+    {
       "basename": "Бессонница",
       "path": "knowledge/health/болезни/Бессонница.md"
+    },
+    {
+      "basename": "Сон",
+      "path": "knowledge/health/Сон.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Когнетивно-поведенческая теропия",
@@ -55,10 +79,6 @@
     {
       "basename": "Конфигурация Kafka",
       "path": "_inbox/Конфигурация Kafka.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Параметры улучшения звукоизоляции",
@@ -179,26 +199,6 @@
     {
       "basename": "Ужасы во сне",
       "path": "_inbox/Ужасы во сне.md"
-    },
-    {
-      "basename": "Ментальное здоровье",
-      "path": "knowledge/human/Ментальное здоровье.md"
-    },
-    {
-      "basename": "Без названия 4",
-      "path": "Без названия 4.md"
-    },
-    {
-      "basename": "Моя оценка на рынке труда",
-      "path": "_inbox/Моя оценка на рынке труда.md"
-    },
-    {
-      "basename": "LVM",
-      "path": "_inbox/LVM.md"
-    },
-    {
-      "basename": "2024-03-10 1710051533",
-      "path": "_inbox/2024-03-10 1710051533.md"
     }
   ],
   "omittedPaths": [],
