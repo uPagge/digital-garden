@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/00 Kafka.md",
+      "timestamp": 1724666538643
+    },
+    {
       "filepath": "knowledge/health/болезни/Бессонница.md",
       "timestamp": 1724652480459
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Звукоизоляция квартиры.md",
       "timestamp": 1724651998258
-    },
-    {
-      "filepath": "_inbox/Плавающий пол.md",
-      "timestamp": 1724651935432
     }
   ],
   "bookmarkedFileStore": [],
