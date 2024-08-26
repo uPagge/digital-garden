@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Kafka Topic Partition",
+      "path": "_inbox/Kafka Topic Partition.md"
+    },
+    {
+      "basename": "Consumer Group",
+      "path": "_inbox/Consumer Group.md"
+    },
+    {
+      "basename": "Kafka Topic",
+      "path": "_inbox/Kafka Topic.md"
+    },
+    {
+      "basename": "00 Kafka",
+      "path": "_inbox/00 Kafka.md"
+    },
+    {
       "basename": "Запуск Kafka в docker-compose",
       "path": "_inbox/Запуск Kafka в docker-compose.md"
     },
     {
       "basename": "Конфигурация Kafka",
       "path": "_inbox/Конфигурация Kafka.md"
-    },
-    {
-      "basename": "00 Kafka",
-      "path": "_inbox/00 Kafka.md"
     },
     {
       "basename": "Бессонница",
@@ -187,18 +199,6 @@
     {
       "basename": "Ремонт потолка",
       "path": "_inbox/Ремонт потолка.md"
-    },
-    {
-      "basename": "Обои на потолке",
-      "path": "_inbox/Обои на потолке.md"
-    },
-    {
-      "basename": "Штукатурка потолка",
-      "path": "_inbox/Штукатурка потолка.md"
-    },
-    {
-      "basename": "Покраска потолка",
-      "path": "_inbox/Покраска потолка.md"
     }
   ],
   "omittedPaths": [],

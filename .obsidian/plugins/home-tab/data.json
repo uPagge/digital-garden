@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Docker-compose для запуска Kafka.md",
-      "timestamp": 1724667335922
+      "filepath": "_inbox/Kafka Topic Partition.md",
+      "timestamp": 1724668068064
     },
     {
-      "filepath": "_inbox/Конфигурация Kafka.md",
-      "timestamp": 1724667335329
+      "filepath": "_inbox/Consumer Group.md",
+      "timestamp": 1724668060321
+    },
+    {
+      "filepath": "_inbox/Kafka Topic.md",
+      "timestamp": 1724667955147
     },
     {
       "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1724667109342
+      "timestamp": 1724667944406
     },
     {
-      "filepath": "knowledge/health/болезни/Бессонница.md",
-      "timestamp": 1724652480459
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1724652476359
+      "filepath": "_inbox/Запуск Kafka в docker-compose.md",
+      "timestamp": 1724667335922
     }
   ],
   "bookmarkedFileStore": [],
