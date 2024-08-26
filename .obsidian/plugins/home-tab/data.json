@@ -24,7 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-08-26 1724697645.md",
+      "filepath": "checklists/Проверка лекарства.md",
+      "timestamp": 1724698235414
+    },
+    {
+      "filepath": "knowledge/health/лекарства/Фуфломицины.md",
+      "timestamp": 1724698233427
+    },
+    {
+      "filepath": "_inbox/Головная боль.md",
       "timestamp": 1724697645668
     },
     {
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Центральное апноэ во сне.md",
       "timestamp": 1724697639372
-    },
-    {
-      "filepath": "_inbox/Обструктивное апноэ во сне.md",
-      "timestamp": 1724697638886
-    },
-    {
-      "filepath": "knowledge/health/болезни/Апноэ во сне.md",
-      "timestamp": 1724697225604
     }
   ],
   "bookmarkedFileStore": [],

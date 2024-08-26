@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Проверка лекарства",
+      "path": "checklists/Проверка лекарства.md"
+    },
+    {
+      "basename": "Фуфломицины",
+      "path": "knowledge/health/лекарства/Фуфломицины.md"
+    },
+    {
       "basename": "Головная боль",
       "path": "_inbox/Головная боль.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Полезные фразы",
       "path": "knowledge/english/Полезные фразы.md"
-    },
-    {
-      "basename": "Утилита ngrok",
-      "path": "_inbox/Утилита ngrok.md"
-    },
-    {
-      "basename": "Эротическая игра в телеграме для пар",
-      "path": "notes/Эротическая игра в телеграме для пар.md"
     }
   ],
   "omittedPaths": [],
