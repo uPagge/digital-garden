@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Бессонница",
+      "path": "knowledge/health/болезни/Бессонница.md"
+    },
+    {
+      "basename": "00 Kafka",
+      "path": "_inbox/00 Kafka.md"
+    },
+    {
       "basename": "NATS",
       "path": "NATS.md"
     },
     {
       "basename": "Брокер сообщений",
       "path": "_inbox/Брокер сообщений.md"
-    },
-    {
-      "basename": "00 Kafka",
-      "path": "_inbox/00 Kafka.md"
     },
     {
       "basename": "Kafka Offset",
@@ -35,10 +39,6 @@
     {
       "basename": "Конфигурация Kafka",
       "path": "_inbox/Конфигурация Kafka.md"
-    },
-    {
-      "basename": "Бессонница",
-      "path": "knowledge/health/болезни/Бессонница.md"
     },
     {
       "basename": "Home",

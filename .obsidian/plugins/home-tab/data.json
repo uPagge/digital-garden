@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/health/болезни/Бессонница.md",
+      "timestamp": 1724694197749
+    },
+    {
+      "filepath": "_inbox/00 Kafka.md",
+      "timestamp": 1724694191157
+    },
+    {
       "filepath": "NATS.md",
       "timestamp": 1724669598086
     },
@@ -32,16 +40,8 @@
       "timestamp": 1724669596221
     },
     {
-      "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1724669502055
-    },
-    {
       "filepath": "_inbox/Kafka Offset.md",
       "timestamp": 1724669040638
-    },
-    {
-      "filepath": "_inbox/Kafka Topic Partition.md",
-      "timestamp": 1724668117126
     }
   ],
   "bookmarkedFileStore": [],
