@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "NATS",
+      "path": "NATS.md"
+    },
+    {
+      "basename": "Брокер сообщений",
+      "path": "_inbox/Брокер сообщений.md"
+    },
+    {
+      "basename": "00 Kafka",
+      "path": "_inbox/00 Kafka.md"
+    },
+    {
       "basename": "Kafka Offset",
       "path": "_inbox/Kafka Offset.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Kafka Topic",
       "path": "_inbox/Kafka Topic.md"
-    },
-    {
-      "basename": "00 Kafka",
-      "path": "_inbox/00 Kafka.md"
     },
     {
       "basename": "Запуск Kafka в docker-compose",
@@ -191,14 +199,6 @@
     {
       "basename": "Стена из гипсокартона",
       "path": "_inbox/Стена из гипсокартона.md"
-    },
-    {
-      "basename": "Виды обоев",
-      "path": "Виды обоев.md"
-    },
-    {
-      "basename": "Обои на стене",
-      "path": "_inbox/Обои на стене.md"
     }
   ],
   "omittedPaths": [],

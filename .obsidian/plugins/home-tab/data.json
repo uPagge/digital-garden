@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-08-26 1724669040.md",
+      "filepath": "NATS.md",
+      "timestamp": 1724669598086
+    },
+    {
+      "filepath": "_inbox/Брокер сообщений.md",
+      "timestamp": 1724669596221
+    },
+    {
+      "filepath": "_inbox/00 Kafka.md",
+      "timestamp": 1724669502055
+    },
+    {
+      "filepath": "_inbox/Kafka Offset.md",
       "timestamp": 1724669040638
     },
     {
       "filepath": "_inbox/Kafka Topic Partition.md",
       "timestamp": 1724668117126
-    },
-    {
-      "filepath": "_inbox/Consumer Group.md",
-      "timestamp": 1724668093407
-    },
-    {
-      "filepath": "_inbox/Kafka Topic.md",
-      "timestamp": 1724667955147
-    },
-    {
-      "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1724667944406
     }
   ],
   "bookmarkedFileStore": [],
