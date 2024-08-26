@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Синдром беспокойных ног",
-      "path": "knowledge/health/болезни/Синдром беспокойных ног.md"
+      "basename": "2024-08-26 1724695509",
+      "path": "_inbox/2024-08-26 1724695509.md"
+    },
+    {
+      "basename": "Когнетивно-поведенческая теропия",
+      "path": "_inbox/Когнетивно-поведенческая теропия.md"
+    },
+    {
+      "basename": "Когнетивно-поведенческая теропия для коррекции сна",
+      "path": "knowledge/health/other/Когнетивно-поведенческая теропия для коррекции сна.md"
     },
     {
       "basename": "Бессонница",
       "path": "knowledge/health/болезни/Бессонница.md"
+    },
+    {
+      "basename": "Синдром беспокойных ног",
+      "path": "knowledge/health/болезни/Синдром беспокойных ног.md"
     },
     {
       "basename": "00 Kafka",
@@ -187,18 +199,6 @@
     {
       "basename": "2024-03-10 1710051533",
       "path": "_inbox/2024-03-10 1710051533.md"
-    },
-    {
-      "basename": "Raspbbery PI Four",
-      "path": "_inbox/Raspbbery PI Four.md"
-    },
-    {
-      "basename": "Диагностика HDD c использованием S.M.A.R.T.",
-      "path": "_inbox/Диагностика HDD c использованием S.M.A.R.T..md"
-    },
-    {
-      "basename": "Настройка ротации логов в Docker",
-      "path": "_inbox/Настройка ротации логов в Docker.md"
     }
   ],
   "omittedPaths": [],

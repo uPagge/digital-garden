@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "knowledge/health/болезни/Синдром беспокойных ног.md",
-      "timestamp": 1724694948731
+      "filepath": "_inbox/2024-08-26 1724695509.md",
+      "timestamp": 1724695509097
+    },
+    {
+      "filepath": "_inbox/Когнетивно-поведенческая теропия.md",
+      "timestamp": 1724695506227
+    },
+    {
+      "filepath": "knowledge/health/other/Когнетивно-поведенческая теропия для коррекции сна.md",
+      "timestamp": 1724695492279
     },
     {
       "filepath": "knowledge/health/болезни/Бессонница.md",
-      "timestamp": 1724694197749
+      "timestamp": 1724695369885
     },
     {
-      "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1724694191157
-    },
-    {
-      "filepath": "NATS.md",
-      "timestamp": 1724669598086
-    },
-    {
-      "filepath": "_inbox/Брокер сообщений.md",
-      "timestamp": 1724669596221
+      "filepath": "knowledge/health/болезни/Синдром беспокойных ног.md",
+      "timestamp": 1724694948731
     }
   ],
   "bookmarkedFileStore": [],
