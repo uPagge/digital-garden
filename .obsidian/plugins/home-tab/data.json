@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/2024-08-26 1724669040.md",
+      "timestamp": 1724669040638
+    },
+    {
       "filepath": "_inbox/Kafka Topic Partition.md",
       "timestamp": 1724668117126
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/00 Kafka.md",
       "timestamp": 1724667944406
-    },
-    {
-      "filepath": "_inbox/Запуск Kafka в docker-compose.md",
-      "timestamp": 1724667335922
     }
   ],
   "bookmarkedFileStore": [],

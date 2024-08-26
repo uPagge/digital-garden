@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kafka Offset",
+      "path": "_inbox/Kafka Offset.md"
+    },
+    {
       "basename": "Kafka Topic Partition",
       "path": "_inbox/Kafka Topic Partition.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Обои на стене",
       "path": "_inbox/Обои на стене.md"
-    },
-    {
-      "basename": "Ремонт потолка",
-      "path": "_inbox/Ремонт потолка.md"
     }
   ],
   "omittedPaths": [],
