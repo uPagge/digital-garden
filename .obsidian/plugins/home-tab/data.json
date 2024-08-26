@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/health/болезни/Синдром беспокойных ног.md",
+      "timestamp": 1724694948731
+    },
+    {
       "filepath": "knowledge/health/болезни/Бессонница.md",
       "timestamp": 1724694197749
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Брокер сообщений.md",
       "timestamp": 1724669596221
-    },
-    {
-      "filepath": "_inbox/Kafka Offset.md",
-      "timestamp": 1724669040638
     }
   ],
   "bookmarkedFileStore": [],

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Синдром беспокойных ног",
+      "path": "knowledge/health/болезни/Синдром беспокойных ног.md"
+    },
+    {
       "basename": "Бессонница",
       "path": "knowledge/health/болезни/Бессонница.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Настройка ротации логов в Docker",
       "path": "_inbox/Настройка ротации логов в Docker.md"
-    },
-    {
-      "basename": "Стена из гипсокартона",
-      "path": "_inbox/Стена из гипсокартона.md"
     }
   ],
   "omittedPaths": [],
