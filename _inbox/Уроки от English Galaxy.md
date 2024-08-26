@@ -119,3 +119,5 @@ linked:
 		- [Урок 22. Грамматика](https://youtu.be/7CaU_XuFLyY)
 		- [Урок 22. Полезные фразы](https://youtu.be/EIsQnVstwMU)
 		- [Урок 22. Разговорные ситуации](https://youtu.be/0Vp1kgB57rc)
+		- [Урок 22. Диалоги](https://youtu.be/cNGrWkzIo1E)
+	- 
