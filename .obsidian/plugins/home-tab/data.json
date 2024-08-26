@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1724666538643
+      "timestamp": 1724666704047
+    },
+    {
+      "filepath": "_inbox/Docker-compose для запуска Kafka.md",
+      "timestamp": 1724666627185
     },
     {
       "filepath": "knowledge/health/болезни/Бессонница.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Параметры улучшения звукоизоляции.md",
       "timestamp": 1724652252794
-    },
-    {
-      "filepath": "_inbox/Звукоизоляция квартиры.md",
-      "timestamp": 1724651998258
     }
   ],
   "bookmarkedFileStore": [],

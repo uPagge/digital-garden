@@ -5,6 +5,10 @@
       "path": "_inbox/00 Kafka.md"
     },
     {
+      "basename": "Docker-compose для запуска Kafka",
+      "path": "_inbox/Docker-compose для запуска Kafka.md"
+    },
+    {
       "basename": "Бессонница",
       "path": "knowledge/health/болезни/Бессонница.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Покраска стен",
       "path": "_inbox/Покраска стен.md"
-    },
-    {
-      "basename": "Строительные краски",
-      "path": "_inbox/Строительные краски.md"
     }
   ],
   "omittedPaths": [],
