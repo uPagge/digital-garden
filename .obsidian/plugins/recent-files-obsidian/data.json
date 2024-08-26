@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Обструктивное апноэ во сне",
+      "path": "_inbox/Обструктивное апноэ во сне.md"
+    },
+    {
       "basename": "Апноэ во сне",
       "path": "knowledge/health/болезни/Апноэ во сне.md"
+    },
+    {
+      "basename": "Центральное апноэ во сне",
+      "path": "_inbox/Центральное апноэ во сне.md"
     },
     {
       "basename": "Похудение",
@@ -191,14 +199,6 @@
     {
       "basename": "Депрессия",
       "path": "knowledge/health/болезни/Депрессия.md"
-    },
-    {
-      "basename": "Кошмар",
-      "path": "_inbox/Кошмар.md"
-    },
-    {
-      "basename": "Шизофрения",
-      "path": "knowledge/health/болезни/Шизофрения.md"
     }
   ],
   "omittedPaths": [],
