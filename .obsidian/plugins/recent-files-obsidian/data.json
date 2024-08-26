@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Звукоизоляция квартиры",
+      "path": "_inbox/Звукоизоляция квартиры.md"
+    },
+    {
+      "basename": "Структурный шум",
+      "path": "_inbox/Структурный шум.md"
+    },
+    {
+      "basename": "Воздушный шум",
+      "path": "_inbox/Воздушный шум.md"
+    },
+    {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
     },
@@ -79,10 +91,6 @@
     {
       "basename": "Минеральная вата",
       "path": "_inbox/Минеральная вата.md"
-    },
-    {
-      "basename": "Звукоизоляция квартиры",
-      "path": "_inbox/Звукоизоляция квартиры.md"
     },
     {
       "basename": "Звукопоглощающие вибродемпфирующие маты",
@@ -191,14 +199,6 @@
     {
       "basename": "Сновидения",
       "path": "knowledge/health/сон/Сновидения.md"
-    },
-    {
-      "basename": "Сон",
-      "path": "knowledge/health/Сон.md"
-    },
-    {
-      "basename": "Стресс",
-      "path": "knowledge/human/Стресс.md"
     }
   ],
   "omittedPaths": [],
