@@ -5,6 +5,14 @@
       "path": "knowledge/health/болезни/Апноэ во сне.md"
     },
     {
+      "basename": "Похудение",
+      "path": "knowledge/health/питание/Похудение.md"
+    },
+    {
+      "basename": "Влажность воздуха в помещении",
+      "path": "knowledge/health/other/Влажность воздуха в помещении.md"
+    },
+    {
       "basename": "Храп",
       "path": "knowledge/health/болезни/Храп.md"
     },
@@ -13,16 +21,16 @@
       "path": "knowledge/health/болезни/Расстройства сна.md"
     },
     {
+      "basename": "Сон",
+      "path": "knowledge/health/Сон.md"
+    },
+    {
       "basename": "Недосып",
       "path": "knowledge/health/болезни/Недосып.md"
     },
     {
       "basename": "Бессонница",
       "path": "knowledge/health/болезни/Бессонница.md"
-    },
-    {
-      "basename": "Сон",
-      "path": "knowledge/health/Сон.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "Шизофрения",
       "path": "knowledge/health/болезни/Шизофрения.md"
-    },
-    {
-      "basename": "Психические заболевания",
-      "path": "_inbox/Психические заболевания.md"
-    },
-    {
-      "basename": "Ужасы во сне",
-      "path": "_inbox/Ужасы во сне.md"
     }
   ],
   "omittedPaths": [],
