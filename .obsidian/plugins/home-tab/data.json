@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/Звукоизоляция квартиры.md",
-      "timestamp": 1724651456700
+      "timestamp": 1724651756070
+    },
+    {
+      "filepath": "_inbox/Шум в квартире.md",
+      "timestamp": 1724651548592
     },
     {
       "filepath": "_inbox/Минеральная вата.md",
-      "timestamp": 1724651426784
+      "timestamp": 1724651513436
     },
     {
       "filepath": "_inbox/Звукопоглощающие вибродемпфирующие маты.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Стяжка пола.md",
       "timestamp": 1724651389304
-    },
-    {
-      "filepath": "_inbox/Битумно-полимерные материалы со звукоизоляцией.md",
-      "timestamp": 1724651334572
     }
   ],
   "bookmarkedFileStore": [],
