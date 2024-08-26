@@ -63,14 +63,17 @@ docker exec -it kafka-test-kafka-1 bash
 kafka-topics --bootstrap-server localhost:9092 --topic test --create
 ```
 
+Посмотреть список топиков
 ```
 kafka-topics --bootstrap-server localhost:9092 --list
 ```
 
+Добавляет консьюмера
 ```
 kafka-console-consumer --bootstrap-server localhost:9092 --topic test
 ```
 
+Позволяет добавить продюсера и отправить сообщение
 ```
 kafka-console-producer --bootstrap-server localhost:9092 --topic test
 ```
