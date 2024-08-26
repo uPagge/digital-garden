@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Звукоизоляция квартиры",
-      "path": "_inbox/Звукоизоляция квартиры.md"
+      "basename": "Ремонт пола",
+      "path": "_inbox/Ремонт пола.md"
     },
     {
-      "basename": "Звукоизоляционные панели",
-      "path": "_inbox/Звукоизоляционные панели.md"
+      "basename": "00 Ремонт",
+      "path": "wiki/zero/00 Ремонт.md"
+    },
+    {
+      "basename": "Теплый пол",
+      "path": "_inbox/Теплый пол.md"
+    },
+    {
+      "basename": "Наливной пол",
+      "path": "_inbox/Наливной пол.md"
+    },
+    {
+      "basename": "Стяжка пола",
+      "path": "_inbox/Стяжка пола.md"
+    },
+    {
+      "basename": "Звукоизоляция пола",
+      "path": "_inbox/Звукоизоляция пола.md"
     },
     {
       "basename": "Система комната в комнате",
@@ -15,6 +31,18 @@
     {
       "basename": "Структурный шум",
       "path": "_inbox/Структурный шум.md"
+    },
+    {
+      "basename": "Виброизоляционное крепление",
+      "path": "_inbox/Виброизоляционное крепление.md"
+    },
+    {
+      "basename": "Звукоизоляция квартиры",
+      "path": "_inbox/Звукоизоляция квартиры.md"
+    },
+    {
+      "basename": "Звукоизоляционные панели",
+      "path": "_inbox/Звукоизоляционные панели.md"
     },
     {
       "basename": "Воздушный шум",
@@ -117,10 +145,6 @@
       "path": "_inbox/Вспененный пенополиэтилен.md"
     },
     {
-      "basename": "00 Ремонт",
-      "path": "wiki/zero/00 Ремонт.md"
-    },
-    {
       "basename": "Виды обоев",
       "path": "Виды обоев.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "00 Linux",
       "path": "wiki/zero/00 Linux.md"
-    },
-    {
-      "basename": "Очистка мусора в Docker",
-      "path": "_inbox/Очистка мусора в Docker.md"
-    },
-    {
-      "basename": "Ручная очистка docker overlay2",
-      "path": "_inbox/Ручная очистка docker overlay2.md"
-    },
-    {
-      "basename": "Команды Docker",
-      "path": "_inbox/Команды Docker.md"
-    },
-    {
-      "basename": "Структура хранилища файлов Docker",
-      "path": "_inbox/Структура хранилища файлов Docker.md"
-    },
-    {
-      "basename": "Структура хранения файлов в Linux",
-      "path": "_inbox/Структура хранения файлов в Linux.md"
-    },
-    {
-      "basename": "2024-08-21 1724216319",
-      "path": "_inbox/2024-08-21 1724216319.md"
     }
   ],
   "omittedPaths": [],
