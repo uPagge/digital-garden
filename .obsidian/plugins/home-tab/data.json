@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Мигрень.md",
+      "timestamp": 1724699985557
+    },
+    {
       "filepath": "_inbox/Головная боль.md",
-      "timestamp": 1724698556348
+      "timestamp": 1724699978091
     },
     {
       "filepath": "checklists/Проверка лекарства.md",
-      "timestamp": 1724698302352
+      "timestamp": 1724699971160
     },
     {
       "filepath": "knowledge/health/лекарства/Фуфломицины.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Home.md",
       "timestamp": 1724697639885
-    },
-    {
-      "filepath": "_inbox/Центральное апноэ во сне.md",
-      "timestamp": 1724697639372
     }
   ],
   "bookmarkedFileStore": [],

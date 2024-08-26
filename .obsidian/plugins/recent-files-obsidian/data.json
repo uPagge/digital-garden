@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Мигрень",
+      "path": "_inbox/Мигрень.md"
+    },
+    {
       "basename": "Головная боль",
       "path": "_inbox/Головная боль.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
-    },
-    {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
     }
   ],
   "omittedPaths": [],
