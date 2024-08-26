@@ -120,4 +120,5 @@ linked:
 		- [Урок 22. Полезные фразы](https://youtu.be/EIsQnVstwMU)
 		- [Урок 22. Разговорные ситуации](https://youtu.be/0Vp1kgB57rc)
 		- [Урок 22. Диалоги](https://youtu.be/cNGrWkzIo1E)
-	- 
+	- Урок 23 Грамматические структуры 2 – Do, Let's do
+		- [Урок 23. Грамматика](https://youtu.be/ssvI5Lm4sLE)
