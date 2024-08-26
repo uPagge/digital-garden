@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "_inbox/00 Kafka.md",
-      "timestamp": 1724666704047
+      "timestamp": 1724667109342
+    },
+    {
+      "filepath": "_inbox/Конфигурация Kafka.md",
+      "timestamp": 1724666977090
     },
     {
       "filepath": "_inbox/Docker-compose для запуска Kafka.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Home.md",
       "timestamp": 1724652476359
-    },
-    {
-      "filepath": "_inbox/Параметры улучшения звукоизоляции.md",
-      "timestamp": 1724652252794
     }
   ],
   "bookmarkedFileStore": [],
