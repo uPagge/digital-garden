@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Мигрень",
       "path": "_inbox/Мигрень.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Фуфломицины",
       "path": "knowledge/health/лекарства/Фуфломицины.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Центральное апноэ во сне",
