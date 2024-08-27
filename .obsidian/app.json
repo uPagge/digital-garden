@@ -45,5 +45,6 @@
   ],
   "readableLineLength": true,
   "defaultViewMode": "source",
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "absolute"
 }
