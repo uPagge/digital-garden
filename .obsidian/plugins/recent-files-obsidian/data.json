@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Сон",
+      "path": "knowledge/health/Сон.md"
+    },
+    {
+      "basename": "Уроки от English Galaxy",
+      "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Расстройства сна",
       "path": "knowledge/health/болезни/Расстройства сна.md"
-    },
-    {
-      "basename": "Сон",
-      "path": "knowledge/health/Сон.md"
     },
     {
       "basename": "Недосып",
@@ -195,10 +199,6 @@
     {
       "basename": "Наливной пол",
       "path": "_inbox/Наливной пол.md"
-    },
-    {
-      "basename": "Мокрая стяжка пола",
-      "path": "Мокрая стяжка пола.md"
     }
   ],
   "omittedPaths": [],
