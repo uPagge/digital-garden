@@ -128,3 +128,4 @@ linked:
 	- Урок 24 [Present Continuous](_inbox/Present%20Continuous.md). Настоящее длительное время
 		- [Урок 24. Грамматика](https://youtu.be/tnSzJktU7Ew)
 		- [Урок 24. Полезные фразы](https://youtu.be/In-e4aaHYqQ)
+		- [Урок 24. Разговорные ситуации](https://youtu.be/1SUxtBBOBpE)
