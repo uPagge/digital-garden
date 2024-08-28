@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "projects/Ремонт квартиры/Идеи для ремонта.md",
+      "timestamp": 1724825309090
+    },
+    {
       "filepath": "_inbox/Межкомнатные двери.md",
-      "timestamp": 1724825037690
+      "timestamp": 1724825291391
+    },
+    {
+      "filepath": "notes/Идеи для статей.md",
+      "timestamp": 1724825162979
     },
     {
       "filepath": "wiki/zero/00 Ремонт.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Входная деверь.md",
       "timestamp": 1724824967471
-    },
-    {
-      "filepath": "_inbox/Приемка квартиры с черновым ремонтом.md",
-      "timestamp": 1724824919835
-    },
-    {
-      "filepath": "_inbox/Дверной замок.md",
-      "timestamp": 1724824816483
     }
   ],
   "bookmarkedFileStore": [],
