@@ -124,3 +124,4 @@ linked:
 		- [Урок 23. Грамматика](https://youtu.be/ssvI5Lm4sLE)
 		- [Урок 23. Полезные фразы](https://youtu.be/g2GD7QUolgA)
 		- [Урок 23. Разговорные ситуации](https://youtu.be/qQwXR1q46ao)
+		- [Урок 23. Диалоги](https://youtu.be/F2pm1LBTXig)
