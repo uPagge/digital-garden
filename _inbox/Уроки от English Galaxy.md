@@ -60,7 +60,7 @@ linked:
 		- [Урок 10. Полезные фразы](https://youtu.be/tm6szX_ebGg)
 		- [Урок 10. Разговорные ситуации](https://youtu.be/IcfhXa4ffNc)
 		- [Урок 10. Диалоги](https://youtu.be/2QKJ-oM3QOs)
-	- Урок 11 Past Simple. Простое прошедшее время правильные глаголы
+	- Урок 11 [Past Simple](knowledge/english/Past%20Simple.md). Простое прошедшее время правильные глаголы
 		- [Урок 11. Грамматика](https://youtu.be/dV_HSUFx3SY)
 		- [Урок 11. Полезные фразы](https://youtu.be/Qhhbpo_TMvI)
 		- [Урок 11. Разговорные ситуации](https://youtu.be/Kj2iz_yajUM)
@@ -70,27 +70,27 @@ linked:
 		- [Урок 12. Полезные фразы](https://youtu.be/anKedENiIJc)
 		- [Урок 12. Разговорные ситуации](https://youtu.be/-et1NF1Cqgw)
 		- [Урок 12. Диалоги](https://youtu.be/dFOtcFQegvM)
-	- Урок 13 Past Simple – неправильные глаголы 2
+	- Урок 13 [Past Simple](knowledge/english/Past%20Simple.md) – неправильные глаголы 2
 		- [Урок 13. Грамматика](https://youtu.be/dc9GuYACdiQ)
 		- [Урок 13. Полезные фразы](https://youtu.be/FD_Mx_P9ouQ)
 		- [Урок 13. Разговорные ситуации](https://youtu.be/pMNlE60bhHQ)
 		- [Урок 13. Диалоги](https://youtu.be/vtzDn4KxlKs)
-	- Урок 14 Past Simple – didn't
+	- Урок 14 [Past Simple](knowledge/english/Past%20Simple.md) – didn't
 		- [Урок 14. Грамматика](https://youtu.be/U57cc6Iso98)
 		- [Урок 14. Полезные фразы](https://youtu.be/O-5_Rqafn-Q)
 		- [Урок 14. Разговорные ситуации](https://youtu.be/0tjhlTA9_dA)
 		- [Урок 14. Диалоги](https://youtu.be/-QCl4bhZdn8)
-	- Урок 15 Past Simple – Did
+	- Урок 15 [Past Simple](knowledge/english/Past%20Simple.md) – Did
 		- [Урок 15. Грамматика](https://youtu.be/8ely4UVwp4s)
 		- [Урок 15. Полезные фразы](https://youtu.be/zEBZFKvLhtA)
 		- [Урок 15. Разговорные ситуации](https://youtu.be/7_7KP6ryD90)
 		- [Урок 15. Диалоги](https://youtu.be/VpFu1nRSZM4)
-	- Урок 16 Past Simple – специальный вопрос с обычным глаголом
+	- Урок 16 [Past Simple](knowledge/english/Past%20Simple.md) – специальный вопрос с обычным глаголом
 		- [Урок 16. Грамматика](https://youtu.be/T51J2o050U0)
 		- [Урок 16. Полезные фразы](https://youtu.be/s_3geFTM-j8)
 		- [Урок 16. Разговорные ситуации](https://youtu.be/CVgDYHbW1x8)
 		- [Урок 16. Диалоги](https://youtu.be/w1OkkRpgjOE)
-	- Урок 17 Past Simple – was / were
+	- Урок 17 [Past Simple](knowledge/english/Past%20Simple.md) – was / were
 		- [Урок 17. Грамматика](https://youtu.be/ijJmnc0JWyk)
 		- [Урок 17. Полезные фразы](https://youtu.be/_VsQl6An_54)
 		- [Урок 17. Разговорные ситуации](https://youtu.be/7MwqYp6wQ_8)
@@ -125,4 +125,5 @@ linked:
 		- [Урок 23. Полезные фразы](https://youtu.be/g2GD7QUolgA)
 		- [Урок 23. Разговорные ситуации](https://youtu.be/qQwXR1q46ao)
 		- [Урок 23. Диалоги](https://youtu.be/F2pm1LBTXig)
-	- Урок 24 Present Continuous. Настоящее длительное время
+	- Урок 24 [Present Continuous](_inbox/Present%20Continuous.md). Настоящее длительное время
+		- [Урок 24. Грамматика](https://youtu.be/tnSzJktU7Ew)

@@ -12,6 +12,6 @@ linked:
 ---
 - [Past Simple](knowledge/english/Past%20Simple.md)
 - [Present Simple](Present%20Simple.md)
-- [Будущее время](Будущее%20время.md)
+- [Feature Simple](knowledge/english/Feature%20Simple.md)
 
 ![800](Pasted%20image%2020240217110843.png)

@@ -9,7 +9,7 @@ date:
 zero-link:
   - "[[00 English]]"
 parents:
-  - "[[Времена в Английском языке]]"
+  - "[[knowledge/english/Simple|Simple]]"
 linked:
   - "[[Present Continuous]]"
 ---

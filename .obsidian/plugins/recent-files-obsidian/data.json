@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Уроки от English Galaxy",
-      "path": "_inbox/Уроки от English Galaxy.md"
+      "basename": "Времена в Английском языке",
+      "path": "knowledge/english/Времена в Английском языке.md"
+    },
+    {
+      "basename": "Simple",
+      "path": "knowledge/english/Simple.md"
+    },
+    {
+      "basename": "Feature Simple",
+      "path": "knowledge/english/Feature Simple.md"
+    },
+    {
+      "basename": "Present Simple",
+      "path": "knowledge/english/Present Simple.md"
     },
     {
       "basename": "Past Simple",
       "path": "knowledge/english/Past Simple.md"
+    },
+    {
+      "basename": "Present Continuous",
+      "path": "_inbox/Present Continuous.md"
+    },
+    {
+      "basename": "Уроки от English Galaxy",
+      "path": "_inbox/Уроки от English Galaxy.md"
     },
     {
       "basename": "Home",
@@ -175,30 +195,6 @@
     {
       "basename": "Полезные фразы",
       "path": "knowledge/english/Полезные фразы.md"
-    },
-    {
-      "basename": "Мелатонин",
-      "path": "knowledge/human/гормоны/Мелатонин.md"
-    },
-    {
-      "basename": "Present Continuous",
-      "path": "_inbox/Present Continuous.md"
-    },
-    {
-      "basename": "00 Java разработка",
-      "path": "wiki/zero/00 Java разработка.md"
-    },
-    {
-      "basename": "Garbage Collector",
-      "path": "knowledge/dev/java/gc/Garbage Collector.md"
-    },
-    {
-      "basename": "Осознанность",
-      "path": "knowledge/human/Осознанность.md"
-    },
-    {
-      "basename": "Йога",
-      "path": "knowledge/mindfulness/Йога.md"
     }
   ],
   "omittedPaths": [],
