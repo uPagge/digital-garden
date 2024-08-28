@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Курс. Как сделать ремонт и не сойти с ума",
+      "path": "source/курсы/тж/Курс. Как сделать ремонт и не сойти с ума.md"
+    },
+    {
+      "basename": "00 Ремонт",
+      "path": "wiki/zero/00 Ремонт.md"
+    },
+    {
+      "basename": "Трубы",
+      "path": "_inbox/Трубы.md"
+    },
+    {
+      "basename": "Сантехника",
+      "path": "_inbox/Сантехника.md"
+    },
+    {
+      "basename": "Ремонт ванной",
+      "path": "_inbox/Ремонт ванной.md"
+    },
+    {
       "basename": "Идеи для ремонта",
       "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "Идеи для статей",
       "path": "notes/Идеи для статей.md"
-    },
-    {
-      "basename": "00 Ремонт",
-      "path": "wiki/zero/00 Ремонт.md"
     },
     {
       "basename": "Входная деверь",
@@ -183,22 +199,6 @@
     {
       "basename": "Травы",
       "path": "knowledge/other/Травы.md"
-    },
-    {
-      "basename": "Апноэ во сне",
-      "path": "knowledge/health/болезни/Апноэ во сне.md"
-    },
-    {
-      "basename": "Обструктивное апноэ во сне",
-      "path": "_inbox/Обструктивное апноэ во сне.md"
-    },
-    {
-      "basename": "Практика дыхания",
-      "path": "knowledge/mindfulness/Практика дыхания.md"
-    },
-    {
-      "basename": "Моя оценка на рынке труда",
-      "path": "_inbox/Моя оценка на рынке труда.md"
     }
   ],
   "omittedPaths": [],
