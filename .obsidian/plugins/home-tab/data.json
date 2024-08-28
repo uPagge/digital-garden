@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1724826589305
+    },
+    {
       "filepath": "wiki/zero/00 Ремонт.md",
       "timestamp": 1724825792380
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Как выбрать смеситель.md",
       "timestamp": 1724825775688
-    },
-    {
-      "filepath": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md",
-      "timestamp": 1724825732654
     }
   ],
   "bookmarkedFileStore": [],
