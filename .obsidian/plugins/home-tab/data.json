@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/Классификация команд.md",
-      "timestamp": 1724868898156
+      "filepath": "Роли в команде.md",
+      "timestamp": 1724869494014
     },
     {
       "filepath": "_inbox/Рабочая команда.md",
-      "timestamp": 1724868897065
+      "timestamp": 1724869488958
+    },
+    {
+      "filepath": "_inbox/Классификация команд.md",
+      "timestamp": 1724868898156
     },
     {
       "filepath": "_inbox/Психологическая безопаность.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "wiki/zero/00 Командная продуктивность.md",
       "timestamp": 1724865111753
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1724865011218
     }
   ],
   "bookmarkedFileStore": [],
