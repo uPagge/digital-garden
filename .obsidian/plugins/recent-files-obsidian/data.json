@@ -1,28 +1,192 @@
 {
   "recentFiles": [
     {
-      "basename": "Сон",
-      "path": "knowledge/health/Сон.md"
+      "basename": "Головная боль напряжения",
+      "path": "_inbox/Головная боль напряжения.md"
     },
     {
-      "basename": "Мелатонин",
-      "path": "knowledge/human/гормоны/Мелатонин.md"
+      "basename": "Здоровье",
+      "path": "knowledge/health/Здоровье.md"
     },
     {
-      "basename": "Уроки от English Galaxy",
-      "path": "_inbox/Уроки от English Galaxy.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Головная боль",
+      "path": "_inbox/Головная боль.md"
     },
     {
       "basename": "Мигрень",
       "path": "_inbox/Мигрень.md"
     },
     {
+      "basename": "00 Сон",
+      "path": "wiki/zero/00 Сон.md"
+    },
+    {
+      "basename": "Утренний ритуал",
+      "path": "knowledge/health/сон/Утренний ритуал.md"
+    },
+    {
+      "basename": "Шишковидная железа",
+      "path": "knowledge/human/строение/Шишковидная железа.md"
+    },
+    {
+      "basename": "Киви",
+      "path": "knowledge/health/питание/продукты/фрукты/Киви.md"
+    },
+    {
+      "basename": "Бессонница",
+      "path": "knowledge/health/болезни/Бессонница.md"
+    },
+    {
+      "basename": "Фазы сна",
+      "path": "knowledge/health/сон/Фазы сна.md"
+    },
+    {
+      "basename": "Консолидация памяти",
+      "path": "knowledge/human/устройство/Консолидация памяти.md"
+    },
+    {
+      "basename": "Аденозин",
+      "path": "_inbox/Аденозин.md"
+    },
+    {
+      "basename": "Утреннее пробуждение",
+      "path": "knowledge/health/сон/Утреннее пробуждение.md"
+    },
+    {
+      "basename": "Как наладить сон?",
+      "path": "knowledge/health/сон/Как наладить сон?.md"
+    },
+    {
+      "basename": "2009",
+      "path": "wiki/years/2009.md"
+    },
+    {
+      "basename": "Формирование новых привычек",
+      "path": "knowledge/productivity/Формирование новых привычек.md"
+    },
+    {
+      "basename": "Сопротивление новому",
+      "path": "knowledge/education/Сопротивление новому.md"
+    },
+    {
+      "basename": "Мозг",
+      "path": "knowledge/human/строение/органы/Мозг.md"
+    },
+    {
+      "basename": "Внешняя мотивация",
+      "path": "knowledge/productivity/other/Внешняя мотивация.md"
+    },
+    {
+      "basename": "Качественный сон",
+      "path": "knowledge/health/сон/Качественный сон.md"
+    },
+    {
+      "basename": "Утяжеленное одеяло",
+      "path": "knowledge/health/сон/Утяжеленное одеяло.md"
+    },
+    {
+      "basename": "Когнетивно-поведенческая теропия для коррекции сна",
+      "path": "knowledge/health/other/Когнетивно-поведенческая теропия для коррекции сна.md"
+    },
+    {
+      "basename": "Беруши",
+      "path": "knowledge/health/сон/Беруши.md"
+    },
+    {
+      "basename": "Быстрые углеводы",
+      "path": "knowledge/health/питание/Быстрые углеводы.md"
+    },
+    {
+      "basename": "Время отхода ко сну",
+      "path": "Время отхода ко сну.md"
+    },
+    {
+      "basename": "Будильники для поддержания режима сна",
+      "path": "knowledge/health/сон/Будильники для поддержания режима сна.md"
+    },
+    {
+      "basename": "Вечерний ритуал",
+      "path": "Вечерний ритуал.md"
+    },
+    {
+      "basename": "Травы",
+      "path": "knowledge/other/Травы.md"
+    },
+    {
+      "basename": "Апноэ во сне",
+      "path": "knowledge/health/болезни/Апноэ во сне.md"
+    },
+    {
+      "basename": "Обструктивное апноэ во сне",
+      "path": "_inbox/Обструктивное апноэ во сне.md"
+    },
+    {
       "basename": "Практика дыхания",
       "path": "knowledge/mindfulness/Практика дыхания.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Моя оценка на рынке труда",
+      "path": "_inbox/Моя оценка на рынке труда.md"
+    },
+    {
+      "basename": "Идеи для ремонта",
+      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
+    },
+    {
+      "basename": "Пластиковая рама",
+      "path": "_inbox/Пластиковая рама.md"
+    },
+    {
+      "basename": "Оконная рама",
+      "path": "_inbox/Оконная рама.md"
+    },
+    {
+      "basename": "Алюминиевая рама",
+      "path": "_inbox/Алюминиевая рама.md"
+    },
+    {
+      "basename": "Стеклопакет",
+      "path": "_inbox/Стеклопакет.md"
+    },
+    {
+      "basename": "Деревянная рама",
+      "path": "_inbox/Деревянная рама.md"
+    },
+    {
+      "basename": "Окно",
+      "path": "_inbox/Окно.md"
+    },
+    {
+      "basename": "00 Ремонт",
+      "path": "wiki/zero/00 Ремонт.md"
+    },
+    {
+      "basename": "Уроки от English Galaxy",
+      "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
+    },
+    {
+      "basename": "Мелатонин",
+      "path": "knowledge/human/гормоны/Мелатонин.md"
+    },
+    {
+      "basename": "Present Continuous",
+      "path": "_inbox/Present Continuous.md"
+    },
+    {
+      "basename": "00 Java разработка",
+      "path": "wiki/zero/00 Java разработка.md"
+    },
+    {
+      "basename": "Garbage Collector",
+      "path": "knowledge/dev/java/gc/Garbage Collector.md"
     },
     {
       "basename": "Осознанность",
@@ -33,172 +197,8 @@
       "path": "knowledge/mindfulness/Йога.md"
     },
     {
-      "basename": "Головная боль",
-      "path": "_inbox/Головная боль.md"
-    },
-    {
       "basename": "Проверка лекарства",
       "path": "checklists/Проверка лекарства.md"
-    },
-    {
-      "basename": "Фуфломицины",
-      "path": "knowledge/health/лекарства/Фуфломицины.md"
-    },
-    {
-      "basename": "Центральное апноэ во сне",
-      "path": "_inbox/Центральное апноэ во сне.md"
-    },
-    {
-      "basename": "Обструктивное апноэ во сне",
-      "path": "_inbox/Обструктивное апноэ во сне.md"
-    },
-    {
-      "basename": "Апноэ во сне",
-      "path": "knowledge/health/болезни/Апноэ во сне.md"
-    },
-    {
-      "basename": "Похудение",
-      "path": "knowledge/health/питание/Похудение.md"
-    },
-    {
-      "basename": "Влажность воздуха в помещении",
-      "path": "knowledge/health/other/Влажность воздуха в помещении.md"
-    },
-    {
-      "basename": "Храп",
-      "path": "knowledge/health/болезни/Храп.md"
-    },
-    {
-      "basename": "Расстройства сна",
-      "path": "knowledge/health/болезни/Расстройства сна.md"
-    },
-    {
-      "basename": "Недосып",
-      "path": "knowledge/health/болезни/Недосып.md"
-    },
-    {
-      "basename": "Бессонница",
-      "path": "knowledge/health/болезни/Бессонница.md"
-    },
-    {
-      "basename": "Когнетивно-поведенческая теропия",
-      "path": "_inbox/Когнетивно-поведенческая теропия.md"
-    },
-    {
-      "basename": "Когнетивно-поведенческая теропия для коррекции сна",
-      "path": "knowledge/health/other/Когнетивно-поведенческая теропия для коррекции сна.md"
-    },
-    {
-      "basename": "Когнетивно-поведенческая теропия для борьбы с перееданием",
-      "path": "_inbox/Когнетивно-поведенческая теропия для борьбы с перееданием.md"
-    },
-    {
-      "basename": "Синдром беспокойных ног",
-      "path": "knowledge/health/болезни/Синдром беспокойных ног.md"
-    },
-    {
-      "basename": "00 Kafka",
-      "path": "_inbox/00 Kafka.md"
-    },
-    {
-      "basename": "NATS",
-      "path": "NATS.md"
-    },
-    {
-      "basename": "Брокер сообщений",
-      "path": "_inbox/Брокер сообщений.md"
-    },
-    {
-      "basename": "Kafka Offset",
-      "path": "_inbox/Kafka Offset.md"
-    },
-    {
-      "basename": "Kafka Topic Partition",
-      "path": "_inbox/Kafka Topic Partition.md"
-    },
-    {
-      "basename": "Consumer Group",
-      "path": "_inbox/Consumer Group.md"
-    },
-    {
-      "basename": "Kafka Topic",
-      "path": "_inbox/Kafka Topic.md"
-    },
-    {
-      "basename": "Запуск Kafka в docker-compose",
-      "path": "_inbox/Запуск Kafka в docker-compose.md"
-    },
-    {
-      "basename": "Конфигурация Kafka",
-      "path": "_inbox/Конфигурация Kafka.md"
-    },
-    {
-      "basename": "Параметры улучшения звукоизоляции",
-      "path": "_inbox/Параметры улучшения звукоизоляции.md"
-    },
-    {
-      "basename": "Звукоизоляция квартиры",
-      "path": "_inbox/Звукоизоляция квартиры.md"
-    },
-    {
-      "basename": "Плавающий пол",
-      "path": "_inbox/Плавающий пол.md"
-    },
-    {
-      "basename": "Звукоизоляция пола",
-      "path": "_inbox/Звукоизоляция пола.md"
-    },
-    {
-      "basename": "Минеральная вата",
-      "path": "_inbox/Минеральная вата.md"
-    },
-    {
-      "basename": "Шум в квартире",
-      "path": "_inbox/Шум в квартире.md"
-    },
-    {
-      "basename": "Звукопоглощающие вибродемпфирующие маты",
-      "path": "_inbox/Звукопоглощающие вибродемпфирующие маты.md"
-    },
-    {
-      "basename": "Стяжка пола",
-      "path": "_inbox/Стяжка пола.md"
-    },
-    {
-      "basename": "Битумно-полимерные материалы со звукоизоляцией",
-      "path": "_inbox/Битумно-полимерные материалы со звукоизоляцией.md"
-    },
-    {
-      "basename": "Воздушный шум",
-      "path": "_inbox/Воздушный шум.md"
-    },
-    {
-      "basename": "Вспененный пенополиэтилен",
-      "path": "_inbox/Вспененный пенополиэтилен.md"
-    },
-    {
-      "basename": "Звукоизоляционная панель",
-      "path": "_inbox/Звукоизоляционная панель.md"
-    },
-    {
-      "basename": "Система комната в комнате",
-      "path": "_inbox/Система комната в комнате.md"
-    },
-    {
-      "basename": "Структурный шум",
-      "path": "_inbox/Структурный шум.md"
-    },
-    {
-      "basename": "Идеи для ремонта",
-      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
-    },
-    {
-      "basename": "Ремонт пола",
-      "path": "_inbox/Ремонт пола.md"
-    },
-    {
-      "basename": "Теплый пол",
-      "path": "_inbox/Теплый пол.md"
     }
   ],
   "omittedPaths": [],
