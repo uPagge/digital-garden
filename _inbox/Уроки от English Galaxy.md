@@ -10,52 +10,52 @@ parents:
 linked:
 ---
 - A0 - A1
-	- Урок 1. Present Simple. Простое настоящее время
+	- Урок 1. [Present Simple](knowledge/english/Present%20Simple.md). Простое настоящее время
 		- [Урок 1. Грамматика. Простое настоящее время.](https://www.youtube.com/watch?v=GavBpRVYilE&t=149s)
 		- [Урок 1. Полезные фразы](https://youtu.be/Yf9Pv7Mx21M)
 		- [Урок 1. Разговорные ситуации](https://youtu.be/NE2SjbJo-iA)
 		- [Урок 1. Диалоги](https://youtu.be/2xi8sxcQ0lY)
-	- Урок 2 Present Simple – We / You / They
+	- Урок 2 [Present Simple](knowledge/english/Present%20Simple.md) – We / You / They
 		- [Урок 2. Грамматика](https://youtu.be/fAW5P2oOozo)
 		- [Урок 2. Полезные фразы](https://youtu.be/ueySet8pzRs)
 		- [Урок 2. Разговорные ситуации](https://youtu.be/ueySet8pzRs)
 		- [Урок 2. Диалоги](https://youtu.be/t81nRSq0ojg)
-	- Урок 3 Present Simple – He / She / It
+	- Урок 3 [Present Simple](knowledge/english/Present%20Simple.md) – He / She / It
 		- [Урок 3. Грамматика](https://youtu.be/ripywrGKcmU)
 		- [Урок 3. Полезные фразы](https://youtu.be/ofreE9CN4g4)
 		- [Урок 3. Разговорные ситуации](https://youtu.be/wK8YfETpwPg)
 		- [Урок 3. Диалоги](https://youtu.be/aCgsHXsKUqs)
-	- Урок 4 Present Simple – don’t / doesn’t
+	- Урок 4 [Present Simple](knowledge/english/Present%20Simple.md) – don’t / doesn’t
 		- [Урок 4. Грамматика](https://youtu.be/01cMc3osRF0)
 		- [Урок 4. Полезные фразы](https://youtu.be/QAGiJ4-PSQA)
 		- [Урок 4. Разговорные ситуации](https://youtu.be/hLrJRJXcERg)
 		- [Урок 4. Диалоги](https://youtu.be/qSJ2BCQQEQg)
-	- Урок 5 Present Simple – Do / Does вопрос
+	- Урок 5 [Present Simple](knowledge/english/Present%20Simple.md) – Do / Does вопрос
 		- [Урок 5. Грамматика](https://youtu.be/exYZjYVZtUU)
 		- [Урок 5. Полезные фразы](https://youtu.be/vyskW0iVTdo)
 		- [Урок 5. Разговорные ситуации](https://youtu.be/fBwfvF9VB1s)
 		- [Урок 5. Диалоги](https://youtu.be/tAFj_2gt2cs)
-	- Урок 6. Present Simple – Do / Does
+	- Урок 6. [Present Simple](knowledge/english/Present%20Simple.md) – Do / Does
 		- [Урок 6.  Грамматика](https://youtu.be/qKwk_P8gT1Y)
 		- [Урок 6. Полезные фразы](https://youtu.be/_SJF7t-7qkE)
 		- [Урок 6. Разговорные ситуации](https://youtu.be/rxCeT9GXsVc)
 		- [Урок 6. Диалоги](https://youtu.be/NnRqWaClFIM)
-	- Урок 7. Present Simple – глагол to be утверждение
+	- Урок 7. [Present Simple](knowledge/english/Present%20Simple.md) – глагол to be утверждение
 		- [Урок 7. Грамматика](https://youtu.be/PbE9wCj4Ow8)
 		- [Урок 7. Полезные фразы](https://youtu.be/1yr8qrdwPyM)
 		- [Урок 7. Разговорные ситуации](https://youtu.be/ELNK510wGDY)
 		- [Урок 7. Диалоги](https://youtu.be/Fz9Xq_iRRo4)
-	- Урок 8 Present Simple – глагол to be отрицание
+	- Урок 8 [Present Simple](knowledge/english/Present%20Simple.md) – глагол to be отрицание
 		- [Урок 8. Грамматика](https://youtu.be/RH8oR0TExaA)
 		- [Урок 8. Полезные фразы](https://youtu.be/cyBfaO4V_xY)
 		- [Урок 8. Разговорные ситуации](https://youtu.be/G891wBshA0k)
 		- [Урок 8. Диалоги](https://youtu.be/NjRuMi9XKuc)
-	- Урок 9 Present Simple – глагол to be вопрос
+	- Урок 9 [Present Simple](knowledge/english/Present%20Simple.md) – глагол to be вопрос
 		- [Урок 9. Грамматика](https://youtu.be/ViA9Pv1pEqs)
 		- [Урок 9. Полезные фразы](https://youtu.be/FNHTiq0zo0s)
 		- [Урок 9. Разговорные ситуации](https://youtu.be/zmchjCnvJb0)
 		- [Урок 9. Диалоги](https://youtu.be/8DktsQ0W8Vk)
-	- Урок 10 Present Simple - to be специальный вопрос
+	- Урок 10 [Present Simple](knowledge/english/Present%20Simple.md) - to be специальный вопрос
 		- [Урок 10. Грамматика](https://youtu.be/47A-Oa_stMI)
 		- [Урок 10. Полезные фразы](https://youtu.be/tm6szX_ebGg)
 		- [Урок 10. Разговорные ситуации](https://youtu.be/IcfhXa4ffNc)
@@ -65,7 +65,7 @@ linked:
 		- [Урок 11. Полезные фразы](https://youtu.be/Qhhbpo_TMvI)
 		- [Урок 11. Разговорные ситуации](https://youtu.be/Kj2iz_yajUM)
 		- [Урок 11. Диалоги](https://youtu.be/GFj4QoC4TO8)
-	- Урок 12 Past Simple – неправильные глаголы 1
+	- Урок 12 [Past Simple](knowledge/english/Past%20Simple.md) – неправильные глаголы 1
 		- [Урок 12. Грамматика](https://youtu.be/AYHzdcaWfrw)
 		- [Урок 12. Полезные фразы](https://youtu.be/anKedENiIJc)
 		- [Урок 12. Разговорные ситуации](https://youtu.be/-et1NF1Cqgw)
@@ -125,3 +125,4 @@ linked:
 		- [Урок 23. Полезные фразы](https://youtu.be/g2GD7QUolgA)
 		- [Урок 23. Разговорные ситуации](https://youtu.be/qQwXR1q46ao)
 		- [Урок 23. Диалоги](https://youtu.be/F2pm1LBTXig)
+	- Урок 24 Present Continuous. Настоящее длительное время

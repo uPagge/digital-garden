@@ -10,7 +10,7 @@ parents:
   - "[[Времена в Английском языке]]"
 linked:
 ---
-- [Прошедшее время](Прошедшее%20время.md)
+- [Past Simple](knowledge/english/Past%20Simple.md)
 - [Present Simple](Present%20Simple.md)
 - [Будущее время](Будущее%20время.md)
 

@@ -5,6 +5,10 @@
       "path": "_inbox/Уроки от English Galaxy.md"
     },
     {
+      "basename": "Past Simple",
+      "path": "knowledge/english/Past Simple.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Йога",
       "path": "knowledge/mindfulness/Йога.md"
-    },
-    {
-      "basename": "Проверка лекарства",
-      "path": "checklists/Проверка лекарства.md"
     }
   ],
   "omittedPaths": [],
