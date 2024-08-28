@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Стеклопакет.md",
+      "timestamp": 1724823837874
+    },
+    {
+      "filepath": "_inbox/Окно.md",
+      "timestamp": 1724823809798
+    },
+    {
       "filepath": "_inbox/Уроки от English Galaxy.md",
       "timestamp": 1724821749049
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "knowledge/english/Времена в Английском языке.md",
       "timestamp": 1724820611942
-    },
-    {
-      "filepath": "knowledge/english/Simple.md",
-      "timestamp": 1724820590861
-    },
-    {
-      "filepath": "knowledge/english/Feature Simple.md",
-      "timestamp": 1724820551107
     }
   ],
   "bookmarkedFileStore": [],
