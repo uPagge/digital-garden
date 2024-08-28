@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-08-28 1724865143.md",
+      "filepath": "_inbox/2024-08-28 1724868031.md",
+      "timestamp": 1724868031518
+    },
+    {
+      "filepath": "_inbox/Рабочая команда.md",
       "timestamp": 1724865143838
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "_inbox/Головная боль напряжения.md",
       "timestamp": 1724863723436
-    },
-    {
-      "filepath": "wiki/zero/00 Ремонт.md",
-      "timestamp": 1724825792380
     }
   ],
   "bookmarkedFileStore": [],
