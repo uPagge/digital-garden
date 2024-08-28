@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Роль Аналитик.md",
+      "timestamp": 1724869744352
+    },
+    {
       "filepath": "Роли в команде.md",
-      "timestamp": 1724869494014
+      "timestamp": 1724869738507
+    },
+    {
+      "filepath": "_inbox/Роль Генератор.md",
+      "timestamp": 1724869720086
     },
     {
       "filepath": "_inbox/Рабочая команда.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Классификация команд.md",
       "timestamp": 1724868898156
-    },
-    {
-      "filepath": "_inbox/Психологическая безопаность.md",
-      "timestamp": 1724868894810
-    },
-    {
-      "filepath": "wiki/zero/00 Командная продуктивность.md",
-      "timestamp": 1724865111753
     }
   ],
   "bookmarkedFileStore": [],

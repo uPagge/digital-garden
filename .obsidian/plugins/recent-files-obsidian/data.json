@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Роль Аналитик",
+      "path": "_inbox/Роль Аналитик.md"
+    },
+    {
       "basename": "Роли в команде",
       "path": "Роли в команде.md"
+    },
+    {
+      "basename": "Роль Генератор",
+      "path": "_inbox/Роль Генератор.md"
     },
     {
       "basename": "Рабочая команда",
@@ -191,14 +199,6 @@
     {
       "basename": "Мозг",
       "path": "knowledge/human/строение/органы/Мозг.md"
-    },
-    {
-      "basename": "Внешняя мотивация",
-      "path": "knowledge/productivity/other/Внешняя мотивация.md"
-    },
-    {
-      "basename": "Качественный сон",
-      "path": "knowledge/health/сон/Качественный сон.md"
     }
   ],
   "omittedPaths": [],
