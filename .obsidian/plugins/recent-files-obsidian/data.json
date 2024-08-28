@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Монтаж окна",
-      "path": "_inbox/Монтаж окна.md"
+      "basename": "Дверной замок",
+      "path": "_inbox/Дверной замок.md"
+    },
+    {
+      "basename": "Входная деверь",
+      "path": "_inbox/Входная деверь.md"
+    },
+    {
+      "basename": "00 Ремонт",
+      "path": "wiki/zero/00 Ремонт.md"
     },
     {
       "basename": "Приемка квартиры с черновым ремонтом",
       "path": "_inbox/Приемка квартиры с черновым ремонтом.md"
     },
     {
-      "basename": "Окно",
-      "path": "_inbox/Окно.md"
-    },
-    {
       "basename": "Стеклопакет",
       "path": "_inbox/Стеклопакет.md"
+    },
+    {
+      "basename": "Монтаж окна",
+      "path": "_inbox/Монтаж окна.md"
+    },
+    {
+      "basename": "Окно",
+      "path": "_inbox/Окно.md"
     },
     {
       "basename": "Уроки от English Galaxy",
@@ -187,18 +199,6 @@
     {
       "basename": "Оконная рама",
       "path": "_inbox/Оконная рама.md"
-    },
-    {
-      "basename": "Алюминиевая рама",
-      "path": "_inbox/Алюминиевая рама.md"
-    },
-    {
-      "basename": "Деревянная рама",
-      "path": "_inbox/Деревянная рама.md"
-    },
-    {
-      "basename": "00 Ремонт",
-      "path": "wiki/zero/00 Ремонт.md"
     }
   ],
   "omittedPaths": [],
