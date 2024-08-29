@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Archimate",
+      "path": "_inbox/Archimate.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2009",
       "path": "wiki/years/2009.md"
-    },
-    {
-      "basename": "Формирование новых привычек",
-      "path": "knowledge/productivity/Формирование новых привычек.md"
     }
   ],
   "omittedPaths": [],
