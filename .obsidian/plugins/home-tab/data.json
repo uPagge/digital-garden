@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-08-29 1724908960.md",
-      "timestamp": 1724908960345
+      "filepath": "_inbox/2024-08-29 1724909255.md",
+      "timestamp": 1724909255151
     },
     {
-      "filepath": "_inbox/Ремонт ванной.md",
-      "timestamp": 1724908493848
+      "filepath": "_inbox/Как выбрать ванную.md",
+      "timestamp": 1724909253370
+    },
+    {
+      "filepath": "_inbox/Ремонт в ванной.md",
+      "timestamp": 1724909252007
     },
     {
       "filepath": "_inbox/Уроки от English Galaxy.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Home.md",
       "timestamp": 1724902332126
-    },
-    {
-      "filepath": "_inbox/Роль Аналитик.md",
-      "timestamp": 1724869744352
     }
   ],
   "bookmarkedFileStore": [],
