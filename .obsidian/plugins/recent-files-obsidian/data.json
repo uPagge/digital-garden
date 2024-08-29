@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Как выбрать ванную",
+      "path": "_inbox/Как выбрать ванную.md"
+    },
+    {
       "basename": "Ремонт ванной",
       "path": "_inbox/Ремонт ванной.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Сопротивление новому",
       "path": "knowledge/education/Сопротивление новому.md"
-    },
-    {
-      "basename": "Мозг",
-      "path": "knowledge/human/строение/органы/Мозг.md"
     }
   ],
   "omittedPaths": [],
