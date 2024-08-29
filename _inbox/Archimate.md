@@ -16,3 +16,7 @@ linked:
 ![](meta/files/Pasted%20image%2020240829105444.png)
 ### Прочие связи
 ![](meta/files/Pasted%20image%2020240829105501.png)
+
+## Слои
+### Слой приложения
+![](meta/files/Pasted%20image%2020240829113934.png)
