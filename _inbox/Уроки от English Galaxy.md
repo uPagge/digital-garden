@@ -129,3 +129,4 @@ linked:
 		- [Урок 24. Грамматика](https://youtu.be/tnSzJktU7Ew)
 		- [Урок 24. Полезные фразы](https://youtu.be/In-e4aaHYqQ)
 		- [Урок 24. Разговорные ситуации](https://youtu.be/1SUxtBBOBpE)
+		- [Урок 24. Диалоги](https://youtu.be/gB7ekmbOFls)
