@@ -133,3 +133,4 @@ linked:
 	- Урок 25 [Present Continuous](_inbox/Present%20Continuous.md), [Present Simple](knowledge/english/Present%20Simple.md) – сравнение времен
 		- [Урок 25. Грамматика](https://youtu.be/qEVw5XHQ2ac)
 		- [Урок 25. Полезные фразы](https://youtu.be/dotxORfAets)
+		- [Урок 25 Разговорные ситуации](https://youtu.be/7fzh7OYdKIU)
