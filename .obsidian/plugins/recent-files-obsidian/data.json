@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Роль Координатор",
-      "path": "_inbox/Роль Координатор.md"
+      "basename": "Роль Исследователь",
+      "path": "_inbox/Роль Исследователь.md"
     },
     {
       "basename": "Роли в команде",
       "path": "Роли в команде.md"
+    },
+    {
+      "basename": "Роль Дипломат",
+      "path": "_inbox/Роль Дипломат.md"
+    },
+    {
+      "basename": "Роль Координатор",
+      "path": "_inbox/Роль Координатор.md"
     },
     {
       "basename": "Роль Завершатель",
@@ -191,14 +199,6 @@
     {
       "basename": "00 Сон",
       "path": "wiki/zero/00 Сон.md"
-    },
-    {
-      "basename": "Утренний ритуал",
-      "path": "knowledge/health/сон/Утренний ритуал.md"
-    },
-    {
-      "basename": "Шишковидная железа",
-      "path": "knowledge/human/строение/Шишковидная железа.md"
     }
   ],
   "omittedPaths": [],
