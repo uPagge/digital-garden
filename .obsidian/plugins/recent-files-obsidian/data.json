@@ -5,6 +5,26 @@
       "path": "_inbox/Саботаж в команде.md"
     },
     {
+      "basename": "Внутриличностный конфликт",
+      "path": "_inbox/Внутриличностный конфликт.md"
+    },
+    {
+      "basename": "Виды конфликтов",
+      "path": "_inbox/Виды конфликтов.md"
+    },
+    {
+      "basename": "Межгрупповой конфликт",
+      "path": "_inbox/Межгрупповой конфликт.md"
+    },
+    {
+      "basename": "Межличностный конфликт",
+      "path": "_inbox/Межличностный конфликт.md"
+    },
+    {
+      "basename": "Конфликт личности и группы",
+      "path": "_inbox/Конфликт личности и группы.md"
+    },
+    {
       "basename": "Рабочая команда",
       "path": "_inbox/Рабочая команда.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Simple",
       "path": "knowledge/english/Simple.md"
-    },
-    {
-      "basename": "Feature Simple",
-      "path": "knowledge/english/Feature Simple.md"
-    },
-    {
-      "basename": "Present Simple",
-      "path": "knowledge/english/Present Simple.md"
-    },
-    {
-      "basename": "Past Simple",
-      "path": "knowledge/english/Past Simple.md"
-    },
-    {
-      "basename": "Здоровье",
-      "path": "knowledge/health/Здоровье.md"
-    },
-    {
-      "basename": "Головная боль",
-      "path": "_inbox/Головная боль.md"
     }
   ],
   "omittedPaths": [],
