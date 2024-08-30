@@ -5,12 +5,16 @@
       "path": "_inbox/Конфликт.md"
     },
     {
-      "basename": "Виды конфликтов",
-      "path": "_inbox/Виды конфликтов.md"
-    },
-    {
       "basename": "Саботаж в команде",
       "path": "_inbox/Саботаж в команде.md"
+    },
+    {
+      "basename": "Мама я тимлид",
+      "path": "source/книги/книготека/Мама я тимлид.md"
+    },
+    {
+      "basename": "Виды конфликтов",
+      "path": "_inbox/Виды конфликтов.md"
     },
     {
       "basename": "Внутриличностный конфликт",
@@ -195,10 +199,6 @@
     {
       "basename": "Present Continuous",
       "path": "_inbox/Present Continuous.md"
-    },
-    {
-      "basename": "Времена в Английском языке",
-      "path": "knowledge/english/Времена в Английском языке.md"
     }
   ],
   "omittedPaths": [],
