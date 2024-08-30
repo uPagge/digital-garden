@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Конфликт",
+      "path": "_inbox/Конфликт.md"
+    },
+    {
       "basename": "Саботаж в команде",
       "path": "_inbox/Саботаж в команде.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Времена в Английском языке",
       "path": "knowledge/english/Времена в Английском языке.md"
-    },
-    {
-      "basename": "Simple",
-      "path": "knowledge/english/Simple.md"
     }
   ],
   "omittedPaths": [],
