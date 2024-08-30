@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Роль Исполнитель",
-      "path": "_inbox/Роль Исполнитель.md"
-    },
-    {
-      "basename": "Роль Начинатель",
-      "path": "_inbox/Роль Начинатель.md"
+      "basename": "Роль Координатор",
+      "path": "_inbox/Роль Координатор.md"
     },
     {
       "basename": "Роли в команде",
       "path": "Роли в команде.md"
     },
     {
+      "basename": "Роль Завершатель",
+      "path": "_inbox/Роль Завершатель.md"
+    },
+    {
+      "basename": "Выгорание",
+      "path": "knowledge/health/болезни/Выгорание.md"
+    },
+    {
       "basename": "Роль Аналитик",
       "path": "_inbox/Роль Аналитик.md"
     },
     {
+      "basename": "Роль Генератор",
+      "path": "_inbox/Роль Генератор.md"
+    },
+    {
       "basename": "Роль Специалист",
       "path": "_inbox/Роль Специалист.md"
+    },
+    {
+      "basename": "00 Работа",
+      "path": "_inbox/00 Работа.md"
+    },
+    {
+      "basename": "Роль Начинатель",
+      "path": "_inbox/Роль Начинатель.md"
+    },
+    {
+      "basename": "Роль Исполнитель",
+      "path": "_inbox/Роль Исполнитель.md"
     },
     {
       "basename": "Home",
@@ -47,10 +67,6 @@
     {
       "basename": "Как выбрать ванную",
       "path": "_inbox/Как выбрать ванную.md"
-    },
-    {
-      "basename": "Роль Генератор",
-      "path": "_inbox/Роль Генератор.md"
     },
     {
       "basename": "Рабочая команда",
@@ -183,22 +199,6 @@
     {
       "basename": "Шишковидная железа",
       "path": "knowledge/human/строение/Шишковидная железа.md"
-    },
-    {
-      "basename": "Киви",
-      "path": "knowledge/health/питание/продукты/фрукты/Киви.md"
-    },
-    {
-      "basename": "Бессонница",
-      "path": "knowledge/health/болезни/Бессонница.md"
-    },
-    {
-      "basename": "Фазы сна",
-      "path": "knowledge/health/сон/Фазы сна.md"
-    },
-    {
-      "basename": "Консолидация памяти",
-      "path": "knowledge/human/устройство/Консолидация памяти.md"
     }
   ],
   "omittedPaths": [],
