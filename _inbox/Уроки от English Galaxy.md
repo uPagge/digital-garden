@@ -135,3 +135,5 @@ linked:
 		- [Урок 25. Полезные фразы](https://youtu.be/dotxORfAets)
 		- [Урок 25. Разговорные ситуации](https://youtu.be/7fzh7OYdKIU)
 		- [Урок 25. Диалоги](https://youtu.be/jVVbt9h6IS4)
+- A1 - A2
+	- 

@@ -9,6 +9,10 @@
       "path": "_inbox/Archimate.md"
     },
     {
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Как наладить сон?",
       "path": "knowledge/health/сон/Как наладить сон?.md"
-    },
-    {
-      "basename": "2009",
-      "path": "wiki/years/2009.md"
     }
   ],
   "omittedPaths": [],
