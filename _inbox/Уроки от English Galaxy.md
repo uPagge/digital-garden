@@ -136,4 +136,5 @@ linked:
 		- [Урок 25. Разговорные ситуации](https://youtu.be/7fzh7OYdKIU)
 		- [Урок 25. Диалоги](https://youtu.be/jVVbt9h6IS4)
 - A1 - A2
-	- 
+	- Урок 1. [Present Simple](knowledge/english/Present%20Simple.md) – обычный глагол и глагол to be утверждение
+		- [Урок 1. Грамматика](https://youtu.be/0Gi_t-T7iT8)
