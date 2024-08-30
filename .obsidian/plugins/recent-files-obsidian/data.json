@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Роль Специалист",
+      "path": "_inbox/Роль Специалист.md"
+    },
+    {
+      "basename": "Роли в команде",
+      "path": "Роли в команде.md"
+    },
+    {
+      "basename": "Роль Аналитик",
+      "path": "_inbox/Роль Аналитик.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -27,14 +39,6 @@
     {
       "basename": "Как выбрать ванную",
       "path": "_inbox/Как выбрать ванную.md"
-    },
-    {
-      "basename": "Роль Аналитик",
-      "path": "_inbox/Роль Аналитик.md"
-    },
-    {
-      "basename": "Роли в команде",
-      "path": "Роли в команде.md"
     },
     {
       "basename": "Роль Генератор",
@@ -195,10 +199,6 @@
     {
       "basename": "Утреннее пробуждение",
       "path": "knowledge/health/сон/Утреннее пробуждение.md"
-    },
-    {
-      "basename": "Как наладить сон?",
-      "path": "knowledge/health/сон/Как наладить сон?.md"
     }
   ],
   "omittedPaths": [],
