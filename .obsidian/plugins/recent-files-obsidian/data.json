@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Роль Специалист",
-      "path": "_inbox/Роль Специалист.md"
+      "basename": "Роль Исполнитель",
+      "path": "_inbox/Роль Исполнитель.md"
+    },
+    {
+      "basename": "Роль Начинатель",
+      "path": "_inbox/Роль Начинатель.md"
     },
     {
       "basename": "Роли в команде",
@@ -11,6 +15,10 @@
     {
       "basename": "Роль Аналитик",
       "path": "_inbox/Роль Аналитик.md"
+    },
+    {
+      "basename": "Роль Специалист",
+      "path": "_inbox/Роль Специалист.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "Консолидация памяти",
       "path": "knowledge/human/устройство/Консолидация памяти.md"
-    },
-    {
-      "basename": "Аденозин",
-      "path": "_inbox/Аденозин.md"
-    },
-    {
-      "basename": "Утреннее пробуждение",
-      "path": "knowledge/health/сон/Утреннее пробуждение.md"
     }
   ],
   "omittedPaths": [],
