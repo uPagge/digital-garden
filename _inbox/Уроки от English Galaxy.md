@@ -139,3 +139,4 @@ linked:
 	- Урок 1. [Present Simple](knowledge/english/Present%20Simple.md) – обычный глагол и глагол to be утверждение
 		- [Урок 1. Грамматика](https://youtu.be/0Gi_t-T7iT8)
 		- [Урок 1. Полезные фразы](https://youtu.be/_HaKkZItqNg)
+		- [Урок 1. Разговорные ситуации](https://youtu.be/quvU8S3Y0os)
