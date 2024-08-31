@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1725130280727
+    },
+    {
       "filepath": "_inbox/Монолитный ад.md",
       "timestamp": 1725126350746
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "knowledge/dev/snippet/Удаление .DS_Store из Git репозитория.md",
       "timestamp": 1725126328685
-    },
-    {
-      "filepath": "wiki/zero/00 Разработка.md",
-      "timestamp": 1725126326281
     }
   ],
   "bookmarkedFileStore": [],
