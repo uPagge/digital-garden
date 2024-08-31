@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Внутренняя мотивация",
-      "path": "knowledge/productivity/other/Внутренняя мотивация.md"
+      "basename": "Монолитный ад",
+      "path": "_inbox/Монолитный ад.md"
+    },
+    {
+      "basename": "Монолитная архитектура",
+      "path": "_inbox/Монолитная архитектура.md"
+    },
+    {
+      "basename": "Скрипты для Git",
+      "path": "knowledge/dev/Скрипты для Git.md"
+    },
+    {
+      "basename": "Удаление .DS_Store из Git репозитория",
+      "path": "knowledge/dev/snippet/Удаление .DS_Store из Git репозитория.md"
+    },
+    {
+      "basename": "00 Разработка",
+      "path": "wiki/zero/00 Разработка.md"
+    },
+    {
+      "basename": "Контейнерная виртуализация",
+      "path": "_inbox/Контейнерная виртуализация.md"
+    },
+    {
+      "basename": "Микросервисная архитектура",
+      "path": "wiki/zero/Микросервисная архитектура.md"
     },
     {
       "basename": "JOMO",
       "path": "_inbox/JOMO.md"
+    },
+    {
+      "basename": "Внутренняя мотивация",
+      "path": "knowledge/productivity/other/Внутренняя мотивация.md"
     },
     {
       "basename": "Ссылки на публичные заметки",
@@ -171,34 +199,6 @@
     {
       "basename": "Archimate",
       "path": "_inbox/Archimate.md"
-    },
-    {
-      "basename": "Ремонт в ванной",
-      "path": "_inbox/Ремонт в ванной.md"
-    },
-    {
-      "basename": "Как подключить стиральную машину",
-      "path": "_inbox/Как подключить стиральную машину.md"
-    },
-    {
-      "basename": "Как выбрать ванную",
-      "path": "_inbox/Как выбрать ванную.md"
-    },
-    {
-      "basename": "Классификация команд",
-      "path": "_inbox/Классификация команд.md"
-    },
-    {
-      "basename": "Психологическая безопаность",
-      "path": "_inbox/Психологическая безопаность.md"
-    },
-    {
-      "basename": "00 Командная продуктивность",
-      "path": "wiki/zero/00 Командная продуктивность.md"
-    },
-    {
-      "basename": "Головная боль напряжения",
-      "path": "_inbox/Головная боль напряжения.md"
     }
   ],
   "omittedPaths": [],

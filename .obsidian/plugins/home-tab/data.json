@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "knowledge/productivity/other/Внутренняя мотивация.md",
-      "timestamp": 1725126105036
+      "filepath": "_inbox/Монолитный ад.md",
+      "timestamp": 1725126350746
     },
     {
-      "filepath": "_inbox/JOMO.md",
-      "timestamp": 1725126091171
+      "filepath": "_inbox/Монолитная архитектура.md",
+      "timestamp": 1725126347863
     },
     {
-      "filepath": "_inbox/Ссылки на публичные заметки.md",
-      "timestamp": 1725126080346
+      "filepath": "knowledge/dev/Скрипты для Git.md",
+      "timestamp": 1725126330349
     },
     {
-      "filepath": "notes/Настройки noteshare для Obsidian.md",
-      "timestamp": 1725125488944
+      "filepath": "knowledge/dev/snippet/Удаление .DS_Store из Git репозитория.md",
+      "timestamp": 1725126328685
     },
     {
-      "filepath": "archive/Я.Практикум/Полезное/Запуск ShareIt как в Github с H2 базой.md",
-      "timestamp": 1725125483599
+      "filepath": "wiki/zero/00 Разработка.md",
+      "timestamp": 1725126326281
     }
   ],
   "bookmarkedFileStore": [],
