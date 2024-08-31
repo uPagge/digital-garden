@@ -24,24 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/JOMO.md",
+      "timestamp": 1725100498952
+    },
+    {
+      "filepath": "knowledge/human/Идентичность.md",
+      "timestamp": 1725100490112
+    },
+    {
       "filepath": "_inbox/FOMO.md",
       "timestamp": 1725100305575
     },
     {
-      "filepath": "_inbox/JOMO.md",
-      "timestamp": 1725099959228
-    },
-    {
       "filepath": "_inbox/YOLO.md",
       "timestamp": 1725099942860
-    },
-    {
-      "filepath": "_inbox/Клиповое мышление.md",
-      "timestamp": 1725099787754
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1725098870026
     }
   ],
   "bookmarkedFileStore": [],

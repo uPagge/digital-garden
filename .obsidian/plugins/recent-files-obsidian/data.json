@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "FOMO",
-      "path": "_inbox/FOMO.md"
-    },
-    {
       "basename": "JOMO",
       "path": "_inbox/JOMO.md"
+    },
+    {
+      "basename": "Идентичность",
+      "path": "knowledge/human/Идентичность.md"
+    },
+    {
+      "basename": "FOMO",
+      "path": "_inbox/FOMO.md"
     },
     {
       "basename": "YOLO",
@@ -191,14 +195,6 @@
     {
       "basename": "Входная деверь",
       "path": "_inbox/Входная деверь.md"
-    },
-    {
-      "basename": "Приемка квартиры с черновым ремонтом",
-      "path": "_inbox/Приемка квартиры с черновым ремонтом.md"
-    },
-    {
-      "basename": "Дверной замок",
-      "path": "_inbox/Дверной замок.md"
     }
   ],
   "omittedPaths": [],
