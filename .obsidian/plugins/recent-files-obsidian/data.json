@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "YOLO",
-      "path": "_inbox/YOLO.md"
+      "basename": "JOMO",
+      "path": "_inbox/JOMO.md"
     },
     {
       "basename": "FOMO",
       "path": "_inbox/FOMO.md"
+    },
+    {
+      "basename": "YOLO",
+      "path": "_inbox/YOLO.md"
+    },
+    {
+      "basename": "Клиповое мышление",
+      "path": "_inbox/Клиповое мышление.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "Дверной замок",
       "path": "_inbox/Дверной замок.md"
-    },
-    {
-      "basename": "Стеклопакет",
-      "path": "_inbox/Стеклопакет.md"
-    },
-    {
-      "basename": "Монтаж окна",
-      "path": "_inbox/Монтаж окна.md"
     }
   ],
   "omittedPaths": [],

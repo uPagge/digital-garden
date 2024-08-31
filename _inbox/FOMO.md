@@ -11,6 +11,7 @@ zero-link:
 parents: 
 linked:
   - "[[_inbox/YOLO|YOLO]]"
+  - "[[_inbox/JOMO|JOMO]]"
 ---
 FOMO (fear if missing out) - моральное (душевное) состояние - боязнь пропустить интересное и желание оставаться постоянно в курсе любых дел, "быть в теме".
 
