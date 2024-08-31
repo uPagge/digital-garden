@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Garbage Collector",
+      "path": "knowledge/dev/java/gc/Garbage Collector.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Роль Исполнитель",
       "path": "_inbox/Роль Исполнитель.md"
-    },
-    {
-      "basename": "Archimate",
-      "path": "_inbox/Archimate.md"
     }
   ],
   "omittedPaths": [],

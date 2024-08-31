@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/dev/java/gc/Garbage Collector.md",
+      "timestamp": 1725130607117
+    },
+    {
       "filepath": "Home.md",
       "timestamp": 1725130280727
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "knowledge/dev/Скрипты для Git.md",
       "timestamp": 1725126330349
-    },
-    {
-      "filepath": "knowledge/dev/snippet/Удаление .DS_Store из Git репозитория.md",
-      "timestamp": 1725126328685
     }
   ],
   "bookmarkedFileStore": [],
