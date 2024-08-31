@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Личность",
-      "path": "_inbox/Личность.md"
+      "basename": "Мотивация",
+      "path": "knowledge/human/other/Мотивация.md"
+    },
+    {
+      "basename": "JOMO",
+      "path": "_inbox/JOMO.md"
     },
     {
       "basename": "Эго",
       "path": "_inbox/Эго.md"
     },
     {
-      "basename": "Идентичность",
-      "path": "knowledge/human/Идентичность.md"
-    },
-    {
       "basename": "Формирование новых привычек",
       "path": "knowledge/productivity/Формирование новых привычек.md"
     },
     {
-      "basename": "Стресс",
-      "path": "knowledge/human/Стресс.md"
+      "basename": "Личность",
+      "path": "_inbox/Личность.md"
     },
     {
-      "basename": "JOMO",
-      "path": "_inbox/JOMO.md"
+      "basename": "Идентичность",
+      "path": "knowledge/human/Идентичность.md"
+    },
+    {
+      "basename": "Мыслетопливо",
+      "path": "knowledge/human/ресурсы/Мыслетопливо.md"
+    },
+    {
+      "basename": "Стресс",
+      "path": "knowledge/human/Стресс.md"
     },
     {
       "basename": "FOMO",
@@ -191,14 +199,6 @@
     {
       "basename": "Курс. Как сделать ремонт и не сойти с ума",
       "path": "source/курсы/тж/Курс. Как сделать ремонт и не сойти с ума.md"
-    },
-    {
-      "basename": "Трубы",
-      "path": "_inbox/Трубы.md"
-    },
-    {
-      "basename": "Идеи для ремонта",
-      "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
     }
   ],
   "omittedPaths": [],
