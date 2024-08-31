@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Типы личности в работе",
+      "path": "_inbox/Типы личности в работе.md"
+    },
+    {
+      "basename": "Роли в команде",
+      "path": "Роли в команде.md"
+    },
+    {
+      "basename": "FOMO",
+      "path": "_inbox/FOMO.md"
+    },
+    {
       "basename": "YOLO",
       "path": "_inbox/YOLO.md"
     },
     {
       "basename": "JOMO",
       "path": "_inbox/JOMO.md"
-    },
-    {
-      "basename": "FOMO",
-      "path": "_inbox/FOMO.md"
     },
     {
       "basename": "Мотивация",
@@ -99,10 +107,6 @@
     {
       "basename": "Подбор людей в команду",
       "path": "_inbox/Подбор людей в команду.md"
-    },
-    {
-      "basename": "Роли в команде",
-      "path": "Роли в команде.md"
     },
     {
       "basename": "Роль Исследователь",
@@ -195,10 +199,6 @@
     {
       "basename": "Как выбрать смеситель",
       "path": "_inbox/Как выбрать смеситель.md"
-    },
-    {
-      "basename": "Проект. Ремонт квартиры",
-      "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
     }
   ],
   "omittedPaths": [],
