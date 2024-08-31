@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
+      "basename": "FOMO",
+      "path": "_inbox/FOMO.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Уроки от English Galaxy",
       "path": "_inbox/Уроки от English Galaxy.md"
+    },
+    {
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
     },
     {
       "basename": "Конфликт",
@@ -95,10 +103,6 @@
     {
       "basename": "Роль Исполнитель",
       "path": "_inbox/Роль Исполнитель.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Archimate",
@@ -195,10 +199,6 @@
     {
       "basename": "Окно",
       "path": "_inbox/Окно.md"
-    },
-    {
-      "basename": "Present Continuous",
-      "path": "_inbox/Present Continuous.md"
     }
   ],
   "omittedPaths": [],
