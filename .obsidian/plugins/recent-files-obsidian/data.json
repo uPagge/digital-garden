@@ -5,6 +5,14 @@
       "path": "knowledge/dev/java/gc/Garbage Collector.md"
     },
     {
+      "basename": "Garbage First",
+      "path": "knowledge/dev/java/gc/Garbage First.md"
+    },
+    {
+      "basename": "00 Java разработка",
+      "path": "wiki/zero/00 Java разработка.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "00 Работа",
       "path": "_inbox/00 Работа.md"
-    },
-    {
-      "basename": "Роль Начинатель",
-      "path": "_inbox/Роль Начинатель.md"
-    },
-    {
-      "basename": "Роль Исполнитель",
-      "path": "_inbox/Роль Исполнитель.md"
     }
   ],
   "omittedPaths": [],

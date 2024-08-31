@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "knowledge/dev/java/gc/Garbage Collector.md",
-      "timestamp": 1725130607117
+      "timestamp": 1725131416052
+    },
+    {
+      "filepath": "knowledge/dev/java/gc/Garbage First.md",
+      "timestamp": 1725131415307
+    },
+    {
+      "filepath": "wiki/zero/00 Java разработка.md",
+      "timestamp": 1725131193007
     },
     {
       "filepath": "Home.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Монолитный ад.md",
       "timestamp": 1725126350746
-    },
-    {
-      "filepath": "_inbox/Монолитная архитектура.md",
-      "timestamp": 1725126347863
-    },
-    {
-      "filepath": "knowledge/dev/Скрипты для Git.md",
-      "timestamp": 1725126330349
     }
   ],
   "bookmarkedFileStore": [],
