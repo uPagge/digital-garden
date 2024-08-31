@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "JOMO",
-      "path": "_inbox/JOMO.md"
+      "basename": "Личность",
+      "path": "_inbox/Личность.md"
+    },
+    {
+      "basename": "Эго",
+      "path": "_inbox/Эго.md"
     },
     {
       "basename": "Идентичность",
       "path": "knowledge/human/Идентичность.md"
+    },
+    {
+      "basename": "Формирование новых привычек",
+      "path": "knowledge/productivity/Формирование новых привычек.md"
+    },
+    {
+      "basename": "Стресс",
+      "path": "knowledge/human/Стресс.md"
+    },
+    {
+      "basename": "JOMO",
+      "path": "_inbox/JOMO.md"
     },
     {
       "basename": "FOMO",
@@ -183,18 +199,6 @@
     {
       "basename": "Идеи для ремонта",
       "path": "projects/Ремонт квартиры/Идеи для ремонта.md"
-    },
-    {
-      "basename": "Межкомнатные двери",
-      "path": "_inbox/Межкомнатные двери.md"
-    },
-    {
-      "basename": "Идеи для статей",
-      "path": "notes/Идеи для статей.md"
-    },
-    {
-      "basename": "Входная деверь",
-      "path": "_inbox/Входная деверь.md"
     }
   ],
   "omittedPaths": [],
