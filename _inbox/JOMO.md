@@ -11,7 +11,7 @@ linked:
   - "[[_inbox/YOLO|YOLO]]"
   - "[[_inbox/FOMO|FOMO]]"
 share_link: https://share.note.sx/zb125wkk
-share_updated: 2024-08-31T20:36:40+03:00
+share_updated: 2024-08-31T20:41:34+03:00
 ---
 JOMO - (joy of missing our) - моральное (душевное) состояние, выражающееся в гармонии между желаемым и получаемым. Радость от упущенного. Отказ от лишнего.
 

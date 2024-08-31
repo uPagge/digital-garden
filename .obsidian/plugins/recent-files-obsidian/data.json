@@ -9,6 +9,10 @@
       "path": "_inbox/JOMO.md"
     },
     {
+      "basename": "Ссылки на публичные заметки",
+      "path": "_inbox/Ссылки на публичные заметки.md"
+    },
+    {
       "basename": "Настройки noteshare для Obsidian",
       "path": "notes/Настройки noteshare для Obsidian.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Головная боль напряжения",
       "path": "_inbox/Головная боль напряжения.md"
-    },
-    {
-      "basename": "00 Ремонт",
-      "path": "wiki/zero/00 Ремонт.md"
     }
   ],
   "omittedPaths": [],

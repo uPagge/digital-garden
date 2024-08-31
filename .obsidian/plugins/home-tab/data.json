@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "knowledge/productivity/other/Внутренняя мотивация.md",
-      "timestamp": 1725125805686
+      "timestamp": 1725126105036
     },
     {
       "filepath": "_inbox/JOMO.md",
-      "timestamp": 1725125749833
+      "timestamp": 1725126091171
+    },
+    {
+      "filepath": "_inbox/Ссылки на публичные заметки.md",
+      "timestamp": 1725126080346
     },
     {
       "filepath": "notes/Настройки noteshare для Obsidian.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "archive/Я.Практикум/Полезное/Запуск ShareIt как в Github с H2 базой.md",
       "timestamp": 1725125483599
-    },
-    {
-      "filepath": "_inbox/Типы личности в работе.md",
-      "timestamp": 1725113552779
     }
   ],
   "bookmarkedFileStore": [],
