@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "JOMO",
+      "path": "_inbox/JOMO.md"
+    },
+    {
+      "basename": "YOLO",
+      "path": "_inbox/YOLO.md"
+    },
+    {
+      "basename": "FOMO",
+      "path": "_inbox/FOMO.md"
+    },
+    {
       "basename": "Мотивация",
       "path": "knowledge/human/other/Мотивация.md"
     },
     {
-      "basename": "JOMO",
-      "path": "_inbox/JOMO.md"
+      "basename": "Амотивация",
+      "path": "knowledge/productivity/Амотивация.md"
     },
     {
       "basename": "Эго",
@@ -31,14 +43,6 @@
     {
       "basename": "Стресс",
       "path": "knowledge/human/Стресс.md"
-    },
-    {
-      "basename": "FOMO",
-      "path": "_inbox/FOMO.md"
-    },
-    {
-      "basename": "YOLO",
-      "path": "_inbox/YOLO.md"
     },
     {
       "basename": "Клиповое мышление",
@@ -195,10 +199,6 @@
     {
       "basename": "Проект. Ремонт квартиры",
       "path": "projects/Ремонт квартиры/Проект. Ремонт квартиры.md"
-    },
-    {
-      "basename": "Курс. Как сделать ремонт и не сойти с ума",
-      "path": "source/курсы/тж/Курс. Как сделать ремонт и не сойти с ума.md"
     }
   ],
   "omittedPaths": [],
