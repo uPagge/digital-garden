@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Внутренняя мотивация",
+      "path": "knowledge/productivity/other/Внутренняя мотивация.md"
+    },
+    {
+      "basename": "JOMO",
+      "path": "_inbox/JOMO.md"
+    },
+    {
       "basename": "Настройки noteshare для Obsidian",
       "path": "notes/Настройки noteshare для Obsidian.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "FOMO",
       "path": "_inbox/FOMO.md"
-    },
-    {
-      "basename": "JOMO",
-      "path": "_inbox/JOMO.md"
     },
     {
       "basename": "Мотивация",
@@ -195,10 +199,6 @@
     {
       "basename": "00 Ремонт",
       "path": "wiki/zero/00 Ремонт.md"
-    },
-    {
-      "basename": "Сантехника",
-      "path": "_inbox/Сантехника.md"
     }
   ],
   "omittedPaths": [],

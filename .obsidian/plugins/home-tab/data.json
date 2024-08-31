@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/productivity/other/Внутренняя мотивация.md",
+      "timestamp": 1725125805686
+    },
+    {
+      "filepath": "_inbox/JOMO.md",
+      "timestamp": 1725125749833
+    },
+    {
       "filepath": "notes/Настройки noteshare для Obsidian.md",
       "timestamp": 1725125488944
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "_inbox/Типы личности в работе.md",
       "timestamp": 1725113552779
-    },
-    {
-      "filepath": "_inbox/YOLO.md",
-      "timestamp": 1725113543895
-    },
-    {
-      "filepath": "Роли в команде.md",
-      "timestamp": 1725108986540
     }
   ],
   "bookmarkedFileStore": [],
