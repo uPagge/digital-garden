@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "knowledge/english/Полезные фразы.md",
+      "timestamp": 1725084551769
+    },
+    {
       "filepath": "_inbox/Уроки от English Galaxy.md",
       "timestamp": 1725084037077
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "source/книги/книготека/Мама я тимлид.md",
       "timestamp": 1725045515015
-    },
-    {
-      "filepath": "_inbox/Виды конфликтов.md",
-      "timestamp": 1725045140652
     }
   ],
   "bookmarkedFileStore": [],
