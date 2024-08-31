@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-08-31 1725099023.md",
-      "timestamp": 1725099023929
+      "filepath": "_inbox/YOLO.md",
+      "timestamp": 1725099676231
+    },
+    {
+      "filepath": "_inbox/FOMO.md",
+      "timestamp": 1725099672650
     },
     {
       "filepath": "Home.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "knowledge/english/Полезные фразы.md",
       "timestamp": 1725086510545
-    },
-    {
-      "filepath": "_inbox/Конфликт.md",
-      "timestamp": 1725045641789
     }
   ],
   "bookmarkedFileStore": [],

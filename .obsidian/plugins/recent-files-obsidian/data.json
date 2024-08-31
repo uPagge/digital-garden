@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "YOLO",
+      "path": "_inbox/YOLO.md"
+    },
+    {
       "basename": "FOMO",
       "path": "_inbox/FOMO.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Монтаж окна",
       "path": "_inbox/Монтаж окна.md"
-    },
-    {
-      "basename": "Окно",
-      "path": "_inbox/Окно.md"
     }
   ],
   "omittedPaths": [],
