@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Настройки noteshare для Obsidian",
+      "path": "notes/Настройки noteshare для Obsidian.md"
+    },
+    {
+      "basename": "Запуск ShareIt как в Github с H2 базой",
+      "path": "archive/Я.Практикум/Полезное/Запуск ShareIt как в Github с H2 базой.md"
+    },
+    {
       "basename": "Типы личности в работе",
       "path": "_inbox/Типы личности в работе.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Сантехника",
       "path": "_inbox/Сантехника.md"
-    },
-    {
-      "basename": "Смеситель",
-      "path": "_inbox/Смеситель.md"
-    },
-    {
-      "basename": "Как выбрать смеситель",
-      "path": "_inbox/Как выбрать смеситель.md"
     }
   ],
   "omittedPaths": [],
