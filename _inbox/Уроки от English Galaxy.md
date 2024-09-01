@@ -142,4 +142,4 @@ linked:
 		- [Урок 1. Разговорные ситуации](https://youtu.be/quvU8S3Y0os)
 		- [Урок 1. Диалоги](https://youtu.be/GZAzUQrJ1gU)
 	- Урок 2. [Present Simple](knowledge/english/Present%20Simple.md) – обычный глагол и глагол to be отрицание
-		- [2g - YouTube](https://youtu.be/zZ3R-jq4LRI)
+		- [Урок 2.  Грамматика](https://youtu.be/zZ3R-jq4LRI)
