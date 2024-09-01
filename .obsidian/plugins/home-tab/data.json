@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "_inbox/Уроки от English Galaxy.md",
+      "timestamp": 1725173514447
+    },
+    {
       "filepath": "Home.md",
       "timestamp": 1725173511325
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "wiki/zero/00 Java разработка.md",
       "timestamp": 1725131193007
-    },
-    {
-      "filepath": "_inbox/Монолитный ад.md",
-      "timestamp": 1725126350746
     }
   ],
   "bookmarkedFileStore": [],
