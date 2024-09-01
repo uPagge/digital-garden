@@ -8,7 +8,7 @@
     "diary/"
   ],
   "newFileLocation": "folder",
-  "newFileFolderPath": "inbox",
+  "newFileFolderPath": "_inbox",
   "livePreview": true,
   "useMarkdownLinks": true,
   "showFrontmatter": false,
@@ -46,5 +46,5 @@
   "readableLineLength": true,
   "defaultViewMode": "source",
   "promptDelete": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "relative"
 }
