@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Struchkov's Garden",
-      "path": "garden/ru/Struchkov's Garden.md"
+      "basename": "index",
+      "path": "garden/ru/index.md"
+    },
+    {
+      "basename": "Quartz",
+      "path": "_inbox/Quartz.md"
+    },
+    {
+      "basename": "Полезные фразы",
+      "path": "knowledge/english/Полезные фразы.md"
+    },
+    {
+      "basename": "00 Docker",
+      "path": "wiki/zero/00 Docker.md"
     },
     {
       "basename": "Проекты",
@@ -25,20 +37,8 @@
       "path": "_inbox/Dockerfile.md"
     },
     {
-      "basename": "00 Docker",
-      "path": "wiki/zero/00 Docker.md"
-    },
-    {
-      "basename": "Quartz",
-      "path": "_inbox/Quartz.md"
-    },
-    {
       "basename": "Home",
       "path": "Home.md"
-    },
-    {
-      "basename": "Полезные фразы",
-      "path": "knowledge/english/Полезные фразы.md"
     },
     {
       "basename": "Garbage Collector",
