@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Уроки от English Galaxy",
-      "path": "_inbox/Уроки от English Galaxy.md"
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Полезные фразы",
       "path": "knowledge/english/Полезные фразы.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Garbage Collector",
@@ -25,14 +21,6 @@
       "path": "wiki/zero/00 Java разработка.md"
     },
     {
-      "basename": "Монолитный ад",
-      "path": "_inbox/Монолитный ад.md"
-    },
-    {
-      "basename": "Монолитная архитектура",
-      "path": "_inbox/Монолитная архитектура.md"
-    },
-    {
       "basename": "Скрипты для Git",
       "path": "knowledge/dev/Скрипты для Git.md"
     },
@@ -45,24 +33,12 @@
       "path": "wiki/zero/00 Разработка.md"
     },
     {
-      "basename": "Контейнерная виртуализация",
-      "path": "_inbox/Контейнерная виртуализация.md"
-    },
-    {
       "basename": "Микросервисная архитектура",
       "path": "wiki/zero/Микросервисная архитектура.md"
     },
     {
-      "basename": "JOMO",
-      "path": "_inbox/JOMO.md"
-    },
-    {
       "basename": "Внутренняя мотивация",
       "path": "knowledge/productivity/other/Внутренняя мотивация.md"
-    },
-    {
-      "basename": "Ссылки на публичные заметки",
-      "path": "_inbox/Ссылки на публичные заметки.md"
     },
     {
       "basename": "Настройки noteshare для Obsidian",
@@ -73,20 +49,8 @@
       "path": "archive/Я.Практикум/Полезное/Запуск ShareIt как в Github с H2 базой.md"
     },
     {
-      "basename": "Типы личности в работе",
-      "path": "_inbox/Типы личности в работе.md"
-    },
-    {
-      "basename": "YOLO",
-      "path": "_inbox/YOLO.md"
-    },
-    {
       "basename": "Роли в команде",
       "path": "Роли в команде.md"
-    },
-    {
-      "basename": "FOMO",
-      "path": "_inbox/FOMO.md"
     },
     {
       "basename": "Мотивация",
@@ -97,16 +61,8 @@
       "path": "knowledge/productivity/Амотивация.md"
     },
     {
-      "basename": "Эго",
-      "path": "_inbox/Эго.md"
-    },
-    {
       "basename": "Формирование новых привычек",
       "path": "knowledge/productivity/Формирование новых привычек.md"
-    },
-    {
-      "basename": "Личность",
-      "path": "_inbox/Личность.md"
     },
     {
       "basename": "Идентичность",
@@ -121,84 +77,12 @@
       "path": "knowledge/human/Стресс.md"
     },
     {
-      "basename": "Клиповое мышление",
-      "path": "_inbox/Клиповое мышление.md"
-    },
-    {
-      "basename": "Конфликт",
-      "path": "_inbox/Конфликт.md"
-    },
-    {
-      "basename": "Саботаж в команде",
-      "path": "_inbox/Саботаж в команде.md"
-    },
-    {
       "basename": "Мама я тимлид",
       "path": "source/книги/книготека/Мама я тимлид.md"
     },
     {
-      "basename": "Виды конфликтов",
-      "path": "_inbox/Виды конфликтов.md"
-    },
-    {
-      "basename": "Внутриличностный конфликт",
-      "path": "_inbox/Внутриличностный конфликт.md"
-    },
-    {
-      "basename": "Межгрупповой конфликт",
-      "path": "_inbox/Межгрупповой конфликт.md"
-    },
-    {
-      "basename": "Межличностный конфликт",
-      "path": "_inbox/Межличностный конфликт.md"
-    },
-    {
-      "basename": "Конфликт личности и группы",
-      "path": "_inbox/Конфликт личности и группы.md"
-    },
-    {
-      "basename": "Рабочая команда",
-      "path": "_inbox/Рабочая команда.md"
-    },
-    {
-      "basename": "Подбор людей в команду",
-      "path": "_inbox/Подбор людей в команду.md"
-    },
-    {
-      "basename": "Роль Исследователь",
-      "path": "_inbox/Роль Исследователь.md"
-    },
-    {
-      "basename": "Роль Дипломат",
-      "path": "_inbox/Роль Дипломат.md"
-    },
-    {
-      "basename": "Роль Координатор",
-      "path": "_inbox/Роль Координатор.md"
-    },
-    {
-      "basename": "Роль Завершатель",
-      "path": "_inbox/Роль Завершатель.md"
-    },
-    {
       "basename": "Выгорание",
       "path": "knowledge/health/болезни/Выгорание.md"
-    },
-    {
-      "basename": "Роль Аналитик",
-      "path": "_inbox/Роль Аналитик.md"
-    },
-    {
-      "basename": "Роль Генератор",
-      "path": "_inbox/Роль Генератор.md"
-    },
-    {
-      "basename": "Роль Специалист",
-      "path": "_inbox/Роль Специалист.md"
-    },
-    {
-      "basename": "00 Работа",
-      "path": "_inbox/00 Работа.md"
     }
   ],
   "omittedPaths": [],
