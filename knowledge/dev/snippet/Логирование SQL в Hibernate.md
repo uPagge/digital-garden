@@ -4,7 +4,7 @@ tags:
   - зрелость/🌱
 date: "[[2023-11-09]]"
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../garden/ru/meta/zero/00 Java разработка]]"
 parents:
   - "[[00 Hibernate]]"
 linked: 

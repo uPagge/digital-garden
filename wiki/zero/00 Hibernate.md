@@ -5,7 +5,7 @@ tags:
   - type/zero-link
 date: "[[2023-11-09]]"
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../garden/ru/meta/zero/00 Java разработка]]"
 parents: 
-linked:
+linked: 
 ---

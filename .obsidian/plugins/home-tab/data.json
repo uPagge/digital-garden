@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "wiki/zero/00 Разработка.md",
-      "timestamp": 1725212505883
+      "filepath": "garden/ru/meta/zero/00 Java разработка.md",
+      "timestamp": 1725212987896
+    },
+    {
+      "filepath": "garden/ru/dev/java/gc/Garbage Collector.md",
+      "timestamp": 1725212939342
     },
     {
       "filepath": "garden/ru/index.md",
-      "timestamp": 1725211577159
+      "timestamp": 1725212936552
     },
     {
-      "filepath": "garden/ru/files/digital-garden.png",
+      "filepath": "garden/ru/meta/zero/00 Разработка.md",
+      "timestamp": 1725212879708
+    },
+    {
+      "filepath": "garden/ru/meta/files/digital-garden.png",
       "timestamp": 1725211559462
-    },
-    {
-      "filepath": "knowledge/english/Полезные фразы.md",
-      "timestamp": 1725211104506
     }
   ],
   "bookmarkedFileStore": [],

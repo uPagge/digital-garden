@@ -4,10 +4,10 @@ tags:
   - зрелость/🌱
 date: "[[2023-11-06]]"
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../../garden/ru/meta/zero/00 Java разработка]]"
 parents:
-  - "[[Garbage Collector]]"
-linked:
+  - "[[../../../../garden/ru/dev/java/gc/Garbage Collector]]"
+linked: 
 ---
 В отличие от [Parallel GC](Parallel%20GC.md) ([Generational Collection](Generational%20Collection.md), [Copy Collector](Copy%20Collector.md), [Mark and Compact](Mark%20and%20Compact.md), [Parallel Collection](Parallel%20Collection.md)) этот сборщик уже умеет работать в параллельном режиме как с областью Young Generation, так и с областью Old Generation.
 

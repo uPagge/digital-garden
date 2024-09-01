@@ -4,7 +4,7 @@ tags:
 date:
   - - 2023-11-20
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../../garden/ru/meta/zero/00 Java разработка]]"
 parents:
   - "[[Снипеты на Java]]"
 linked: 

@@ -4,9 +4,9 @@ tags:
   - зрелость/🌱
 date: "[[2023-11-06]]"
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../garden/ru/meta/zero/00 Java разработка]]"
 parents: 
-linked:
+linked: 
 ---
 # HotSpot JVM
 ![](Pasted%20image%2020231106101449.png)
@@ -20,4 +20,4 @@ linked:
 ## Executor Engine
 ## JIT Compiler
 ### Garbage Collector
-![Garbage Collector](Garbage%20Collector.md)
+![Garbage Collector](../../../garden/ru/dev/java/gc/Garbage%20Collector.md)

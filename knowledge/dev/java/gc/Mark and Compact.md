@@ -4,9 +4,9 @@ tags:
   - зрелость/🌱
 date: "[[2023-11-07]]"
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../../garden/ru/meta/zero/00 Java разработка]]"
 parents:
-  - "[[Garbage Collector]]"
+  - "[[../../../../garden/ru/dev/java/gc/Garbage Collector]]"
 linked:
   - "[[Mark and Sweep]]"
 ---

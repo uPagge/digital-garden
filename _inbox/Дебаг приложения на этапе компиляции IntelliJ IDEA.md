@@ -5,7 +5,7 @@ tags:
 date:
   - - 2024-04-07
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../garden/ru/meta/zero/00 Java разработка]]"
 parents: 
 linked: 
 link: https://struchkov.dev/blog/ru/java-debugging-annotation-processor/

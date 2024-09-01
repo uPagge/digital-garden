@@ -4,7 +4,7 @@ tags:
 date:
   - - 2024-01-10
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../garden/ru/meta/zero/00 Java разработка]]"
 parents: 
 linked:
   - "[[JVM]]"

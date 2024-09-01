@@ -6,9 +6,9 @@ tags:
   - зрелость/🌱
 date: "[[2023-11-06]]"
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../../garden/ru/meta/zero/00 Java разработка]]"
 parents:
-  - "[[Garbage Collector]]"
+  - "[[../../../../garden/ru/dev/java/gc/Garbage Collector]]"
 linked: []
 ---
 Появился в [Java 7](Java%207.md) и использует [Generational Collection](Generational%20Collection.md).

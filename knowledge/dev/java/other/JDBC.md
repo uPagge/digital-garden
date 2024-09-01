@@ -5,10 +5,10 @@ tags:
 date:
   - - 2023-11-22
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../../garden/ru/meta/zero/00 Java разработка]]"
 parents:
   - "[[Java Разработка]]"
-linked:
+linked: 
 ---
 JDBC (Java Database Connectivity) — это стандартный API, который определяет, как клиент может получить доступ к базе данных. Вот как он работает:
 

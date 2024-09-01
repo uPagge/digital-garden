@@ -9,7 +9,7 @@ tags:
   - зрелость/🌿
 date: "[[2023-11-06]]"
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../meta/zero/00 Java разработка|00 Java разработка]]"
 parents: 
 linked:
 ---

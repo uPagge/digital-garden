@@ -4,10 +4,10 @@ tags:
   - зрелость/🌱
 date: "[[2023-11-08]]"
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../garden/ru/meta/zero/00 Java разработка]]"
 parents:
   - "[[JVM]]"
-linked:
+linked: 
 ---
 ## GC
 - [Serial](Serial%20GC.md)

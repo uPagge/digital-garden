@@ -7,7 +7,7 @@ zero-link:
   - "[[../../../../garden/ru/meta/zero/00 Разработка]]"
 parents: 
 linked:
-  - "[[Garbage Collector]]"
+  - "[[../../../../garden/ru/dev/java/gc/Garbage Collector]]"
 ---
 Этот алгоритм является альтернативой [SATB](Snapshot%20at%20the%20beginning%20(SATB).md) и отслеживает изменения, происходящие после начала фазы маркировки.
 

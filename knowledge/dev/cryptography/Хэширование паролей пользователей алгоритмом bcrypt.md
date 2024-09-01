@@ -6,10 +6,10 @@ tags:
 date:
   - - 2024-03-03
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../garden/ru/meta/zero/00 Java разработка]]"
   - "[[00 Криптография]]"
 parents: 
-linked:
+linked: 
 ---
 Добавляем зависимость
 ```xml

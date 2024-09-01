@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "00 Разработка",
-      "path": "garden/ru/meta/zero/00 Разработка.md"
+      "basename": "00 Java разработка",
+      "path": "garden/ru/meta/zero/00 Java разработка.md"
+    },
+    {
+      "basename": "Garbage Collector",
+      "path": "garden/ru/dev/java/gc/Garbage Collector.md"
     },
     {
       "basename": "index",
       "path": "garden/ru/index.md"
     },
     {
+      "basename": "00 Разработка",
+      "path": "garden/ru/meta/zero/00 Разработка.md"
+    },
+    {
       "basename": "digital-garden",
-      "path": "garden/ru/files/digital-garden.png"
+      "path": "garden/ru/meta/files/digital-garden.png"
     },
     {
       "basename": "Полезные фразы",
@@ -49,16 +57,8 @@
       "path": "Home.md"
     },
     {
-      "basename": "Garbage Collector",
-      "path": "knowledge/dev/java/gc/Garbage Collector.md"
-    },
-    {
       "basename": "Garbage First",
       "path": "knowledge/dev/java/gc/Garbage First.md"
-    },
-    {
-      "basename": "00 Java разработка",
-      "path": "wiki/zero/00 Java разработка.md"
     },
     {
       "basename": "Скрипты для Git",

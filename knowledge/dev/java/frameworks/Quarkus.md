@@ -10,8 +10,8 @@ tags:
 date:
   - - 2024-03-03
 zero-link:
-  - "[[00 Java разработка]]"
+  - "[[../../../../garden/ru/meta/zero/00 Java разработка]]"
 parents:
   - "[[Java Фреймворки]]"
-linked:
+linked: 
 ---
