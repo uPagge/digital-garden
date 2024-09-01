@@ -24,24 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "garden/Без названия.md",
-      "timestamp": 1725205074114
+      "filepath": "garden/ru/Struchkov's Garden.md",
+      "timestamp": 1725205450669
     },
     {
-      "filepath": "Без названия 3.md",
-      "timestamp": 1725205012439
+      "filepath": "Проекты.md",
+      "timestamp": 1725205437679
     },
     {
-      "filepath": "_inbox/Dockerfile.md",
-      "timestamp": 1725201017070
-    },
-    {
-      "filepath": "wiki/zero/00 Docker.md",
-      "timestamp": 1725201014767
-    },
-    {
-      "filepath": "_inbox/Quartz.md",
-      "timestamp": 1725200845589
+      "filepath": "_inbox/NATS.md",
+      "timestamp": 1725205436573
     }
   ],
   "bookmarkedFileStore": [],

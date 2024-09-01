@@ -2,11 +2,23 @@
   "recentFiles": [
     {
       "basename": "Struchkov's Garden",
-      "path": "garden/Struchkov's Garden.md"
+      "path": "garden/ru/Struchkov's Garden.md"
     },
     {
-      "basename": "Без названия 3",
-      "path": "Без названия 3.md"
+      "basename": "Проекты",
+      "path": "Проекты.md"
+    },
+    {
+      "basename": "NATS",
+      "path": "_inbox/NATS.md"
+    },
+    {
+      "basename": "Стена из пазогребневых плит",
+      "path": "_inbox/Стена из пазогребневых плит.md"
+    },
+    {
+      "basename": "Производительность SQL запросов",
+      "path": "_inbox/Производительность SQL запросов.md"
     },
     {
       "basename": "Dockerfile",
@@ -70,7 +82,7 @@
     },
     {
       "basename": "Роли в команде",
-      "path": "Роли в команде.md"
+      "path": "_inbox/Роли в команде.md"
     },
     {
       "basename": "Мотивация",

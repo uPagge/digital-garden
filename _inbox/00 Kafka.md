@@ -104,7 +104,7 @@ Apache Kafka – это платформа потоковой передачи, 
 
 ## Дополнительно
 - [Consumer Group](Consumer%20Group.md)
-- [[Кластер Kafka]]
+- [[_inbox/Кластер Kafka]]
 - [Запуск Kafka в docker-compose](Запуск%20Kafka%20в%20docker-compose.md)
 
 ```
