@@ -24,7 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "_inbox/2024-09-01 1725200845.md",
+      "filepath": "_inbox/Dockerfile.md",
+      "timestamp": 1725201017070
+    },
+    {
+      "filepath": "wiki/zero/00 Docker.md",
+      "timestamp": 1725201014767
+    },
+    {
+      "filepath": "_inbox/Quartz.md",
       "timestamp": 1725200845589
     },
     {

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dockerfile",
+      "path": "_inbox/Dockerfile.md"
+    },
+    {
+      "basename": "00 Docker",
+      "path": "wiki/zero/00 Docker.md"
+    },
+    {
       "basename": "Quartz",
       "path": "_inbox/Quartz.md"
     },
