@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1725173511325
+    },
+    {
       "filepath": "knowledge/dev/java/gc/Garbage Collector.md",
       "timestamp": 1725131416052
     },
@@ -34,10 +38,6 @@
     {
       "filepath": "wiki/zero/00 Java разработка.md",
       "timestamp": 1725131193007
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1725130280727
     },
     {
       "filepath": "_inbox/Монолитный ад.md",
