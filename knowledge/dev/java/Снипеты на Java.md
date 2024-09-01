@@ -2,7 +2,7 @@
 tags:
   - type/moc
 zero-link:
-  - "[[00 Разработка]]"
+  - "[[../../../garden/ru/meta/zero/00 Разработка]]"
 aliases:
   - Скрипты на Java
 ---

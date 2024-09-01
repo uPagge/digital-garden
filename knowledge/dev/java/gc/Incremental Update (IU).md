@@ -4,7 +4,7 @@ tags:
   - зрелость/🌱
 date: "[[2023-11-08]]"
 zero-link:
-  - "[[00 Разработка]]"
+  - "[[../../../../garden/ru/meta/zero/00 Разработка]]"
 parents: 
 linked:
   - "[[Garbage Collector]]"

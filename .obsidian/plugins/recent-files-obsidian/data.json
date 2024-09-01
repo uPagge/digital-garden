@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Разработка",
+      "path": "garden/ru/meta/zero/00 Разработка.md"
+    },
+    {
       "basename": "index",
       "path": "garden/ru/index.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "Удаление .DS_Store из Git репозитория",
       "path": "knowledge/dev/snippet/Удаление .DS_Store из Git репозитория.md"
-    },
-    {
-      "basename": "00 Разработка",
-      "path": "wiki/zero/00 Разработка.md"
     },
     {
       "basename": "Микросервисная архитектура",

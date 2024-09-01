@@ -5,9 +5,9 @@ tags:
 date:
   - - 2024-03-13
 zero-link:
-  - "[[00 Разработка]]"
+  - "[[../garden/ru/meta/zero/00 Разработка]]"
 parents: 
-linked:
+linked: 
 ---
 
 ```bash

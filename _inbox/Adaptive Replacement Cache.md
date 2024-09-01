@@ -5,10 +5,10 @@ tags:
 date:
   - - 2024-06-17
 zero-link:
-  - "[[00 Разработка]]"
+  - "[[../garden/ru/meta/zero/00 Разработка]]"
 parents:
   - "[[Кэширование]]"
-linked:
+linked: 
 ---
 Объединяет преимущества: [Last Frequently Used](Last%20Frequently%20Used.md) и [Least Recently Used](Least%20Recently%20Used.md).
 

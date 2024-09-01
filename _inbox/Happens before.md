@@ -5,9 +5,9 @@ tags:
 date:
   - - 2024-06-09
 zero-link:
-  - "[[00 Разработка]]"
+  - "[[../garden/ru/meta/zero/00 Разработка]]"
 parents: 
-linked:
+linked: 
 ---
 
 > [!WARNING] Нихуя не понятно, но очень интересно

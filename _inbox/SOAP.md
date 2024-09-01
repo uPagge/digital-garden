@@ -5,7 +5,7 @@ tags:
 date:
   - - 2024-04-12
 zero-link:
-  - "[[00 Разработка]]"
+  - "[[../garden/ru/meta/zero/00 Разработка]]"
 parents: 
-linked:
+linked: 
 ---

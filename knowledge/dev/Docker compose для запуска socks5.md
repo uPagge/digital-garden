@@ -5,9 +5,9 @@ tags:
 date:
   - - 2024-02-02
 zero-link:
-  - "[[00 Разработка]]"
+  - "[[../../garden/ru/meta/zero/00 Разработка]]"
 parents: 
-linked:
+linked: 
 ---
 ```yaml
 socks-proxy:

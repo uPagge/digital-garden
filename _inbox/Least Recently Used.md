@@ -6,7 +6,7 @@ tags:
 date:
   - - 2024-05-24
 zero-link:
-  - "[[00 Разработка]]"
+  - "[[../garden/ru/meta/zero/00 Разработка]]"
 parents:
   - "[[Кэширование]]"
 linked:

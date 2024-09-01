@@ -3,7 +3,7 @@ tags:
   - type/moc
 aliases: []
 zero-link:
-  - "[[00 Разработка]]"
+  - "[[../../../garden/ru/meta/zero/00 Разработка]]"
 ---
 - [Устройство Java](Устройство%20Java.md)
 - [Снипеты на Java](Снипеты%20на%20Java.md)
