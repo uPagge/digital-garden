@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "garden/Без названия.md",
+      "timestamp": 1725205074114
+    },
+    {
+      "filepath": "Без названия 3.md",
+      "timestamp": 1725205012439
+    },
+    {
       "filepath": "_inbox/Dockerfile.md",
       "timestamp": 1725201017070
     },
@@ -34,10 +42,6 @@
     {
       "filepath": "_inbox/Quartz.md",
       "timestamp": 1725200845589
-    },
-    {
-      "filepath": "Home.md",
-      "timestamp": 1725194441085
     }
   ],
   "bookmarkedFileStore": [],

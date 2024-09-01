@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiTree",
+      "🌳",
       "LiWebcam",
       "RiSlideshowLine",
-      "LiHome",
-      "FarNoteSticky",
-      "RiCheckDoubleLine"
+      "LiHome"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -58,5 +58,6 @@
   "notes": "FarNoteSticky",
   "home": "LiHome",
   "source/конференции": "RiSlideshowLine",
-  "source/курсы": "LiWebcam"
+  "source/курсы": "LiWebcam",
+  "garden": "TiTree"
 }
