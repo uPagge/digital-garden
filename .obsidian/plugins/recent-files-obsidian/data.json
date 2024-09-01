@@ -9,12 +9,16 @@
       "path": "garden/ru/dev/java/gc/Garbage Collector.md"
     },
     {
-      "basename": "index",
-      "path": "garden/ru/index.md"
-    },
-    {
       "basename": "00 Разработка",
       "path": "garden/ru/meta/zero/00 Разработка.md"
+    },
+    {
+      "basename": "00 Docker",
+      "path": "wiki/zero/00 Docker.md"
+    },
+    {
+      "basename": "index",
+      "path": "garden/ru/index.md"
     },
     {
       "basename": "digital-garden",
@@ -27,10 +31,6 @@
     {
       "basename": "Quartz",
       "path": "_inbox/Quartz.md"
-    },
-    {
-      "basename": "00 Docker",
-      "path": "wiki/zero/00 Docker.md"
     },
     {
       "basename": "Проекты",

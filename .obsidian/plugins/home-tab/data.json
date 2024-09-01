@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "garden/ru/meta/zero/00 Java разработка.md",
-      "timestamp": 1725212987896
+      "timestamp": 1725213249451
     },
     {
       "filepath": "garden/ru/dev/java/gc/Garbage Collector.md",
-      "timestamp": 1725212939342
+      "timestamp": 1725213218222
+    },
+    {
+      "filepath": "garden/ru/meta/zero/00 Разработка.md",
+      "timestamp": 1725213030374
+    },
+    {
+      "filepath": "wiki/zero/00 Docker.md",
+      "timestamp": 1725213029288
     },
     {
       "filepath": "garden/ru/index.md",
       "timestamp": 1725212936552
-    },
-    {
-      "filepath": "garden/ru/meta/zero/00 Разработка.md",
-      "timestamp": 1725212879708
-    },
-    {
-      "filepath": "garden/ru/meta/files/digital-garden.png",
-      "timestamp": 1725211559462
     }
   ],
   "bookmarkedFileStore": [],
