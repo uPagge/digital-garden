@@ -7,11 +7,31 @@ trigger:
   branch:
     - master
 
+image_pull_secrets:
+  - DOCKER_AUTH
+
+services:
+  - name: docker
+    # https://hub.docker.com/r/library/docker
+    image: hub.docker.struchkov.dev/docker:27.1.2-dind-alpine3.20
+    privileged: true
+    volumes:
+      - name: dockersock
+        path: /var/run
+
+volumes:
+  - name: dockersock
+    temp: {}
+
 steps:
   - name: build site
     # https://hub.docker.com/r/library/docker
     image: hub.docker.struchkov.dev/docker:27.1.2-dind-alpine3.20
+    volumes:
+      - name: dockersock
+        path: /var/run
     commands:
+      - sleep 15
       - docker run -v ./.quartz/quartz.config.ts:/usr/src/app/quartz.config.ts -v .:/usr/src/app/content -v ./public:/usr/src/app/public --rm docker.struchkov.dev/quartz:latest build
   - name: publish to server
     image: hub.docker.struchkov.dev/docker:27.1.2-dind-alpine3.20
@@ -40,6 +60,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 2b8089ba3f96de64c99c185106cdedef4ed566ab496cb5d3a0d5b349fdb025f7
+hmac: c15fd8ef6d134d2dacfed30e4c331a6deb91d6a4cecf81a94ea01b54f79bf865
 
 ...
