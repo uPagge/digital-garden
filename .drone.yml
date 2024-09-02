@@ -32,9 +32,9 @@ steps:
         path: /var/run
     commands:
       - sleep 15
-      - docker run -v ./.quartz/quartz.config.ts:/usr/src/app/quartz.config.ts -v .:/usr/src/app/content -v ./public:/usr/src/app/public --rm docker.struchkov.dev/quartz:latest build
+      - docker run -v ./.quartz/quartz.config.ts:/usr/src/app/quartz.config.ts -v .:/usr/src/app/content -v ./public:/usr/src/app/public docker.struchkov.dev/quartz:latest build
   - name: publish to server
-    image: private.docker.struchkov.dev/mkdocs-material-insiders:latest
+    image: private.docker.struchkov.dev/mkdocs:latest
     environment:
       SSH_DEPLOY_KEY:
         from_secret: SSH_DEPLOY_KEY
@@ -60,6 +60,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 386646d27bf9a41777c16f64437da034c4e5f65061c6e13a06bf3bfa4534f3e6
+hmac: 4fc1308d6af6647f70b043097efcab164761578a8cee9cd23c71ee5847047bb1
 
 ...
