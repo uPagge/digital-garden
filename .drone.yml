@@ -5,7 +5,7 @@ name: docker-build-and-push
 
 trigger:
   branch:
-    - main
+    - master
 
 steps:
   - name: build site
