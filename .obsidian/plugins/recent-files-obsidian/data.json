@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "Garbage Collector",
       "path": "garden/ru/dev/java/gc/Garbage Collector.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "00 Java разработка",
