@@ -24,24 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Home.md",
-      "timestamp": 1725254324207
-    },
-    {
       "filepath": "garden/ru/dev/java/gc/Garbage Collector.md",
-      "timestamp": 1725218930374
-    },
-    {
-      "filepath": "garden/ru/meta/zero/00 Java разработка.md",
-      "timestamp": 1725213249451
-    },
-    {
-      "filepath": "garden/ru/meta/zero/00 Разработка.md",
-      "timestamp": 1725213030374
-    },
-    {
-      "filepath": "wiki/zero/00 Docker.md",
-      "timestamp": 1725213029288
+      "timestamp": 1725257478035
     }
   ],
   "bookmarkedFileStore": [],
