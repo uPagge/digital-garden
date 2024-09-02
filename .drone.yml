@@ -54,12 +54,12 @@ steps:
       - chmod 600 ~/.ssh/id_rsa
       - ssh-keyscan -p $SSH_DEPLOY_PORT $SSH_DEPLOY_HOST >> ~/.ssh/known_hosts
       - chmod 644 ~/.ssh/known_hosts
-      - scp -r -P $SSH_DEPLOY_PORT ./* $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST:$SSH_DEPLOY_PATH
+      - scp -r -P $SSH_DEPLOY_PORT ./public/* $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST:$SSH_DEPLOY_PATH
 
 
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 4fc1308d6af6647f70b043097efcab164761578a8cee9cd23c71ee5847047bb1
+hmac: cba9924e2c1cfa3c94734db7fc328f44c71af65ff707f9f81809cc9729d34f64
 
 ...
