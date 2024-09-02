@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Home.md",
+      "timestamp": 1725257478589
+    },
+    {
       "filepath": "garden/ru/dev/java/gc/Garbage Collector.md",
       "timestamp": 1725257478035
     }
