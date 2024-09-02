@@ -40,6 +40,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: b7f8b00f7df64952e737ae78232a8fa40e89c10ab5ea6f3d2adcb1ba6da564b8
+hmac: 2b8089ba3f96de64c99c185106cdedef4ed566ab496cb5d3a0d5b349fdb025f7
 
 ...
