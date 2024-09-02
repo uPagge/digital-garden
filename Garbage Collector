@@ -1,0 +1,23 @@
+---
+kind: pipeline
+type: docker
+name: docker-build-and-push
+
+trigger:
+  branch:
+    - main
+
+steps:
+  - name: build ru garden
+    # https://hub.docker.com/r/library/docker
+    image: hub.docker.struchkov.dev/docker:27.1.2-dind-alpine3.20
+    commands:
+      - cd garden/ru
+      - docker run -v ./.quartz/quartz.config.ts:/usr/src/app/quartz.config.ts -v .:/usr/src/app/content -v ./garden_ru:/usr/src/app/public --rm docker.struchkov.dev/quartz:local build
+
+# drone sign --save DockerFiles/quartz
+---
+kind: signature
+hmac: cf0faf7e69ed98a6c0191b3578f874c41d6a297645bcf5c8cc1994c540f207ba
+
+...

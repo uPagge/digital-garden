@@ -8,16 +8,38 @@ trigger:
     - main
 
 steps:
-  - name: build ru garden
+  - name: build site
     # https://hub.docker.com/r/library/docker
     image: hub.docker.struchkov.dev/docker:27.1.2-dind-alpine3.20
     commands:
-      - cd garden/ru
-      - docker run -v ./.quartz/quartz.config.ts:/usr/src/app/quartz.config.ts -v .:/usr/src/app/content -v ./garden_ru:/usr/src/app/public --rm docker.struchkov.dev/quartz:local build
+      - docker run -v ./.quartz/quartz.config.ts:/usr/src/app/quartz.config.ts -v .:/usr/src/app/content -v ./public:/usr/src/app/public --rm docker.struchkov.dev/quartz:latest build
+  - name: publish to server
+    image: hub.docker.struchkov.dev/docker:27.1.2-dind-alpine3.20
+    environment:
+      SSH_DEPLOY_KEY:
+        from_secret: SSH_DEPLOY_KEY
+      SSH_DEPLOY_HOST:
+        from_secret: SSH_DEPLOY_HOST
+      SSH_DEPLOY_PORT:
+        from_secret: SSH_DEPLOY_PORT
+      SSH_DEPLOY_PATH:
+        from_secret: SSH_DEPLOY_PATH
+      SSH_DEPLOY_USER:
+        from_secret: SSH_DEPLOY_USER
+    commands:
+      - eval $(ssh-agent -s)
+      - mkdir -p ~/.ssh
+      - echo "$SSH_DEPLOY_KEY" >> ~/.ssh/id_rsa
+      - chmod 700 ~/.ssh
+      - chmod 600 ~/.ssh/id_rsa
+      - ssh-keyscan -p $SSH_DEPLOY_PORT $SSH_DEPLOY_HOST >> ~/.ssh/known_hosts
+      - chmod 644 ~/.ssh/known_hosts
+      - scp -r -P $SSH_DEPLOY_PORT ./* $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST:$SSH_DEPLOY_PATH
 
-# drone sign --save DockerFiles/quartz
+
+# drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: cf0faf7e69ed98a6c0191b3578f874c41d6a297645bcf5c8cc1994c540f207ba
+hmac: b7f8b00f7df64952e737ae78232a8fa40e89c10ab5ea6f3d2adcb1ba6da564b8
 
 ...
