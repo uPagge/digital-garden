@@ -20,6 +20,7 @@ steps:
       - cp ./.quartz/quartz.layout.ts /usr/src/app/
       - cd /usr/src/app/
       - npx quartz build
+      - ls -la
       - ./zip_image ./public
       - mv /usr/src/app/public /drone/src
   - name: publish to server
@@ -50,6 +51,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 3c0e62b6bf94d684ca499c6011d3c6909d9598b6c654a9e471ea120e0f99cb15
+hmac: a9210f3c37ca55105f88855d8da90ad6f5ac66bbdabf012f7e2f3556b5cc9a4b
 
 ...
