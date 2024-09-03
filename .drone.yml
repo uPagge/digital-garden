@@ -21,7 +21,7 @@ steps:
       - cd /usr/src/app/
       - npx quartz build
       - chmod +x zip_image.sh
-      - sh zip_image.sh ./public
+      - bash zip_image.sh ./public
       - mv /usr/src/app/public /drone/src
   - name: publish to server
     image: private.docker.struchkov.dev/mkdocs:latest
@@ -51,6 +51,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 5e7c4ba08c559da237d5371b9a7daa6a42c7ebe471a5fd53d0d45f16c73bdee3
+hmac: a8b8d2e563f31a7ef9fe5fbefe5de59aafd871d9aa901f00446eae3084e34a50
 
 ...
