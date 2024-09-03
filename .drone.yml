@@ -23,9 +23,6 @@ image_pull_secrets:
 #   - name: dockersock
 #     temp: {}
 
-workspace:
-  path: /usr/src/app/
-
 steps:
   - name: build site
     # https://hub.docker.com/r/library/docker
@@ -68,6 +65,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 41e6ddd56b0d2492c8920febcb5d4af7c842da8f7d71ed57ac005a6452c99de3
+hmac: 5f47236b1febc9b08f2d27ca7742aaba8eb11cfeefbe8dc1393850128daac2d0
 
 ...
