@@ -13,6 +13,7 @@ image_pull_secrets:
 steps:
   - name: build site
     # https://hub.docker.com/r/library/docker
+    pull: always
     image: docker.struchkov.dev/quartz:develop
     commands:
       - cp -r ./* /usr/src/app/content
@@ -51,6 +52,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 5e7c4ba08c559da237d5371b9a7daa6a42c7ebe471a5fd53d0d45f16c73bdee3
+hmac: 3512ff98808c57eca116f0cc3bf76fbb544f3fc86cf74b03ad447e3d1fb6136c
 
 ...
