@@ -37,7 +37,9 @@ steps:
       # - sleep 15
       - cp .quartz/quartz.config.ts .
       - cp .quartz/quartz.layout.ts .
+      - pwd
       - ls -la
+      - ls -la /usr/src/app/
       - npx quartz build
   - name: publish to server
     image: private.docker.struchkov.dev/mkdocs:latest
@@ -66,6 +68,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 319895211b041a355a3dcb4d5c053ba532c9bdc5db994dcddffc3acb9e2742e6
+hmac: 41e6ddd56b0d2492c8920febcb5d4af7c842da8f7d71ed57ac005a6452c99de3
 
 ...
