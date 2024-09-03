@@ -21,6 +21,7 @@ steps:
       - cd /usr/src/app/
       - npx quartz build
       - ls -la
+      - chmod -x zip_image.sh
       - ./zip_image ./public
       - mv /usr/src/app/public /drone/src
   - name: publish to server
@@ -51,6 +52,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: a9210f3c37ca55105f88855d8da90ad6f5ac66bbdabf012f7e2f3556b5cc9a4b
+hmac: 677eb240f75969928c4dc47edad224607c24180c3aedb7eafec2b762ef112ccb
 
 ...
