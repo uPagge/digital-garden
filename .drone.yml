@@ -10,28 +10,11 @@ trigger:
 image_pull_secrets:
   - DOCKER_AUTH
 
-# services:
-#   - name: docker
-#     # https://hub.docker.com/r/library/docker
-#     image: hub.docker.struchkov.dev/docker:27.1.2-dind-alpine3.20
-#     privileged: true
-#     volumes:
-#       - name: dockersock
-#         path: /var/run
-
-# volumes:
-#   - name: dockersock
-#     temp: {}
-
 steps:
   - name: build site
     # https://hub.docker.com/r/library/docker
     image: docker.struchkov.dev/quartz:latest
-    # volumes:
-    #   - name: dockersock
-    #     path: /var/run
     commands:
-      # - sleep 15
       - cp -r ./* /usr/src/app/content
       - cp ./.quartz/quartz.config.ts /usr/src/app/
       - cp ./.quartz/quartz.layout.ts /usr/src/app/
@@ -60,12 +43,13 @@ steps:
       - ssh-keyscan -p $SSH_DEPLOY_PORT $SSH_DEPLOY_HOST >> ~/.ssh/known_hosts
       - chmod 644 ~/.ssh/known_hosts
       - ls -la
-      # - scp -r -P $SSH_DEPLOY_PORT ./public/* $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST:$SSH_DEPLOY_PATH
+      - ssh -p $SSH_DEPLOY_PORT $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST "rm -rf $SSH_DEPLOY_PATH/*"
+      - scp -r -P $SSH_DEPLOY_PORT ./public/* $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST:$SSH_DEPLOY_PATH
 
 
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: b0fd7e108fa717c92bbcb8b371fb5b4a20e0c563f62ee649a6123f82e208a77d
+hmac: 9bdad34d737e99f66f9a6fdf42f3b212d3c4bd40fdd0413624925903b9481e1c
 
 ...
