@@ -32,11 +32,10 @@ steps:
     #     path: /var/run
     commands:
       # - sleep 15
-      - cp .quartz/quartz.config.ts .
-      - cp .quartz/quartz.layout.ts .
-      - pwd
-      - ls -la
-      - ls -la /usr/src/app/
+      - cp -r ./* /usr/src/app/content
+      - cd /usr/src/app/
+      - cp ./content/.quartz/quartz.config.ts .
+      - cp ./content/.quartz/quartz.layout.ts .
       - npx quartz build
   - name: publish to server
     image: private.docker.struchkov.dev/mkdocs:latest
@@ -59,12 +58,13 @@ steps:
       - chmod 600 ~/.ssh/id_rsa
       - ssh-keyscan -p $SSH_DEPLOY_PORT $SSH_DEPLOY_HOST >> ~/.ssh/known_hosts
       - chmod 644 ~/.ssh/known_hosts
-      - scp -r -P $SSH_DEPLOY_PORT ./public/* $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST:$SSH_DEPLOY_PATH
+      - ls -la
+      # - scp -r -P $SSH_DEPLOY_PORT ./public/* $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST:$SSH_DEPLOY_PATH
 
 
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 5f47236b1febc9b08f2d27ca7742aaba8eb11cfeefbe8dc1393850128daac2d0
+hmac: 10ea27ef52f73bea4b7299a2fee7486b58bb4c290c50843188a6ba4611896ac4
 
 ...
