@@ -5,10 +5,20 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Remark({
+    options: {
+      host: 'https://comments.struchkov.dev',
+      siteId: 'gardenru',
+      locale: 'ru',
+    }
+  }),
+    ],
   footer: Component.Footer({
     links: {
-      "B.log": "https://struchkov.dev"
+      "About Me": "https://mark.struchkov.dev/cv/",
+      "B.log": "https://struchkov.dev",
+      "CV": "https://mark.struchkov.dev/cv/?utm_source=gardenru&utm_medium=organic&utm_campaign=static",
     },
   }),
 }

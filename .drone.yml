@@ -13,7 +13,7 @@ image_pull_secrets:
 steps:
   - name: build site
     # https://hub.docker.com/r/library/docker
-    image: docker.struchkov.dev/quartz:latest
+    image: docker.struchkov.dev/quartz:develop
     commands:
       - cp -r ./* /usr/src/app/content
       - cp ./.quartz/quartz.config.ts /usr/src/app/
@@ -21,6 +21,7 @@ steps:
       - cd /usr/src/app/
       - npx quartz build
       - mv /usr/src/app/public /drone/src
+      - ./zip_image ./public
   - name: publish to server
     image: private.docker.struchkov.dev/mkdocs:latest
     environment:
@@ -49,6 +50,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: f341c13b25a38e50db57caf4dd127155de52d70b720bb07ab137dc477ba3d420
+hmac: 8f637e2e49344e5c18aaf67e634957cac41fc8dddf47b4a8ce3aa6096fe1b7a9
 
 ...

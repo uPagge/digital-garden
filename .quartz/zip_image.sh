@@ -1,0 +1,26 @@
+#!/bin/bash
+
+find ./images/ -type f -not -path "./images/comp/*" ! -name "*-no-comp.*" $option -iname "*.png" -exec sh -c '
+  png_file="${1/\/images\//\/images\/comp\/}"
+  png_dir="$(dirname "$png_file")"
+  mkdir -p "$png_dir"
+  cp "$1" "${png_file}"
+  optipng -o7 "${png_file}"
+  advpng -z4 "${png_file}"
+  pngcrush -rem gAMA -rem alla -rem cHRM -rem iCCP -rem sRGB -rem time -ow "${png_file}"
+' _ {} \;
+
+find ./images/ -type f-not -path "./images/comp/*" ! -name "*-no-comp.*" $option -iregex '.*\.\(jpg\|jpeg\)' -exec sh -c '
+  jpg_file="${1/\/images\//\/images\/comp\/}"
+  jpg_dir="$(dirname "$jpg_file")"
+  mkdir -p "$jpg_dir"
+  cp "$1" "${jpg_file}"
+  jpegoptim --all-progressive "${jpg_file}"
+' _ {} \;
+
+find ./images/comp -type f -iregex '.*\.\(jpg\|jpeg\|png\)' -not -iregex '.*no-comp\.\(jpg\|jpeg\|png\)' $option -exec sh -c '
+  webp_file="${1/\/images\/comp\//\/images\/webp\/}"
+  webp_dir="$(dirname "$webp_file")"
+  mkdir -p "$webp_dir"
+  cwebp -mt -af -progress -m 6 -q 75 -pass 10 "$1" -o "${webp_file%.*}.webp"
+' _ {} \;
