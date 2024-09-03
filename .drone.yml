@@ -37,6 +37,7 @@ steps:
       - cp ./.quartz/quartz.layout.ts /usr/src/app/
       - cd /usr/src/app/
       - npx quartz build
+      - mv /usr/src/app/public ${DRONE_WORKSPACE}
   - name: publish to server
     image: private.docker.struchkov.dev/mkdocs:latest
     environment:
@@ -65,6 +66,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: da7dbe422e9b2faed8e983c435a1f1ecf0867214b468df721115b4598a7d7a4d
+hmac: 326acffde2227b730b3b75d803d587271569eb85f640ead0accb53b5e80a9963
 
 ...
