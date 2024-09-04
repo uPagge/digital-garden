@@ -9,11 +9,8 @@ parents:
 linked: 
 article: https://note.struchkov.dev/okhttp3-ignore-ssl/
 ---
-
 > [!DANGER]
 > Так лучше не делать, но иногда нужно проигнорировать ошибки связанные с сертификатом сайта.
-
-^b1e7b6
 
 ```java
 import lombok.experimental.UtilityClass;
