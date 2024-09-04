@@ -17,8 +17,8 @@ steps:
   - name: clone
     image: alpine/git
     commands:
-      - git clone https://github.com/octocat/hello-world.git .
-      - git checkout https://git.struchkov.dev/upagge/digital-garden.git
+      - git clone https://git.struchkov.dev/upagge/digital-garden.git .
+      - git checkout $DRONE_COMMIT
   - name: build site
     # https://hub.docker.com/r/library/docker
     pull: always
@@ -58,6 +58,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 85ce5fcce721fe72108cf4c0031b96a1d1286ff9bfb5ad6985f8f5b96624efa2
+hmac: b25014857bd72eadbc70b8675405d942d7785453c12e73264b2e6df2c1b23e15
 
 ...
