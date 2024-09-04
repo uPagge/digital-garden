@@ -3,6 +3,9 @@ kind: pipeline
 type: docker
 name: docker-build-and-push
 
+clone:
+  disable: true
+
 trigger:
   branch:
     - master
@@ -55,6 +58,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: f53021911cf99e606d90ca32fc65c9b9354677ca10490c09401a03a52357db3a
+hmac: 85ce5fcce721fe72108cf4c0031b96a1d1286ff9bfb5ad6985f8f5b96624efa2
 
 ...
