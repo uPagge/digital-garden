@@ -13,6 +13,7 @@ image_pull_secrets:
 steps:
   - name: build site
     # https://hub.docker.com/r/library/docker
+    pull: always
     image: docker.struchkov.dev/quartz:develop
     commands:
       - cp -r ./* /usr/src/app/content
