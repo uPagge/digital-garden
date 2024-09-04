@@ -6,7 +6,7 @@ aliases:
   - сборки мусора
   - сборщику мусора
 tags:
-  - зрелость/🌿
+  - maturity/🌿
 zero-link:
   - "[[../../../meta/zero/00 Java разработка|00 Java разработка]]"
 parents: 
