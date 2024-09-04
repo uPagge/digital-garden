@@ -2,6 +2,7 @@
 date:
   - - 2024-09-01
 title: Struchkov's Digital Garden
+enableToc: "false"
 ---
 👋 Привет!
 
@@ -15,7 +16,10 @@ title: Struchkov's Digital Garden
 
 ## Zero Links
 - [Разработка](meta/zero/00%20Разработка.md)
+	- [Snippets](meta/zero/00%20Snippets.md)
 	- [Java разработка](meta/zero/00%20Java%20разработка.md)
+		- [Quarkus](meta/zero/00%20Quarkus.md)
+		- [SpringBoot](meta/zero/00%20SpringBoot.md)
 ## Чего стоит избегать
 > [!WARNING] DISCLAMER
 > Приветствуются комментарии по теме заметки для улучшения и исправления фактических ошибок. Но ==не стоит указывать на грамматические ошибки или опечатки.== В первую очередь это мои заметки, которые можн
