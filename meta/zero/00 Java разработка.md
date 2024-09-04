@@ -4,10 +4,9 @@ tags:
   - type/moc
 parents:
   - "[[00 Разработка]]"
-title: Java разработка
-aliases: []
+aliases: 
 zero-link:
-  - "[[../../../garden/ru/meta/zero/00 Разработка]]"
+  - "[[00 Разработка]]"
 ---
 - [Устройство Java](Устройство%20Java.md)
 - [Снипеты для Java](../../../garden/ru/meta/zero/00%20Снипеты%20для%20Java.md)
