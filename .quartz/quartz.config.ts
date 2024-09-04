@@ -20,7 +20,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -28,11 +28,11 @@ const config: QuartzConfig = {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
+          darkgray: "#292929",
           dark: "#2b2b2b",
           secondary: "#2c678d",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "rgba(0, 80, 219, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
@@ -57,8 +57,8 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
-          dark: "github-dark",
+          light: "ayu-dark",
+          dark: "vitesse-dark",
         },
         keepBackground: false,
       }),
