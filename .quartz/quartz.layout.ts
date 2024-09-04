@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
         Component.PageTitle(),
         Component.MobileOnly(Component.Spacer()),
         Component.Search(),
-        Component.DesktopOnly(Component.TableOfContents()),
+        Component.RecentNotes(),
         Component.Darkmode(),
     ],
     right: [
@@ -66,6 +66,7 @@ export const defaultContentPageLayout: PageLayout = {
                 showTags: false, // whether to show tags in the graph
             },
         }),
+        Component.DesktopOnly(Component.TableOfContents()),
         Component.Backlinks(),
     ],
 }
