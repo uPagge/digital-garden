@@ -14,16 +14,13 @@ image_pull_secrets:
   - DOCKER_AUTH
 
 steps:
-  - name: clone
-    image: alpine/git
-    commands:
-      - git clone https://git.struchkov.dev/upagge/digital-garden.git .
-      - git checkout $DRONE_COMMIT
   - name: build site
     # https://hub.docker.com/r/library/docker
     pull: always
     image: docker.struchkov.dev/quartz:develop
     commands:
+      - git clone https://git.struchkov.dev/upagge/digital-garden.git .
+      - git checkout $DRONE_COMMIT
       - cp -r ./* /usr/src/app/content
       - cp ./.quartz/quartz.config.ts /usr/src/app/
       - cp ./.quartz/quartz.layout.ts /usr/src/app/
@@ -58,6 +55,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: b25014857bd72eadbc70b8675405d942d7785453c12e73264b2e6df2c1b23e15
+hmac: 90605476d9b2ed341b303e776d398892f0f9dbb7d9d96c864735d635ec27486f
 
 ...

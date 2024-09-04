@@ -6,6 +6,7 @@ export const sharedPageComponents: SharedLayout = {
     head: Component.Head(),
     header: [],
     afterBody: [
+        Component.Backlinks(),
         Component.Remark({
             options: {
                 host: 'https://comments.struchkov.dev',
@@ -22,7 +23,10 @@ export const sharedPageComponents: SharedLayout = {
         },
     }),
 }
-
+const githubSourceConfig = {
+    repoLink: "https://github.com/upagge/digital-garden",
+    branch: "master"
+}
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
     beforeBody: [
@@ -67,7 +71,7 @@ export const defaultContentPageLayout: PageLayout = {
             },
         }),
         Component.DesktopOnly(Component.TableOfContents()),
-        Component.Backlinks(),
+        Component.GithubSource(githubSourceConfig),
     ],
 }
 

@@ -19,7 +19,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Open Sans Condensed",
         body: "Inter",
         code: "IBM Plex Mono",
       },
@@ -57,7 +57,7 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "ayu-dark",
+          light: "github-light",
           dark: "vitesse-dark",
         },
         keepBackground: false,
@@ -85,5 +85,4 @@ const config: QuartzConfig = {
     ],
   },
 }
-
 export default config
