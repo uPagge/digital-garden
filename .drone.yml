@@ -11,6 +11,11 @@ image_pull_secrets:
   - DOCKER_AUTH
 
 steps:
+  - name: clone
+    image: alpine/git
+    commands:
+      - git clone https://github.com/octocat/hello-world.git .
+      - git checkout https://git.struchkov.dev/upagge/digital-garden.git
   - name: build site
     # https://hub.docker.com/r/library/docker
     pull: always
@@ -50,6 +55,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 5024471b462482086caed03df61c919e6d7febe1069a08422d81ebdc5bb06a8b
+hmac: f53021911cf99e606d90ca32fc65c9b9354677ca10490c09401a03a52357db3a
 
 ...
