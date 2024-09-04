@@ -1,12 +1,10 @@
 ---
 tags:
   - type/zero-link
-  - type/moc
-parents:
-  - "[[00 Разработка]]"
-aliases: 
 zero-link:
   - "[[00 Разработка]]"
+permalink: dev/java
+title: Java разработка
 ---
 - [Устройство Java](Устройство%20Java.md)
 - [Снипеты для Java](../../../garden/ru/meta/zero/00%20Снипеты%20для%20Java.md)
