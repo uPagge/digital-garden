@@ -57,7 +57,7 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
+          light: "ayu-dark",
           dark: "vitesse-dark",
         },
         keepBackground: false,
