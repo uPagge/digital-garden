@@ -14,17 +14,15 @@ export const sharedPageComponents: SharedLayout = {
                 locale: 'ru',
             }
         }),
+        Component.YandexMetrika(),
     ],
-    footer: [
-        Component.Footer({
-            links: {
-                "About Me": "https://mark.struchkov.dev/cv/",
-                "B.log": "https://struchkov.dev",
-                "CV": "https://mark.struchkov.dev/cv/?utm_source=gardenru&utm_medium=organic&utm_campaign=static",
-            },
-        }),
-        Component.YandexMetrika()
-    ],
+    footer: Component.Footer({
+        links: {
+            "About Me": "https://mark.struchkov.dev/cv/",
+            "B.log": "https://struchkov.dev",
+            "CV": "https://mark.struchkov.dev/cv/?utm_source=gardenru&utm_medium=organic&utm_campaign=static",
+        },
+    }),
 }
 const githubSourceConfig = {
     repoLink: "https://github.com/upagge/digital-garden",
@@ -41,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
         Component.PageTitle(),
         Component.MobileOnly(Component.Spacer()),
         Component.Search(),
-        Component.DesktopOnly(Component.RecentNotes({showTags: false, limit: 4})),
+        Component.DesktopOnly(Component.RecentNotes({ showTags: false, limit: 4 })),
         Component.Ads(),
         Component.Darkmode(),
     ],
