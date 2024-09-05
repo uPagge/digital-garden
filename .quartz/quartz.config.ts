@@ -19,9 +19,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Inter",
-        code: "IBM Plex Mono",
+        header: "Roboto Slab",
+        body: "Roboto",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
