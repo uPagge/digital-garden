@@ -42,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
         Component.Darkmode(),
     ],
     right: [
-        Component.Graph({
+        Component.DesktopOnly(Component.Graph({
             localGraph: {
                 drag: true, // whether to allow panning the view around
                 zoom: true, // whether to allow zooming in and out
@@ -69,9 +69,9 @@ export const defaultContentPageLayout: PageLayout = {
                 removeTags: [], // what tags to remove from the graph
                 showTags: false, // whether to show tags in the graph
             },
-        }),
+        })),
         Component.DesktopOnly(Component.TableOfContents()),
-        Component.GithubSource(githubSourceConfig),
+        Component.DesktopOnly(Component.GithubSource(githubSourceConfig)),
     ],
 }
 
