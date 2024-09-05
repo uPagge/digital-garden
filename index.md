@@ -2,7 +2,7 @@
 date:
   - - 2024-09-01
 title: Struchkov's Digital Garden
-enableToc: "false"
+enableToc: false
 ---
 👋 Привет. Меня зовут [Стручков Марк](https://mark.struchkov.dev)
 Добро пожаловать в мой "цифровой сад", место, где я собираю свои мысли, идеи, проекты и вдохновение. 
