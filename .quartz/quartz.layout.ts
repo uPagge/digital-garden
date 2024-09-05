@@ -22,7 +22,6 @@ export const sharedPageComponents: SharedLayout = {
             "CV": "https://mark.struchkov.dev/cv/?utm_source=gardenru&utm_medium=organic&utm_campaign=static",
         },
     }),
-        Component.YandexMetrika(),
     ]
 }
 const githubSourceConfig = {
