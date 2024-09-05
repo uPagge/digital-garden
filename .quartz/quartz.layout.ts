@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
         Component.MobileOnly(Component.Spacer()),
         Component.Search(),
         Component.DesktopOnly(Component.RecentNotes({ showTags: false, limit: 4 })),
-        Component.Ads(),
+        Component.DesktopOnly(Component.Ads()),
         Component.Darkmode(),
     ],
     right: [
