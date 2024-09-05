@@ -19,8 +19,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Roboto Slab",
-        body: "Roboto",
+        header: "Montserrat",
+        body: "Noto Sans",
         code: "Fira Code",
       },
       colors: {
