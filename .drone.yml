@@ -19,6 +19,7 @@ steps:
     pull: always
     image: docker.struchkov.dev/quartz:develop
     commands:
+      - rm -rf /usr/src/app/content
       - git clone https://git.struchkov.dev/upagge/digital-garden.git /usr/src/app/content
       - cd /usr/src/app
       - mv ./content/.quartz/quartz.config.ts .
@@ -53,6 +54,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 4abc3adc4a4c3c7dde5936b5dee82fa63719e1c5b10f37777da73a73979d49b5
+hmac: a43e0084195f6e5d004f1c2525ca74884238e2882594143e3ec1f93fc4e63d70
 
 ...
