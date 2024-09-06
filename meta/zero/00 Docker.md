@@ -19,3 +19,4 @@ zero-link:
 - Утилита [Hadolint](https://github.com/hadolint/hadolint). Проверяет докер файл на плохие практики.
 - xfs более производительный
 - Native Overlay Diff рекомендуют отключать (docker info)
+- [Полезные Docker образы](../../dev/devops/docker/Полезные%20Docker%20образы.md)
