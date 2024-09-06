@@ -13,3 +13,4 @@ aliases:
 - [Mock конфигурация Oauth2 для SpringBoot](../../dev/snippet/Mock%20конфигурация%20Oauth2%20для%20SpringBoot.md)
 - [Несколько подключений к базе H2](../../dev/snippet/Несколько%20подключений%20к%20базе%20H2.md)
 - [Дебаг приложения на этапе компиляции IntelliJ IDEA](../../dev/snippet/Дебаг%20приложения%20на%20этапе%20компиляции%20IntelliJ%20IDEA.md)
+- [Логирование SQL в Hibernate](../../dev/java/hibernate/Логирование%20SQL%20в%20Hibernate.md)
