@@ -12,7 +12,7 @@ parents:
 linked: 
 link: https://struchkov.dev/blog/ru/java-binary-search/
 ---
-### Без рекурсии
+## Без рекурсии
 ```java
 public class Binary {
 
@@ -43,7 +43,7 @@ public class Binary {
 }
 ```
 
-### С использованием рекурсии
+## С использованием рекурсии
 ```java
 public class Binary {
 

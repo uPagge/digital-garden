@@ -1,5 +1,5 @@
 ---
-parents:
+zero-link:
   - "[[00 Java разработка]]"
 tags:
   - type/zero-link

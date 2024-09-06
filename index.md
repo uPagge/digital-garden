@@ -19,8 +19,9 @@ enableToc: false
 	- [Java разработка](meta/zero/00%20Java%20разработка.md)
 		- [Quarkus](meta/zero/00%20Quarkus.md)
 		- [SpringBoot](meta/zero/00%20SpringBoot.md)
-## Чего стоит избегать
-> [!WARNING] DISCLAMER
-> Приветствуются комментарии по теме заметки для улучшения и исправления фактических ошибок. Но ==не стоит указывать на грамматические ошибки или опечатки.== В первую очередь это мои заметки, которые можн
+		- [00 Hibernate](meta/zero/00%20Hibernate.md)
+	- [DevOps](meta/zero/00%20DevOps.md)
+		- [Docker](meta/zero/00%20Docker.md)
+	- [Алгоритмы](meta/zero/00%20Алгоритм.md)
 
 
