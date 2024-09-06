@@ -6,6 +6,7 @@ export const sharedPageComponents: SharedLayout = {
     head: Component.Head(),
     header: [],
     afterBody: [
+        Component.TagList(),
         Component.Backlinks(),
         Component.Remark({
             options: {
@@ -34,7 +35,6 @@ export const defaultContentPageLayout: PageLayout = {
         Component.Breadcrumbs(),
         Component.ArticleTitle(),
         Component.ContentMeta(),
-        Component.TagList(),
     ],
     left: [
         Component.PageTitle(),
