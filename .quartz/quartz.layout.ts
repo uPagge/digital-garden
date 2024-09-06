@@ -6,7 +6,6 @@ export const sharedPageComponents: SharedLayout = {
     head: Component.Head(),
     header: [],
     afterBody: [
-        Component.TagList(),
         Component.Backlinks(),
         Component.Remark({
             options: {
@@ -32,9 +31,10 @@ const githubSourceConfig = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
     beforeBody: [
-        Component.Breadcrumbs(),
+        Component.Breadcrumbs({showCurrentPage: false}),
         Component.ArticleTitle(),
         Component.ContentMeta(),
+        Component.TagList()
     ],
     left: [
         Component.PageTitle(),
