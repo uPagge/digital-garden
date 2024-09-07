@@ -2,8 +2,7 @@
 aliases: 
 tags:
   - maturity/🌱
-date:
-  - - 2024-02-02
+date: 2024-02-02
 zero-link:
   - "[[../../meta/zero/00 Docker|00 Docker]]"
 parents: 

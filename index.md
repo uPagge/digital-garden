@@ -1,6 +1,5 @@
 ---
-date:
-  - - 2024-09-01
+date: 2024-09-01
 title: Struchkov's Digital Garden
 enableToc: false
 enableTags: false

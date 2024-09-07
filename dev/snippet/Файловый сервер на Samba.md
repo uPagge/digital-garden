@@ -2,8 +2,7 @@
 aliases: 
 tags:
   - maturity/🌱
-date:
-  - - 2024-09-06
+date: 2024-09-06
 zero-link:
   - "[[../../meta/zero/00 Snippets|00 Snippets]]"
 parents:

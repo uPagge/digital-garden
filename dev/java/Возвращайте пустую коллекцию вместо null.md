@@ -2,8 +2,7 @@
 aliases: 
 tags:
   - maturity/🌱
-date:
-  - - 2024-09-07
+date: 2024-09-07
 zero-link:
   - "[[../../meta/zero/00 Java разработка|00 Java разработка]]"
 parents: 

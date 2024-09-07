@@ -3,8 +3,7 @@ aliases:
 tags:
   - maturity/🌱
   - type/opinion
-date:
-  - - 2023-11-20
+date: 2023-11-20
 zero-link:
   - "[[00 Java разработка]]"
 parents: 

@@ -1,8 +1,7 @@
 ---
 tags:
   - maturity/🌱
-date:
-  - - 2023-11-20
+date: 2023-11-20
 zero-link:
   - "[[../../../../garden/ru/meta/zero/00 Снипеты для Java|00 Снипеты для Java]]"
 parents: 

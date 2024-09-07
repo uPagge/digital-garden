@@ -2,8 +2,7 @@
 aliases: 
 tags:
   - maturity/🌱
-date:
-  - - 2024-04-07
+date: 2024-04-07
 zero-link:
   - "[[../../meta/zero/00 Алгоритм|00 Алгоритм]]"
   - "[[../../meta/zero/00 Снипеты для Java|00 Снипеты для Java]]"

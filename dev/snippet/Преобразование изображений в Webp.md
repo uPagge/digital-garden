@@ -2,8 +2,7 @@
 aliases: 
 tags:
   - maturity/🌱
-date:
-  - - 2024-09-05
+date: 2024-09-05
 zero-link:
   - "[[../../meta/zero/00 Снипеты на bash|00 Снипеты на bash]]"
 parents: 

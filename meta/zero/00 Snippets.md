@@ -2,8 +2,7 @@
 tags:
   - type/zero-link
 aliases: 
-date:
-  - - 2024-09-04
+date: 2024-09-04
 zero-link:
   - "[[00 Разработка|00 Разработка]]"
 parents: 
