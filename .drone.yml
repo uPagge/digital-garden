@@ -21,8 +21,8 @@ steps:
     commands:
       - git clone https://git.struchkov.dev/upagge/digital-garden.git /usr/src/app/content
       - cd /usr/src/app
-      - mv ./content/.quartz/quartz.config.ts .
-      - mv ./content/.quartz/quartz.layout.ts .
+      - cp ./content/.quartz/quartz.config.ts .
+      - cp ./content/.quartz/quartz.layout.ts .
       - cd content
       - git status
       - cd ..
@@ -56,6 +56,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: dce7749978222ec9c3201affd6e801cd2bbb3cb7035234b86e27cc3f6c5c8037
+hmac: 046bc682385eb155178ee16303a3d529b4f94b0b0eea2665d4eb56ed4a9fadb1
 
 ...
