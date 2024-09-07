@@ -11,7 +11,7 @@ parents:
 linked: 
 article: https://note.struchkov.dev/sravnieniie-enum-v-java/
 ---
-Enum это объект, как и все в Java. Однако это особенный объект. Каждый из объектов енума создаётся только единожды. Давайте на примере:
+Enum это объект, как и все в Java. Однако это особенный объект. Каждый из объектов enum создаётся только единожды. Давайте на примере:
 
 ```java
 enum TestEnum {ONE, TWO, THREE}
