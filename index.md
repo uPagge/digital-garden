@@ -3,6 +3,7 @@ date:
   - - 2024-09-01
 title: Struchkov's Digital Garden
 enableToc: false
+enableTags: false
 ---
 👋 Добро пожаловать!
 Меня зовут [Стручков Марк](https://mark.struchkov.dev). Я архитектор информационных систем из Рязани 👀🍄
