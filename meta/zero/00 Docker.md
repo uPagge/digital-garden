@@ -8,6 +8,7 @@ zero-link:
 
 Обычно docker запускается от root пользователя.
 
+- [Установка Docker и DockerCompose](../../../../_inbox/Установка%20Docker%20и%20DockerCompose.md)
 - [Команды Docker](Команды%20Docker.md)
 - [Dockerfile](Dockerfile.md)
 - [Docker Network](../../dev/devops/docker/Docker%20Network.md)
