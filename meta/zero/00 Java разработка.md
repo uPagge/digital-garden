@@ -7,6 +7,7 @@ permalink: dev/java
 title: Java разработка
 ---
 - [Устройство Java](Устройство%20Java.md)
+	- [JDK](../../dev/java/JDK.md)
 - [Снипеты для Java](00%20Снипеты%20для%20Java.md)
 - Системы сборки
 	- [Maven](00%20Maven.md)
