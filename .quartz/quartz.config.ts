@@ -34,6 +34,7 @@ const config: QuartzConfig = {
           tertiary: "#84a59d",
           highlight: "rgba(0, 80, 219, 0.15)",
           textHighlight: "#fff3bc",
+          shareIcon: "https://garden.struchkov.dev/ru/static/social-sprite-color.svg"
         },
         darkMode: {
           light: "#161618",
@@ -45,6 +46,7 @@ const config: QuartzConfig = {
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#8b651d",
+          shareIcon: "https://garden.struchkov.dev/ru/static/social-sprite.svg"
         },
       },
     },
