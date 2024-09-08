@@ -31,13 +31,14 @@ enableToc: false
 Каждая заметка принадлежит какой-то "области знаний" - #type/zero-link . А здесь можно видеть иерархию всех областей знаний. Это корни деревьев моего сада. С этих заметок можно начать погружаться в область.
 
 - [Разработка](meta/zero/00%20Разработка.md)
-	- [Snippets](meta/zero/00%20Snippets.md)
 	- [Java разработка](meta/zero/00%20Java%20разработка.md)
 		- [Quarkus](meta/zero/00%20Quarkus.md)
 		- [SpringBoot](meta/zero/00%20SpringBoot.md)
 		- [00 Hibernate](meta/zero/00%20Hibernate.md)
 	- [DevOps](meta/zero/00%20DevOps.md)
 		- [Docker](meta/zero/00%20Docker.md)
+	- [Snippets](meta/zero/00%20Snippets.md)
+	- [Сети](meta/zero/00%20Сети.md)
 	- [Алгоритмы](meta/zero/00%20Алгоритм.md)
 - [Образование](meta/zero/00%20Образование.md)
 - [Психология](meta/zero/00%20Психология.md)
