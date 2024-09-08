@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - maturity/🌱
-date: "[[2023-11-09]]"
+date: 2023-11-09
 zero-link:
   - "[[../../../meta/zero/00 Hibernate|00 Hibernate]]"
   - "[[../../../meta/zero/00 Снипеты для Java|00 Снипеты для Java]]"

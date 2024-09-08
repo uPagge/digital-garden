@@ -3,7 +3,7 @@ aliases:
   - jdk
 tags:
   - maturity/🌱
-date: "[[2023-09-27]]"
+date: 2023-09-27
 zero-link:
   - "[[../../meta/zero/00 Java разработка|00 Java разработка]]"
 linked:
