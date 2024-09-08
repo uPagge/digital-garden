@@ -7,6 +7,7 @@ export const sharedPageComponents: SharedLayout = {
     header: [],
     afterBody: [
         Component.Backlinks(),
+        Component.SocialShare(),
         Component.Remark({
             options: {
                 host: 'https://comments.struchkov.dev',
