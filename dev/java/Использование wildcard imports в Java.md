@@ -5,7 +5,7 @@ tags:
   - type/opinion
 date: 2024-09-06
 zero-link:
-  - "[[../garden/ru/meta/zero/00 Java разработка|00 Java разработка]]"
+  - "[[../../meta/zero/00 Java разработка|00 Java разработка]]"
 parents: 
 linked:
 ---

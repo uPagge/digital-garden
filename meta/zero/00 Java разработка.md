@@ -7,7 +7,9 @@ permalink: dev/java
 title: Java разработка
 ---
 - [Устройство Java](Устройство%20Java.md)
-- [00 Снипеты для Java](00%20Снипеты%20для%20Java.md)
+- [Снипеты для Java](00%20Снипеты%20для%20Java.md)
+- Системы сборки
+	- [Maven](00%20Maven.md)
 - Фреймворки
 	- [Quarkus](00%20Quarkus.md)
 	- [SpringBoot](00%20SpringBoot.md)

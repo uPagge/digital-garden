@@ -23,13 +23,12 @@ sudo systemctl enable --now docker
 
 Также установим docker-compose. Обращаю ваше внимание, что актуальным является Docker Compose V2, который в отличие от первой версии поставляется бинарными файлами.
 
-[Актуальная версия docker-compose](https://github.com/docker/compose/releases/)
-
 ```shell
 mkdir -p ~/.docker/cli-plugins/
 curl -SL https://github.com/docker/compose/releases/download/v2.14.0/docker-compose-linux-x86_64 -o ~/.docker/cli-plugins/docker-compose
 chmod +x ~/.docker/cli-plugins/docker-compose
 ```
+[Актуальная версия docker-compose](https://github.com/docker/compose/releases/)
 
 > [!INFO]
 > Эта команда устанавливает Compose V2 для активного пользователя в каталог `$HOME`. Чтобы установить Docker Compose для всех пользователей вашей системы, замените `~/.docker/cli-plugins` на `/usr/local/lib/docker/cli-plugins`.
