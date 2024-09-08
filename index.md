@@ -35,6 +35,9 @@ enableToc: false
 		- [Quarkus](meta/zero/00%20Quarkus.md)
 		- [SpringBoot](meta/zero/00%20SpringBoot.md)
 		- [00 Hibernate](meta/zero/00%20Hibernate.md)
+	- Архитектура
+		- [Архитектура ПО](meta/zero/00%20Архитектура%20ПО.md)
+		- [Архитектура ИС](meta/zero/00%20Архитектура%20ИС.md)
 	- [DevOps](meta/zero/00%20DevOps.md)
 		- [Docker](meta/zero/00%20Docker.md)
 	- [Snippets](meta/zero/00%20Snippets.md)
