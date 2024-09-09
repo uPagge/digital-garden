@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://garden.struchkov.dev/ru/sitemap.xml
