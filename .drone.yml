@@ -23,9 +23,9 @@ steps:
       - cd /usr/src/app
       - cp ./content/.quartz/quartz.config.ts .
       - cp ./content/.quartz/quartz.layout.ts .
+      - cp ./content/.quartz/robots.txt ./content
       - npx quartz build
-      - mv public /drone/src/public/ru
-      - cp ./content/.quartz/robots.txt /drone/src/public
+      - mv public /drone/src
   - name: publish to server
     image: private.docker.struchkov.dev/mkdocs:latest
     environment:
@@ -54,6 +54,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 3f39aadf5b3020e720a9e7b5928ae347229bf234992b1046ff63ce27221490ff
+hmac: 7dcf055d9ffc3dce5216a071e6de13e029a09eef47b5d9c1078a323e0b86cd25
 
 ...
