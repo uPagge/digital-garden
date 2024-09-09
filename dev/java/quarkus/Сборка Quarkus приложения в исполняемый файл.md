@@ -58,3 +58,18 @@ RUN yum install -y yum-utils
 RUN yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 RUN yum install -y docker-ce docker-ce-cli containerd.io
 ```
+***
+## Мета информация
+**Область**:: [[../../../meta/zero/00 Quarkus|00 Quarkus]]
+**Родитель**:: [[../Нативные сборки в Java|Нативные сборки в Java]]
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2024-04-07]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
+```

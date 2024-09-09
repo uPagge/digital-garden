@@ -7,7 +7,7 @@ zero-link:
   - "[[../../../meta/zero/00 Hibernate|00 Hibernate]]"
   - "[[../../../meta/zero/00 Снипеты для Java|00 Снипеты для Java]]"
 parents: 
-linked: 
+linked:
 ---
 Чтобы каждый раз не искать эти проперти оставлю их тут.
 ## SpringBoot
@@ -44,3 +44,18 @@ quarkus:
 ```
 
 ![](../../../meta/files/images/Pasted%20image%2020231109104248.png)
+***
+## Мета информация
+**Область**:: [[../../../meta/zero/00 Hibernate|00 Hibernate]], [[../../../meta/zero/00 Java разработка|00 Java разработка]]
+**Родитель**:: 
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2023-11-09]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
+```

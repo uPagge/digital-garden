@@ -6,8 +6,7 @@ date: 2023-11-20
 zero-link:
   - "[[../../../../garden/ru/meta/zero/00 Снипеты для Java|00 Снипеты для Java]]"
 parents: 
-linked: 
-article: https://note.struchkov.dev/localdatetime-deserializer/
+linked:
 ---
 Чаще всего по работе я сталкиваюсь с проблемой десериализации и сериализации даты. Многие разработчики отступают от стандартного формата времени `yyyy-MM-dd'T'HH:mm:ss*SSSZZZZ` и изобретают свои форматы.
 
@@ -106,4 +105,19 @@ public class Foo {
     // ... ... ... ... ...
 
 }
+```
+***
+## Мета информация
+**Область**:: [[../../meta/zero/00 Снипеты для Java|00 Снипеты для Java]]
+**Родитель**:: 
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2023-11-20]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
 ```

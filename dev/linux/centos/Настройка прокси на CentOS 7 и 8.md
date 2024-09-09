@@ -4,9 +4,9 @@ tags:
   - maturity/🌱
 date: 2024-09-08
 zero-link:
-  - "[[../garden/ru/meta/zero/00 Linux|00 Linux]]"
+  - "[[../../../meta/zero/00 Linux|00 Linux]]"
 parents: 
-linked:
+linked: 
 ---
 Ремарка, которую можно пропустить: Помню свой первый день на работе, тогда мне поручили настраивать сервер на CentOS 7. Установить необходимые пакеты, уже не помню точно что, но не суть. Я тогда еще обладатель ПК на windows погуглил и нашел команду `yum install pack_name`.
 
@@ -103,4 +103,19 @@ proxy=http://SERVER:PORT
 proxy_username=USERNAME
 proxy_password=PASS
 proxy_auth_method=basic
+```
+***
+## Мета информация
+**Область**:: [[../../../meta/zero/00 Linux|00 Linux]]
+**Родитель**:: 
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2024-09-08]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
 ```

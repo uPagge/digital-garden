@@ -6,7 +6,7 @@ date: 2024-09-06
 zero-link:
   - "[[../../meta/zero/00 Snippets|00 Snippets]]"
 parents:
-  - "[[../garden/ru/dev/devops/docker/Полезные Docker образы|Полезные Docker образы]]"
+  - "[[../devops/docker/Полезные Docker образы|Полезные Docker образы]]"
 linked:
 ---
 Samba — это свободное программное обеспечение, позволяющее построить файловую помойку на базе SMB/CIFS.
@@ -53,7 +53,21 @@ samba:
 **Доступные сборки Samba**:
 - 4.18.9-ro
 - 4.19.6-ro
-## Полезные материалы
+
+***
+## Мета информация
+**Область**:: [[../../meta/zero/00 Snippets|00 Snippets]]
+**Родитель**:: [[../devops/docker/Полезные Docker образы|Полезные Docker образы]]
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2024-09-06]]
+### Дополнительные материалы
 - [Исходный код проекта.](https://git.struchkov.dev/DockerFiles/samba) Форк, который я поддерживаю в актуальном состоянии.
 	- [Оригинальный репозиторий на GitHub.](https://github.com/dperson/samba) Не поддерживается и не обновляется.
 - [Образ проекта в моем Nexus](https://nexus.struchkov.dev/#browse/browse:docker:v2%2Fsamba%2Ftags)
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
+```

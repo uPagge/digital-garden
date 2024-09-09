@@ -5,7 +5,7 @@ tags:
 date:
   - - 2024-04-07
 zero-link:
-  - "[[../garden/ru/meta/zero/00 Docker|00 Docker]]"
+  - "[[../../../meta/zero/00 Docker|00 Docker]]"
 parents: 
 linked:
 ---
@@ -42,3 +42,19 @@ Docker Compose 2.2.3
 
 > [!WARNING]
 > Также обращаю ваше внимание, что в Compose V1 для работы использовалась команда `docker-compose`, а в V2 отказались от дефиса `docker compose`
+
+***
+## Мета информация
+**Область**:: [[../../../meta/zero/00 Docker|00 Docker]]
+**Родитель**:: 
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2024-04-07]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
+```

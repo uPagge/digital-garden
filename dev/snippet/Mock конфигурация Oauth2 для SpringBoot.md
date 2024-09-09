@@ -4,10 +4,9 @@ tags:
 date: 2023-11-20
 zero-link:
   - "[[../../../../../garden/ru/meta/zero/00 Снипеты для Java|00 Снипеты для Java]]"
+  - "[[../../meta/zero/00 SpringBoot|00 SpringBoot]]"
 parents: 
 linked:
-  - "[[../../../../../garden/ru/meta/zero/00 SpringBoot|00 SpringBoot]]"
-article: https://note.struchkov.dev/mock-konfighuratsiia-dlia-oauth2-springboot/
 ---
 Конфигурация для подключения к мок-сервису авторизации по auth2. Полезно при локальной разработке, чтобы не цепляться к настоящему Oauth2 серверу.
 
@@ -32,4 +31,19 @@ spring:
             user-info-uri: https://oauth.mocklab.io/userinfo
             user-name-attribute: sub
             jwk-set-uri: https://oauth.mocklab.io/.well-known/jwks.json
+```
+***
+## Мета информация
+**Область**:: [[../../meta/zero/00 Снипеты для Java|00 Снипеты для Java]], [[../../meta/zero/00 SpringBoot|00 SpringBoot]]
+**Родитель**:: 
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2023-11-20]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
 ```

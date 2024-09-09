@@ -33,3 +33,18 @@ Host github.com
     IdentityFile ~/.ssh/github
     IdentitiesOnly yes
 ```
+***
+## Мета информация
+**Область**:: [[../../meta/zero/00 Криптография|00 Криптография]]
+**Родитель**:: [[../../../../knowledge/dev/network/SSH|SSH]]
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2024-01-13]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
+```

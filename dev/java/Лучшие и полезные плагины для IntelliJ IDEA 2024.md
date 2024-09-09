@@ -6,7 +6,7 @@ date: 2024-09-08
 zero-link:
   - "[[../../meta/zero/00 Java разработка|00 Java разработка]]"
 parents: 
-linked: 
+linked:
 ---
 Хочу поделиться небольшой подборкой полезных плагинов, которые помогают мне ускорить и улучшить процесс написания кода.
 
@@ -66,3 +66,18 @@ SonarLint работает так же, как статический анали
 ![](../../meta/files/images/Pasted%20image%2020240908110354.png)
 
 **Ссылка на установку:** [Presentation Assistant for 2023.2 - IntelliJ IDEs Plugin | Marketplace](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
+***
+## Мета информация
+**Область**:: [[../../meta/zero/00 Java разработка|00 Java разработка]]
+**Родитель**:: 
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2024-09-08]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
+```

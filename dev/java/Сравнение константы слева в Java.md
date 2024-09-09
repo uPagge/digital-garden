@@ -60,3 +60,18 @@ if ("Иванов".equals(user.getLastName())) {
 ```
 
 Это простое правило защитит вас от `NullPointerException`.
+***
+## Мета информация
+**Область**:: [[../../meta/zero/00 Java разработка|00 Java разработка]]
+**Родитель**:: 
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2024-09-06]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
+```

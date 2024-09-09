@@ -6,8 +6,7 @@ date: 2024-04-07
 zero-link:
   - "[[../../meta/zero/00 Снипеты для Java|00 Снипеты для Java]]"
 parents: 
-linked: 
-link: https://struchkov.dev/blog/ru/java-debugging-annotation-processor/
+linked:
 ---
 Я столкнулся с необходимостью дебага annotation processor, когда писал библиотеку со своими аннотациями и обработчиками к ним. Проблема заключается в том, что обработка аннотаций происходит на этапе компиляции.
 ## 1. Создание Remote JVM Debug Configuration
@@ -46,3 +45,18 @@ link: https://struchkov.dev/blog/ru/java-debugging-annotation-processor/
 ![](../../meta/files/images/Pasted%20image%2020240407184727.png)
 
 На этом все, теперь вы можете отлаживать ваши обработчики аннотаций.
+***
+## Мета информация
+**Область**:: [[../../meta/zero/00 Снипеты для Java|00 Снипеты для Java]]
+**Родитель**:: 
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2024-04-07]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
+```

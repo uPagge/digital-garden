@@ -4,9 +4,10 @@ tags:
   - maturity/🌱
 date: 2024-02-02
 zero-link:
-  - "[[../../meta/zero/00 Docker|00 Docker]]"
-parents: 
-linked: 
+  - "[[../../meta/zero/00 Snippets|00 Snippets]]"
+parents:
+  - "[[../devops/docker/Полезные Docker образы|Полезные Docker образы]]"
+linked:
 ---
 ```yaml
 socks-proxy:
@@ -21,4 +22,19 @@ socks-proxy:
     ports:
       - "1080:1080/tcp"
       - "1080:1080/udp"
+```
+***
+## Мета информация
+**Область**:: [[../../meta/zero/00 Snippets|00 Snippets]]
+**Родитель**:: [[../devops/docker/Полезные Docker образы|Полезные Docker образы]]
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2024-02-02]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
 ```

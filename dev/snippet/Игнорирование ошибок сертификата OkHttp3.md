@@ -5,8 +5,7 @@ date: 2023-11-20
 zero-link:
   - "[[../../../../garden/ru/meta/zero/00 Снипеты для Java|00 Снипеты для Java]]"
 parents: 
-linked: 
-article: https://note.struchkov.dev/okhttp3-ignore-ssl/
+linked:
 ---
 > [!DANGER]
 > Так лучше не делать, но иногда нужно проигнорировать ошибки связанные с сертификатом сайта.
@@ -106,4 +105,19 @@ public class HttpParse {
     // ... ... ... ... ...
 
 }
+```
+***
+## Мета информация
+**Область**:: [[../../meta/zero/00 Снипеты для Java|00 Снипеты для Java]]
+**Родитель**:: 
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2023-11-20]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
 ```

@@ -9,7 +9,8 @@ tags:
   - maturity/🌿
 zero-link:
   - "[[../../../meta/zero/00 Java разработка|00 Java разработка]]"
-parents: 
+parents:
+  - "[[../../../../knowledge/dev/java/Устройство Java|Устройство Java]]"
 linked: 
 date: 2023-11-06
 ---
@@ -134,10 +135,24 @@ B следующие недостатки:
 - PrintGCStats
 - GChisto
 - VisualVM / VisualGC
-## Дополнительные материалы
+
+***
+## Мета информация
+**Область**:: [[../../../meta/zero/00 Java разработка|00 Java разработка]]
+**Родитель**:: [[../../../../../knowledge/dev/java/Устройство Java|Устройство Java]]
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2023-11-06]]
+### Дополнительные материалы
 1. [Сборка мусора в Java](https://www.youtube.com/watch?v=St6iBm4sHl8).
 	1. В общих чертах о сборке мусора.
 2. [Алексей Шипилёв — Shenandoah](https://www.youtube.com/watch?v=kKigibHrV5I).
 	1. Подробно рассказаны алгоритмы маркировки и копирования объектов.
 3. [Заметки Гусев Влад](Garbage%20Collection.docx)
 4. Есть какая-то книга GC Handbook
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
+```

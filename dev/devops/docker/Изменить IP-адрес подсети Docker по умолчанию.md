@@ -8,8 +8,7 @@ zero-link:
   - "[[../../../meta/zero/00 Docker|00 Docker]]"
 parents:
   - "[[Docker Network|Docker Network]]"
-linked: 
-link: https://struchkov.dev/blog/ru/docker-change-default-subnet-ip-address/
+linked:
 ---
 Недавно, при настройке нового окружения, Я столкнулся с проблемой: подсеть, которую создавал docker по умолчанию конфликтовала с подсетью нашей внутренней сети. Это приводило к тому, что я не мог авторизоваться на сервере, довольно неприятно.
 
@@ -28,3 +27,19 @@ link: https://struchkov.dev/blog/ru/docker-change-default-subnet-ip-address/
 ```
 
 Эта конфигурация позволит Docker выделить подсети в диапазоне 10.66.\[0-255\].024 и 10.77.\[0-255\].024, что позволяет использовать 256 адресов для каждой сети, а всего 512 сетей.
+
+***
+## Мета информация
+**Область**:: [[../../../meta/zero/00 Docker|00 Docker]]
+**Родитель**:: [[Docker Network]]
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2024-03-25]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
+```

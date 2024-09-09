@@ -7,7 +7,7 @@ date:
 zero-link:
   - "[[../../../meta/zero/00 Hibernate|00 Hibernate]]"
 parents: 
-linked: 
+linked:
 ---
 Столкнулся с неочевидным поведением `@ElementCollection` в связке с `@OneToMany`. Может случиться так, что в `@OneToMany` будет дублирование значений из-за `@ElementCollection`. Проще объяснить на примере.
 
@@ -46,3 +46,18 @@ public class User {
 - Переделайте `List` в `Set` у `@OneToMany`.
 - Уберите `FetchType.EAGER` у `@OneToMany`.
 - Добавьте `@Fetch(FetchMode.SUBSELECT)` у `@OneToMany`. это аннотация Hibernate, которая вместо JOIN использует подзапрос. О [подзапросах я писал в отдельной статье](https://struchkov.dev/blog/ru/select-subquery).
+***
+## Мета информация
+**Область**:: [[../../../meta/zero/00 Hibernate|00 Hibernate]]
+**Родитель**:: 
+**Источник**:: 
+**Автор**:: 
+**Создана**:: [[2024-09-06]]
+### Дополнительные материалы
+- 
+### Дочерние заметки
+```dataview
+LIST 
+FROM [[]]
+WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
+```
