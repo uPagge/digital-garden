@@ -47,13 +47,12 @@ steps:
       - ssh-keyscan -p $SSH_DEPLOY_PORT $SSH_DEPLOY_HOST >> ~/.ssh/known_hosts
       - chmod 644 ~/.ssh/known_hosts
       - scp -r -P $SSH_DEPLOY_PORT ./public/* $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST:$SSH_DEPLOY_PATH/ru-new
-      - ssh -p $SSH_DEPLOY_PORT $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST "rm -rf $SSH_DEPLOY_PATH/ru"
-      - ssh -p $SSH_DEPLOY_PORT $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST "mv $SSH_DEPLOY_PATH/ru-new $SSH_DEPLOY_PATH/ru"
+      - ssh -p $SSH_DEPLOY_PORT $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST "rm -rf $SSH_DEPLOY_PATH/ru && mv $SSH_DEPLOY_PATH/ru-new $SSH_DEPLOY_PATH/ru"
 
 
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: bc00fc89ca9caf24c6e86338bfbd98b44da44a0cb30b476ba8ae50881af35c49
+hmac: 55b048579fbc294d88fd5fb0732024e1eca37b62ead3a9a007f07aded2312e99
 
 ...
