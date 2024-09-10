@@ -38,6 +38,7 @@ enableToc: false
 		- [SpringBoot](meta/zero/00%20SpringBoot.md)
 		- [00 Hibernate](meta/zero/00%20Hibernate.md)
 	- Архитектура
+		- [[meta/zero/00 Архитектура ЭВМ|Архитектура ЭВМ]]
 		- [Архитектура ПО](meta/zero/00%20Архитектура%20ПО.md)
 		- [Архитектура ИС](meta/zero/00%20Архитектура%20ИС.md)
 	- [DevOps](meta/zero/00%20DevOps.md)
