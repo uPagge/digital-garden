@@ -43,9 +43,12 @@ enableToc: false
 		- [Архитектура ИС](meta/zero/00%20Архитектура%20ИС.md)
 	- [DevOps](meta/zero/00%20DevOps.md)
 		- [Docker](meta/zero/00%20Docker.md)
-	- [Snippets](meta/zero/00%20Snippets.md)
+	- Сборщики
+		- [[meta/zero/00 Maven|00 Maven]]
+		- [[meta/zero/00 Gradle|00 Gradle]]
 	- [Сети](meta/zero/00%20Сети.md)
 	- [Алгоритмы](meta/zero/00%20Алгоритм.md)
+	- [Snippets](meta/zero/00%20Snippets.md)
 - [Образование](meta/zero/00%20Образование.md)
 - [Обучение](meta/zero/00%20Обучение.md)
 - [Психология](meta/zero/00%20Психология.md)
