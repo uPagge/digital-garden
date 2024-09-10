@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - maturity/🌱
-date: "[[2023-10-26]]"
+date: 2023-10-26
 zero-link:
   - "[[../../meta/zero/00 Архитектура ПО|00 Архитектура ПО]]"
 parents:

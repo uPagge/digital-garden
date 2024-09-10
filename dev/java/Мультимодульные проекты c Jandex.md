@@ -3,7 +3,7 @@ aliases:
   - jandex
 tags:
   - maturity/🌱
-date: "[[2023-10-21]]"
+date: 2023-10-21
 zero-link:
   - "[[../../meta/zero/00 Gradle|00 Gradle]]"
   - "[[../../meta/zero/00 Maven|00 Maven]]"
