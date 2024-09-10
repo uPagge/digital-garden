@@ -41,6 +41,7 @@ enableToc: false
 		- [[meta/zero/00 Архитектура ЭВМ|Архитектура ЭВМ]]
 		- [Архитектура ПО](meta/zero/00%20Архитектура%20ПО.md)
 		- [Архитектура ИС](meta/zero/00%20Архитектура%20ИС.md)
+			- [[meta/zero/00 HighLoad|HighLoad]]
 	- [DevOps](meta/zero/00%20DevOps.md)
 		- [Docker](meta/zero/00%20Docker.md)
 	- Сборщики
