@@ -36,7 +36,7 @@ enableToc: false
 	- [Java разработка](meta/zero/00%20Java%20разработка.md)
 		- [Quarkus](meta/zero/00%20Quarkus.md)
 		- [SpringBoot](meta/zero/00%20SpringBoot.md)
-		- [00 Hibernate](meta/zero/00%20Hibernate.md)
+		- [Hibernate](meta/zero/00%20Hibernate.md) / [[meta/zero/00 Hibernate Reactive|Hibernate Reactive]]
 	- Архитектура
 		- [[meta/zero/00 Архитектура ЭВМ|Архитектура ЭВМ]]
 		- [Архитектура ПО](meta/zero/00%20Архитектура%20ПО.md)

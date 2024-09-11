@@ -15,3 +15,4 @@ aliases:
 - [Дебаг приложения на этапе компиляции IntelliJ IDEA](../../dev/snippet/Дебаг%20приложения%20на%20этапе%20компиляции%20IntelliJ%20IDEA.md)
 - [Логирование SQL в Hibernate](../../dev/java/hibernate/Логирование%20SQL%20в%20Hibernate.md)
 - [Бинарный поиск на Java](../../dev/java/Бинарный%20поиск%20на%20Java.md)
+- [[../../dev/snippet/Проблема с Hibernate Reactive в Telegram SDK для Java|Проблема с Hibernate Reactive в Telegram SDK для Java]]
