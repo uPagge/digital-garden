@@ -58,6 +58,7 @@ enableToc: false
 	- Сборщики
 		- [[meta/zero/00 Maven|00 Maven]]
 		- [[meta/zero/00 Gradle|00 Gradle]]
+	- [[meta/zero/00 Linux|Linux]]
 	- [Сети](meta/zero/00%20Сети.md)
 	- [Алгоритмы](meta/zero/00%20Алгоритм.md)
 	- [Snippets](meta/zero/00%20Snippets.md)
