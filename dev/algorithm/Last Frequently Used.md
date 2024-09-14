@@ -23,8 +23,4 @@ linked:
 ### Дополнительные материалы
 - [[Most Recently Used]]
 ### Дочерние заметки
-```dataview
-LIST 
-FROM [[]]
-WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
-```
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->

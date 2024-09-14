@@ -66,8 +66,4 @@ samba:
 	- [Оригинальный репозиторий на GitHub.](https://github.com/dperson/samba) Не поддерживается и не обновляется.
 - [Образ проекта в моем Nexus](https://nexus.struchkov.dev/#browse/browse:docker:v2%2Fsamba%2Ftags)
 ### Дочерние заметки
-```dataview
-LIST 
-FROM [[]]
-WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
-```
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->

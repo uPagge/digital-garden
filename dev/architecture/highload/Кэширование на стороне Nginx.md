@@ -67,8 +67,4 @@ tmpfs /var/nginx/cache tmpfs defaults,size=256M 0 0
 - [Nginx cache: всё новое — хорошо забытое старое / Хабр](https://habr.com/ru/post/428127/)
 - [[../../../../../_inbox/Кэширование статики в Nginx|Кэширование статики в Nginx]]
 ### Дочерние заметки
-```dataview
-LIST 
-FROM [[]]
-WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
-```
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->

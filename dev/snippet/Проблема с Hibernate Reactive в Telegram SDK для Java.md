@@ -43,3 +43,5 @@ field.setAccessible(false);
 **Автор**:: 
 ### Дополнительные материалы
 - [Parallel execution: A Hibernate Reactive Gotcha](https://blog.lunatech.com/posts/2023-05-19-hibernate-reactive-gotchas)
+### Дочерние заметки
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->

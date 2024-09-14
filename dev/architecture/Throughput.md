@@ -42,8 +42,4 @@ Throughput - пропускная способность системы, то е
 ### Дополнительные материалы
 - [[Latency]]
 ### Дочерние заметки
-```dataview
-LIST 
-FROM [[]]
-WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
-```
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->

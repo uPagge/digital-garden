@@ -33,8 +33,4 @@ Linux поддерживает несколько типов namespaces:
 ### Дополнительные материалы
 - [Разделяй и властвуй. Изоляция процессов в Linux / Хабр](https://habr.com/ru/companies/otus/articles/673960/)
 ### Дочерние заметки
-```dataview
-LIST 
-FROM [[]]
-WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
-```
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->

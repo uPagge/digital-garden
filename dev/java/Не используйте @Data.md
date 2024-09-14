@@ -33,8 +33,4 @@ linked:
 ### Дополнительные материалы
 - [Lombok + JPA: Что может пойти не так? / Хабр](https://habr.com/ru/company/haulmont/blog/564682/)
 ### Дочерние заметки
-```dataview
-LIST 
-FROM [[]]
-WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
-```
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->

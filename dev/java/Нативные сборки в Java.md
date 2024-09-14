@@ -33,8 +33,7 @@ linked:
 ### Дополнительные материалы
 - [Исследование сборки исполняемых файлов](Исследование%20сборки%20исполняемых%20файлов.md)
 ### Дочерние заметки
-```dataview
-LIST 
-FROM [[]]
-WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
-```
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
+- [[Сборка Quarkus приложения в исполняемый файл]]
+<!-- SerializedQuery END -->

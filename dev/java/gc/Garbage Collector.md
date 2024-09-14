@@ -151,8 +151,22 @@ B следующие недостатки:
 3. [Заметки Гусев Влад](Garbage%20Collection.docx)
 4. Есть какая-то книга GC Handbook
 ### Дочерние заметки
-```dataview
-LIST 
-FROM [[]]
-WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
-```
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
+- [[Concurrent Collection]]
+- [[Concurrent Mark Sweep]]
+- [[Copy Collector]]
+- [[Epsilon GC]]
+- [[Garbage First]]
+- [[Generational Collection]]
+- [[Incremental Collection]]
+- [[Mark and Compact]]
+- [[Mark and Sweep]]
+- [[Parallel Collection]]
+- [[Parallel Compacting Collector]]
+- [[Parallel GC]]
+- [[Serial GC]]
+- [[Shenandoah GC]]
+- [[StopTheWorld]]
+- [[ZGC]]
+<!-- SerializedQuery END -->

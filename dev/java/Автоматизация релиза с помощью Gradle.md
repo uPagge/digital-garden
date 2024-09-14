@@ -77,8 +77,4 @@ gradle relase
 - [GitHub - researchgate/gradle-release](https://github.com/researchgate/gradle-release)
 - [Автоматизация рутины при выпуске релизов с Maven](https://struchkov.dev/blog/ru/release-releases-with-maven/)
 ### Дочерние заметки
-```dataview
-LIST 
-FROM [[]]
-WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
-```
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->

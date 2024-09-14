@@ -68,8 +68,4 @@ RUN yum install -y docker-ce docker-ce-cli containerd.io
 ### Дополнительные материалы
 - 
 ### Дочерние заметки
-```dataview
-LIST 
-FROM [[]]
-WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
-```
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->

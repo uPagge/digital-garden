@@ -164,3 +164,5 @@ wg-quick up wg0
 **Создана**:: [[2024-09-08]]
 ### Дополнительные материалы
 - [Установка VPN с AmneziaWG на роутеры Keenetic | Amnezia Docs](https://docs.amnezia.org/ru/documentation/instructions/keenetic-os-awg/)
+### Дочерние заметки
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->

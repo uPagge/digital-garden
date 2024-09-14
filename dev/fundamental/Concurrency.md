@@ -23,3 +23,5 @@ Concurrency - свойство систем, глобальное состоян
 **Автор**:: 
 ### Дополнительные материалы
 - [[Parallelism]]
+### Дочерние заметки
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->

@@ -8,9 +8,6 @@ zero-link:
 parents: 
 linked:
 ---
-- [Файловый сервер на Samba](../../snippet/Файловый%20сервер%20на%20Samba.md)
-- [Docker compose для запуска socks5](../../snippet/Docker%20compose%20для%20запуска%20socks5.md)
-
 ***
 ## Мета информация
 **Область**:: [[../../../meta/zero/00 Docker|00 Docker]]
@@ -21,8 +18,8 @@ linked:
 ### Дополнительные материалы
 - 
 ### Дочерние заметки
-```dataview
-LIST 
-FROM [[]]
-WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link)
-```
+<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
+- [[Docker compose для запуска socks5]]
+- [[Файловый сервер на Samba]]
+<!-- SerializedQuery END -->
