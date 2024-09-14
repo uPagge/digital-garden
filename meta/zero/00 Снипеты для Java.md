@@ -16,3 +16,7 @@ aliases:
 - [Логирование SQL в Hibernate](../../dev/java/hibernate/Логирование%20SQL%20в%20Hibernate.md)
 - [Бинарный поиск на Java](../../dev/java/Бинарный%20поиск%20на%20Java.md)
 - [[../../dev/snippet/Проблема с Hibernate Reactive в Telegram SDK для Java|Проблема с Hibernate Reactive в Telegram SDK для Java]]
+- [[../../dev/snippet/Реализация SHA-256 на Java|Реализация SHA-256 на Java]]
+- [[../../../../_inbox/Реализация GZIP в Java|Реализация GZIP в Java]]
+- [[../../dev/snippet/Реализация Base64 на Java|Реализация Base64 на Java]]
+- [[../../../../_inbox/Преобразование Json из коллекции в Java объект при помощи Jackson|Преобразование Json из коллекции в Java объект при помощи Jackson]]

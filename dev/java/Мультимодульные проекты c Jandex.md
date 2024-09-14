@@ -18,6 +18,10 @@ linked:
 Пример настройки в корневом `build.gradle`
 
 ```gradle
+plugins {
+  id("org.kordamp.gradle.jandex") version "2.0.0"
+}
+
 buildscript {  
     repositories {  
         gradlePluginPortal()  
@@ -31,6 +35,9 @@ buildscript {
 apply plugin: "org.kordamp.gradle.jandex"
 
 subprojects {
+	
+	apply plugin: "org.kordamp.gradle.jandex"
+	
 	tasks.withType(Javadoc).configureEach {  
 	    dependsOn('jandex')  
 	    options.encoding = 'UTF-8'  

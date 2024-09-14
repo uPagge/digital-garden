@@ -9,13 +9,16 @@ title: Java разработка
 - [Устройство Java](Устройство%20Java.md)
 	- [JDK](../../dev/java/JDK.md)
 	- [[../../dev/java/Java Reflection|Java Reflection]]
-- [Снипеты для Java](00%20Снипеты%20для%20Java.md)
 - Системы сборки
 	- [Maven](00%20Maven.md)
+	- [[00 Gradle|Gradle]]
 - Фреймворки
 	- [Quarkus](00%20Quarkus.md)
 	- [SpringBoot](00%20SpringBoot.md)
+- Библиотеки
 	- [Hibernate](00%20Hibernate.md)
+	- [[../../../../knowledge/dev/java/other/Jackson|Jackson]]
+- [Снипеты для Java](00%20Снипеты%20для%20Java.md)
 ## Мои рассуждения
 - [Использование wildcard imports в Java](../../dev/java/Использование%20wildcard%20imports%20в%20Java.md)
 - [Сравнение константы слева в Java](../../dev/java/Сравнение%20константы%20слева%20в%20Java.md)
