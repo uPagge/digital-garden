@@ -9,7 +9,7 @@ zero-link:
 parents: 
 linked:
 ---
-Гайдов, как устанавливать docker полно в интернете. [Официальная документации](https://docs.docker.com/engine/install/) написана доступным языком.
+Гайдов, как устанавливать docker полно в интернете. [Официальная документации](https://docs.docker.com/engine/install/) написана доступным языком.
 
 Команды установки docker для CentOS 8 и RHEL 8.
 
@@ -31,7 +31,7 @@ chmod +x ~/.docker/cli-plugins/docker-compose
 [Актуальная версия docker-compose](https://github.com/docker/compose/releases/)
 
 > [!INFO]
-> Эта команда устанавливает Compose V2 для активного пользователя в каталог `$HOME`. Чтобы установить Docker Compose для всех пользователей вашей системы, замените `~/.docker/cli-plugins` на `/usr/local/lib/docker/cli-plugins`.
+> Эта команда устанавливает Compose V2 для активного пользователя в каталог `$HOME`. Чтобы установить Docker Compose для всех пользователей вашей системы, замените `~/.docker/cli-plugins` на `/usr/local/lib/docker/cli-plugins`.
 
 Проверяем, что установка прошла успешно.
 
@@ -41,7 +41,7 @@ Docker Compose 2.2.3
 ```
 
 > [!WARNING]
-> Также обращаю ваше внимание, что в Compose V1 для работы использовалась команда `docker-compose`, а в V2 отказались от дефиса `docker compose`
+> Также обращаю ваше внимание, что в Compose V1 для работы использовалась команда `docker-compose`, а в V2 отказались от дефиса `docker compose`
 
 ***
 ## Мета информация

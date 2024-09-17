@@ -59,7 +59,7 @@ Logical Decoding – способ визуализировать то, что н
 ### Дополнительные материалы
 - [[Настройка репликации в PostgreSQL]]
 - [BDR User Guide - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Logical_Log_Streaming_Replication)
-- [PostgreSQL: Documentation: 16: Chapter 31. Logical Replication](https://www.postgresql.org/docs/current/logical-replication.html)
+- [PostgreSQL: Documentation: 16: Chapter 31. Logical Replication](https://www.postgresql.org/docs/current/logical-replication.html)
 - [PostgreSQL: Documentation: 9.4: Logical Decoding](https://www.postgresql.org/docs/9.4/logicaldecoding.html). Аналог [libslave](libslave.md) в MySQL
 - [Отладка и устранение проблем в PostgreSQL Streaming Replication / Хабр](https://m.habr.com/ru/company/oleg-bunin/blog/414111/)
 - [An Overview of Logical Replication in PostgreSQL | Severalnines](https://severalnines.com/blog/overview-logical-replication-postgresql/)

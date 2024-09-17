@@ -12,7 +12,7 @@ linked:
 
 В такие моменты главное не поддаваться панике 😅
 
-В Idea есть [замечательная функция LocalHisotry](https://www.jetbrains.com/help/idea/local-history.html), которая автоматически сохраняет все изменения над файлами. Если затертых файлов было не много, то нажмите ПКМ и в меню выберете `Local History —> Show History`.
+В Idea есть [замечательная функция LocalHisotry](https://www.jetbrains.com/help/idea/local-history.html), которая автоматически сохраняет все изменения над файлами. Если затертых файлов было не много, то нажмите ПКМ и в меню выберете `Local History —> Show History`.
 
 ![](../../meta/files/images/Pasted%20image%2020240908122428.png)
 

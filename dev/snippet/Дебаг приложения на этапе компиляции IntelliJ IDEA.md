@@ -19,13 +19,13 @@ linked:
 ![](../../meta/files/images/Pasted%20image%2020240407184611.png)
 
 ## 2. Убедитесь, что процесс сборки использует ваш порт
-Нажмите `Ctrl+Shift+A` и найдите пункт “Edit Custom VM Options…”
+Нажмите `Ctrl+Shift+A` и найдите пункт “Edit Custom VM Options…”
 
-Добавьте новую строку `-Dcompiler.process.debug.port=8000` и ==перезапустите IDEA.==
+Добавьте новую строку `-Dcompiler.process.debug.port=8000` и ==перезапустите IDEA.==
 
 ![](../../meta/files/images/Pasted%20image%2020240407184626.png)
 ## 3. Включите “Debug build process”
-Нажмите `Ctrl+Shift+A` и пункт “Debug build process”.
+Нажмите `Ctrl+Shift+A` и пункт “Debug build process”.
 
 > [!WARNING] 
 > Вам нужно будет повторять этот шаг каждый раз при перезапуске IDEA.
@@ -34,7 +34,7 @@ linked:
 
 ![](Pasted%20image%2020240407184705.png)
 
-Для запуска вашего обработчика аннотаций пересоберите проект: `Build -> Rebuild Project`. ==При выборе пункта Build Project обработчик аннотации может не запуститься.==
+Для запуска вашего обработчика аннотаций пересоберите проект: `Build -> Rebuild Project`. ==При выборе пункта Build Project обработчик аннотации может не запуститься.==
 
 Процесс сборки приостановится, и вы сможете подключить отладчик:
 

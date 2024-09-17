@@ -9,11 +9,11 @@ parents:
   - "[[../../../../knowledge/dev/java/other/Jackson|Jackson]]"
 linked: 
 ---
-Чаще всего по работе я сталкиваюсь с проблемой десериализации и сериализации даты. Многие разработчики отступают от стандартного формата времени `yyyy-MM-dd'T'HH:mm:ss*SSSZZZZ` и изобретают свои форматы.
+Чаще всего по работе я сталкиваюсь с проблемой десериализации и сериализации даты. Многие разработчики отступают от стандартного формата времени `yyyy-MM-dd'T'HH:mm:ss*SSSZZZZ` и изобретают свои форматы.
 
 К сожалению, в Jackson не заложены все возможные форматы даты, поэтому необходимо написать свой десериализатор.
 ## Десериализация
-В данном случае это преобразование json формата в Java объект. Необходимо расширить абстрактный класс `StdDeserializer`.
+В данном случае это преобразование json формата в Java объект. Необходимо расширить абстрактный класс `StdDeserializer`.
 
 ```java
 import com.fasterxml.jackson.core.JsonParser;
@@ -47,7 +47,7 @@ public class CustomDeserializer extends StdDeserializer<LocalDateTime> {
 }
 ```
 
-После этого необходимо над полем поставить аннотацию `@JsonDeserialize` c указанием нашего кастомного десериализатора.
+После этого необходимо над полем поставить аннотацию `@JsonDeserialize` c указанием нашего кастомного десериализатора.
 
 ```java
 public class Foo {
@@ -63,7 +63,7 @@ public class Foo {
 ```
 
 ## Сериализация
-В данном случае это преобразование Java объекта в json формат. Для сериализации необходимо расширить класс `StdSerializer`.
+В данном случае это преобразование Java объекта в json формат. Для сериализации необходимо расширить класс `StdSerializer`.
 
 ```java
 import com.fasterxml.jackson.core.JsonGenerator;
@@ -93,7 +93,7 @@ public class CustomSerializer extends StdSerializer<LocalDateTime> {
 }
 ```
 
-Для работы над полем поставить аннотацию `@JsonSerialize`
+Для работы над полем поставить аннотацию `@JsonSerialize`
 
 ```java
 public class Foo {
