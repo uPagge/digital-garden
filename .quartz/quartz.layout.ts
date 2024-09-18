@@ -21,7 +21,7 @@ export const sharedPageComponents: SharedLayout = {
         links: {
             "About Me": "https://mark.struchkov.dev/cv/",
             "B.log": "https://struchkov.dev",
-            "CV": "https://mark.struchkov.dev/cv/?utm_source=gardenru&utm_medium=organic&utm_campaign=static",
+            "Telegram": "https://t.me/struchkov_dev",
         },
     }),
 }
