@@ -6,15 +6,62 @@ COMP_DIR="$IMAGE_DIR/comp"
 WEBP_DIR="$IMAGE_DIR/webp"
 THREADS=4  # Количество параллельных процессов
 
+# Файлы логирования
+LOG_FILE="./compression.log"
+ERROR_LOG_FILE="./error.log"
+
+# Инициализируем файлы логов (удалены строки, чтобы не затирать логи)
+# : > "$LOG_FILE"
+# : > "$ERROR_LOG_FILE"
+
 # Экспортируем необходимые переменные и функции для использования в subshell
-export IMAGE_DIR COMP_DIR WEBP_DIR
+export IMAGE_DIR COMP_DIR WEBP_DIR LOG_FILE ERROR_LOG_FILE
+
+# Функция для определения размера файла
+get_file_size() {
+    local file="$1"
+    if [[ "$OSTYPE" == "linux-gnu"* ]]; then
+        stat -c%s "$file"
+    elif [[ "$OSTYPE" == "darwin"* ]]; then
+        stat -f%z "$file"
+    else
+        # Попытка использовать GNU stat, если установлен
+        if command -v gstat &> /dev/null; then
+            gstat -c%s "$file"
+        else
+            # В качестве альтернативы используем wc -c
+            wc -c < "$file" | tr -d ' '
+        fi
+    fi
+}
+
+export -f get_file_size
+
+# Функция для логирования успеха
+log_success() {
+    local message="$1"
+    echo "$message"
+    echo "$(date '+%Y-%m-%d %H:%M:%S') $message" >> "$LOG_FILE"
+}
+
+# Функция для логирования ошибок
+log_error() {
+    local message="$1"
+    echo "$message" >&2
+    echo "$(date '+%Y-%m-%d %H:%M:%S') $message" >> "$ERROR_LOG_FILE"
+}
+
+# Экспортируем функции логирования
+export -f log_success
+export -f log_error
 
 # Функция для обработки PNG файлов
 process_png() {
     local input_file="$1"
     local relative_path="${input_file#$IMAGE_DIR/}"
     local output_file="$COMP_DIR/$relative_path"
-    local output_dir="$(dirname "$output_file")"
+    local output_dir
+    output_dir="$(dirname "$output_file")"
 
     mkdir -p "$output_dir"
 
@@ -27,37 +74,59 @@ process_png() {
         local previous_hash
         previous_hash="$(cat "$hash_file")"
         if [ "$current_hash" == "$previous_hash" ]; then
-            echo "PNG файл не изменился: $input_file"
+            # Файл не изменился, ничего не делаем
             return
         fi
     fi
 
     cp "$input_file" "$output_file"
 
+    # Размер до сжатия
+    local original_size
+    original_size=$(get_file_size "$output_file")
+
     if ! optipng -o7 "$output_file"; then
-        echo "Ошибка при сжатии $output_file с помощью optipng" >&2
+        log_error "Ошибка при сжатии $output_file с помощью optipng"
         return 1
     fi
 
     if ! advpng -z4 "$output_file"; then
-        echo "Ошибка при сжатии $output_file с помощью advpng" >&2
+        log_error "Ошибка при сжатии $output_file с помощью advpng"
         return 1
     fi
 
     if ! pngcrush -rem gAMA -rem alla -rem cHRM -rem iCCP -rem sRGB -rem time -ow "$output_file"; then
-        echo "Ошибка при сжатии $output_file с помощью pngcrush" >&2
+        log_error "Ошибка при сжатии $output_file с помощью pngcrush"
         return 1
     fi
 
+    # Размер после сжатия
+    local new_size
+    new_size=$(get_file_size "$output_file")
+
+    # Проверка, что original_size не равен нулю
+    if [ "$original_size" -eq 0 ]; then
+        log_error "Ошибка: размер оригинального файла равен 0 для $output_file"
+        return 1
+    fi
+
+    # Процент сжатия
+    local reduction
+    reduction=$(awk "BEGIN {printf \"%.2f\", (($original_size - $new_size) / $original_size) * 100}")
+
+    log_success "Сжат PNG файл: $input_file на $reduction% ($original_size байт -> $new_size байт)"
+
     echo "$current_hash" > "$hash_file"
 }
+export -f process_png
 
 # Функция для обработки JPEG файлов
 process_jpeg() {
     local input_file="$1"
     local relative_path="${input_file#$IMAGE_DIR/}"
     local output_file="$COMP_DIR/$relative_path"
-    local output_dir="$(dirname "$output_file")"
+    local output_dir
+    output_dir="$(dirname "$output_file")"
 
     mkdir -p "$output_dir"
 
@@ -70,20 +139,41 @@ process_jpeg() {
         local previous_hash
         previous_hash="$(cat "$hash_file")"
         if [ "$current_hash" == "$previous_hash" ]; then
-            echo "JPEG файл не изменился: $input_file"
+            # Файл не изменился, ничего не делаем
             return
         fi
     fi
 
     cp "$input_file" "$output_file"
 
+    # Размер до сжатия
+    local original_size
+    original_size=$(get_file_size "$output_file")
+
     if ! jpegoptim --all-progressive "$output_file"; then
-        echo "Ошибка при сжатии $output_file с помощью jpegoptim" >&2
+        log_error "Ошибка при сжатии $output_file с помощью jpegoptim"
         return 1
     fi
 
+    # Размер после сжатия
+    local new_size
+    new_size=$(get_file_size "$output_file")
+
+    # Проверка, что original_size не равен нулю
+    if [ "$original_size" -eq 0 ]; then
+        log_error "Ошибка: размер оригинального файла равен 0 для $output_file"
+        return 1
+    fi
+
+    # Процент сжатия
+    local reduction
+    reduction=$(awk "BEGIN {printf \"%.2f\", (($original_size - $new_size) / $original_size) * 100}")
+
+    log_success "Сжат JPEG файл: $input_file на $reduction% ($original_size байт -> $new_size байт)"
+
     echo "$current_hash" > "$hash_file"
 }
+export -f process_jpeg
 
 # Функция для конвертации в WebP
 process_webp() {
@@ -91,7 +181,8 @@ process_webp() {
     local relative_path="${input_file#$COMP_DIR/}"
     local output_file="$WEBP_DIR/$relative_path"
     output_file="${output_file%.*}.webp"
-    local output_dir="$(dirname "$output_file")"
+    local output_dir
+    output_dir="$(dirname "$output_file")"
 
     mkdir -p "$output_dir"
 
@@ -104,22 +195,38 @@ process_webp() {
         local previous_hash
         previous_hash="$(cat "$hash_file")"
         if [ "$current_hash" == "$previous_hash" ]; then
-            echo "WebP файл не изменился: $input_file"
+            # Файл не изменился, ничего не делаем
             return
         fi
     fi
 
-    if ! cwebp -mt -af -progress -m 6 -q 75 -pass 10 "$input_file" -o "$output_file"; then
-        echo "Ошибка при конвертации $input_file в WebP" >&2
+    # Размер до конвертации
+    local original_size
+    original_size=$(get_file_size "$input_file")
+
+    if ! cwebp -mt -af -quiet -m 6 -q 75 -pass 10 "$input_file" -o "$output_file"; then
+        log_error "Ошибка при конвертации $input_file в WebP"
         return 1
     fi
 
+    # Размер после конвертации
+    local new_size
+    new_size=$(get_file_size "$output_file")
+
+    # Проверка, что original_size не равен нулю
+    if [ "$original_size" -eq 0 ]; then
+        log_error "Ошибка: размер оригинального файла равен 0 для $input_file"
+        return 1
+    fi
+
+    # Процент сжатия
+    local reduction
+    reduction=$(awk "BEGIN {printf \"%.2f\", (($original_size - $new_size) / $original_size) * 100}")
+
+    log_success "Конвертирован в WebP: $input_file на $reduction% ($original_size байт -> $new_size байт)"
+
     echo "$current_hash" > "$hash_file"
 }
-
-# Экспорт функций для использования в subshell
-export -f process_png
-export -f process_jpeg
 export -f process_webp
 
 # Обработка PNG файлов
