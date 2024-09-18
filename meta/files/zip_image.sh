@@ -87,18 +87,15 @@ process_png() {
     local original_size
     original_size=$(get_file_size "$output_file")
 
-    if ! optipng -o7 "$output_file"; then
-        log_error "Ошибка при сжатии $output_file с помощью optipng"
+    # Используем pngquant
+    if ! pngquant --quality=90-100 --speed 1 --output "$output_file" --force "$input_file"; then
+        log_error "Ошибка при сжатии $input_file с помощью pngquant"
         return 1
     fi
 
-    if ! advpng -z4 "$output_file"; then
-        log_error "Ошибка при сжатии $output_file с помощью advpng"
-        return 1
-    fi
-
-    if ! pngcrush -rem gAMA -rem alla -rem cHRM -rem iCCP -rem sRGB -rem time -ow "$output_file"; then
-        log_error "Ошибка при сжатии $output_file с помощью pngcrush"
+    # Дополнительная оптимизация с помощью zopflipng
+    if ! zopflipng -y "$output_file" "$output_file"; then
+        log_error "Ошибка при оптимизации $output_file с помощью zopflipng"
         return 1
     fi
 
@@ -152,8 +149,9 @@ process_jpeg() {
     local original_size
     original_size=$(get_file_size "$output_file")
 
-    if ! jpegoptim --max=95 --all-progressive "$output_file"; then
-        log_error "Ошибка при сжатии $output_file с помощью jpegoptim"
+    # Используем mozjpeg
+    if ! mozjpeg -quality 95 -progressive -optimize -outfile "$output_file" "$input_file"; then
+        log_error "Ошибка при сжатии $input_file с помощью mozjpeg"
         return 1
     fi
 
