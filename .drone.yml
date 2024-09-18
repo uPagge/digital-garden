@@ -30,6 +30,7 @@ steps:
       - ssh-keyscan github.com >> ~/.ssh/known_hosts
       - chmod 644 ~/.ssh/known_hosts
       - git clone https://git.struchkov.dev/upagge/digital-garden.git /usr/src/app/content
+      - cd /usr/src/app/content
       - git remote add github git@github.com:uPagge/digital-garden.git
       - git push github
       - cd /usr/src/app
