@@ -18,8 +18,20 @@ steps:
     # https://hub.docker.com/r/library/docker
     pull: always
     image: docker.struchkov.dev/quartz:develop
+    environment:
+      GITHUB_SSH:
+        from_secret: GITHUB_SSH
     commands:
+      - eval $(ssh-agent -s)
+      - mkdir -p ~/.ssh
+      - chmod 700 ~/.ssh
+      - echo "$GITHUB_SSH" >> ~/.ssh/id_rsa
+      - chmod 600 ~/.ssh/id_rsa
+      - ssh-keyscan -p 222 github.com >> ~/.ssh/known_hosts
+      - chmod 644 ~/.ssh/known_hosts
       - git clone https://git.struchkov.dev/upagge/digital-garden.git /usr/src/app/content
+      - git remote add github git@github.com:uPagge/digital-garden.git
+      - git push github
       - cd /usr/src/app
       - cp ./content/.quartz/quartz.config.ts .
       - cp ./content/.quartz/quartz.layout.ts .
@@ -53,6 +65,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 5dcd0b7da6722aa0aba201e6477a4f142cb372fd0810ca2cc911f409bdbe867d
+hmac: 810c6ba459d462fb8a9d63720d0b95523036ecfe7e4dfe431529833b5757a41c
 
 ...
