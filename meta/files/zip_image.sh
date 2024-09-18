@@ -150,7 +150,7 @@ process_jpeg() {
     local original_size
     original_size=$(get_file_size "$output_file")
 
-    if ! jpegoptim --all-progressive "$output_file"; then
+    if ! jpegoptim --max=95 --all-progressive "$output_file"; then
         log_error "Ошибка при сжатии $output_file с помощью jpegoptim"
         return 1
     fi
@@ -204,7 +204,7 @@ process_webp() {
     local original_size
     original_size=$(get_file_size "$input_file")
 
-    if ! cwebp -mt -af -quiet -m 6 -q 75 -pass 10 "$input_file" -o "$output_file"; then
+    if ! cwebp -mt -af -quiet -m 6 -q 95 -pass 10 "$input_file" -o "$output_file"; then
         log_error "Ошибка при конвертации $input_file в WebP"
         return 1
     fi
