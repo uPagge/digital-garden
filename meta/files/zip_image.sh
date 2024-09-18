@@ -4,7 +4,9 @@
 IMAGE_DIR="./images"
 COMP_DIR="$IMAGE_DIR/comp"
 WEBP_DIR="$IMAGE_DIR/webp"
-THREADS=4  # Количество параллельных процессов
+# Автоматическое определение количества ядер процессора
+THREADS=$(getconf _NPROCESSORS_ONLN)
+echo "Используется $THREADS потоков для обработки."
 
 # Файлы логирования
 LOG_FILE="./compression.log"
