@@ -244,8 +244,6 @@ find "$IMAGE_DIR" -type f \
 xargs -0 -P "$THREADS" -I {} bash -c 'process_jpeg "$@"' _ {}
 
 # Конвертация в WebP
-find "$COMP_DIR" -type f \
-    -iregex '.*\.\(jpg\|jpeg\|png\)' \
-    -not -iregex '.*no-comp\.\(jpg\|jpeg\|png\)' \
+find ./images/comp -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' \) \
     -print0 | \
 xargs -0 -P "$THREADS" -I {} bash -c 'process_webp "$@"' _ {}
