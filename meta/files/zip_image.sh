@@ -331,7 +331,10 @@ find "$IMAGE_DIR" -type f \
     -iregex '.*\.\(jpg\|jpeg\)' -print0 | \
 xargs -0 -P "$THREADS" -I {} bash -c 'process_jpeg "$@"' _ {}
 
-# Конвертация в WebP
+# Конвертация в WebP из исходных файлов
 find "$IMAGE_DIR" -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' \) \
+    -not -path "$COMP_DIR/*" \
+    -not -path "$WEBP_DIR/*" \
+    ! -name "*-no-comp.*" \
     -print0 | \
 xargs -0 -P "$THREADS" -I {} bash -c 'process_webp "$@"' _ {}
