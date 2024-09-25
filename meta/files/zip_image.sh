@@ -12,10 +12,6 @@ echo "Используется $THREADS потоков для обработки
 LOG_FILE="./zip_image_compression.log"
 ERROR_LOG_FILE="./zip_image_error.log"
 
-# Инициализируем файлы логов (удалены строки, чтобы не затирать логи)
-# : > "$LOG_FILE"
-# : > "$ERROR_LOG_FILE"
-
 # Экспортируем необходимые переменные и функции для использования в subshell
 export IMAGE_DIR COMP_DIR WEBP_DIR LOG_FILE ERROR_LOG_FILE
 
