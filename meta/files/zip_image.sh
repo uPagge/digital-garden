@@ -320,6 +320,7 @@ export -f process_webp
 # Обработка PNG файлов
 find "$IMAGE_DIR" -type f \
     -not -path "$COMP_DIR/*" \
+    -not -path "$WEBP_DIR/*" \
     ! -name "*-no-comp.*" \
     -iname "*.png" -print0 | \
 xargs -0 -P "$THREADS" -I {} bash -c 'process_png "$@"' _ {}
@@ -327,6 +328,7 @@ xargs -0 -P "$THREADS" -I {} bash -c 'process_png "$@"' _ {}
 # Обработка JPEG файлов
 find "$IMAGE_DIR" -type f \
     -not -path "$COMP_DIR/*" \
+    -not -path "$WEBP_DIR/*" \
     ! -name "*-no-comp.*" \
     -iregex '.*\.\(jpg\|jpeg\)' -print0 | \
 xargs -0 -P "$THREADS" -I {} bash -c 'process_jpeg "$@"' _ {}
