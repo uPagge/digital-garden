@@ -237,7 +237,7 @@ export -f process_jpeg
 # Функция для конвертации в WebP
 process_webp() {
     local input_file="$1"
-    local relative_path="${input_file#$COMP_DIR/}"
+    local relative_path="${input_file#$IMAGE_DIR/}"
     local output_file="$WEBP_DIR/$relative_path"
     output_file="${output_file%.*}.webp"
     local output_dir
