@@ -6,3 +6,6 @@
 
 .DS_Store
 .idea/
+/meta/files/zip_image.sh
+/meta/files/zip_image_compression.log
+/meta/files/zip_image_error.log
