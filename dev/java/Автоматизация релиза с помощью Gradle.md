@@ -57,8 +57,12 @@ versionPatterns = [
 ]
 ```
 
-Запустить выполнение плагина:
+Также можно настроить передачу текста для сообщения в теге:
+```
+release.tagCommitMessage = project.findProperty('release.tagCommitMessage')
+```
 
+Запустить выполнение плагина:
 ```bash
 gradle relase
 ```

@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - maturity/🌱
-  - type/opinion
+  - content/opinion
 date: 2023-11-20
 zero-link:
   - "[[../../meta/zero/00 Java разработка|00 Java разработка]]"

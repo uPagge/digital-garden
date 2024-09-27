@@ -19,4 +19,4 @@ aliases:
 - [[../../dev/snippet/Реализация SHA-256 на Java|Реализация SHA-256 на Java]]
 - [[../../../../_inbox/Реализация GZIP в Java|Реализация GZIP в Java]]
 - [[../../dev/snippet/Реализация Base64 на Java|Реализация Base64 на Java]]
-- [[../../../../_inbox/Преобразование Json из коллекции в Java объект при помощи Jackson|Преобразование Json из коллекции в Java объект при помощи Jackson]]
+- [[../../dev/snippet/Преобразование Json из коллекции в Java объект при помощи Jackson|Преобразование Json из коллекции в Java объект при помощи Jackson]]
