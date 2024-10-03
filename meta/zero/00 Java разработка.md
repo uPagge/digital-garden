@@ -36,7 +36,7 @@ title: Java разработка
 - [Java 12](Java%2012.md)
 - [[Java 15]]
 - [[Java 17 LTS]]
-- [[Java 21 LTS]]
+- [[../../dev/java/Java 21 LTS|Java 21 LTS]]
 ## Дополнительно
 - [Нативные сборки в Java](../../dev/java/Нативные%20сборки%20в%20Java.md)
 
