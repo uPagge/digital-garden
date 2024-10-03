@@ -3,7 +3,7 @@ aliases:
   - java 21
 tags:
   - maturity/🌱
-date: "[[2023-11-08]]"
+date: 2023-11-08
 zero-link: []
 parents: 
 linked:
