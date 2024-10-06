@@ -28,7 +28,7 @@ gradle build -Dquarkus.package.type=native -Dquarkus.native.remote-container-bui
 
 Во время сборки будет скачан докер образ с GraalVM и сборка будет проходить уже в этом образе. То есть можно использовать любой раннер CI без предварительной настройки базового образа.
 
-А вот так выглядит [Dockerfile](../../../../../_inbox/Dockerfile.md) сервиса:
+А вот так выглядит [Dockerfile](../../devops/docker/Dockerfile.md) сервиса:
 
 ```Dockerfile
 FROM registry.access.redhat.com/ubi8/ubi-minimal:8.6

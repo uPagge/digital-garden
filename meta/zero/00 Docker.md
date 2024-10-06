@@ -13,7 +13,7 @@ title: Docker
 
 - [Установка Docker и DockerCompose](../../../../_inbox/Установка%20Docker%20и%20DockerCompose.md)
 - [Команды Docker](Команды%20Docker.md)
-- [Dockerfile](Dockerfile.md)
+- [Dockerfile](../../dev/devops/docker/Dockerfile.md)
 - [Docker Network](../../dev/devops/docker/Docker%20Network.md)
 - [Структура хранилища файлов Docker](Структура%20хранилища%20файлов%20Docker.md)
 - [Очистка мусора в Docker](Очистка%20мусора%20в%20Docker.md)
