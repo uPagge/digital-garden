@@ -3,12 +3,12 @@ tags:
   - type/zero-link
 zero-link:
   - "[[00 Разработка]]"
-permalink: dev/java
 title: Java разработка
 ---
 - [Устройство Java](Устройство%20Java.md)
 	- [JDK](../../dev/java/JDK.md)
 	- [[../../dev/java/Java Reflection|Java Reflection]]
+- [[../../dev/java/Многопоточность в Java|Многопоточность в Java]]
 - Системы сборки
 	- [Maven](00%20Maven.md)
 	- [[00 Gradle|Gradle]]
@@ -19,6 +19,19 @@ title: Java разработка
 	- [Hibernate](00%20Hibernate.md)
 	- [[../../../../knowledge/dev/java/other/Jackson|Jackson]]
 - [Снипеты для Java](00%20Снипеты%20для%20Java.md)
+
+## Мои образовательные статьи
+- [Функциональные интерфейсы и лямбды в Java](https://struchkov.dev/blog/ru/lambda-expression-java/)
+- [Основы памяти в Java: Куча и Стек](https://struchkov.dev/blog/ru/memory-in-java/)
+- [Глубокое погружение в Stream API Java: Понимание и Применение](https://struchkov.dev/blog/ru/java-stream-api/)
+- [Реактивное программирование на Java. Будущее, настоящее и прошлое](https://struchkov.dev/blog/ru/overview-of-reactive-programming/)
+- [Обзор всех модификаторов в Java](https://struchkov.dev/blog/ru/modifiers-in-java/)
+- [Основы транзакций в Spring и JDBC](https://struchkov.dev/blog/ru/transaction-jdbc-and-spring-boot/)
+- [Большой гайд по Optional в Java](https://struchkov.dev/blog/ru/optional-in-java/)
+- [Java Collection Framework: Полное руководство для разработчиков](https://struchkov.dev/blog/ru/java-collection-framework/)
+- [Аннотации в Java. Как создать свою аннотацию](https://struchkov.dev/blog/ru/creating-annotation-java/)
+- [Публикация Java приложения в личный Nexus](https://struchkov.dev/blog/ru/java-jar-deploy-to-nexus/)
+- [Публикация Java библиотеки в Maven Central](https://struchkov.dev/blog/ru/deploy-to-maven-central/)
 ## Мои рассуждения
 - [Использование wildcard imports в Java](../../dev/java/Использование%20wildcard%20imports%20в%20Java.md)
 - [Сравнение константы слева в Java](../../dev/java/Сравнение%20константы%20слева%20в%20Java.md)
