@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - maturity/🌱
-date: "[[2023-11-02]]"
+date: 2023-11-02
 zero-link: 
 parents: 
 linked:
