@@ -6,8 +6,6 @@ zero-link:
 title: Java разработка
 ---
 - [Устройство Java](Устройство%20Java.md)
-	- [JDK](../../dev/java/JDK.md)
-	- [[../../dev/java/Java Reflection|Java Reflection]]
 - [[../../dev/java/Многопоточность в Java|Многопоточность в Java]]
 - Системы сборки
 	- [Maven](00%20Maven.md)
