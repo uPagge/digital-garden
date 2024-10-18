@@ -63,6 +63,7 @@ enableToc: false
 	- [[meta/zero/00 Linux|Linux]]
 	- [Сети](meta/zero/00%20Сети.md)
 	- [Алгоритмы](meta/zero/00%20Алгоритм.md)
+	- [[meta/zero/00 Тестирование ПО|Тестирование ПО]]
 	- [Snippets](meta/zero/00%20Snippets.md)
 - [Образование](meta/zero/00%20Образование.md)
 - [Обучение](meta/zero/00%20Обучение.md)
