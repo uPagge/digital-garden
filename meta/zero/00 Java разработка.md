@@ -5,6 +5,9 @@ zero-link:
   - "[[00 Разработка]]"
 title: Java разработка
 ---
+В коммуникациях и обучении всегда важно устранить или уменьшить [[../../../../_inbox/Семантический разрыв|семантический разрыв]] между людьми, поэтому рекомендую переодически обращаться к [[../../dev/java/Голосарий Java|голосарию Java]], чтобы использовать одни и те же термины и определения.
+
+Основные узлы:
 - [Устройство Java](Устройство%20Java.md)
 - [[../../dev/java/Многопоточность в Java|Многопоточность в Java]]
 - Системы сборки
@@ -17,7 +20,17 @@ title: Java разработка
 	- [Hibernate](00%20Hibernate.md)
 	- [[../../../../knowledge/dev/java/other/Jackson|Jackson]]
 - [Снипеты для Java](00%20Снипеты%20для%20Java.md)
-
+## Версии Java
+- [[Java 1]]
+- [Java 7](Java%207.md)
+- [[Java 8 LTS]]
+- [Java 9](Java%209.md)
+- [[Java 10]]
+- [Java 11 LTS](Java%2011%20LTS.md)
+- [Java 12](Java%2012.md)
+- [[Java 15]]
+- [[Java 17 LTS]]
+- [[../../dev/java/Java 21 LTS|Java 21 LTS]]
 ## Мои образовательные статьи
 - [Функциональные интерфейсы и лямбды в Java](https://struchkov.dev/blog/ru/lambda-expression-java/)
 - [Основы памяти в Java: Куча и Стек](https://struchkov.dev/blog/ru/memory-in-java/)
@@ -37,17 +50,7 @@ title: Java разработка
 - [Не используйте @Data](../../dev/java/Не%20используйте%20@Data.md)
 - [Возвращайте пустую коллекцию вместо null](../../dev/java/Возвращайте%20пустую%20коллекцию%20вместо%20null.md)
 - [[../../dev/java/Границы применимости Tuple и Pair в разработке|Границы применимости Tuple и Pair в разработке]]
-## Версии Java
-- [[Java 1]]
-- [Java 7](Java%207.md)
-- [[Java 8 LTS]]
-- [Java 9](Java%209.md)
-- [[Java 10]]
-- [Java 11 LTS](Java%2011%20LTS.md)
-- [Java 12](Java%2012.md)
-- [[Java 15]]
-- [[Java 17 LTS]]
-- [[../../dev/java/Java 21 LTS|Java 21 LTS]]
+
 ## Дополнительно
 - [Нативные сборки в Java](../../dev/java/Нативные%20сборки%20в%20Java.md)
 
