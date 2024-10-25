@@ -11,7 +11,7 @@ title: MySQL
 - [Репликация в MySQL](../../dev/database/mysql/Репликация%20в%20MySQL.md)
 - [libslave](libslave.md)
 - [Бекап в MySQL](Бекап%20в%20MySQL.md)
-- [Индексы в MySQL](Индексы%20в%20MySQL.md)
+- [Индекс в MySQL](../../../../_inbox/Индекс%20в%20MySQL.md)
 - [Журналы в MySQL](../../dev/database/mysql/Журналы%20в%20MySQL.md)
 - [Explain в MySQL](Explain%20в%20MySQL.md)
 ## Идентификация транзакций

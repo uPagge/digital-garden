@@ -26,7 +26,7 @@ GZIP (GNU ZIP) — это формат сжатия данных и програ
 
 **Реализации:**
 - [[../../../../_inbox/Реализация GZIP в Java|Реализация GZIP в Java]]
-- [[../../../../_inbox/GZIP сжатие в Nginx|GZIP сжатие в Nginx]]
+- [[../devops/nginx/GZIP сжатие в Nginx|GZIP сжатие в Nginx]]
 
 ***
 ## Мета информация
@@ -40,7 +40,7 @@ GZIP (GNU ZIP) — это формат сжатия данных и програ
 ### Дочерние заметки
 <!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
 <!-- SerializedQuery: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
-- [[GZIP сжатие в Nginx]]
 - [[Реализация GZIP в Java]]
+- [[GZIP сжатие в Nginx]]
 <!-- SerializedQuery END -->
 
