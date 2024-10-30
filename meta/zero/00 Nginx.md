@@ -29,12 +29,13 @@ ps aux | grep nginx
 - [Оптимизация работы соединений Nginx](Оптимизация%20работы%20соединений%20Nginx.md)
 - [Кэширование на стороне Nginx](../../dev/devops/nginx/Кэширование%20на%20стороне%20Nginx.md)
 - [Кэширование статики в Nginx](../../dev/devops/nginx/Кэширование%20статики%20в%20Nginx.md)
-- [Балансировка запросов на Nginx](Балансировка%20запросов%20на%20Nginx.md)
+- [Балансировка нагрузки в Nginx](../../dev/devops/nginx/Балансировка%20нагрузки%20в%20Nginx.md)
 - [GZIP сжатие в Nginx](../../dev/devops/nginx/GZIP%20сжатие%20в%20Nginx.md)
 
 ## Дополнительные материалы
 - [Оптимизация NGINX](https://struchkov.dev/blog/ru/nginx-optimization/)
 - [Масштабируемая конфигурация nginx](https://highload.guide/blog/scalable-configuration-nginx.html)
+- [[../../dev/devops/nginx/Балансировка нагрузки в Nginx|Балансировка запросов на Nginx]]
 
 ## Заметки
 - Есть какой-то модуль, который позволяет отправлять события в [00 Kafka](00%20Kafka.md)

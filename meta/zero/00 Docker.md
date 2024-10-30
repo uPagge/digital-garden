@@ -11,7 +11,7 @@ title: Docker
 
 Обычно docker запускается от root пользователя.
 
-- [Установка Docker и DockerCompose](../../../../_inbox/Установка%20Docker%20и%20DockerCompose.md)
+- [[../../dev/devops/docker/Установка Docker и Docker Compose|Установка Docker и Docker Compose]]
 - [Команды Docker](Команды%20Docker.md)
 - [Dockerfile](../../dev/devops/docker/Dockerfile.md)
 - [Docker Network](../../dev/devops/docker/Docker%20Network.md)

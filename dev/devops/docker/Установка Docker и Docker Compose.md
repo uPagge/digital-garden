@@ -45,7 +45,7 @@ Docker Compose 2.2.3
 
 ***
 ## Мета информация
-**Область**:: [[../../../meta/zero/00 Docker|00 Docker]]
+**Область**:: [[../../../meta/zero/00 Docker|00 Docker]], [[../../../meta/zero/00 Docker Compose|00 Docker Compose]]
 **Родитель**:: 
 **Источник**:: 
 **Автор**:: 
