@@ -12,14 +12,14 @@ title: Docker
 Обычно docker запускается от root пользователя.
 
 - [[../../dev/devops/docker/Установка Docker и Docker Compose|Установка Docker и Docker Compose]]
-- [Команды Docker](Команды%20Docker.md)
+- [Основные docker команды](../../../../_inbox/Основные%20docker%20команды.md)
 - [Dockerfile](../../dev/devops/docker/Dockerfile.md)
 - [Docker Network](../../dev/devops/docker/Docker%20Network.md)
 - [Структура хранилища файлов Docker](Структура%20хранилища%20файлов%20Docker.md)
 - [Очистка мусора в Docker](Очистка%20мусора%20в%20Docker.md)
 	- [Настройка ротации логов в Docker](Настройка%20ротации%20логов%20в%20Docker.md)
 ## Полезное
-- Утилита для анализа докер образов: [Утилита Dive](Утилита%20Dive.md)
+- Утилита для анализа докер образов: [Утилита Dive](../../dev/devops/docker/Утилита%20Dive.md)
 - Утилита [Hadolint](https://github.com/hadolint/hadolint). Проверяет докер файл на плохие практики.
 - xfs более производительный
 - Native Overlay Diff рекомендуют отключать (docker info)
