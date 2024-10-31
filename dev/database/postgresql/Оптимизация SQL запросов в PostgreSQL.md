@@ -51,9 +51,9 @@ select relname, seq_scan, idx_scan, vacuum_count from pg_stat_user_tables
 ### Дочерние заметки
 <!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
 <!-- SerializedQuery: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
+- [[pageinspect]]
+- [[pg_stat_statements]]
+- [[Профилирование запросов в PostgreSQL]]
 - [[Таблица статистик pg_stats]]
 - [[Частичный индекс]]
-- [[pageinspect]]
-- [[Профилирование запросов в PostgreSQL]]
-- [[pg_stat_statements]]
 <!-- SerializedQuery END -->

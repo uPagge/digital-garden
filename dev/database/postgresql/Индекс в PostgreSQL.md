@@ -12,7 +12,7 @@ date: 2024-03-31
 - **Распухание индексов** (bloat) — это проблема увеличения размера индексов со временем, требующая переиндексации.
 
 - [[Создание индекса в PostgreSQL]]
-- [[Частичный индекс]]
+- [[../Частичный индекс]]
 - [[Составной индекс в PostgreSQL]]
 
 **Типы индексов:**
@@ -37,13 +37,13 @@ date: 2024-03-31
 ### Дочерние заметки
 <!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
 <!-- SerializedQuery: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
-- [[Создание индекса в PostgreSQL]]
-- [[Частичный индекс]]
-- [[Составной индекс в PostgreSQL]]
 - [[B-tree индекс в PostgreSQL]]
-- [[Hash индекс в PostgreSQL]]
-- [[Gist индекс в PostgreSQL]]
-- [[SP-GiST индекс в PostgreSQL]]
-- [[GIN индекс в PostgreSQL]]
 - [[BRIN индекс в PostgreSQL]]
+- [[GIN индекс в PostgreSQL]]
+- [[Gist индекс в PostgreSQL]]
+- [[Hash индекс в PostgreSQL]]
+- [[SP-GiST индекс в PostgreSQL]]
+- [[Создание индекса в PostgreSQL]]
+- [[Составной индекс в PostgreSQL]]
+- [[Частичный индекс]]
 <!-- SerializedQuery END -->
