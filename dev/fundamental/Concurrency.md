@@ -20,7 +20,7 @@ linked:
 - [[Асинхронное программирование]]
 - [[../../../../knowledge/dev/Реактивное программирование|Реактивное программирование]]
 
-![[../../meta/files/images/Pasted image 20241008204058.png]]
+![[../../meta/files/images/telegram-cloud-photo-size-2-5271536941378167546-y.jpg]]
 ***
 ## Мета информация
 **Область**:: [[../../meta/zero/00 Разработка|00 Разработка]]
@@ -33,5 +33,6 @@ linked:
 ### Дочерние заметки
 <!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
 <!-- SerializedQuery: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
+- [[Асинхронное программирование]]
 - [[Многозадачность]]
 <!-- SerializedQuery END -->
