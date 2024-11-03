@@ -2,6 +2,7 @@
 aliases:
   - событийного цикла
   - событийный цикл
+  - single-threaded execution loop
 tags:
   - maturity/🌱
 date: 2023-10-26
