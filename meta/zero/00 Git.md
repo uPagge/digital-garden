@@ -13,3 +13,9 @@ title: Git
 ```bash
 git init --separate-git-dir=/path/to/my-git-storage /path/to/my-project
 ```
+
+![[../files/images/Pasted image 20241103182657.png]]
+
+![[../files/images/Pasted image 20241103182733.png]]
+
+![[../files/images/git-merge-git-rebase.jpeg]]
