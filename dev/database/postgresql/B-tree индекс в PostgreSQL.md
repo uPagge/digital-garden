@@ -6,7 +6,7 @@ tags:
   - maturity/🌱
 date: 2024-10-23
 ---
-![[../../../meta/files/images/Pasted image 20241104202857.png]]
+![[../../../meta/files/images/Pasted image 20241105004620.png]]
 
 **Особенности:**
 - Основан на работе [[../../fundamental/structure/B-tree|B-tree]] дерева.
