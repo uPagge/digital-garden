@@ -13,6 +13,9 @@ title: PostgreSQL
 - [Репликация в PostgreSQL](../../dev/database/postgresql/Репликация%20в%20PostgreSQL.md)
 - [Бэкап в PostgreSQL](Бэкап%20в%20PostgreSQL.md)
 - [Профилирование запросов в PostgreSQL](../../dev/database/postgresql/Профилирование%20запросов%20в%20PostgreSQL.md)
+- [[../../dev/database/postgresql/Таблица в PostgreSQL|Таблица в PostgreSQL]]
+	- [[../../dev/database/postgresql/Раздутие таблиц|Раздутие таблиц]]
+		- [[../../dev/database/postgresql/Autovacuum|Autovacuum]]
 
 ## Заметки
 - PostgreSQL пишет на диск в два места – в хранилище данных и в журнал.
