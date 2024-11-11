@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - maturity/🌱
-date: "[[2023-11-06]]"
+date: 2023-11-06
 ---
 ## Тезисы
 - Class Loader Subsystem — часть [[Java Virtual Machine|JVM]], ответственная за загрузку, связывание и инициализацию классов.
