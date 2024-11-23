@@ -4,10 +4,6 @@ aliases:
 tags:
   - maturity/🌱
 date: 2024-09-27
-zero-link:
-  - "[[../../meta/zero/00 Архитектура ПО|00 Архитектура ПО]]"
-parents: 
-linked: 
 ---
 **SOLID** — это набор из пяти принципов объектно-ориентированного проектирования, предложенных Робертом Мартином (Robert C. Martin), которые помогают создавать более понятные, гибкие и поддерживаемые системы. Эти принципы направлены на улучшение структуры кода и снижение его сложности, что упрощает расширение и поддержку проекта.
 
@@ -16,7 +12,6 @@ linked:
 - [[Liskov Substitution Principle]]
 - [[Interface Segregation Principle]]
 - [[Dependency Inversion Principle]]
-
 
 > [!WARNING] Недостижимый идеал
 > Важно не применять принципы слепо, а учитывать контекст проекта и потребности системы. SOLID это идеал, к которому стоит стремиться, но который не достижим в реальной жизни.
@@ -34,9 +29,9 @@ linked:
 ### Дочерние заметки
 <!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
 <!-- SerializedQuery: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
-- [[Open Closed Principle]]
-- [[Liskov Substitution Principle]]
-- [[Single Responsibility Principle]]
-- [[Interface Segregation Principle]]
 - [[Dependency Inversion Principle]]
+- [[Interface Segregation Principle]]
+- [[Liskov Substitution Principle]]
+- [[Open Closed Principle]]
+- [[Single Responsibility Principle]]
 <!-- SerializedQuery END -->
