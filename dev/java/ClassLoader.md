@@ -1,5 +1,7 @@
 ---
-aliases: 
+aliases:
+  - Class Loader
+  - Class Loaders
 tags:
   - maturity/🌱
 date: 2024-11-04
