@@ -4,7 +4,7 @@ aliases:
 tags:
   - type/zero-link
 zero-link:
-  - "[[00 Базы Данных]]"
+  - "[[00 Реляционная база данных]]"
 title: MySQL
 ---
 - [[../../dev/database/mysql/Архитектура MySQL|Архитектура MySQL]]

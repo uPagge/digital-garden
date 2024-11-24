@@ -56,7 +56,7 @@ enableToc: false
 		- [Архитектура ПО](meta/zero/00%20Архитектура%20ПО.md)
 		- [Архитектура ИС](meta/zero/00%20Архитектура%20ИС.md)
 			- [[meta/zero/00 HighLoad|HighLoad]]
-	- [[meta/zero/00 Базы Данных|Базы Данных]]
+	- [[meta/zero/00 Реляционная база данных|Базы Данных]]
 		- [[meta/zero/00 PostgreSQL|PostgreSQL]]
 	- [DevOps](meta/zero/00%20DevOps.md)
 		- [Docker](meta/zero/00%20Docker.md)
