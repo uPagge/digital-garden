@@ -76,7 +76,7 @@ aliases:
 - Защита от [DDOS](DDOS.md)
 - Защита от [Slashdot-эффект](Slashdot-эффект.md)
 
-- [High Availability](High%20Availability.md)
+- [Availability](../../../../_inbox/Availability.md)
 - [Reliability](Reliability.md)
 - [Disaster recovery](Disaster%20recovery.md)
 

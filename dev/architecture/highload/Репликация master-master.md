@@ -17,7 +17,7 @@ linked:
 
 **Плюсы**:
 - Нет единой точки отказа
-- Дает максимальный [High Availability](High%20Availability.md).
+- Дает максимальный [Availability](../../../../../_inbox/Availability.md).
 - Легкий failover
 
 **Минусы:**
