@@ -38,6 +38,6 @@ public class AppealSdkManager {
 **Автор**:: 
 **Создана**:: [[2024-04-03]]
 ### Дополнительные материалы
-- [[../system-design/gRPC|gRPC]]
+- [[../gRPC|gRPC]]
 ### Дочерние заметки
 <!-- QueryToSerialize: LIST FROM [[]] WHERE contains(Родитель, this.file.link) or contains(parents, this.file.link) -->
