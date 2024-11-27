@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - общей базы данных
 tags:
   - maturity/🌱
 date: 2024-11-24
