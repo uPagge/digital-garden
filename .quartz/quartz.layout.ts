@@ -46,34 +46,6 @@ export const defaultContentPageLayout: PageLayout = {
         Component.Darkmode(),
     ],
     right: [
-        Component.DesktopOnly(Component.Graph({
-            localGraph: {
-                drag: true, // whether to allow panning the view around
-                zoom: true, // whether to allow zooming in and out
-                depth: 1, // how many hops of notes to display
-                scale: 2, // default view scale
-                repelForce: 0.5, // how much nodes should repel each other
-                centerForce: 0.3, // how much force to use when trying to center the nodes
-                linkDistance: 30, // how long should the links be by default?
-                fontSize: 0.5, // what size should the node labels be?
-                opacityScale: 2, // how quickly do we fade out the labels when zooming out?
-                removeTags: [], // what tags to remove from the graph
-                showTags: false, // whether to show tags in the graph
-            },
-            globalGraph: {
-                drag: true,
-                zoom: true,
-                depth: -1,
-                scale: 2,
-                repelForce: 0.5,
-                centerForce: 0.3,
-                linkDistance: 30,
-                fontSize: 0.5,
-                opacityScale: 1,
-                removeTags: [], // what tags to remove from the graph
-                showTags: false, // whether to show tags in the graph
-            },
-        })),
         Component.DesktopOnly(Component.TableOfContents()),
         Component.DesktopOnly(Component.GithubSource(githubSourceConfig)),
     ],
