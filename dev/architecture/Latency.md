@@ -2,6 +2,7 @@
 aliases:
   - задержка
   - время отклика
+  - задержки
 tags:
   - maturity/🌱
 date:
