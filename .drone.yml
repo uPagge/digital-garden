@@ -29,7 +29,7 @@ steps:
       - chmod 600 ~/.ssh/id_rsa
       - ssh-keyscan github.com >> ~/.ssh/known_hosts
       - chmod 644 ~/.ssh/known_hosts
-      - git clone https://git.struchkov.dev/upagge/digital-garden.git /usr/src/app/content
+      - git clone --depth 1 https://git.struchkov.dev/upagge/digital-garden.git /usr/src/app/content
       - cd /usr/src/app/content
       - git remote add github git@github.com:uPagge/digital-garden.git
       - git push github
@@ -66,6 +66,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: f85dba090b473f5716085206b7ddc1e5d0a07c2a2aec035bfea65ac2cd3a1ab0
+hmac: f3193d4c2e83c37d1c52aa6e4883a64b7e098745422a9e3d6926987c6f7dced7
 
 ...
