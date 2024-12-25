@@ -32,6 +32,7 @@ steps:
       - git clone --depth 1 https://git.struchkov.dev/upagge/digital-garden.git /usr/src/app/content
       - cd /usr/src/app/content
       - git remote add github git@github.com:uPagge/digital-garden.git
+      - git fetch origin
       - git push github
       - cd /usr/src/app
       - cp ./content/.quartz/quartz.config.ts .
@@ -66,6 +67,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: f3193d4c2e83c37d1c52aa6e4883a64b7e098745422a9e3d6926987c6f7dced7
+hmac: af12f04bf7f140fbb0f8da4187b4bb6247aad932dc6b6fdd4ac3ab51f2b2cd47
 
 ...
