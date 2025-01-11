@@ -1,0 +1,71 @@
+---
+kind: pipeline
+type: docker
+name: docker-build-and-push
+
+clone:
+  disable: true
+
+trigger:
+  branch:
+    - master
+
+image_pull_secrets:
+  - DOCKER_AUTH
+
+steps:
+  - name: build site
+    # https://hub.docker.com/r/library/docker
+    pull: always
+    image: docker.struchkov.dev/quartz:develop
+    environment:
+      GITHUB_SSH:
+        from_secret: GITHUB_SSH
+    commands:
+      - eval $(ssh-agent -s)
+      - mkdir -p ~/.ssh
+      - chmod 700 ~/.ssh
+      - echo "$GITHUB_SSH" >> ~/.ssh/id_rsa
+      - chmod 600 ~/.ssh/id_rsa
+      - ssh-keyscan github.com >> ~/.ssh/known_hosts
+      - chmod 644 ~/.ssh/known_hosts
+      - git clone --depth 1 --single-branch --branch master https://git.struchkov.dev/upagge/digital-garden.git /usr/src/app/content
+      - cd /usr/src/app/content
+#      - git remote add github git@github.com:uPagge/digital-garden.git
+#      - git push github
+      - cd /usr/src/app
+      - cp ./content/.quartz/quartz.config.ts .
+      - cp ./content/.quartz/quartz.layout.ts .
+      - npx quartz build
+      - mv public /drone/src
+  - name: publish to server
+    image: private.docker.struchkov.dev/mkdocs:latest
+    environment:
+      SSH_DEPLOY_KEY:
+        from_secret: SSH_DEPLOY_KEY
+      SSH_DEPLOY_HOST:
+        from_secret: SSH_DEPLOY_HOST
+      SSH_DEPLOY_PORT:
+        from_secret: SSH_DEPLOY_PORT
+      SSH_DEPLOY_PATH:
+        from_secret: SSH_DEPLOY_PATH
+      SSH_DEPLOY_USER:
+        from_secret: SSH_DEPLOY_USER
+    commands:
+      - eval $(ssh-agent -s)
+      - mkdir -p ~/.ssh
+      - echo "$SSH_DEPLOY_KEY" >> ~/.ssh/id_rsa
+      - chmod 700 ~/.ssh
+      - chmod 600 ~/.ssh/id_rsa
+      - ssh-keyscan -p $SSH_DEPLOY_PORT $SSH_DEPLOY_HOST >> ~/.ssh/known_hosts
+      - chmod 644 ~/.ssh/known_hosts
+      - tar czf - -C ./public . | ssh -p $SSH_DEPLOY_PORT $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST "cd $SSH_DEPLOY_PATH/ru-new && tar xzf -"
+      - ssh -p $SSH_DEPLOY_PORT $SSH_DEPLOY_USER@$SSH_DEPLOY_HOST "rm -rf $SSH_DEPLOY_PATH/ru/* && mv $SSH_DEPLOY_PATH/ru-new/* $SSH_DEPLOY_PATH/ru"
+
+
+# drone sign --save upagge/digital-garden
+---
+kind: signature
+hmac: 136d4effa27f318fb6ff0cf16bc1bf7b20b428610832f7bdd8224c164a804e69
+
+...

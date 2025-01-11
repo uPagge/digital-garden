@@ -1,0 +1,11 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
+
+.DS_Store
+.idea/
+/meta/files/zip_image.sh
+/meta/files/zip_image_compression.log
+/meta/files/zip_image_error.log
