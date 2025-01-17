@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - CAP-теорема
 tags:
   - maturity/🌱
 date:
