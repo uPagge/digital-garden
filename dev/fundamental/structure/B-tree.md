@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - B-деревьев
 tags:
   - maturity/🌱
 date: 2024-01-29

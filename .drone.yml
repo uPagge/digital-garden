@@ -17,7 +17,7 @@ steps:
   - name: build site
     # https://hub.docker.com/r/library/docker
     pull: always
-    image: docker.struchkov.dev/quartz:develop
+    image: docker.struchkov.dev/quartz:v.4.4.7
     environment:
       GITHUB_SSH:
         from_secret: GITHUB_SSH
@@ -66,6 +66,6 @@ steps:
 # drone sign --save upagge/digital-garden
 ---
 kind: signature
-hmac: 136d4effa27f318fb6ff0cf16bc1bf7b20b428610832f7bdd8224c164a804e69
+hmac: fd5326b43706588aa4b35e24e551954df3dba6fc88e94c462ab91b9384ba0d6d
 
 ...
